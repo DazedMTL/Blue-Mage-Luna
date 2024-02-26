@@ -1546,7 +1546,7 @@
         "message1": "%1は体当たりをした！",
         "message2": "",
         "mpCost": 0,
-        "name": "エロ攻撃(\\N[2] 挿入)",
+        "name": "エロ攻撃(ルーナ 挿入)",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -8101,7 +8101,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\N[7]が本気を出す。",
+        "description": "カイルが本気を出す。",
         "effects": [
             {
                 "code": 44,
@@ -9812,7 +9812,7 @@
             "type": 1,
             "variance": 21
         },
-        "description": "\\N[2]の得意技。硫酸の雨で敵を8回ランダムに攻撃を加え、\n高確率で即死。毒80％。",
+        "description": "ルーナの得意技。硫酸の雨で敵を8回ランダムに攻撃を加え、\n高確率で即死。毒80％。",
         "effects": [
             {
                 "code": 21,
