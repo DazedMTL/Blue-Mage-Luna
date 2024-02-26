@@ -6444,7 +6444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Have you met with Lady Ceres?"
+                                "\\C[23][Luna]\\C[0] Have you met with Lord Ceres?"
                             ]
                         },
                         {
@@ -6516,7 +6516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I believe Lady Ceres must have some plan in mind. Perhaps she intends to\nnegotiate with Valentina."
+                                "\\C[23][Luna]\\C[0] I believe Lord Ceres must have some plan in mind. Perhaps she intends to\nnegotiate with Valentina."
                             ]
                         },
                         {
