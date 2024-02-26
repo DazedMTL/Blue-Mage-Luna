@@ -9922,7 +9922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア･･･！"
+                                "Luuna: Noah...!"
                             ]
                         },
                         {
@@ -9945,7 +9945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナはノアの容態を確かめる。"
+                                "Luuna checked on Noah's condition."
                             ]
                         },
                         {
@@ -9963,7 +9963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノアの脚は以前より壊死が進行していた。"
+                                "Noah's leg had deteriorated further than before, with the\nnecrosis progressing."
                             ]
                         },
                         {
@@ -9981,7 +9981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつ命が尽きても不思議ではないノア･･･"
+                                "Noah, whose life could end at any moment, was not a\nsurprising sight..."
                             ]
                         },
                         {
@@ -9999,7 +9999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その夜、ルーナとノアは公園で話した。"
+                                "That night, Luuna and Noah talked in the park."
                             ]
                         },
                         {
@@ -10208,7 +10208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -10231,7 +10231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その夜、ルーナとノアは公園で話した。"
+                                "That night, Luuna and Noah talked in the park."
                             ]
                         },
                         {
@@ -10415,7 +10415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -10438,7 +10438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その夜、ルーナとノアは公園で話した。"
+                                "That night, Luuna and Noah talked in the park."
                             ]
                         },
                         {
@@ -11864,7 +11864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ルーナ、ベッキー、本当にいくのか？ノアとポールまで。"
+                                "Cain: Luuna, Becky, are you really going? Even Noah and Pole\nare coming along."
                             ]
                         },
                         {
@@ -11958,7 +11958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 大丈夫よ。心配しないで。"
+                                "Luuna: It's okay. Don't worry."
                             ]
                         },
                         {
@@ -12052,7 +12052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 必ずルーシアを倒してくる。黒い魔女をね。"
+                                "Becky: I'll definitely defeat Lucia. That black witch."
                             ]
                         },
                         {
@@ -12103,14 +12103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: モードゥナ王国の「ナイツオブメサイア」は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けにきてくれなかったけどね。"
+                                "Becky: The \"Knights of Messiah\" from the Kingdom of Moduna\ndidn't come to help us though."
                             ]
                         },
                         {
@@ -12137,7 +12130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: モードゥナ？ ナイツオブメサイア？"
+                                "Cain: Moduna? Knights of Messiah?"
                             ]
                         },
                         {
@@ -12188,14 +12181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 地上のモードゥナ王国の騎士団「ナイツオブメサイア」の事よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他国を助けてくれる騎士団。その騎士団長のセリス様に応援の手紙を送ったけど断られた。"
+                                "Luuna: Yes, the \"Knights of Messiah\" from the Kingdom of\nModuna on the surface. They're a knightly order that helps\nother countries. I sent a letter asking for support to their\nleader, Lord Ceres, but we were refused."
                             ]
                         },
                         {
@@ -12213,7 +12199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: なんだ、断られたのかよ。"
+                                "Cain: What, we were refused?"
                             ]
                         },
                         {
@@ -12280,14 +12266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 仕方ないわ。相手が直系の魔導士ルーシアだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直系の魔導士の普通の魔導士とは力そのものが違い、桁違いの魔力がある。"
+                                "Luuna: Can't be helped. The opponent is the direct-line mage\nLucia. The power of a direct-line mage is different from\nthat of a normal mage, they possess an incomparable amount\nof magical power."
                             ]
                         },
                         {
@@ -12338,7 +12317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: でもこれ以上、ルーシアの悪政を放っておくわけにはいかない。"
+                                "Luuna: But we can't just let Lucia's tyranny continue any\nlonger."
                             ]
                         },
                         {
@@ -12365,14 +12344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: やれやれ、村長の親父が聞いたら怒るだろうねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手に反乱軍を作って王都ジュピターノに挑むなんて。ルーシアに勝てるわけがない。"
+                                "Dalieh: Geez, if the village chief's father heard about\nthis, he'd be furious. Forming a rebel army on your own and\nchallenging the royal capital Jupiterino. There's no way you\ncan win against Lucia."
                             ]
                         },
                         {
@@ -12421,7 +12393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 兄貴、親父には内緒だぞ。俺達が怒られる。"
+                                "Cain: Big brother, keep it a secret from father, okay? We'll\nbe the ones getting scolded."
                             ]
                         },
                         {
@@ -12439,7 +12411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: わかってる、わかってる。"
+                                "Dalieh: I know, I know."
                             ]
                         },
                         {
@@ -12555,7 +12527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: それじゃあ、行ってくる。"
+                                "Luuna: Well then, I'm off."
                             ]
                         },
                         {
@@ -12589,7 +12561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: それよりルーナ、出陣前に「例の返事」を聞かせてもらって良いかい？"
+                                "Dalieh: But before you go, Luuna, can I hear 'that answer'?"
                             ]
                         },
                         {
@@ -12616,7 +12588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: こ、こんな時に･･･"
+                                "Luuna: At a time like this..."
                             ]
                         },
                         {
@@ -12634,14 +12606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: 僕はね、ルーナを恋人にしたいんだ。僕には親父が用意してくれた愛人･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃなくて恋人が沢山いるけどルーナみたいな純粋な女の子が好みなんだよ。"
+                                "Dalieh: You see, I want Luuna to be my girlfriend. I have\nmany lovers... no, girlfriends prepared by my father, but I\nprefer pure girls like Luuna."
                             ]
                         },
                         {
@@ -12690,14 +12655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: やれやれ･･･ヤリチン兄貴が恋人だなんて笑えるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恋人と言いつつ、ルーナもセックスフレンドの一人にしたいだけだろ～？"
+                                "Cain: Geez... It's funny to hear playboy big brother talk\nabout having a girlfriend. You just want to make Luuna\nanother one of your sex friends, right?"
                             ]
                         },
                         {
@@ -12746,7 +12704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: 失敬な！"
+                                "Dalieh: How rude!"
                             ]
                         },
                         {
@@ -12764,14 +12722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 兄貴の恋の矢がルーナには通用しないから、ルーナに興味があるんだろ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達兄弟は村長の息子だから、大抵の女の子は言う事聞くのにルーナは頷かないもんなぁ。"
+                                "Cain: Because your love arrows don't work on Luuna, you're\ninterested in her, right? We brothers are the sons of the\nvillage chief, so most girls listen to what we say, but\nLuuna won't nod along."
                             ]
                         },
                         {
@@ -12851,14 +12802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: そうさ。ルーナには幼馴染のノアがいるからねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ、こんな貧乏人のノアなんかと別れて僕の恋人になれば、いくらでも贅沢できるぞ？"
+                                "Dalieh: That's right. Luuna has her childhood friend Noah\nafter all. Luuna, if you break up with that poor Noah and\nbecome my girlfriend, you can indulge in as much luxury as\nyou want?"
                             ]
                         },
                         {
@@ -12909,7 +12853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ダリエフ、ごめんなさい。正直言ってTaro、あなたは異性として好みじゃない･･･"
+                                "Luuna: Dalieh, I'm sorry. To be honest, I don't find you\nattractive as a member of the opposite sex..."
                             ]
                         },
                         {
@@ -12927,7 +12871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: なに･･･"
+                                "Dalieh: What..."
                             ]
                         },
                         {
@@ -13018,7 +12962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ダリエフ、やめろ！ルーナが困ってるだろ。"
+                                "Noah: Dalieh, stop it! You're troubling Luuna."
                             ]
                         },
                         {
@@ -13036,7 +12980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ノア、ルーナと幼馴染だけのお前が、しゃしゃり出てきて生意気だよ。"
+                                "Dalieh: Noah, you're just a childhood friend of Luuna's.\nIt's cheeky for you to butt in like this."
                             ]
                         },
                         {
@@ -13054,7 +12998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア、やめて。"
+                                "Luuna: Noah, stop it."
                             ]
                         },
                         {
@@ -13072,21 +13016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: いや、前々からダリエフに直接、言おうと思ってたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼は、村長の息子だからって色んな女の子に手を出して酷い目に遭わせてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度はルーナを狙ってるんだ。"
+                                "Noah: No, I've been meaning to tell Dalieh directly for a\nwhile now. He's the son of the village chief and he's been\nmessing around with various girls, causing them trouble. Now\nhe's targeting Luuna."
                             ]
                         },
                         {
@@ -13104,7 +13034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ダリエフ、はっきり言うが俺もルーナも、あんたみたいな「キザな男は嫌い」なんだ！"
+                                "Noah: Let me make it clear, Dalieh. Both Luuna and I dislike\n'flashy men' like you!"
                             ]
                         },
                         {
@@ -13122,7 +13052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ･････"
+                                "Dalieh: ......"
                             ]
                         },
                         {
@@ -13140,7 +13070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: はぁ･･･君みたいな貧乏人で女性経験の無い男だとルーナが可哀想だよ。"
+                                "Dalieh: Sigh... It's pitiful for Luuna to be with a poor man\nwith no experience with women like you."
                             ]
                         },
                         {
@@ -13158,14 +13088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ノア、今に見てろ？必ずルーナを俺の女にしてやるからな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕のテクでヒィヒィ言わせまくってやる。雌なんて皆一緒さ。"
+                                "Dalieh: Noah, just watch? I'll definitely make Luuna my\nwoman? I'll make her squeal with my technique. All females\nare the same after all."
                             ]
                         },
                         {
@@ -13183,14 +13106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: おあいにく様だ。ルーナはあんたみたいなキザで女性を泣かせる女は嫌いなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだろ、ルーナ？"
+                                "Noah: Too bad for you. Luuna dislikes flashy men who make\nwomen cry like you do. Isn't that right, Luuna?"
                             ]
                         },
                         {
@@ -13241,7 +13157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･ええ。"
+                                "Luuna: ...Yes."
                             ]
                         },
                         {
@@ -13259,7 +13175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ふっ･･･ ルーナ、今にわかるさ。ノアと僕･･･どっちが雄として優秀なのかをね？"
+                                "Dalieh: Hmph... Luuna, you'll understand soon enough. Who\nbetween Noah and me... is the superior male?"
                             ]
                         },
                         {
@@ -13277,7 +13193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -13337,14 +13253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･ダリエフは相変わらずね。可愛い女なら誰でも、ちょっかいを出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたし、ポールと早く結婚して良かったわ。"
+                                "Becky: Sigh... Dalieh is the same as ever. He hits on any\ncute girl he sees. I'm glad I got married to Pole early."
                             ]
                         },
                         {
@@ -13371,14 +13280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: へへっ ベッキーみたいな可愛い女を妻に出来た俺は幸せ者だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぁ、ベッキー？俺を愛してるだろ？"
+                                "Pole: Heheh, I'm a lucky guy to have a cute woman like Becky\nas my wife. Right, Becky? You love me, don't you?"
                             ]
                         },
                         {
@@ -13460,7 +13362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ポール、人前で恥ずかしい事言わないでよね。"
+                                "Becky: Pole, don't say embarrassing things in front of\nothers."
                             ]
                         },
                         {
@@ -13542,14 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: とにかく、今から奇襲で帝都ジュピターノの砦に行きルーシアを倒す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上、ルーシアの悪政には耐えられない。今から起きる事は村長には内密に。"
+                                "Becky: Anyway, we're going to launch a surprise attack on\nthe fortress in the imperial capital Jupiterino and defeat\nLucia. We can't stand Lucia's tyranny any longer. Keep what\nhappens from now on a secret from the village chief."
                             ]
                         },
                         {
@@ -13567,7 +13462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: わかってるよ。まぁせいぜい頑張れよ。"
+                                "Cain: Got it. Well, do your best out there."
                             ]
                         },
                         {
@@ -13618,14 +13513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 安心して。危なくなったら逃げる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃ･･･行ってくるわね。"
+                                "Luuna: Don't worry. If it gets dangerous, we'll escape. Well\nthen... I'm off now."
                             ]
                         },
                         {
@@ -13681,14 +13569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達、レジスタンスはジュピターノ王国の砦へと向かう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこにはルーシア皇女と同盟国のバレンチナ王国の将軍達が集結していた。"
+                                "Luuna and the resistance head towards the fortress in the\nJupiterino Kingdom. There, Princess Lucia and the generals\nof the allied Valentia Kingdom had gathered."
                             ]
                         },
                         {
