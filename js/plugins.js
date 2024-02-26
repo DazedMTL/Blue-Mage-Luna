@@ -1048,8 +1048,8 @@ var $plugins = [
         '{"width":"3","text":"{\\"jp\\":\\"JIS/US\\",\\"en\\":\\"JIS/US\\"}"}',
       exit: '{"width":"3","text":"{\\"jp\\":\\"やめる\\",\\"en\\":\\"exit\\"}"}',
       gamepadConfigCommandText:
-        '{"en":"gamepad config","jp":"ゲームパッドコンフィグ"}',
-      keyConfigCommandText: '{"en":"keyboard config","jp":"キーコンフィグ"}',
+        '{"en":"gamepad config","jp":"Gamepad"}',
+      keyConfigCommandText: '{"en":"keyboard config","jp":"Keyboard"}',
       gamepadBackground: "",
       keyBackground: "",
       SettingsForYEP_OptionsCore: '{"gamepad":"true","Keyboard":"true"}',

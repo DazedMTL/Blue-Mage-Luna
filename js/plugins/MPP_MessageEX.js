@@ -1661,7 +1661,7 @@
   };
 
   Window_Message.prototype.numVisibleRows = function () {
-    return this._messageRow;
+    return this._messageRow + 1;
   };
 
   Window_Message.prototype.getAnimationList = function () {
