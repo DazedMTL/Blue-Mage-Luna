@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "村長の家",
+    "displayName": "Village Chief's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3649,7 +3649,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村長】ひひっ･･･\\I[7]そうそう、そういう格好で売春しろよ。"
+                                "Village Chief: Heheh...\\I[7]Yes, yes, prostitute yourself dressed like\nthat."
                             ]
                         },
                         {
@@ -3695,7 +3695,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村長】ひひっ･･･\\I[7]その格好で売春して金稼げよ。"
+                                "Village Chief: Heheh...\\I[7]Earn money by prostituting yourself in\nthat outfit."
                             ]
                         },
                         {
@@ -3757,14 +3757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村長】俺の許可無しに王都軍に挑むとはな。責任をとって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "定期的に村に金を納めろ。ノアとポールの治療代も村の金なのだからな。"
+                                "Village Chief: To challenge the royal army without my permission...\nTake responsibility and regularly pay money to the village. The\ntreatment costs for Noah and Pole are also coming from the village's\nfunds, after all."
                             ]
                         },
                         {
@@ -3920,7 +3913,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村の兵士】うはっ･･･\\I[7]いい格好だな～。"
+                                "Village Soldier: Ugh...\\I[7] you're looking good~."
                             ]
                         },
                         {
@@ -3973,7 +3966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村の兵士】エロい身体してるね！\\I[7]"
+                                "Village Soldier: You've got a sexy body!\\I[7]"
                             ]
                         },
                         {
@@ -4042,14 +4035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村の兵士】村長が怒るのも無理はない。何故、村長が王都軍に刃向かう事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禁止しているか考えてみろ。直系の魔導士のルーシアが本気になれば勝つ事など不可能だ。"
+                                "Village Soldier: It's no wonder the village chief is angry. Think\nabout why the chief forbids us from opposing the royal army. If Lucia,\na direct descendant of the sorcerers, gets serious, winning would be\nimpossible."
                             ]
                         },
                         {
@@ -4205,7 +4191,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村の兵士】ひひっ･･･\\I[7]ルーナ達も淫乱になったな～。"
+                                "Village Soldier: Heheh...\\I[7] Luuna and the others have become such\nsluts."
                             ]
                         },
                         {
@@ -4258,7 +4244,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村の兵士】すげー格好だな！\\I[7]"
+                                "Village Soldier: What an amazing outfit!\\I[7]"
                             ]
                         },
                         {
@@ -4327,14 +4313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村の兵士】ルーナ、ベッキー、お前等の身勝手な夜襲のせいで村の税収は更に酷くなった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この責任は必ずとってもらうからな。売春でも何でもして村に金を納めろ。"
+                                "Village Soldier: Luuna, Becky, because of your selfish night raids,\nthe village's tax revenue has gotten even worse. You're definitely\ngoing to take responsibility for this. Whether it's through\nprostitution or whatever, pay up to the village."
                             ]
                         },
                         {
@@ -4419,14 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】あんた達も村の為を想ってした事だと思うけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシアの居る王都軍には到底勝てないよ。そのせいで村民は酷い目に遭った。"
+                                "Maid: \"I believe you all did what you thought was best for the\nvillage, but there's no way you could win against the royal army where\nLucia is. Because of that, the villagers suffered terribly.\""
                             ]
                         },
                         {
@@ -4575,7 +4547,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村の兵士】へへっ･･･\\I[7]ルーナ達もエロくなったな～。"
+                                "Village Soldier: Heheh...\\I[7] Luuna and the others have become quite\nerotic, huh~."
                             ]
                         },
                         {
@@ -4628,7 +4600,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村の兵士】すげー格好してるね！\\I[7]"
+                                "Village Soldier: Wow, you're dressed so cool!\\I[7]"
                             ]
                         },
                         {
@@ -4697,14 +4669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村の兵士】村長には二人の息子が居て、長男のダリエフさんと次男のカインさんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人ともプレイボーイのヤリチンですよ。うひっひっ"
+                                "Village Soldier: The village chief has two sons, the eldest son\nDalieh-san and the younger son Cain-san. Both of them are playboys and\nwomanizers, you know. Uhihihi"
                             ]
                         },
                         {
@@ -4789,14 +4754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】そんなに気を落とす事はないよ。ここだけの話、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた達のようなレジスタンスが、いつか世を変えてくれると信じてる。"
+                                "Maid: \"Don't be so downhearted. Just between us, I believe that a\nresistance like yours will someday change the world.\""
                             ]
                         },
                         {
@@ -4886,7 +4844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『毒消し薬』を手に入れた。"
+                                "Gained \"Antidote\"."
                             ]
                         },
                         {
@@ -5104,7 +5062,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】ひひっ･･･\\I[7]いいね～。"
+                                "Man: Hehe...\\I[7]nice~."
                             ]
                         },
                         {
@@ -5157,7 +5115,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】ひひっ･･･\\I[7]エロいね～。"
+                                "Man: Hehe...\\I[7]so lewd~."
                             ]
                         },
                         {
@@ -5371,7 +5329,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】ひひっ･･･\\I[7]すげ～。"
+                                "Man: Heheh...\\I[7] Amazing."
                             ]
                         },
                         {
@@ -5389,14 +5347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】ポールの奴、賭け事が弱い癖に、ギャンブル好きだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "溜まりにたまった借金は、しっかり返済してもらわんとな。怪我など関係ない。"
+                                "Man: That Pole, despite being bad at betting, he loves gambling. Gotta\nmake sure he pays back all the debt he's accumulated. Injuries don't\nmatter."
                             ]
                         },
                         {
@@ -5442,7 +5393,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】ひひっ･･･\\I[7]エロいね～。"
+                                "Man: Heheh...\\I[7] That's so lewd."
                             ]
                         },
                         {
@@ -5460,14 +5411,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】ポールの奴、賭け事が弱い癖に、ギャンブル好きだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "溜まりにたまった借金は、しっかり返済してもらわんとな。怪我など関係ない。"
+                                "Man: That Pole, despite being bad at betting, he loves gambling. Gotta\nmake sure he pays back all the debt he's accumulated. Injuries don't\nmatter."
                             ]
                         },
                         {
@@ -5529,14 +5473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ポールの奴、賭け事が弱い癖に、ギャンブル好きだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "溜まりにたまった借金は、しっかり返済してもらわんとな。怪我など関係ない。"
+                                "Man: That Pole, despite being bad at betting, he loves gambling. Gotta\nmake sure he pays back all the debt he's accumulated. Injuries don't\nmatter."
                             ]
                         },
                         {

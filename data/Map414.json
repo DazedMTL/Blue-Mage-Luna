@@ -16,7 +16,7 @@
         "volume": 5
     },
     "disableDashing": false,
-    "displayName": "モードゥナ軍の野営地",
+    "displayName": "Moduna Army Encampment",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -4988,7 +4988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･････"
+                                "Ceres: ..."
                             ]
                         },
                         {
@@ -5006,14 +5006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: やはりバレンチナとの交渉は不可能か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何とかジュピターノのレジスタンス達を救ってあげたいのだが。"
+                                "Ceres: As I thought, negotiations with Valentina are impossible. I\nwish there was a way to save the resistance fighters of Jupiterino."
                             ]
                         },
                         {
@@ -5031,14 +5024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】セリス様、モードゥナへ送られてくる救済の手紙は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジュピターノだけではありません。"
+                                "[Vice-Captain] Lady Ceres, the pleas for help we receive are not only\nfrom Jupiterino."
                             ]
                         },
                         {
@@ -5056,14 +5042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】バレンチナは権威ある魔法大国。我々が手を出せる相手ではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上の内政干渉は危険かと。我々に出来る事だけをすれば良いと思います。"
+                                "[Vice-Captain] Valentina is a prestigious magical nation. They are not\nsomeone we can simply deal with. Further interference in their\ninternal affairs would be dangerous. I believe we should only do what\nwe can."
                             ]
                         },
                         {
@@ -5081,21 +5060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: そうだな･･･ 交渉や抗議が不可能となると戦うしかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、我々ナイツオブメサイアが一方的に正義を振りかざしたところで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モードゥナが悪者になってしまう。権威ある魔法大国なら尚更だ。"
+                                "Ceres: Indeed... If negotiations and protests are impossible, then\nfighting is the only option left. But if we, the Knights of Messiah,\nunilaterally impose our justice, then Moorduna will be seen as the\nvillain, especially against such a prestigious magical nation."
                             ]
                         },
                         {
@@ -5113,14 +5078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】はい。それに到底、勝てる相手ではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシア皇女の噂はセリス様も知っているでしょう？"
+                                "[Vice-Captain] Yes. Moreover, they are not an opponent we can hope to\ndefeat. You are aware of the rumors about Princess Lucia, aren't you,\nLady Ceres?"
                             ]
                         },
                         {
@@ -5138,7 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ルーシアは直系の魔導士･･･ 大きな声では言えないが。"
+                                "Ceres: Lucia is a direct descendant of the sorcerers... It's not\nsomething to be said aloud, but."
                             ]
                         },
                         {
@@ -5156,14 +5114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】ええ。ですのでジュピターノとバレンチナは･･･手を出すべき相手では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無いのです。レジスタンスや民衆を見捨てるのは可哀想ですがね。"
+                                "[Vice-Captain] Yes. Therefore, Jupiterino and Valentina... are not\nopponents we should engage with. It's heartbreaking to abandon the\nresistance and the people, though."
                             ]
                         },
                         {
@@ -5181,21 +5132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: わかってる･･･よくわかってるさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "軍師のハーデスにも何度も言われたさ。相手が悪い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただルーナとルーシアとは縁あって昔から知っている仲だ。"
+                                "Ceres: I understand... I understand very well. The strategist Hades\nhas told me many times. The opponent is formidable. But I have known\nLuuna and Lucia for a long time due to past connections."
                             ]
                         },
                         {
@@ -5213,7 +5150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】セリス様、私情は厳禁ですよ。"
+                                "[Vice-Captain] Lady Ceres, personal feelings must be strictly\nprohibited."
                             ]
                         },
                         {
@@ -5231,7 +5168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ああ。今度ばかりは手を出せそうにない･･･か。"
+                                "Ceres: Ah. It seems this time I really can't intervene..."
                             ]
                         },
                         {
@@ -5249,7 +5186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･････"
+                                "Ceres: ..."
                             ]
                         },
                         {
@@ -5277,7 +5214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【民衆の女】セリス様に会わせて下さい！！"
+                                "[Woman from the populace] Please let me see Lady Ceres!!"
                             ]
                         },
                         {
@@ -5326,7 +5263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士】駄目ですよ！勝手に入らないで！"
+                                "[Soldier] No, you can't! Don't just enter as you please!"
                             ]
                         },
                         {
@@ -5544,7 +5481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士】すみません。少し騒動がありまして。"
+                                "[Soldier] I apologize. There's been a bit of a disturbance."
                             ]
                         },
                         {
@@ -5562,7 +5499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: どうした？"
+                                "Ceres: What happened?"
                             ]
                         },
                         {
@@ -5580,7 +5517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士】ジュピターノの民衆が野営地に入ってきたのです。セリス様を出せと。"
+                                "[Soldier] The people of Jupiterino have entered the camp. They're\ndemanding to see you, Lady Ceres."
                             ]
                         },
                         {
@@ -5607,7 +5544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ジュピターノの民衆か･･･"
+                                "Ceres: The people of Jupiterino..."
                             ]
                         },
                         {
@@ -5625,7 +5562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士】大丈夫です。すぐに追い出しますから。"
+                                "[Soldier] It's alright. We'll drive them out immediately."
                             ]
                         },
                         {
@@ -5739,7 +5676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: いや、構わん。話だけは聞こう。"
+                                "Ceres: No, let them be. I will at least listen to what they have to\nsay."
                             ]
                         },
                         {
@@ -5757,7 +5694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士】ええ･･･"
+                                "[Soldier] Yes..."
                             ]
                         },
                         {

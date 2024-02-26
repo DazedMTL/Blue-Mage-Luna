@@ -1437,7 +1437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "—遥か異国の天空の物語･･･"
+                                "—A tale of the distant skies of a foreign land..."
                             ]
                         },
                         {
@@ -1455,7 +1455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "—地上より遥か遠く･･･天高く位置する美しい浮遊大陸「魔法国家ジュピターノ」"
+                                "—Far above the ground... high in the sky lies the beautiful floating\ncontinent of the \"Magical Kingdom of Jupiterino\"."
                             ]
                         },
                         {
@@ -1473,14 +1473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皇女であり「直系の魔導士」と謳われる皇女ルーシアは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "国王に代わりジュピターノを統治していた。"
+                                "Princess Lucia, hailed as a \"direct descendant of the magicians,\"\nruled over Jupiterino in place of the king."
                             ]
                         },
                         {
@@ -1498,7 +1491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "直系の魔導士の力は通常の魔導士とは一線を画す。"
+                                "The power of a direct descendant magician is distinctly superior to\nthat of an ordinary magician."
                             ]
                         },
                         {
@@ -1516,14 +1509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "並の魔導士が蟻ならば、直系の魔導士は「女王蟻」に例えられるほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その先天的な魔力は一般の魔導士とは天と地ほどの差がある。"
+                                "If an ordinary magician is an ant, then a direct descendant magician\nis likened to a \"queen ant,\" their innate magical power is as\ndifferent as heaven and earth from that of a general magician."
                             ]
                         },
                         {
@@ -1541,14 +1527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数十億人に一人と言われ神がかり的な魔導の力を持った皇女ルーシアは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人格が豹変し悪政を行い、反乱分子を次々と虐殺するようになる。"
+                                "Princess Lucia, said to be one in several billion with a godlike\nmagical power, underwent a drastic change in personality, ruling with\ntyranny and massacring rebels one after another."
                             ]
                         },
                         {
@@ -1637,7 +1616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "直系の魔導士は主に7つに分類される。"
+                                "Direct descendant magicians are primarily classified into seven types."
                             ]
                         },
                         {
@@ -1673,21 +1652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1、黒魔導士の直系･･･ 2、赤魔導士の直系･･･  3、蒼魔導士の直系･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "4、白魔導士の直系･･･ 5、時空魔導士の直系･･･ 6、緑魔導士の直系･･･ 7、特質魔導士の直系･･･"
+                                "1. Direct descendant of black magicians... 2. Direct descendant of red\nmagicians... 3. Direct descendant of blue magicians... 4. Direct\ndescendant of white magicians... 5. Direct descendant of space-time\nmagicians... 6. Direct descendant of green magicians... 7. Direct\ndescendant of unique magicians..."
                             ]
                         },
                         {
@@ -1723,7 +1688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "直系の魔導士とは、ある属性魔法の母体であり、通常の魔導士は母体の力の極一部しか扱えない。"
+                                "A direct descendant magician is the source of a particular attribute\nof magic, and ordinary magicians can only handle a very small part of\nthe source's power."
                             ]
                         },
                         {
@@ -1741,14 +1706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "直系の魔導士は母体、またはCore(コア)と呼ばれ、直系の魔導士は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数十億人に一人しか存在しないのである。"
+                                "Direct descendant magicians are known as the source, or Core, and\nthere is only one in several billion."
                             ]
                         },
                         {
@@ -1766,7 +1724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Core(コア)･･･直系の魔導士は伝説の魔導士と言われ、全ての魔導士から崇拝される。"
+                                "Core... Direct descendant magicians are called legendary magicians and\nare worshipped by all other magicians."
                             ]
                         },
                         {
@@ -1784,14 +1742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『黒い魔女』の異名を持つ皇女ルーシアは母親レイシアの死により『黒魔導の直系』の力を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受け継いだと伝えられている。"
+                                "Princess Lucia, known by the nickname \"The Black Witch,\" is said to\nhave inherited the power of the \"direct descendant of black magic\"\nupon the death of her mother, Leicia."
                             ]
                         },
                         {
@@ -1880,7 +1831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "直系の黒魔導士となったと伝えられている皇女ルーシア･･･"
+                                "Princess Lucia, rumored to have become a direct descendant black\nmagician..."
                             ]
                         },
                         {
@@ -1898,7 +1849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒魔導の直系の力を受け継いだルーシアは、人格が豹変し国王に代わり悪政を行っている。"
+                                "Having inherited the power of a direct descendant black magician,\nLucia underwent a drastic change in personality and began ruling with\ntyranny in place of the king."
                             ]
                         },
                         {
@@ -1916,7 +1867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシアは魔法大国バレンチナと軍事同盟を結び、更にその権力を絶対のものにした。"
+                                "Lucia formed a military alliance with the great magical nation of\nValentina, further solidifying her absolute power."
                             ]
                         },
                         {
@@ -1934,14 +1885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな中、ジュピターノ大陸屈指の「天才魔導士ルーナ」は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間の説得により「直系の魔導士ルーシア」と戦う事をようやく決意する。"
+                                "In the midst of this, \"Luuna,\" one of Jupiterino's most brilliant\nmagicians, finally decides to fight against \"direct descendant\nmagician Lucia\" after being persuaded by her comrades."
                             ]
                         },
                         {
@@ -1959,14 +1903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皇女ルーシアとその同盟国を倒す為、ルーナとその仲間達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レジスタンスとなり王都と戦う事を決意するのだった。"
+                                "To defeat Princess Lucia and her allied nations, Luuna and her\ncompanions resolve to become part of the resistance and fight against\nthe royal capital."
                             ]
                         },
                         {
@@ -1984,21 +1921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達は、世界の警察と噂される自由の国モードゥナのセリス・アリアーヌに手紙を出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナイツオブメサイア(モードゥナ軍)の力を借りたいと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし返事は否定的なものだった。"
+                                "Luuna and her group send a letter to Ceres Arianne of Moduna, rumored\nto be the world's police, seeking assistance from the Knights of\nMessiah (Moduna's military). However, the response was negative."
                             ]
                         },
                         {
@@ -2016,14 +1939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達、レジスタンスは覚悟を決め、仲間であるベッキーらと共に、ルーシアの居る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジュピターノの砦に夜襲をかける事となった。ルーナ達とルーシアの熾烈な戦いが今始まる。"
+                                "The resistance, including Luuna and her comrade Becky, resolve\nthemselves and decide to launch a night raid on Lucia's fortress in\nJupiterino. The fierce battle between Luuna's group and Lucia begins\nnow."
                             ]
                         },
                         {

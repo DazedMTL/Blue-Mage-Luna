@@ -5637,14 +5637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マニュアル】ゲームの説明をします。「ゲームマニュアル」は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「メニュー画面」の「各種設定」の項目からでも選択できます。"
+                                "[Manual] I will explain the game. The \"Game Manual\" can also be\nselected from the \"Various Settings\" in the \"Menu Screen\"."
                             ]
                         },
                         {
@@ -5801,7 +5794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ダンビュライト』を手に入れた。"
+                                "Gained the \"Danburite\"."
                             ]
                         },
                         {
@@ -5949,7 +5942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村人】此処は公園よ。彼氏、まだかな～♪"
+                                "Villager: \"This is the park. I wonder if my boyfriend is still not\nhere yet~♪\""
                             ]
                         },
                         {

@@ -18,7 +18,7 @@
         "traits": [],
         "initialLevel": 7,
         "maxLevel": 99,
-        "name": "私",
+        "name": "I",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -41,10 +41,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ルーナ",
+        "name": "Luuna",
         "nickname": "蒼魔導士",
         "note": "<ラーニング能力>\n<LEARNING_ABILITY>",
-        "profile": "蒼魔導士。魔法学校の名門【バレンチナ学院】出身。\n敵の魔法を覚える事が出来る。ノアという幼馴染の男性と友達以上恋人未満。"
+        "profile": "The Azure Sorceress. A graduate from the prestigious magic school,\nValentina Academy. She can learn enemy magic. She has a childhood\nfriend named Noah, with whom she shares a relationship that's more\nthan friends but less than lovers."
     },
     {
         "id": 3,
@@ -64,10 +64,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ベッキー",
+        "name": "Becky",
         "nickname": "",
         "note": "",
-        "profile": "ポールの人妻。気が強いが性格は明るい。"
+        "profile": "Pole's wife. She has a strong will but a cheerful personality."
     },
     {
         "id": 4,
@@ -87,7 +87,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ノア",
+        "name": "Noah",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -110,7 +110,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ポール",
+        "name": "Pole",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -133,10 +133,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "カイン",
+        "name": "Cain",
         "nickname": "",
         "note": "",
-        "profile": "村長の息子。ルーナとベッキーが売春するように監視・同行する。\n腕っぷしの強い男性で女好きのプレイボーイ。スキル「盗む」を持つ。"
+        "profile": "The village chief's son. He monitors and accompanies Luuna and Becky\nas they prostitute themselves. A strong man who is a womanizer and a\nplayboy. He has the skill \"Steal\"."
     },
     {
         "id": 7,
@@ -156,10 +156,10 @@
         "traits": [],
         "initialLevel": 70,
         "maxLevel": 99,
-        "name": "カイル",
+        "name": "Kyle",
         "nickname": "",
         "note": "",
-        "profile": "帝都ジュピターノに抵抗する反乱軍。\nノルヴァーナの心優しきリーダー。実直で責任感がある。"
+        "profile": "The rebel army resisting the imperial capital of Jupiterino. The kind-\nhearted leader of Norvanna. Honest and responsible."
     },
     {
         "id": 8,
@@ -179,7 +179,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "レーデ",
+        "name": "Rade",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -202,7 +202,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "シルヴィア",
+        "name": "Sylvia",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -225,7 +225,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ルーシア",
+        "name": "Lucia",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -248,7 +248,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "セリス",
+        "name": "Ceres",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -271,7 +271,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "リニ",
+        "name": "Rinny",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -294,7 +294,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "レグナス・グラハード",
+        "name": "Regnus Grahardt",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -340,7 +340,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ダリエフ",
+        "name": "Dalieh",
         "nickname": "",
         "note": "",
         "profile": ""

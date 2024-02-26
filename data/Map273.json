@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "道具屋・武器屋・防具屋",
+    "displayName": "Item Shop・Weapon Shop・Armor Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,

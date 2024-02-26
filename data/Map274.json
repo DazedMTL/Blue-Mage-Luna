@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ベルの街",
+    "displayName": "Town of Bell",
     "encounterList": [],
     "encounterStep": 30,
     "height": 28,
@@ -6403,7 +6403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･(昼は閉店しているみたい。)"
+                                "Luuna: ... (It seems to be closed during the day.)"
                             ]
                         },
                         {
@@ -7653,14 +7653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\I[89]HINT!：「昼 → 夜」「夜 → 昼」に出来ます。宿屋でもできます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "売春する時や、娼館で働く時は 「夜」にして下さい。"
+                                "\\I[89]HINT!: You can change from \"Day → Night\" and \"Night → Day\". You can\nalso do this at the inn. Please make sure it's \"Night\" when you're\nprostituting or working at the brothel."
                             ]
                         },
                         {
@@ -7687,8 +7680,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "今はいい",
-                                    "夜まで待つ"
+                                    "I'm good for now",
+                                    "I'll wait until night"
                                 ],
                                 0,
                                 0,
@@ -8414,7 +8407,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】きゃっ･･･凄い恰好してるね。"
+                                "Wow... you're dressed so impressively."
                             ]
                         },
                         {
@@ -8432,14 +8425,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】レアショップで売っている「遠隔通信機」は、魔法の力によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "遠隔で遠く離れた人と話せるのよ。念じれば相手の姿が見れる。"
+                                "The \"Remote Communicator\" sold at the Rare Shop allows you to talk to\npeople far away through the power of magic. If you concentrate, you\ncan even see the other person's appearance."
                             ]
                         },
                         {
@@ -8485,7 +8471,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】わ･･･"
+                                "Oh..."
                             ]
                         },
                         {
@@ -8547,14 +8533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】レアショップで売っている「遠隔通信機」は、魔法の力によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠隔で遠く離れた人と話せるのよ。念じれば相手の姿が見れる。"
+                                "The \"Remote Communicator\" sold at the Rare Shop allows you to talk to\npeople far away through the power of magic. If you concentrate, you\ncan even see the other person's appearance."
                             ]
                         },
                         {
@@ -8761,7 +8740,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】おおっ･･･！\\I[7]"
+                                "Man: Oh...! \\I[7]"
                             ]
                         },
                         {
@@ -8814,7 +8793,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】エロい身体してるな！\\I[7]"
+                                "Man: You've got a sexy body! \\I[7]"
                             ]
                         },
                         {
@@ -8883,21 +8862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ルーシアより恐ろしいのは魔法大国バレンチナの将軍達かもな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレンチナの魔導士筆頭シルヴィアや人喰いのヒルダは残虐だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシアは酷い悪政をするが刃向かわなければ無害だ。"
+                                "Man: More terrifying than Lucia might be the generals of the magical\nkingdom of Valentina. Valentina's chief sorceress Sylvia and the man-\neating Hilda are cruel. Lucia enacts terrible policies, but she's\nharmless if you don't oppose her."
                             ]
                         },
                         {
@@ -9104,7 +9069,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】きゃっ･･･"
+                                "Ah...!"
                             ]
                         },
                         {
@@ -9150,7 +9115,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】変態･･･！"
+                                "Pervert...!"
                             ]
                         },
                         {
@@ -9212,7 +9177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】情報屋は大抵、どんな情報でも手に入るよ。"
+                                "Information brokers can usually get their hands on any kind of\ninformation."
                             ]
                         },
                         {
@@ -9419,7 +9384,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】ひっ･･･なんて格好してるのよ。"
+                                "Woman: \"Huh... What kind of outfit is that?\""
                             ]
                         },
                         {
@@ -9465,7 +9430,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】あんた変態でしょ！"
+                                "Woman: \"You're a pervert, aren't you!\""
                             ]
                         },
                         {
@@ -9527,7 +9492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】此処はベルの街。王都、つまり帝都ジュピターノが管轄する街よ。"
+                                "Woman: \"This is the town of Bell. The royal capital, in other words, a\ncity governed by the imperial capital Jupiterino.\""
                             ]
                         },
                         {
@@ -9734,7 +9699,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】うひっ すげー格好してんじゃん\\I[7]"
+                                "Man: \"Uhi! You're dressed so impressively\\I[7]\""
                             ]
                         },
                         {
@@ -9787,7 +9752,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】いい乳してるわ～\\I[7]"
+                                "Man: \"You've got some nice tits～\\I[7]\""
                             ]
                         },
                         {
@@ -9856,14 +9821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】最近、ルーシア皇女は魔法大国バレンチナと軍事同盟を結んだようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレンチナは魔法大国として有名で洗礼にくる魔導士も多い。胡散臭い噂が多い国だが。"
+                                "Man: \"Recently, it seems that Princess Lucia has formed a military\nalliance with the magical kingdom of Valentia. Valentia is famous as a\nmagical kingdom, and many magicians come for baptism. It's a country\nwith many suspicious rumors, though.\""
                             ]
                         },
                         {
@@ -10070,7 +10028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】うほっ･･･\\I[7]"
+                                "Man: \"Ugh...\\I[7]\""
                             ]
                         },
                         {
@@ -10123,7 +10081,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】すげー身体してんな\\I[7]"
+                                "Man: \"You've got an amazing body\\I[7]\""
                             ]
                         },
                         {
@@ -10192,7 +10150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】娼館は夜に開店する。待ち遠しいぜ～。"
+                                "Man: \"The brothel opens at night. Can't wait~.\""
                             ]
                         },
                         {
@@ -10277,14 +10235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【妖精】この丸い玉に触れると昼が夜になり、夜が昼になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿屋でも出来ます。"
+                                "Fairy: \"When you touch this round orb, day turns to night, and night\nturns to day. You can also do this at an inn.\""
                             ]
                         },
                         {
@@ -10485,7 +10436,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】ひっ･･･"
+                                "Woman: \"Hah...\""
                             ]
                         },
                         {
@@ -10531,7 +10482,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】もう･･･！"
+                                "Woman: \"Enough...!\""
                             ]
                         },
                         {
@@ -10593,7 +10544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】此処の街は空に浮かんでいるのよ。この大陸全体だけどね。"
+                                "Woman: \"This city is floating in the sky. Well, the entire continent\nis, actually.\""
                             ]
                         },
                         {
@@ -10800,7 +10751,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】うはっ･･！ エロい身体してんじゃん\\I[7]"
+                                "Man: \"Uha...! You've got such an erotic body\\I[7]\""
                             ]
                         },
                         {
@@ -10853,7 +10804,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】エロいね～\\I[7]"
+                                "Man: \"So lewd~\\I[7]\""
                             ]
                         },
                         {
@@ -10922,7 +10873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】夜になると街の雰囲気が変わる。君もきっと変わるよ。へへっ"
+                                "Man: \"The atmosphere of the town changes at night. You'll surely\nchange too. Heheh\""
                             ]
                         },
                         {
@@ -11129,7 +11080,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】おお･･ エロい尻してんじゃん\\I[7]"
+                                "Man: \"Oh... What a lewd ass you have there\\I[7]\""
                             ]
                         },
                         {
@@ -11182,7 +11133,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】いいね～\\I[7]"
+                                "Man: \"Nice~\\I[7]\""
                             ]
                         },
                         {
@@ -11251,14 +11202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】王都に刃向かうなんて馬鹿な事しないでもらいたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とばっちりを食うのは住民さ。"
+                                "Man: \"I'd prefer if you didn't do something as foolish as opposing the\nroyal capital. It's the citizens who end up suffering the\nconsequences.\""
                             ]
                         },
                         {
@@ -11357,7 +11301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『500G』を手に入れた。"
+                                "Gained 500G."
                             ]
                         },
                         {
@@ -11516,7 +11460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『500G』を手に入れた。"
+                                "Gained 500G."
                             ]
                         },
                         {
@@ -11737,7 +11681,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】わっ･･･"
+                                "Woman: \"Ah...!\""
                             ]
                         },
                         {
@@ -11783,7 +11727,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】なんて格好してるのよ･･･"
+                                "Woman: \"What kind of outfit is that...?\""
                             ]
                         },
                         {
@@ -11845,7 +11789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】夜になると変な男達が増えるから気をつけてね。"
+                                "Woman: \"Be careful at night, the number of strange men increases.\""
                             ]
                         },
                         {

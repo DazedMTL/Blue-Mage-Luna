@@ -14413,8 +14413,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "準備する",
-                                    "「必真の水鏡」に触れる"
+                                    "Prepare",
+                                    "Touch the \"Mirror of Hishin\""
                                 ],
                                 1,
                                 0,
@@ -14533,7 +14533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: あ･･･情報が映し出される。"
+                                "Luuna: Ah... Information is being displayed."
                             ]
                         },
                         {
@@ -14593,7 +14593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -14664,7 +14664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -14715,7 +14715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: これは･･･写真･･･？"
+                                "Luuna: Is this... a photograph...?"
                             ]
                         },
                         {
@@ -14766,7 +14766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: この子は･･･"
+                                "Luuna: This child is..."
                             ]
                         },
                         {
@@ -14784,7 +14784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: レイ・グランフォード･･･と書いている。"
+                                "Luuna: It's written here as \"Rei Granford\"..."
                             ]
                         },
                         {
@@ -14835,14 +14835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: 見た感じ魔導士みたいけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ねぇ、ルーナ知ってる？"
+                                "Becky: She looks like a mage. Hey, Luuna, do you know her?"
                             ]
                         },
                         {
@@ -14893,7 +14886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: いいえ。知らない。"
+                                "Luuna: No, I don't know her."
                             ]
                         },
                         {
@@ -14911,7 +14904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: レイ・グランフォード･･･"
+                                "Luuna: Rei Granford..."
                             ]
                         },
                         {
@@ -14929,7 +14922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -15839,7 +15832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -15942,7 +15935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -16132,7 +16125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: うわ！？"
+                                "Cain: Whoa!?"
                             ]
                         },
                         {
@@ -16150,7 +16143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！！"
+                                "Luuna: !!!"
                             ]
                         },
                         {
@@ -16168,7 +16161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ！？"
+                                "Becky: !?"
                             ]
                         },
                         {
@@ -16186,7 +16179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ガーディアンのようね。"
+                                "Luuna: It seems like a guardian."
                             ]
                         },
                         {
@@ -16204,7 +16197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ロボットか！？"
+                                "Cain: A robot!?"
                             ]
                         },
                         {
@@ -16222,7 +16215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 侵入者を通さないようにプログラムされているみたい。"
+                                "Luuna: It looks like it's programmed not to let intruders pass."
                             ]
                         },
                         {
@@ -16271,7 +16264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 倒すわよ･･･！"
+                                "Luuna: We'll have to take it down...!"
                             ]
                         },
                         {

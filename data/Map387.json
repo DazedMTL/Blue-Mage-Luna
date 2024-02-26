@@ -5978,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】いやはや、この街は綺麗ですな～。絶景♪絶景♪"
+                                "??? : \"My, my, this town is beautiful~. A superb view♪ A superb view♪\""
                             ]
                         },
                         {
@@ -6047,7 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【おじさん】いやはや、この街は綺麗ですな～。絶景♪絶景♪"
+                                "Old Man: My, my, this town is beautiful. What a view! What a view!"
                             ]
                         },
                         {
@@ -6065,7 +6065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【おじさん】おっ いつぞやの。奇遇ですな～。"
+                                "Old Man: Oh! It's you from the other day. What a coincidence~."
                             ]
                         },
                         {
@@ -6083,14 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【おじさん】私の調べた所いよるとですな、この街にも酢豚弁当の屋台が来るそうなんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おや、興味ないって顔ですな。美味しいのに～。"
+                                "Old Man: According to my research, it seems that a sweet and sour pork\nbento stall will be coming to this town too. Oh, you look\nuninterested. That's a shame, it's quite delicious~."
                             ]
                         },
                         {

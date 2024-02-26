@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "シェーナの村",
+    "displayName": "Sheena Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9552,7 +9552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よう、ルーナ。頼むから一回だけ乳揉ませてくれよ。"
+                                "Hey, Luuna. Please, let me squeeze your tits just once."
                             ]
                         },
                         {
@@ -10662,9 +10662,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アニメ再生",
-                                    "アニメ停止",
-                                    "アニメ事前読み込み"
+                                    "Play Animation",
+                                    "Stop Animation",
+                                    "Preload Animation"
                                 ],
                                 -2,
                                 0,
@@ -10685,11 +10685,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "marry",
-                                    "rei",
-                                    "rankou",
-                                    "marry&rei&rankou",
-                                    "高負荷テスト"
+                                    "Marry",
+                                    "Rei",
+                                    "Orgy",
+                                    "Marry&rei&orgy",
+                                    "High Load Test"
                                 ],
                                 -2,
                                 0,
@@ -11284,7 +11284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "marry読み込みOK"
+                                "Marry load OK"
                             ]
                         },
                         {
@@ -11321,7 +11321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "rei読み込みOK"
+                                "Rei load OK"
                             ]
                         },
                         {
@@ -11358,7 +11358,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "rankou読み込みOK"
+                                "Orgy load OK"
                             ]
                         },
                         {

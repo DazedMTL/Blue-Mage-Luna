@@ -948,7 +948,7 @@
             }
         ],
         "learnings": [],
-        "name": "蒼魔導士",
+        "name": "Blue Mage",
         "note": "",
         "params": [
             [
@@ -1951,7 +1951,7 @@
                 "note": ""
             }
         ],
-        "name": "斧使い",
+        "name": "Axe Wielder",
         "note": "<attackSkill:500>",
         "params": [
             [
@@ -4723,7 +4723,7 @@
                 "skillId": 107
             }
         ],
-        "name": "剣士",
+        "name": "Swordsman",
         "note": "<attackSkill:501>",
         "params": [
             [
@@ -5926,7 +5926,7 @@
                 "skillId": 82
             }
         ],
-        "name": "戦士",
+        "name": "Warrior",
         "note": "<attackSkill:502>",
         "params": [
             [
@@ -13835,7 +13835,7 @@
                 "skillId": 145
             }
         ],
-        "name": "僧侶",
+        "name": "Priest",
         "note": "",
         "params": [
             [
@@ -14898,7 +14898,7 @@
                 "note": ""
             }
         ],
-        "name": "狩人",
+        "name": "Hunter",
         "note": "",
         "params": [
             [
@@ -15816,7 +15816,7 @@
                 "skillId": 210
             }
         ],
-        "name": "盗賊",
+        "name": "Thief",
         "note": "",
         "params": [
             [
@@ -16989,7 +16989,7 @@
                 "skillId": 192
             }
         ],
-        "name": "魔術師",
+        "name": "Magician",
         "note": "",
         "params": [
             [
@@ -17927,7 +17927,7 @@
                 "skillId": 189
             }
         ],
-        "name": "魔法使い",
+        "name": "Wizard",
         "note": "",
         "params": [
             [

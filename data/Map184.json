@@ -6414,7 +6414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: はぁっ･･･ はぁっ･･･ はぁっ･･･"
+                                "Rei: Haah... Haah... Haah..."
                             ]
                         },
                         {
@@ -6442,7 +6442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ファイア！"
+                                "Rei: Fire!"
                             ]
                         },
                         {
@@ -6469,7 +6469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: こんなのじゃ駄目！"
+                                "Rei: This isn't good enough!"
                             ]
                         },
                         {
@@ -6487,7 +6487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ファイア！"
+                                "Rei: Fire!"
                             ]
                         },
                         {
@@ -6514,7 +6514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ああ･･･もう魔力が･･･"
+                                "Rei: Ah... I'm already out of magical power..."
                             ]
                         },
                         {
@@ -6532,7 +6532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: しっかりするのよ、レイ・グランフォード。まだまだ･･･"
+                                "Rei: Pull yourself together, Rei Granford. There's still more..."
                             ]
                         },
                         {
@@ -6560,7 +6560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ファイア！"
+                                "Rei: Fire!"
                             ]
                         },
                         {
@@ -6587,7 +6587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: はぁっ･･･ はぁっ･･･ はぁっ･･･ んっ･･･"
+                                "Rei: Haah... Haah... Haah... Nn..."
                             ]
                         },
                         {
@@ -6605,7 +6605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････････"
+                                "Rei: ............"
                             ]
                         },
                         {
@@ -6623,7 +6623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: こんなに魔法の練習をしているのに何で･･･全く成長しない。"
+                                "Rei: Why... despite all this practice with magic, I'm not improving at\nall."
                             ]
                         },
                         {
@@ -6641,7 +6641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ファイア！"
+                                "Rei: Fire!"
                             ]
                         },
                         {
@@ -6668,7 +6668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: やった！"
+                                "Rei: I did it!"
                             ]
                         },
                         {
@@ -6686,7 +6686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････････"
+                                "Rei: ............"
                             ]
                         },
                         {
@@ -6704,7 +6704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: 今更こんな魔法が出来たって仕方ない･･･誰だって出来る。"
+                                "Rei: It's too late for such magic... Anyone can do it."
                             ]
                         },
                         {
@@ -6722,7 +6722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: 何で･･･"
+                                "Rei: Why..."
                             ]
                         },
                         {
@@ -6771,7 +6771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････!"
+                                "Rei: ...!"
                             ]
                         },
                         {
@@ -6958,7 +6958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････"
+                                "Rei: ..."
                             ]
                         },
                         {
@@ -7027,7 +7027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魔法学校の生徒1】クスクス･･･グランフォードさん、相変わらず頑張ってるわね～。"
+                                "Magic School Student 1: Teehee... Miss Granford, you're still trying\nso hard."
                             ]
                         },
                         {
@@ -7096,7 +7096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魔法学校の生徒2】あたし、ファイアなんて最初から使えたけどなぁ。あははっ"
+                                "Magic School Student 2: I mean, I could use Fire from the beginning.\nAhaha!"
                             ]
                         },
                         {
@@ -7165,14 +7165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魔法学校の生徒3】そんな言い方やめとけよ。レイは一生懸命なんだからさぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "才能が無いって哀しいねぇ。クスクス･･･"
+                                "Magic School Student 3: Don't say it like that. Rei is working really\nhard. It's sad to have no talent. Teehee..."
                             ]
                         },
                         {
@@ -7190,7 +7183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: っ･････"
+                                "Rei: ..."
                             ]
                         },
                         {
@@ -7208,14 +7201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魔法学校の生徒1】グランフォードさんは、魔導士じゃなくてアイドルになりなさいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近またアイドルのオファーがきたのでしょ？"
+                                "Magic School Student 1: Miss Granford, you should become an idol\ninstead of a sorceress. You've received another idol offer recently,\nhaven't you?"
                             ]
                         },
                         {
@@ -7233,7 +7219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: 私、アイドルなんて興味ない。絶対に魔法学校を卒業する。"
+                                "Rei: I'm not interested in being an idol. I will definitely graduate\nfrom the magic school."
                             ]
                         },
                         {
@@ -7251,7 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魔法学校の生徒3】でも君に魔導士は向いてないよ。クスクス･･･"
+                                "Magic School Student 3: But sorcery doesn't suit you. Teehee..."
                             ]
                         },
                         {
@@ -7269,7 +7255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魔法学校の生徒2】アイドルが向いてると思うけどぉ？クスクス･･･"
+                                "Magic School Student 2: I think being an idol suits you better?\nTeehee..."
                             ]
                         },
                         {
@@ -7287,7 +7273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: っ･････"
+                                "Rei: ..."
                             ]
                         },
                         {
@@ -7603,7 +7589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】お前等！またレイを馬鹿にして虐めてるな！どっかいけ！帰れ！"
+                                "Runo: You guys! Stop picking on Rei and bullying her! Go away! Get out\nof here!"
                             ]
                         },
                         {
@@ -7621,7 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ルノ！"
+                                "Rei: Runo!"
                             ]
                         },
                         {

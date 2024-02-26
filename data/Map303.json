@@ -10695,7 +10695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -10746,7 +10746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あの戦士達を襲ったモンスターは、この辺にいる筈ね。"
+                                "Becky: The monster that attacked those warriors should be around here."
                             ]
                         },
                         {
@@ -10764,7 +10764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 邪悪なモンスターのようだがルーナ、勝てるのか？"
+                                "Cain: It seems like an evil monster, but Luuna, can you win?"
                             ]
                         },
                         {
@@ -10815,14 +10815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: わからない。でも今の私には一つでも多く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "希有な魔法をラーニングする必要がある。ルーシア達に対抗する為に。"
+                                "Luuna: I don't know. But right now, I need to learn as many rare\nmagics as possible. To stand against Lucia and the others."
                             ]
                         },
                         {
@@ -10840,7 +10833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -10891,7 +10884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: この花･･･ 美しいけど棘がある。花が警戒しているのよ。"
+                                "Luuna: This flower... it's beautiful but has thorns. It's like the\nflower is on guard."
                             ]
                         },
                         {
@@ -10925,7 +10918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: モンスターは私達のすぐ傍まで来ている。"
+                                "Luuna: The monster is very close to us now."
                             ]
                         },
                         {
@@ -10976,7 +10969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: え･･･ くっ･･･！"
+                                "Becky: Eh... Ah...!"
                             ]
                         },
                         {
@@ -11027,7 +11020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 何処にいる･･･"
+                                "Luuna: Where is it..."
                             ]
                         },
                         {
@@ -11045,7 +11038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -11190,7 +11183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -11217,7 +11210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -11268,7 +11261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: くる･･･！"
+                                "Luuna: It's coming...!"
                             ]
                         },
                         {
@@ -11339,7 +11332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････！"
+                                "Luuna: ...!"
                             ]
                         },
                         {
@@ -11357,7 +11350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなたが、あの人達に大怪我を負わせたのね。"
+                                "Luuna: You're the one who inflicted serious injuries on those people."
                             ]
                         },
                         {
@@ -11375,7 +11368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -11403,7 +11396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 『デッドチェーン！』"
+                                "Luuna: \"Dead Chain!\""
                             ]
                         },
                         {
@@ -11454,7 +11447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ブラスター】･･･！？"
+                                "[Blaster] ...!?"
                             ]
                         },
                         {
@@ -11472,7 +11465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ブラスター】ナンダ？コノ鎖は？"
+                                "[Blaster] What? What is this chain?"
                             ]
                         },
                         {
@@ -11490,7 +11483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: それは死の鎖。『デッド・チェーン』"
+                                "Luuna: That is the chain of death. \"Dead Chain.\""
                             ]
                         },
                         {
@@ -11508,21 +11501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなたが抵抗すればするほど、その鎖の魔法は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたを締め上げるわ。(私が以前、得意としていた蒼魔法･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調子の良い時なら一部は使えるようね。)"
+                                "Luuna: The more you resist, the tighter the magic of this chain will\nconstrict you. (This was a blue magic I used to specialize in... It\nseems I can still use it when I'm in good condition.)"
                             ]
                         },
                         {
@@ -11573,7 +11552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ブラスター】ウッ･･･!クッ･･･！鎖ガ･･･締マル！"
+                                "[Blaster] Ugh...! Gah...! The chain... it's tightening!"
                             ]
                         },
                         {
@@ -11591,7 +11570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 無駄よ。デッドチェーンは、あなた程度の力では引きちぎれない。"
+                                "Luuna: It's futile. The Dead Chain cannot be torn apart by someone of\nyour strength."
                             ]
                         },
                         {
@@ -11609,7 +11588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなたからは血の匂いがする･･･さっきの人達の仲間を襲ったわね？"
+                                "Luuna: I can smell blood on you... You attacked those people's\ncompanions earlier, didn't you?"
                             ]
                         },
                         {
@@ -11660,7 +11639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ブラスター】クッ･･･！クッ･･･！鎖ガ･･･！"
+                                "[Blaster] Gah...! Gah...! The chain...!"
                             ]
                         },
                         {
@@ -11678,14 +11657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: デッドチェーンに捕らわれた時点で勝負は決まっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "諦めるがいい。"
+                                "Luuna: The moment you were captured by the Dead Chain, the outcome was\ndecided. You should give up."
                             ]
                         },
                         {
@@ -11703,7 +11675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: これからずっと大人しくするなら命まではとらない。"
+                                "Luuna: If you behave from now on, I won't take your life."
                             ]
                         },
                         {
@@ -11721,7 +11693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ブラスター】グググググっ･･･！"
+                                "[Blaster] Grrrrrrr...!"
                             ]
                         },
                         {
@@ -11763,7 +11735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ブラスター】ブラスターローズ！！"
+                                "[Blaster] Blaster Rose!!"
                             ]
                         },
                         {
@@ -11823,7 +11795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: なにっ･･･"
+                                "Luuna: What...?"
                             ]
                         },
                         {
@@ -11874,21 +11846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: くっ･･･！鎖がとれた･･･デッドチェーンが馬鹿な･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(どうやら力がまだ完全に戻ってないようね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法を封じられただけでなく、ここまで弱体化していたとは･･･。)"
+                                "Luuna: Damn it...! The chain came off... Dead Chain is useless... (It\nseems my power hasn't fully returned yet. Not only was my magic\nsealed, but I've also been weakened to this extent...)"
                             ]
                         },
                         {
@@ -11916,7 +11874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ブラスター】グアアアググググーッ･･･！"
+                                "[Blaster] Guaaaaggggghhh...!"
                             ]
                         },
                         {
@@ -12035,7 +11993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -12083,7 +12041,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カイン: ルーナ、技を習得したのか？"
+                                "Cain: Luuna, did you learn the technique?"
                             ]
                         },
                         {
@@ -12134,7 +12092,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: ええ。最後に技を出そうとしたところをラーニングした。"
+                                "Luuna: Yes. I learned it just as he was about to use his final move."
                             ]
                         },
                         {
@@ -12152,14 +12110,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: たまたま今回は運良く技を出そうとしたところを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ラーニング出来たけど、本当は敵が技を出すまで待たないといけない。"
+                                "Luuna: This time I was lucky to learn it just as he was about to use\nhis move, but normally we have to wait until the enemy uses their\ntechnique."
                             ]
                         },
                         {
@@ -12187,7 +12138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイン: とんでもなく強い奴だったぜ。"
+                                "Cain: He was an incredibly strong guy."
                             ]
                         },
                         {
@@ -12238,7 +12189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: ふう･･･本当に強い敵だったわね。"
+                                "Becky: Phew... He really was a strong enemy."
                             ]
                         },
                         {
@@ -12289,7 +12240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ええ。"
+                                "Luuna: Yes."
                             ]
                         },
                         {
@@ -12319,7 +12270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ジェフ】ルーナ！ベッキー！カイン！"
+                                "[Jeff] Luuna! Becky! Cain!"
                             ]
                         },
                         {
@@ -12337,7 +12288,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ジェフ？"
+                                "Luuna: Jeff?"
                             ]
                         },
                         {
@@ -12355,14 +12306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ジェフ】ルーナ、大変だ。ノアの病状が悪化したらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すぐにシェーナの村に戻ってくれ。"
+                                "Jeff: Luuna, it's terrible. It seems Noah's condition has worsened.\nPlease come back to Sheena Village immediately."
                             ]
                         },
                         {
@@ -12413,7 +12357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ノアが！？わかりました。すぐに戻ります。"
+                                "Luuna: Noah is!? Understood. I'll return at once."
                             ]
                         },
                         {
@@ -12577,7 +12521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -12945,7 +12889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ラッキーリング』を手に入れた。"
+                                "You've obtained the \"Lucky Ring\"."
                             ]
                         },
                         {

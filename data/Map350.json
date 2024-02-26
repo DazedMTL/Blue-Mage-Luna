@@ -16548,7 +16548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ブロンズシールド』を手に入れた。"
+                                "You've obtained the \"Bronze Shield\"."
                             ]
                         },
                         {
@@ -16807,7 +16807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『キャリバーン』を手に入れた。"
+                                "Acquired \"Caliburn\"."
                             ]
                         },
                         {

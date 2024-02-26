@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "レーデの屋敷",
+    "displayName": "Rade's Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -6561,7 +6561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: お願いします･･！"
+                                "Luuna: Please...!"
                             ]
                         },
                         {
@@ -6626,14 +6626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: う～ん、そうね～ん。教えろと言っても何を教えればいいのかしら～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本を教えるのは今更だしね～ん。"
+                                "Rade: Hmm, let's see~n. Even if you ask me to teach you, I'm not sure\nwhat to teach~n. It's a bit late to go over the basics now, isn't\nit~n."
                             ]
                         },
                         {
@@ -6744,14 +6737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あんた、そこそこの才はあるのよね～ん。応用魔法も長けてるしね～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウジ虫さんだけどね～ん。"
+                                "Rade: You have some talent, you know~n. You're also good at applied\nmagic~n. But you're still a maggot~n."
                             ]
                         },
                         {
@@ -6769,7 +6755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6820,7 +6806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ウジ虫さんがウジ虫さんじゃなくなる方法かぁ～ん。"
+                                "Rade: A way for a maggot to stop being a maggot, huh~n."
                             ]
                         },
                         {
@@ -6838,7 +6824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6949,14 +6935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ウジ虫さんが努力しても～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イモ虫さんになるだけなのにねぇ～ん。きゃはははははーんっ"
+                                "Rade: Even if a maggot tries hard, it'll just become a caterpillar in\nthe end~n. Kyahaha~n!"
                             ]
                         },
                         {
@@ -7052,7 +7031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: んん･････！？"
+                                "Rade: Nn...!?"
                             ]
                         },
                         {
@@ -7121,7 +7100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･････"
+                                "Rade: ............"
                             ]
                         },
                         {
@@ -7139,7 +7118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･････？"
+                                "Rade: ............?"
                             ]
                         },
                         {
@@ -7157,7 +7136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (なんだ、この娘･･･)"
+                                "Rade: (What's with this girl...)"
                             ]
                         },
                         {
@@ -7175,7 +7154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･････"
+                                "Rade: ............"
                             ]
                         },
                         {
@@ -7193,7 +7172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (鎖･･･？)"
+                                "Rade: (Chains...?)"
                             ]
                         },
                         {
@@ -7211,7 +7190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (魔導の強制ギブスのようなものか？普段は見えなくしている･･･？)"
+                                "Rade: (Is it something like a magical cast that's forced on her?\nNormally it's invisible...?)"
                             ]
                         },
                         {
@@ -7299,7 +7278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (なんだ、この鎖は･･･)"
+                                "Rade: (What are these chains...)"
                             ]
                         },
                         {
@@ -7423,7 +7402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (この娘･･･自らに戒めの鎖を付けている･･･？)"
+                                "Rade: (This girl... she has put chains of restraint on herself...?)"
                             ]
                         },
                         {
@@ -7494,7 +7473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (何の為に戒めの鎖を･･･)"
+                                "Rade: (Why does she have these chains of restraint...)"
                             ]
                         },
                         {
@@ -7512,7 +7491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･･･････"
+                                "Rade: ..............."
                             ]
                         },
                         {
@@ -7583,7 +7562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (こいつ、ただの蒼魔導士の娘ではないのか？)"
+                                "Rade: (Is she not just any blue mage's daughter?)"
                             ]
                         },
                         {
@@ -7601,14 +7580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (他の者に悟られぬようチェーンで自らの魔導を制限しているようだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僅かに娘を縛る鎖が見える･･･自らに鎖の十字架を･･･)"
+                                "Rade: (She seems to be limiting her own magic with these chains so\nothers won't notice. I can barely see the chains binding her... a\ncross of chains on herself...)"
                             ]
                         },
                         {
@@ -7626,7 +7598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･･･････"
+                                "Rade: ..............."
                             ]
                         },
                         {
@@ -7681,14 +7653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (狂気ともとれる音色･･･この旋律･･･他者に悟られぬよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長きにわたり、その鎖で自らを拘束してきたのか。何の為に･･･)"
+                                "Rade: (A melody that could be taken as madness... This tune... Has she\nbeen restraining herself with these chains for a long time without\nothers realizing? For what purpose...)"
                             ]
                         },
                         {
@@ -7706,14 +7671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (その鎖、付けるには相当の覚悟がいるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上位の魔導士でも躊躇う戒めの魔導の鎖･･･この娘に何があったのか。)"
+                                "Rade: (Those chains would require considerable resolve to wear. Even\nhigh-ranking mages would hesitate to use such restraining magic\nchains... What happened to this girl?)"
                             ]
                         },
                         {
@@ -7731,21 +7689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (多少の才のある者が自らを誇示する為、守備をあげる為、自らに魔導の鎧を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "付ける事はよくある事だ。そんな者は腐るほど見てきたが、この娘の鎖はそれとは少し違い異質だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鎖はむしろ抑制･･･蒼魔導などよりむしろ･･･この娘の狂気の旋律が気になる。)"
+                                "Rade: (It's common for those with some talent to wear magical armor to\nshow off or to increase their defense. I've seen plenty of such people\nrot away, but this girl's chains are different, they're abnormal. The\nchains are more suppressive... rather than blue magic, I'm more\ncurious about this girl's melody of madness.)"
                             ]
                         },
                         {
@@ -7763,21 +7707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (本来、その鎖は魔導の能力を上げる目的だったのかもしれないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつしか何かを抑制する為に使っているとみた。何故その経緯に至ったのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで鎖自体が感情を持っているかのようだ。憎悪か恨みか分からんが負の感情の抑制･･･？)"
+                                "Rade: (Originally, those chains might have been intended to enhance\nmagical abilities, but it seems they are now used to suppress\nsomething. Why did it come to this? It's as if the chains themselves\nhave emotions. I can't tell if it's hatred or resentment, but they're\nsuppressing negative emotions...?)"
                             ]
                         },
                         {
@@ -7795,7 +7725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (･････････)"
+                                "Rade: (.................)"
                             ]
                         },
                         {
@@ -7813,7 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (ふぅん･･･)"
+                                "Rade: (Hmm...)"
                             ]
                         },
                         {
@@ -7831,7 +7761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (この娘に付きまとわれて面倒だったが。)"
+                                "Rade: (It was troublesome being followed by this girl.)"
                             ]
                         },
                         {
@@ -7849,7 +7779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (興味深い。レグナスが関心を寄せるのも多少は頷ける。)"
+                                "Rade: (Interesting. I can somewhat understand why Regnus is interested\nin her.)"
                             ]
                         },
                         {
@@ -7867,7 +7797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (面白い娘だ。)"
+                                "Rade: (She's an interesting girl.)"
                             ]
                         },
                         {
@@ -7885,7 +7815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: (いいだろう･･･気が変わった。)"
+                                "Rade: (Alright then... I've changed my mind.)"
                             ]
                         },
                         {
@@ -8081,7 +8011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･？"
+                                "Luuna: ...?"
                             ]
                         },
                         {
@@ -8192,7 +8122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ふふふ･･･"
+                                "Rade: Fufufu..."
                             ]
                         },
                         {
@@ -8210,7 +8140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -8228,7 +8158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (レーデさんの顔つきが変わった･･･)"
+                                "Luuna: (Rade-san's expression has changed...)"
                             ]
                         },
                         {
@@ -8339,7 +8269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 私の手を握りなさい。"
+                                "Rade: Take my hand."
                             ]
                         },
                         {
@@ -8390,7 +8320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい･･！"
+                                "Luuna: Yes...!"
                             ]
                         },
                         {
@@ -8447,7 +8377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[79]ルーナの魔法防御力が一時的に大幅向上した。"
+                                "\\I[79]Luuna's magical defense power has temporarily increased significantly."
                             ]
                         },
                         {
@@ -8498,7 +8428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あ･･･"
+                                "Luuna: Ah..."
                             ]
                         },
                         {
@@ -8549,7 +8479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: これは･･･レーデさん？"
+                                "Luuna: Is this... Rade-san?"
                             ]
                         },
                         {
@@ -8725,7 +8655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あんたの魔法防御力を一時的に大幅向上させたのよ～ん。"
+                                "Rade: I've temporarily significantly increased your magical defense\npower~n."
                             ]
                         },
                         {
@@ -8776,7 +8706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え？どういう事ですか？"
+                                "Luuna: Eh? What do you mean?"
                             ]
                         },
                         {
@@ -8827,14 +8757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あんたに教える事は何もない～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "能力は既に開花されてるからね～ん。あんたなりにね～ん。"
+                                "Rade: There's nothing I need to teach you~n. Your abilities have\nalready blossomed, after all~n. In your own way~n."
                             ]
                         },
                         {
@@ -8885,14 +8808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: もしあるとすれば～ん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしの魔法を1つ教えてあげる事ね～ん。"
+                                "Rade: If there's anything~n, it's that I'll teach you one of my\nspells~n."
                             ]
                         },
                         {
@@ -8943,14 +8859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あなた、蒼魔導士なんでしょ～ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったら、あたしの魔法を盗みなさいよ～ん。"
+                                "Rade: You're a blue mage, right~n? Then steal my magic for yourself~n."
                             ]
                         },
                         {
@@ -9001,7 +8910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え、私がレーデさんの魔法を盗む？"
+                                "Luuna: Eh, I'm going to steal Rade-san's magic?"
                             ]
                         },
                         {
@@ -9052,14 +8961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: それが一番、手っ取り早い方法よ～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウジ虫さんがイモ虫さんに昇格するにはね～ん。"
+                                "Rade: That's the quickest way~n. For a maggot to evolve into a\ncaterpillar~n."
                             ]
                         },
                         {
@@ -9110,14 +9012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: だけど～ あたしの魔法をあなたが受け止めるには防御力が必要なのよ～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勿論、手加減はするけどね～ん。だから一時的に魔法防御力を向上させたのよ～ん。"
+                                "Rade: But~n, you need defensive power to withstand my magic~n. Of\ncourse, I'll hold back a bit~n. That's why I temporarily boosted your\nmagical defense power~n."
                             ]
                         },
                         {
@@ -9168,7 +9063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: わかりました。レーデさんの魔法、覚えてみせます！"
+                                "Luuna: Understood. I will learn Rade-san's magic!"
                             ]
                         },
                         {
@@ -9219,14 +9114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: じゃあ～、いくわよ～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "折角だから～ ちょっと遊ぶけどね～ん。きゃはははーんっ"
+                                "Rade: Then~, here I go~n. I'll play around a bit since it's a special\noccasion~n. Kyahaha-n!"
                             ]
                         },
                         {
@@ -9277,7 +9165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ペシペシペシペシッ それじゃあいくわよ～ん！"
+                                "Rade: Peshi Peshi Peshi Peshi! Now, let's get started~n!"
                             ]
                         },
                         {
@@ -9395,21 +9283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レーデ: こら～！ちょっとあんた～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この設定は～ん、ゲーム内で～ あたしに勝てる設定じゃないのよ～ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これはバグ～っ！不具合よ～んっ！"
+                                "Rade: Hey~! Wait a minute~! This setting~n, isn't one where you can\nbeat me in the game, is it~n? This is a bug~! A malfunction~n!"
                             ]
                         },
                         {

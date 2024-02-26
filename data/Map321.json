@@ -14897,7 +14897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: うう･･･"
+                                "Becky: Ugh..."
                             ]
                         },
                         {
@@ -14982,14 +14982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: あなた達の兵は起き上がれないようね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大半は鋼鉄兵にまるで歯が立たず逃げ出したみたいだけど。"
+                                "Lucia: It seems your soldiers can't get up. Most of them couldn't even\nscratch the steel soldiers and fled, it seems."
                             ]
                         },
                         {
@@ -15040,7 +15033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: くっ･･･"
+                                "Becky: Damn..."
                             ]
                         },
                         {
@@ -15058,7 +15051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･････"
+                                "Becky: ......."
                             ]
                         },
                         {
@@ -15109,7 +15102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふふ･･･"
+                                "Becky: Heh heh..."
                             ]
                         },
                         {
@@ -15127,7 +15120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ははは･･･"
+                                "Becky: Hahaha..."
                             ]
                         },
                         {
@@ -15212,7 +15205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 何がおかしい？虫けら。"
+                                "Lucia: What's so funny? Insect."
                             ]
                         },
                         {
@@ -15230,7 +15223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -15265,7 +15258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -15283,7 +15276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････！"
+                                "Lucia: ............!"
                             ]
                         },
                         {
@@ -15301,7 +15294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 雨･･･"
+                                "Lucia: Rain..."
                             ]
                         },
                         {
@@ -15319,7 +15312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: そう･･･雨よ。"
+                                "Becky: Yes... rain."
                             ]
                         },
                         {
@@ -15783,7 +15776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 我が魔導は蒼魔法･･･"
+                                "Luuna: My magic is azure magic..."
                             ]
                         },
                         {
@@ -15834,14 +15827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 蒼魔導の神髄は魔導のラーニング。技の習得。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "故に如何に高位の魔導士とて、初見の魔導は読み切れぬ。"
+                                "Luuna: The essence of azure sorcery is learning magic and acquiring\ntechniques. Therefore, no matter how high-ranking a sorcerer is, they\ncannot fully comprehend a magic they see for the first time."
                             ]
                         },
                         {
@@ -15897,7 +15883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーナ！"
+                                "Becky: Luuna!"
                             ]
                         },
                         {
@@ -15964,7 +15950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ベッキー、大丈夫よ。遅れてごめん。"
+                                "Luuna: Becky, it's okay. Sorry I'm late."
                             ]
                         },
                         {
@@ -15991,7 +15977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ルーナ、来たか。"
+                                "Sylvia: Luuna, you've arrived."
                             ]
                         },
                         {
@@ -16043,7 +16029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -16094,7 +16080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 久しぶりね、ルーナ。"
+                                "Lucia: It's been a while, Luuna."
                             ]
                         },
                         {
@@ -16145,7 +16131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 気安く名で呼ぶな、狂える皇女ルーシア。恥を知るがいい。"
+                                "Luuna: Don't call me by my name so casually, mad princess Lucia. You\nshould be ashamed."
                             ]
                         },
                         {
@@ -16168,7 +16154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -16235,7 +16221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ルーナ、ついに蒼魔法を極めたようね。素晴らしいわ。"
+                                "Lucia: Luuna, it seems you've finally mastered azure magic. Wonderful."
                             ]
                         },
                         {
@@ -16286,14 +16272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 代々伝承される蒼魔法の一族に生まれたあなたは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一族の中でも蒼魔法に長けていた。"
+                                "Lucia: Born into a family that has passed down azure magic for\ngenerations, you were particularly skilled in azure magic even among\nyour kin."
                             ]
                         },
                         {
@@ -16378,14 +16357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 我が蒼魔導の神髄は魔法のラーニング。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "如何に優れた魔導士とて世界各地で得た希有の魔法を防ぐ事など出来ない。"
+                                "Luuna: The essence of my azure sorcery is learning magic. No matter\nhow excellent a sorcerer is, they cannot defend against the rare\nmagics obtained from all over the world."
                             ]
                         },
                         {
@@ -16419,7 +16391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -16442,14 +16414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 蒼魔導士と普通の魔導士の違いは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度見た魔法を自分のものにする。"
+                                "Lucia: The difference between an azure sorcerer and an ordinary\nsorcerer is that they make any magic they see once their own."
                             ]
                         },
                         {
@@ -16500,14 +16465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: しかもルーナ、あなたは一度覚えた蒼魔法に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オリジナルの魔法を加味して強化している。"
+                                "Lucia: Moreover, Luuna, you enhance the azure magic you learn once by\nadding your original magic to it."
                             ]
                         },
                         {
@@ -16558,7 +16516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 黒い魔女･･･ルーシア、必ず倒す。"
+                                "Luuna: Black witch... Lucia, I will definitely defeat you."
                             ]
                         },
                         {
@@ -16585,14 +16543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 流石にルーシアが負けるとは思えないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蒼魔法自体が脅威な存在か。"
+                                "Sylvia: I can't imagine Lucia losing, but azure magic itself is a\nthreatening existence."
                             ]
                         },
                         {
@@ -16610,7 +16561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -16662,14 +16613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私に習得できない技はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシア、あなたの攻撃魔法は全てラーニングする。"
+                                "Luuna: There is no technique I cannot learn. Lucia, I will learn all\nof your attack magic."
                             ]
                         },
                         {
@@ -16718,14 +16662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】おいっ てめぇ、さっきから何をゴチャゴチャ言ってやがる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様も仲間共と一緒の目に遭わせてやる。"
+                                "[Steel Soldier] Hey you, what are you blabbering about? I'll make you\nsuffer the same fate as your comrades."
                             ]
                         },
                         {
@@ -16743,14 +16680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】てめぇごときがルーシア様にかなうわけねーだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひねり殺してやる。"
+                                "[Steel Soldier] Like you could ever match Lady Lucia. I'll twist and\nkill you."
                             ]
                         },
                         {
@@ -16768,7 +16698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】俺の自慢の頭突きを食らわせてやる！そら！"
+                                "[Steel Soldier] Take this! My prideful headbutt! Here it comes!"
                             ]
                         },
                         {
@@ -16808,7 +16738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......."
                             ]
                         },
                         {
@@ -16868,7 +16798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 『頭突き』をラーニング････"
+                                "Luuna: \"Headbutt\" learned...."
                             ]
                         },
                         {
@@ -16886,7 +16816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】！！？"
+                                "[Steel Soldier] !!?"
                             ]
                         },
                         {
@@ -17000,14 +16930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】ガッ･･･ 俺様の頭突きを覚えて真似ただと･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも俺の頭突きより威力がある･･･"
+                                "[Steel Soldier] Gah... You learned and copied my headbutt... And it's\neven more powerful than mine..."
                             ]
                         },
                         {
@@ -17058,14 +16981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: これで分かったでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚える事が出来る技は魔法とは限らない。"
+                                "Luuna: Now do you understand? The techniques I can learn are not\nlimited to magic."
                             ]
                         },
                         {
@@ -17083,7 +16999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】くそ････相手の技を覚える魔導士だと？冗談じゃねぇ･･･"
+                                "[Steel Soldier] Damn... A sorcerer who learns the opponent's\ntechniques? You've got to be kidding..."
                             ]
                         },
                         {
@@ -17120,7 +17036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】ギッ････！？"
+                                "[Steel Soldier] Gah...!?"
                             ]
                         },
                         {
@@ -17241,7 +17157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 硫酸の雨！"
+                                "Luuna: Acid Rain!"
                             ]
                         },
                         {
@@ -17376,7 +17292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】ギィヤアァアアアーーーーーーー･･･！！"
+                                "[Steel Soldier] GYAAAAAAA-------...!!"
                             ]
                         },
                         {
@@ -17394,7 +17310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】か、身体が溶けるー･･･！なんだこれはー･･･！？"
+                                "[Steel Soldier] My body is melting...! What is this...!?"
                             ]
                         },
                         {
@@ -17479,7 +17395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: これは････････"
+                                "Lucia: This is............"
                             ]
                         },
                         {
@@ -17497,7 +17413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 硫酸の雨･･･！？"
+                                "Lucia: Acid Rain...!?"
                             ]
                         },
                         {
@@ -17582,14 +17498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そう。これは、我が蒼魔法の奥義の一つ『硫酸の雨』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のオリジナルの魔法で敵にしか硫酸の雨は降らない。"
+                                "Luuna: Yes, this is one of the secret techniques of my blue magic,\n\"Acid Rain.\" It's an original spell of mine that only rains acid on\nthe enemy."
                             ]
                         },
                         {
@@ -17664,7 +17573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【鋼鉄兵】ギィヤアァアアアーーーーーーー･･･！！"
+                                "[Steel Soldier] GYAAAAAAA-------...!!"
                             ]
                         },
                         {
@@ -18141,7 +18050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -18192,7 +18101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 凄い･･･！さすがルーナ。鋼鉄兵を一瞬で全員倒した。"
+                                "Becky: Amazing...! As expected of Luuna. She took down all the steel\nsoldiers in an instant."
                             ]
                         },
                         {
@@ -18243,7 +18152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: でも･･･ルーシアは全くの無傷･･･"
+                                "Becky: But... Lucia is completely unharmed..."
                             ]
                         },
                         {
@@ -18261,7 +18170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ･････"
+                                "Sylvia: ..........."
                             ]
                         },
                         {
@@ -18279,7 +18188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: やはり侮り難し。蒼魔導士ルーナ･･･想像以上だな。"
+                                "Sylvia: As I thought, she's not to be underestimated. The blue\nsorceress Luuna... she's beyond imagination."
                             ]
                         },
                         {
@@ -18297,7 +18206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: この勝負、ルーシアといえども分からない。"
+                                "Sylvia: With this match, even Lucia might not be certain of victory."
                             ]
                         },
                         {
@@ -18349,7 +18258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -18400,7 +18309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 防御壁か。普通のシェルではないようね。"
+                                "Luuna: A defensive barrier, huh? It seems it's not just an ordinary\nshell."
                             ]
                         },
                         {
@@ -18457,7 +18366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -18508,7 +18417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 無駄よ。硫酸を中和する魔法壁を瞬時に身体中に覆わせた。"
+                                "Lucia: It's futile. I instantly covered my body with a magic barrier\nthat neutralizes acid."
                             ]
                         },
                         {
@@ -18575,7 +18484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ルーナ、流石にこの程度で私を倒せるとは思っていないでしょう？"
+                                "Lucia: Luuna, surely you didn't think you could defeat me with just\nthat, did you?"
                             ]
                         },
                         {
@@ -18593,7 +18502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: さぁ、次は何を見せてくれるの？"
+                                "Lucia: Now, what will you show me next?"
                             ]
                         },
                         {
@@ -18655,7 +18564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 貴様を倒すには私の秘魔法でなくては倒せないと思っていた。"
+                                "Luuna: I thought I couldn't defeat you without using my secret magic."
                             ]
                         },
                         {
@@ -18673,7 +18582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････！"
+                                "Lucia: ...!"
                             ]
                         },
                         {
@@ -18691,7 +18600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 秘魔法･･･"
+                                "Lucia: Secret magic..."
                             ]
                         },
                         {
@@ -18742,7 +18651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーナ･･･"
+                                "Becky: Luuna..."
                             ]
                         },
                         {
@@ -18760,7 +18669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ルーナの存在は危険過ぎる。"
+                                "Sylvia: Luuna's existence is too dangerous."
                             ]
                         },
                         {
@@ -18811,7 +18720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: いくわよ。ルーシア。"
+                                "Luuna: Here I come, Lucia."
                             ]
                         },
                         {
@@ -18829,7 +18738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････"
+                                "Lucia: ..........."
                             ]
                         },
                         {
@@ -18880,7 +18789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーシア、最期に一つだけ聞かせて。"
+                                "Luuna: Lucia, let me ask you one last thing before the end."
                             ]
                         },
                         {
@@ -18898,7 +18807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････？"
+                                "Lucia: ...?"
                             ]
                         },
                         {
@@ -18949,14 +18858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなたは･･･自らの母親を手にかけ、直系の魔導士を継承したと噂されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは本当なの？あなたの母親であるレイシア様は私によくしてくれた。"
+                                "Luuna: It's rumored that you killed your own mother to inherit the\ndirect line of sorcery. Is that true? Lady Leysia, your mother, was\nkind to me."
                             ]
                         },
                         {
@@ -19041,7 +18943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 本当よ。私は自分の母親を殺した。レイシアを殺した。それがどうした？"
+                                "Lucia: It's true. I killed my own mother. I killed Leysia. What of it?"
                             ]
                         },
                         {
@@ -19126,7 +19028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 許せない･･･"
+                                "Luuna: Unforgivable..."
                             ]
                         },
                         {
@@ -19144,7 +19046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 最早、あなたと話す事は何もない。"
+                                "Luuna: There's nothing more to discuss with you."
                             ]
                         },
                         {
@@ -19162,7 +19064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 我が蒼魔法で抹殺する。"
+                                "Luuna: I will erase you with my blue magic."
                             ]
                         },
                         {
@@ -19180,7 +19082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -19282,7 +19184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーシア！覚悟！"
+                                "Luuna: Lucia! Prepare yourself!"
                             ]
                         },
                         {
@@ -19300,7 +19202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 我が最大秘魔法･･･！"
+                                "Luuna: My ultimate secret magic...!"
                             ]
                         },
                         {
@@ -19379,7 +19281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うあああっ･･･！？"
+                                "Luuna: Uaaaaah...!?"
                             ]
                         },
                         {
@@ -19407,7 +19309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ルーシア！今のうちにルーナを殺せ！"
+                                "Sylvia: Lucia! Now's your chance to kill Luuna!"
                             ]
                         },
                         {
@@ -19520,7 +19422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: しまった･･･もう一人、居たなんて。"
+                                "Luuna: Damn it... I forgot there was another one."
                             ]
                         },
                         {
@@ -19571,7 +19473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あれは･･･魔法大国バレンチナのシルヴィア･･･うっ"
+                                "Luuna: That is... Sylvia of the magical kingdom of Valentia... ugh"
                             ]
                         },
                         {
@@ -19622,7 +19524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: シルヴィア？何でバレンチナの将軍が帝都ジュピターノに居るのよ･･･"
+                                "Becky: Sylvia? Why is a general from Valentia in the imperial capital\nof Jupiterino...?"
                             ]
                         },
                         {
@@ -19650,7 +19552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ルーシア！ルーナを殺せ！放っておけば必ず脅威になる！"
+                                "Sylvia: Lucia! Kill Luuna! If you leave her be, she will surely become\na threat!"
                             ]
                         },
                         {
@@ -19702,7 +19604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ････････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -19720,7 +19622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 余計な真似を。"
+                                "Lucia: You're meddling unnecessarily."
                             ]
                         },
                         {
@@ -19853,7 +19755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: とはいえ、シルヴィアの言う事はもっともね。"
+                                "Lucia: However, what Sylvia says makes sense."
                             ]
                         },
                         {
@@ -19904,14 +19806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: あなたをこのまま放っておけば、必ず私の脅威になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危険な芽は今のうちに摘んでおかないとね。"
+                                "Lucia: If I leave you as you are, you will certainly become a threat\nto me. It's best to nip dangerous buds in the bud."
                             ]
                         },
                         {
@@ -19929,7 +19824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: これほどの天才を殺すのは惜しいけど。"
+                                "Lucia: It's a shame to kill such a genius though."
                             ]
                         },
                         {
@@ -19954,7 +19849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -20021,7 +19916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うっ･････"
+                                "Luuna: Ugh............"
                             ]
                         },
                         {
@@ -20039,7 +19934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ルーシア！早く！"
+                                "Sylvia: Lucia! Hurry up!"
                             ]
                         },
                         {
@@ -20124,7 +20019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: しかし、私はフェアーな魔導士なのよ。"
+                                "Lucia: However, I am a fair mage."
                             ]
                         },
                         {
@@ -20175,7 +20070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: なに･･･"
+                                "Luuna: What...?"
                             ]
                         },
                         {
@@ -20226,7 +20121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: シルヴィアには悪いけど、この勝負に横槍を入れたから命まではとらないわ。"
+                                "Lucia: Sorry to Sylvia, but since you interfered in this duel, I won't\ntake your life."
                             ]
                         },
                         {
@@ -20293,14 +20188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ただ･･･確かにあなたは私にとって危険過ぎる存在。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を脅かす存在である事には違いない。"
+                                "Lucia: However... indeed, you are too dangerous a being for me.\nThere's no doubt that you are a threat to me."
                             ]
                         },
                         {
@@ -20351,7 +20239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 命は奪わない。しかし、あなたの魔力・魔導は封じさせてもらう。"
+                                "Lucia: I won't take your life. However, I will seal your magic power.\nYour sorcery will be sealed."
                             ]
                         },
                         {
@@ -20402,7 +20290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･･･"
+                                "Luuna: Eh...?"
                             ]
                         },
                         {
@@ -20487,14 +20375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ルーナ、二度と魔法を使えなくしてやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすれば、あなたは死んだも同じだわ。"
+                                "Lucia: Luuna, I will make it so you can never use magic again. That\nway, you might as well be dead."
                             ]
                         },
                         {
@@ -20512,7 +20393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私から魔法を奪う･･･？"
+                                "Luuna: To take away my magic...?"
                             ]
                         },
                         {
@@ -20563,14 +20444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: そうよ。そうすればあなたは羽をもがれた水鳥と同じ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後、わたくしに刃向かう事もなくなるでしょう。"
+                                "Lucia: Yes. That way, you'll be like a waterfowl that's had its wings\nplucked. From now on, you won't be able to oppose me anymore."
                             ]
                         },
                         {
@@ -20621,7 +20495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: この･･･"
+                                "Luuna: You..."
                             ]
                         },
                         {
@@ -20672,7 +20546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: お疲れ様でした･･･ルーナ。"
+                                "Lucia: Good work... Luuna."
                             ]
                         },
                         {
@@ -20707,7 +20581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてルーナはルーシアによって魔力を奪われ、魔法を一切使えなくなった。"
+                                "And so, Luuna had her magic power taken away by Lucia and became\nunable to use any magic at all."
                             ]
                         },
                         {
@@ -20725,14 +20599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の村へと戻ったルーナとベッキーだったが、彼女達を待っていたのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長達からの厳しい叱責と冷遇だった。"
+                                "Luuna and Becky returned to their village, but they were met with\nharsh reprimands and cold treatment from the village elders."
                             ]
                         },
                         {
@@ -20750,14 +20617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシアは見せしめとしてルーナ達が住むシェーナの村に当面、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "3倍の税収を決定したのだった。"
+                                "As a show of force, Lucia decided to impose triple the taxes on the\nvillage of Sheena where Luuna and the others lived."
                             ]
                         },
                         {
@@ -20775,7 +20635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また反乱に加わった者達を鞭打ちの刑に処した。"
+                                "She also punished those who joined the rebellion with whipping."
                             ]
                         },
                         {
@@ -20793,14 +20653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナと幼馴染の男性ノアと、ベッキーの夫であるポールは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鋼鉄兵との戦いで半身不随になり、意識はあるが動けない状態となった。"
+                                "Luuna and her childhood friend Noah, as well as Becky's husband Pole,\nbecame paralyzed from the waist down after the battle with the steel\nsoldiers, conscious but unable to move."
                             ]
                         },
                         {
@@ -20818,14 +20671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達の住む村「シエーナ」は、ルーシアに刃向かった事で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死の村へと変わった。"
+                                "The village of Sheena where Luuna and the others lived turned into a\nvillage of death for opposing Lucia."
                             ]
                         },
                         {
@@ -20843,14 +20689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金銭が無く明日、食べる物さえ無くなり、死の村へと変わった全ての責任は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナとベッキー達に向けられた。"
+                                "Lacking money and even food for tomorrow, all responsibility for\nturning into a village of death was directed at Luuna and Becky and\nthe others."
                             ]
                         },
                         {
@@ -20868,7 +20707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人達の怒りは凄まじく、ルーナ達に全責任をとらせようとしていた。"
+                                "The villagers' anger was fierce, and they were trying to make Luuna\nand the others take full responsibility."
                             ]
                         },
                         {

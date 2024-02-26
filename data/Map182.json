@@ -6402,7 +6402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････"
+                                "Rei: ..."
                             ]
                         },
                         {
@@ -6420,7 +6420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】レイ、やっぱり此処だったんだな。"
+                                "Luno: Rei, I knew you'd be here."
                             ]
                         },
                         {
@@ -6438,7 +6438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ルノ、ありがとう。"
+                                "Rei: Luno, thank you."
                             ]
                         },
                         {
@@ -6456,7 +6456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】魔法の練習、順調か？"
+                                "Luno: How's the magic practice going?"
                             ]
                         },
                         {
@@ -6474,14 +6474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: 順調じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつらの言う通り、向いてないのかもしれない。"
+                                "Rei: Not well. Maybe they're right, maybe I'm just not cut out for\nthis."
                             ]
                         },
                         {
@@ -6499,7 +6492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】そうか。"
+                                "Luno: I see."
                             ]
                         },
                         {
@@ -6517,14 +6510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: 今更、ファイアが出来たって、中学生になって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "掛け算ができたようなものよ。こんな練習しても落ち込むだけ。"
+                                "Rei: At this point, being able to cast Fire is like a middle schooler\nfinally learning multiplication. All this practice does is get me\ndown."
                             ]
                         },
                         {
@@ -6542,7 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: 本当はもう嫌になってきてる。"
+                                "Rei: Honestly, I'm starting to hate it."
                             ]
                         },
                         {
@@ -6560,7 +6546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】そうか･･･"
+                                "Luno: I see..."
                             ]
                         },
                         {
@@ -6640,7 +6626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】なぁレイ、どうしても魔導士にならないといけないのか？"
+                                "Luno: Hey Rei, do you really have to become a sorceress no matter\nwhat?"
                             ]
                         },
                         {
@@ -6658,7 +6644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: え･･･"
+                                "Rei: Eh..."
                             ]
                         },
                         {
@@ -6676,14 +6662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】そんなに意地になる事ないよ。魔導士なんて世の中に沢山いる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイにしか出来ない事だってあるじゃないか。"
+                                "Luno: You don't have to be so stubborn about it. There are plenty of\nsorcerers in the world. Isn't there something only you can do?"
                             ]
                         },
                         {
@@ -6701,7 +6680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: あたしにしか出来ない事？"
+                                "Rei: Something only I can do?"
                             ]
                         },
                         {
@@ -6728,7 +6707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】アイドルになれよ。"
+                                "Luno: Why not become an idol?"
                             ]
                         },
                         {
@@ -6746,14 +6725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】さっき、アイドルを育てている芸能会社の担当者がレイの家に来てたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この名刺と書類をレイに渡してくれってさ。"
+                                "Luno: Earlier, a representative from an entertainment company that\ndevelops idols came to your house. They left this business card and\ndocuments for you to give to Rei."
                             ]
                         },
                         {
@@ -6771,21 +6743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】レイは可愛いから、周りが放っておかないんだろうな～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイドルのオファーがきたのは、これで何回目かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしレイがアイドルになれば俺も自慢できるし。"
+                                "Luno: You're so cute, Rei, that people just can't leave you alone. How\nmany times have you received idol offers now? If you became an idol, I\ncould brag about it too."
                             ]
                         },
                         {
@@ -6803,7 +6761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】これがアイドルになれる契約書だ。確かに渡したぞ。"
+                                "Luno: This is the contract that could make you an idol. I've made sure\nto hand it over."
                             ]
                         },
                         {
@@ -6950,7 +6908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････"
+                                "Rei: ..."
                             ]
                         },
                         {
@@ -6968,7 +6926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】ああ！何で破るんだよ！！折角のアイドルになれる契約書が！！"
+                                "Luno: Ahh! Why would you tear it up?! That was your chance to become\nan idol!!"
                             ]
                         },
                         {
@@ -6996,7 +6954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】何て事するんだよ！！"
+                                "Luno: Why would you do such a thing?!"
                             ]
                         },
                         {
@@ -7014,7 +6972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: あたしは、アイドルじゃない。アイドルなんて興味ない。"
+                                "Rei: I'm not an idol. I have no interest in that."
                             ]
                         },
                         {
@@ -7032,7 +6990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ルノは、アイドルのマネージャーにでもなりたいの？"
+                                "Rei: Luno, do you want to become an idol manager or something?"
                             ]
                         },
                         {
@@ -7050,7 +7008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】レイ、ごめん･･･。レイの気持ちも知らないで。"
+                                "Luno: Rei, I'm sorry... I didn't consider your feelings."
                             ]
                         },
                         {
@@ -7099,7 +7057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: わかってくれたらいいのよ。"
+                                "Rei: As long as you understand."
                             ]
                         },
                         {
@@ -7117,21 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】うん･･･でもさ、アイドルだって夢のある立派な職業だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイドルに成りたくても成れない女の子は沢山いるのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイはその素質が十分過ぎるほどあるのに。正直、勿体ないよ。"
+                                "Luno: Yeah... But you know, being an idol is a respectable dream job\ntoo. There are so many girls who want to become idols but can't. It's\nhonestly a waste because you have more than enough potential."
                             ]
                         },
                         {
@@ -7149,14 +7093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: それは周りが勝手に決めた事よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしは一度もアイドルになりたいなんて言った事はない。"
+                                "Rei: That's something others have decided for me. I never once said I\nwanted to be an idol."
                             ]
                         },
                         {
@@ -7174,7 +7111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: あたしは魔導士よ。"
+                                "Rei: I am a sorceress."
                             ]
                         },
                         {
@@ -7192,7 +7129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: 魔導士のレイ・グランフォード。"
+                                "Rei: Sorceress Rei Granford."
                             ]
                         },
                         {
@@ -7241,14 +7178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: 今は駄目な魔導士だけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつか、あんな奴等をギャフンと言わせてやるんだから。"
+                                "Rei: Right now, I might be a failure as a sorceress. But one day, I'll\nshow those guys and make them eat their words."
                             ]
                         },
                         {
@@ -7266,7 +7196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】わかったよ。俺の負けだ。レイには参ったよ。"
+                                "Luno: Alright, I get it. You win, Rei. You've got me beat."
                             ]
                         },
                         {
@@ -7284,7 +7214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】でもさ、魔法の上達はどうなんだ？"
+                                "Luno: But what about your progress with magic?"
                             ]
                         },
                         {
@@ -7302,7 +7232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････"
+                                "Rei: ..."
                             ]
                         },
                         {
@@ -7320,14 +7250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: あたし、1年前に魔法大国バレンチナに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗礼の申し込みをしたの。なかなか返事は返ってこないけどね。"
+                                "Rei: A year ago, I applied for baptism in the magical kingdom of\nValentina. I haven't heard back yet though."
                             ]
                         },
                         {
@@ -7345,14 +7268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】魔法大国バレンチナの洗礼？世界の低級魔導士達がバレンチナ王妃に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力を上げてもらう儀式の事か。でも競争率が激しすぎて絶対に当選しないと聞いたぞ。"
+                                "Luno: Baptism in the magical kingdom of Valentina? The ceremony where\nlow-ranking sorcerers from around the world receive magical power from\nthe Queen of Valentina? But I heard the competition is so fierce that\nit's impossible to get selected."
                             ]
                         },
                         {
@@ -7370,14 +7286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: うん。でも･･･これ以上、魔法の練習をしても全く上達しないと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やる事は全部やったけど駄目。もうバレンチナに洗礼に行くしか残っていないのよ。"
+                                "Rei: Yes, but... I don't think I'll make any more progress with magic\npractice. I've done everything I could, but it's no use. My only\noption left is to go to Valentina for the baptism."
                             ]
                         },
                         {
@@ -7395,14 +7304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】でも･･･無理だろ。この国でも何万人の中から一人しか選ばれないんだぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世界にどれだけの魔導士がいると思ってるんだよ。夢物語だ。"
+                                "Luno: But... that's impossible. Only one person is chosen out of tens\nof thousands in this country alone. How many sorcerers do you think\nthere are in the world? It's a fairy tale."
                             ]
                         },
                         {
@@ -7420,7 +7322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: でも、それに賭けるしかないのよ。"
+                                "Rei: But that's all I have to bet on."
                             ]
                         },
                         {
@@ -7452,7 +7354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】･･････"
+                                "Luno: ......"
                             ]
                         },
                         {
@@ -7470,7 +7372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: もう夕方ね。そろそろ帰ろう。"
+                                "Rei: It's getting late. Let's head back home."
                             ]
                         },
                         {
@@ -7488,7 +7390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マリー: レイ～！！！大変よ～！！！"
+                                "Mary: Rei~!!! It's terrible~!!!"
                             ]
                         },
                         {
@@ -7568,7 +7470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ？？？"
+                                "Rei: ???"
                             ]
                         },
                         {
@@ -7912,7 +7814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マリー: レイ！大変よ！"
+                                "Mary: Rei! It's terrible!"
                             ]
                         },
                         {
@@ -7930,7 +7832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ママ、どうしたの？"
+                                "Rei: Mom, what's wrong?"
                             ]
                         },
                         {
@@ -7987,7 +7889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ロン】大変だ！大変だ！大変だ！"
+                                "Ron: It's terrible! Terrible! Terrible!"
                             ]
                         },
                         {
@@ -8005,7 +7907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: パパまで･･･。二人ともどうしたの？"
+                                "Rei: Dad too... What's wrong with both of you?"
                             ]
                         },
                         {
@@ -8023,7 +7925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マリー: バ、バレンチナから手紙がきたのよ！レイ！あなた洗礼を受けれるわよ！"
+                                "Mary: Va, Valentina sent a letter! Rei! You can receive the baptism!"
                             ]
                         },
                         {
@@ -8041,7 +7943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: え･･･"
+                                "Rei: Eh..."
                             ]
                         },
                         {
@@ -8069,7 +7971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: えーーーっ！！！？ 本当！！！？"
+                                "Rei: Eh---!!!? Really!!!?"
                             ]
                         },
                         {
@@ -8087,7 +7989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マリー: ま、間違いないわ！バレンチナ王妃のサインがあるもの。"
+                                "Mary: There's no mistake! It has the signature of the Queen of\nValentina."
                             ]
                         },
                         {
@@ -8105,7 +8007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】レイがバレンチナの洗礼に当選した･･･嘘･･･夢物語が現実になった･･･"
+                                "Luno: Rei has been selected for the baptism in Valentina...\nUnbelievable... A fairy tale has become reality..."
                             ]
                         },
                         {
@@ -8123,7 +8025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マリー: レイ、良かったわね。あなたの夢が叶ったのよ。"
+                                "Mary: Rei, I'm so happy for you. Your dream has come true."
                             ]
                         },
                         {
@@ -8141,7 +8043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･･････"
+                                "Rei: ......"
                             ]
                         },
                         {
@@ -8159,7 +8061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: 嘘･･･こんな奇跡、本当に起きるなんて。まだ夢を見ているみたい。"
+                                "Rei: No way... I can't believe such a miracle is really happening. It\nfeels like I'm still dreaming."
                             ]
                         },
                         {
@@ -8208,7 +8110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】レイ、良かったな。夢が叶って。"
+                                "Luno: Rei, I'm glad your dream came true."
                             ]
                         },
                         {
@@ -8226,7 +8128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: うん･･･"
+                                "Rei: Yeah..."
                             ]
                         },
                         {
@@ -8244,7 +8146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】それにしても何でレイが当選したんだろ。あれだけの競争率をさ。"
+                                "Luno: But I wonder why Rei was chosen. Considering the competition\nrate..."
                             ]
                         },
                         {
@@ -8262,14 +8164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ロン】ん～、レイはアイドルのオファーが何度もくるくらい特別可愛いからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと男性の審査員が居て、レイを気に入ったに違いない。魔導とは関係ないよ。"
+                                "Ron: Hmm, Rei gets offers to be an idol so often because she's\nespecially cute. There must have been male judges who took a liking to\nher. It has nothing to do with magic."
                             ]
                         },
                         {
@@ -8318,7 +8213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】なるほど、それで目に止まったのか。"
+                                "Luno: I see, that's why she caught their eye."
                             ]
                         },
                         {
@@ -8345,7 +8240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ところでママ、いつ魔法大国バレンチナに出発するの？"
+                                "Rei: By the way, Mom, when do we leave for the magical kingdom of\nValentina?"
                             ]
                         },
                         {
@@ -8363,7 +8258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マリー: 来月よ。私やパパも行くわ。ルノ君は？"
+                                "Mary: Next month. Your father and I are going too. What about you,\nLuno-kun?"
                             ]
                         },
                         {
@@ -8381,14 +8276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】勿論、俺も行くよ！レイに近寄ってくる男共が居たら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺がブッ飛ばしてやる為にさ～。"
+                                "Luno: Of course, I'm going too! If any guys try to get close to Rei,\nI'll knock them out~."
                             ]
                         },
                         {
@@ -8468,7 +8356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: あははっ ルノにそんな事できるの～？"
+                                "Rei: Ahaha, Luno, can you really do that~?"
                             ]
                         },
                         {
@@ -8486,7 +8374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルノ】で、で、出来るんだ～い！"
+                                "Luno: Ye, ye, yes I can~!"
                             ]
                         },
                         {
@@ -8504,7 +8392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: あははっ ルノったら。"
+                                "Rei: Ahaha, Luno, you're so funny."
                             ]
                         },
                         {
@@ -8584,14 +8472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マリー: そうと決まったら、バレンチナに手紙を返しておくわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイ、洗礼を受けれるなんて、あなたは本当に運がいいわ。こんな奇跡みたいな事･･･"
+                                "Mary: Now that it's decided, I'll reply to Valentina's letter. Rei,\nyou're really lucky to be able to receive the baptism. It's like a\nmiracle..."
                             ]
                         },
                         {
@@ -8609,14 +8490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ありがとう。パパ、ママ、ルノ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたし、必ずバレンチナに行く。そして洗礼を受けるんだ。"
+                                "Rei: Thank you. Dad, Mom, Luno. I will definitely go to Valentina. And\nI will receive the baptism."
                             ]
                         },
                         {
@@ -8634,7 +8508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ロン】さて、そろそろお腹も減った事だし、家に帰ろう。"
+                                "Ron: Well, it's about time we got hungry, let's go home."
                             ]
                         },
                         {
@@ -8652,7 +8526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: うん。"
+                                "Rei: Yeah."
                             ]
                         },
                         {
@@ -9147,7 +9021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････"
+                                "Rei: ......"
                             ]
                         },
                         {
@@ -9196,7 +9070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: あたし、バレンチナに行けるんだ。今でも夢を見ているみたい。"
+                                "Rei: I can go to Valentina. It still feels like I'm dreaming."
                             ]
                         },
                         {
@@ -9214,7 +9088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: あたしはバレンチナで頑張る。"
+                                "Rei: I will do my best in Valentina."
                             ]
                         },
                         {
@@ -9232,7 +9106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････"
+                                "Rei: ......"
                             ]
                         },
                         {
@@ -9337,7 +9211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイ: ･････"
+                                "Rei: ......"
                             ]
                         },
                         {
@@ -9474,7 +9348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -9492,7 +9366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レイ・グランフォード･･･"
+                                "Luuna: Rei. Granford..."
                             ]
                         },
                         {
@@ -9543,7 +9417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇ、この子、私達と何か関係あるのかな。"
+                                "Becky: Hey, does this girl have anything to do with us?"
                             ]
                         },
                         {
@@ -9594,7 +9468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: わからない。"
+                                "Luuna: I don't know."
                             ]
                         },
                         {
@@ -9612,14 +9486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: でもよ～、可愛い女の子だったな～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かにアイドルにスカウトされてもおかしくないわ。"
+                                "Cain: But man~, she was a cute girl. It wouldn't be strange if she was\nscouted to be an idol."
                             ]
                         },
                         {
@@ -9669,7 +9536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: やれやれ、男ってこれだから。"
+                                "Becky: Oh brother, this is why men..."
                             ]
                         },
                         {
@@ -9720,7 +9587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 魔導士レイ・グランフォードか。とても可愛い子ね。"
+                                "Luuna: Sorceress Rei. Granford, huh. She's a very cute girl."
                             ]
                         },
                         {
@@ -9771,7 +9638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そろそろ此処から出ましょう。"
+                                "Luuna: Let's get out of here soon."
                             ]
                         },
                         {

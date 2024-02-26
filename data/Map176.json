@@ -6606,7 +6606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ルカ、行くぞ。"
+                                "Rade: Luca, let's go."
                             ]
                         },
                         {
@@ -6624,7 +6624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】はい、レーデ様。"
+                                "Luca: Yes, Lady Rade."
                             ]
                         },
                         {
@@ -6642,7 +6642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】･････"
+                                "Luca: ..."
                             ]
                         },
                         {
@@ -6660,7 +6660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: どうした？"
+                                "Rade: What's wrong?"
                             ]
                         },
                         {
@@ -6678,7 +6678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】･････"
+                                "Luca: ..."
                             ]
                         },
                         {
@@ -6696,7 +6696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】いえ･･･"
+                                "Luca: No, it's nothing..."
                             ]
                         },
                         {
@@ -6714,7 +6714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･････"
+                                "Rade: ..."
                             ]
                         },
                         {
@@ -6732,7 +6732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: お前、あの娘にずっと手助けしていたな？"
+                                "Rade: You've been helping that girl all along, haven't you?"
                             ]
                         },
                         {
@@ -6750,7 +6750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】ギク･･･！"
+                                "Luca: Gulp...!"
                             ]
                         },
                         {
@@ -6819,7 +6819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: まぁいい。今後、余計な事はするな。"
+                                "Rade: Well, it's fine. Don't do anything unnecessary from now on."
                             ]
                         },
                         {
@@ -6837,7 +6837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】は、はい。(ほっ･･･)"
+                                "Luca: Yes, yes. (Phew...)"
                             ]
                         },
                         {
@@ -6897,14 +6897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レーデ: あの娘、戒めの鎖を解いたのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妙に表情が明るくなっていたな。どうでもいい事だが。"
+                                "Rade: That girl, did she break the chains of restraint? Her expression\nseemed unusually bright. Not that it matters."
                             ]
                         },
                         {
@@ -6932,14 +6925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レーデ: それにしても、あの娘に時折見えた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "謎の鎖らしきものは一体何だったのか。どうでも良い事だが。"
+                                "Rade: Even so, what was that mysterious chain-like thing that\noccasionally appeared on that girl? Not that it matters."
                             ]
                         },
                         {
@@ -6967,7 +6953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】ふぇっ･･･？"
+                                "Luca: Huh...?"
                             ]
                         },
                         {
@@ -7064,7 +7050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】ルーナさんの鎖？"
+                                "Luca: Luuna's chains?"
                             ]
                         },
                         {
@@ -7082,7 +7068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: そんな事よりレグナス・グラハードを探すぞ。"
+                                "Rade: Forget about that. We're going to look for Regnus Grahardt."
                             ]
                         },
                         {
@@ -7179,7 +7165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】鎖って何ですか～？"
+                                "Luca: What about the chains?"
                             ]
                         },
                         {
@@ -7197,7 +7183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 何でもない。あの娘の事は忘れろ。"
+                                "Rade: It's nothing. Forget about the girl."
                             ]
                         },
                         {
@@ -7215,7 +7201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】忘れない～！"
+                                "Luca: I won't forget~!"
                             ]
                         },
                         {
@@ -7550,7 +7536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ルカ、行くぞ。"
+                                "Rade: Luca, let's go."
                             ]
                         },
                         {
@@ -7568,7 +7554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】はい、レーデ様。"
+                                "Luca: Yes, Lady Rade."
                             ]
                         },
                         {
@@ -7586,7 +7572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】･････"
+                                "Luca: ..."
                             ]
                         },
                         {
@@ -7604,7 +7590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: どうした？"
+                                "Rade: What's wrong?"
                             ]
                         },
                         {
@@ -7622,7 +7608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】･････"
+                                "Luca: ..."
                             ]
                         },
                         {
@@ -7640,7 +7626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】いえ･･･"
+                                "Luca: No..."
                             ]
                         },
                         {
@@ -7658,7 +7644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･････"
+                                "Rade: ..."
                             ]
                         },
                         {
@@ -7676,7 +7662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あの娘、何という名だった？忘れた。"
+                                "Rade: What was that girl's name again? I forgot."
                             ]
                         },
                         {
@@ -7694,7 +7680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】ルーナさんですよ･･･"
+                                "Luca: It's Luuna-san..."
                             ]
                         },
                         {
@@ -7763,7 +7749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ルーナは死んでないぞ。"
+                                "Rade: Luuna isn't dead."
                             ]
                         },
                         {
@@ -7781,7 +7767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】え･･･"
+                                "Luca: Eh...?"
                             ]
                         },
                         {
@@ -7799,14 +7785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: お前が留守の間、ミサという村に立ち寄ってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの娘を見かけた。"
+                                "Rade: While you were away, I stopped by a village called Misa. I saw\nthat girl there."
                             ]
                         },
                         {
@@ -7824,7 +7803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あの娘なら生きている。どうでもいい事だがな。"
+                                "Rade: If it's that girl, she's alive. Not that it matters."
                             ]
                         },
                         {
@@ -7921,7 +7900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】本当ですか！良かった！ルーナさん･･･"
+                                "Luca: Really?! That's great! Luuna-san..."
                             ]
                         },
                         {
@@ -7981,14 +7960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レーデ: (ふっ･･･ あの娘、戒めの鎖を解いたのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妙に表情が明るくなっていたな。どうでもいい事だが。)"
+                                "Rade: (Hmph... Did that girl break the chains of restraint? Her\nexpression seemed unusually bright. Not that it matters.)"
                             ]
                         },
                         {
@@ -8016,7 +7988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: そんな事よりレグナス・グラハードを探すぞ。"
+                                "Rade: Anyway, we're going to look for Regnus Grahardt."
                             ]
                         },
                         {
@@ -8113,7 +8085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】本当にルーナさんを見たんですか？"
+                                "Luca: Did you really see Luuna-san?"
                             ]
                         },
                         {
@@ -8131,7 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 見た。主を疑うのか？"
+                                "Rade: I saw her. Are you doubting your master?"
                             ]
                         },
                         {
@@ -8149,7 +8121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】うん。だって嘘ばっかりつくんだもん。"
+                                "Luca: Yes. Because you always tell lies."
                             ]
                         },
                         {
@@ -8167,7 +8139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ルカ】レーデ様は嘘つきじゃないですか。"
+                                "Luca: Aren't you a liar, Lady Rade?"
                             ]
                         },
                         {
@@ -8254,7 +8226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 見たって言ってるでしょ～ん。"
+                                "Rade: I'm telling you I saw her~"
                             ]
                         },
                         {

@@ -4637,14 +4637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【酒場の店主】この街は王都に法外な納税はしていないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "役人供もこの街のレジスタンス達には頭が上がらないからな。"
+                                "Tavern Master: \"This town doesn't pay exorbitant taxes to the royal\ncapital. Even the officials can't stand up to the resistance in this\ntown.\""
                             ]
                         },
                         {
@@ -4722,7 +4715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】お酒が美味しい～。"
+                                "The alcohol is delicious~."
                             ]
                         },
                         {
@@ -5222,7 +5215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5256,7 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: シルヴィア･･･ヒルダ･･･"
+                                "Luuna: Sylvia... Hilda..."
                             ]
                         },
                         {
@@ -5274,7 +5267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ･････"
+                                "Sylvia: ..."
                             ]
                         },
                         {
@@ -5292,7 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】･････"
+                                "[Hilda] ..."
                             ]
                         },
                         {
@@ -5310,7 +5303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: こんな所で何してる？"
+                                "Luuna: What are you doing in a place like this?"
                             ]
                         },
                         {
@@ -5328,7 +5321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 別に。"
+                                "Sylvia: Nothing in particular."
                             ]
                         },
                         {
@@ -5346,7 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 偶然よ。"
+                                "Sylvia: It's just a coincidence."
                             ]
                         },
                         {
@@ -5364,7 +5357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5382,14 +5375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ヒルダがそろそろ人肉を喰いたいって言うからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味しそうな子を探しているのよ。"
+                                "Sylvia: Hilda is saying she's getting hungry for human flesh. We're\nlooking for a tasty-looking child."
                             ]
                         },
                         {
@@ -5407,7 +5393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】ひひ･･･"
+                                "[Hilda] Hehe..."
                             ]
                         },
                         {
@@ -5425,7 +5411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: なに･･･"
+                                "Luuna: What..."
                             ]
                         },
                         {
@@ -5443,7 +5429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ･････"
+                                "Sylvia: ..."
                             ]
                         },
                         {
@@ -5461,7 +5447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: で、どうするの？"
+                                "Sylvia: So, what will you do?"
                             ]
                         },
                         {
@@ -5479,7 +5465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･･･"
+                                "Luuna: Eh..."
                             ]
                         },
                         {
@@ -5497,7 +5483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ･････"
+                                "Sylvia: ..."
                             ]
                         },
                         {
@@ -5515,7 +5501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ルーナ、あなたの事はよく知っているわ。一応、元生徒だから。"
+                                "Sylvia: Luuna, I know you well. After all, you were once a student of\nmine."
                             ]
                         },
                         {
@@ -5533,7 +5519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5709,14 +5695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 今のままでは、私やルーシアはおろか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒルダにも届かないと考えている。そうでしょう、ルーナ？"
+                                "Sylvia: As you are now, you can't reach the level of me, Lucia, or\neven Hilda. That's what you think, isn't it, Luuna?"
                             ]
                         },
                         {
@@ -5734,7 +5713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: だから、あなた達はノルヴァーナに来た。"
+                                "Sylvia: That's why you all came to Norva-Na."
                             ]
                         },
                         {
@@ -5752,7 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5770,7 +5749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: くっ･･･"
+                                "Luuna: Grr..."
                             ]
                         },
                         {
@@ -5788,7 +5767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: どこまでレベルアップしたかと聞いているのよ。"
+                                "Sylvia: I'm asking how much you've leveled up."
                             ]
                         },
                         {
@@ -5806,7 +5785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5824,14 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: シルヴィア、ノルヴァーナのレジスタンス達は精鋭揃いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私一人だけじゃない。"
+                                "Luuna: Sylvia, the resistance fighters of Norva-Na are all elites.\nIt's not just me alone."
                             ]
                         },
                         {
@@ -5849,7 +5821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ･････"
+                                "Sylvia: ..."
                             ]
                         },
                         {
@@ -5867,7 +5839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: そう。"
+                                "Sylvia: I see."
                             ]
                         },
                         {
@@ -5885,7 +5857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: どんな手があるのか知らないけど。"
+                                "Sylvia: I don't know what tricks you have up your sleeve."
                             ]
                         },
                         {
@@ -5903,7 +5875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 此処で戦う気は無いわ。さようなら。"
+                                "Sylvia: But I have no intention of fighting here. Goodbye."
                             ]
                         },
                         {
@@ -5921,7 +5893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5958,7 +5930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5976,7 +5948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーナ！ルーナ！どうしたの？"
+                                "Becky: Luuna! Luuna! What's wrong?"
                             ]
                         },
                         {
@@ -5994,7 +5966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･･･"
+                                "Luuna: Eh..."
                             ]
                         },
                         {
@@ -6012,7 +5984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーナ、凄い冷や汗をかいてる･･･"
+                                "Becky: Luuna, you're sweating profusely..."
                             ]
                         },
                         {
@@ -6030,7 +6002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あ･･･"
+                                "Luuna: Ah..."
                             ]
                         },
                         {
@@ -6048,7 +6020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 何でもない･･･"
+                                "Luuna: It's nothing..."
                             ]
                         },
                         {
@@ -6066,7 +6038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (シルヴィアの言う通り･･･今の私には遠く及ばない。)"
+                                "Luuna: (Sylvia is right... I'm nowhere near her level yet.)"
                             ]
                         },
                         {
@@ -6084,14 +6056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: あいつら、そんなにやばいのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺にはただの二人のねぇちゃんにしか見えないけどよぉ。"
+                                "Cain: Are those girls really that dangerous? To me, they just look\nlike a couple of sisters."
                             ]
                         },
                         {
@@ -6109,7 +6074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･あんたは黙ってなさい。"
+                                "Becky: Sigh... Just be quiet, will you?"
                             ]
                         },
                         {
@@ -6127,7 +6092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめん、二人とも大丈夫よ。"
+                                "Luuna: Sorry, both of you. I'm fine."
                             ]
                         },
                         {
@@ -6336,14 +6301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】バレンチナは世界一の魔法学校の名門だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平均以下の魔導士達が洗礼を受け付ける場所でもある。"
+                                "Man: \"Valentina is a prestigious magic school, the best in the world.\nIt's also a place where magicians below average receive their\nbaptism.\""
                             ]
                         },
                         {
@@ -6361,14 +6319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】女王の洗礼を受ければ、魔力があがるのだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗礼を受ける採否はシルヴィアが出しているという話だ。"
+                                "Man: \"Receiving the queen's baptism is said to increase one's magical\npower, but I've heard that Sylvia is the one who decides whether or\nnot you'll be accepted for the baptism.\""
                             ]
                         },
                         {

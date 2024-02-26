@@ -11179,7 +11179,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】おっ･･･\\I[7]ルーナ達も雌になったようだな。I[7]"
+                                "Man: \"Oh...\\I[7] It seems Luuna and the others have become females\ntoo.\""
                             ]
                         },
                         {
@@ -11197,7 +11197,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】夜の公園に立っていれば、ヤリチン男共が女を買いに現れるぞ。"
+                                "Man: \"If you stand in the park at night, horny guys will show up to\nbuy women.\""
                             ]
                         },
                         {
@@ -11250,7 +11250,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】変態になったのか\\I[7]"
+                                "Man: \"Have you turned into perverts\\I[7]\""
                             ]
                         },
                         {
@@ -11268,7 +11268,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】夜の公園に立っていれば、ヤリチン男共が女を買いに現れるぞ。"
+                                "Man: \"If you stand in the park at night, horny guys will show up to\nbuy women.\""
                             ]
                         },
                         {
@@ -11337,7 +11337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】てっとり早く金を稼ぎたいなら売春だ。"
+                                "Man: \"If you want to make money quickly, prostitution is the way to\ngo.\""
                             ]
                         },
                         {
@@ -11355,7 +11355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】夜の公園に立っていれば、ヤリチン男共が女を買いに現れるぞ。"
+                                "Man: \"If you stand in the park at night, horny guys will show up to\nbuy women.\""
                             ]
                         },
                         {
@@ -12075,7 +12075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『300G』を手に入れた。"
+                                "Gained 300G."
                             ]
                         },
                         {
@@ -12283,8 +12283,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "今はいい",
-                                    "昼まで待つ"
+                                    "Not now",
+                                    "Wait until noon"
                                 ],
                                 0,
                                 0,
@@ -12437,14 +12437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【妖精】この丸い玉に触れると昼が夜になり、夜が昼になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿屋でも出来ます。"
+                                "Fairy: \"If you touch this round orb, day will turn to night, and night\nwill turn to day. You can also do this at an inn.\""
                             ]
                         },
                         {

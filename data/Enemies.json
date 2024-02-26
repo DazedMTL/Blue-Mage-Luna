@@ -68,7 +68,7 @@
             }
         ],
         "gold": 50,
-        "name": "ゴブリン",
+        "name": "Goblin",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:1,1,2,3>\n\n<start_motion:left>   # 左から出現",
         "params": [
             500,
@@ -142,7 +142,7 @@
             }
         ],
         "gold": 50,
-        "name": "ベアウルフ",
+        "name": "Werebear",
         "note": "<steal I:12, 50>\n\n<start_motion:right>   # 右から出現",
         "params": [
             500,
@@ -230,7 +230,7 @@
             }
         ],
         "gold": 80,
-        "name": "コリス",
+        "name": "Coris",
         "note": "<steal I:20, 70>\n\n<start_motion:right>   # 右から出現",
         "params": [
             500,
@@ -385,7 +385,7 @@
             }
         ],
         "gold": 800,
-        "name": "ブラスト",
+        "name": "Blast",
         "note": "I アイテム　W 武器　A 防具　M 金額\n\n<steal I:22, 60>\n\n<hue_animation:0,360,2,0> \n\n<start_motion:upper>  # 上から出現",
         "params": [
             800,
@@ -542,7 +542,7 @@
             }
         ],
         "gold": 280,
-        "name": "ピロー",
+        "name": "Pillow",
         "note": "<steal I:13, 70>\n\n<RandomEnemy:7,7,8,9>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             700,
@@ -623,7 +623,7 @@
             }
         ],
         "gold": 250,
-        "name": "マッシュデビル",
+        "name": "Mash Devil",
         "note": "<steal I:15, 70>\n\n<RandomEnemy:8,8,9,10>\n\n<start_motion:left>   # 左から出現",
         "params": [
             1000,
@@ -711,7 +711,7 @@
             }
         ],
         "gold": 300,
-        "name": "ミイラ戦士",
+        "name": "Mummy Warrior",
         "note": "<steal I:18, 70>\n\n<RandomEnemy:9,9,10,8>\n\n<start_motion:left>   # 左から出現",
         "params": [
             700,
@@ -792,7 +792,7 @@
             }
         ],
         "gold": 250,
-        "name": "サイクロプス",
+        "name": "Cyclops",
         "note": "<steal I:19, 70>\n\n<RandomEnemy:10,10,7,9>\n\n<start_motion:left>   # 左から出現",
         "params": [
             700,
@@ -887,7 +887,7 @@
             }
         ],
         "gold": 380,
-        "name": "ガシャドクロ",
+        "name": "Gashadokuro",
         "note": "<steal I:63, 50>\n\n<start_motion:right>   # 右から出現",
         "params": [
             5000,
@@ -1003,7 +1003,7 @@
             }
         ],
         "gold": 500,
-        "name": "土偶",
+        "name": "Dogu",
         "note": "<steal I:63, 50>\n\n<start_motion:lower>  # 下から出現\n\n<hue_animation:0,360,2,0> ",
         "params": [
             8000,
@@ -1160,7 +1160,7 @@
             }
         ],
         "gold": 500,
-        "name": "ファイアーフェニックス",
+        "name": "Fire Phoenix",
         "note": "<steal I:18, 70>\n\n<RandomEnemy:14,14,15,16>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             1200,
@@ -1248,7 +1248,7 @@
             }
         ],
         "gold": 450,
-        "name": "ソウルバッファロー",
+        "name": "Soul Buffalo",
         "note": "<steal I:16, 70>\n\n<RandomEnemy:15,15,16,17>\n\n<start_motion:left>   # 左から出現",
         "params": [
             1600,
@@ -1336,7 +1336,7 @@
             }
         ],
         "gold": 350,
-        "name": "レッドドラゴン",
+        "name": "Red Dragon",
         "note": "<steal I:17, 70>\n\n<RandomEnemy:16,16,14,15>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             2000,
@@ -1445,7 +1445,7 @@
             }
         ],
         "gold": 300,
-        "name": "ラヴァボーン",
+        "name": "Lava Bone",
         "note": "<steal I:86, 50>\n\n<start_motion:lower>  # 下から出現",
         "params": [
             1500,
@@ -1568,7 +1568,7 @@
             }
         ],
         "gold": 600,
-        "name": "燕火",
+        "name": "Swallow Fire",
         "note": "<steal I:69, 50>\n\n<start_motion:left>   # 左から出現",
         "params": [
             1500,
@@ -1732,7 +1732,7 @@
             }
         ],
         "gold": 520,
-        "name": "鬼侍",
+        "name": "Ogre Samurai",
         "note": "<steal I:23, 70>\n\n<RandomEnemy:20,20,21,22>\n\n<start_motion:left>   # 左から出現",
         "params": [
             3000,
@@ -1848,7 +1848,7 @@
             }
         ],
         "gold": 450,
-        "name": "ランサー",
+        "name": "Lancer",
         "note": "<steal I:22, 70>\n\n<RandomEnemy:21,21,20,23>\n\n<start_motion:right>   # 右から出現",
         "params": [
             3000,
@@ -1957,7 +1957,7 @@
             }
         ],
         "gold": 500,
-        "name": "ダークソルジャー",
+        "name": "Dark Soldier",
         "note": "<steal I:20, 70>\n\n<RandomEnemy:22,22,23,20>\n\n<start_motion:right>   # 右から出現",
         "params": [
             2500,
@@ -2059,7 +2059,7 @@
             }
         ],
         "gold": 700,
-        "name": "マッドケンタウロス",
+        "name": "Mad Centaur",
         "note": "<steal I:24, 70>\n\n<RandomEnemy:23,23,21,22>\n\n<start_motion:left>   # 左から出現",
         "params": [
             4000,
@@ -2168,7 +2168,7 @@
             }
         ],
         "gold": 1000,
-        "name": "エリオット",
+        "name": "Elliott",
         "note": "<steal I:65, 50>\n\n<start_motion:right>   # 右から出現",
         "params": [
             5000,
@@ -2312,7 +2312,7 @@
             }
         ],
         "gold": 1200,
-        "name": "タナトス",
+        "name": "Thanatos",
         "note": "<steal I:62, 50>\n\n<start_motion:right>   # 右から出現",
         "params": [
             7000,
@@ -2476,7 +2476,7 @@
             }
         ],
         "gold": 520,
-        "name": "ダークソード",
+        "name": "Dark Sword",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:27,27,28,29>\n\n<start_motion:left>   # 左から出現",
         "params": [
             3000,
@@ -2599,7 +2599,7 @@
             }
         ],
         "gold": 450,
-        "name": "ダークマージ",
+        "name": "Dark Mage",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:28,28,29,30>\n\n<start_motion:right>   # 右から出現",
         "params": [
             3000,
@@ -2722,7 +2722,7 @@
             }
         ],
         "gold": 500,
-        "name": "骨剣士",
+        "name": "Bone Swordsman",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:29,29,30,31>\n\n<start_motion:right>   # 右から出現",
         "params": [
             2500,
@@ -2845,7 +2845,7 @@
             }
         ],
         "gold": 1000,
-        "name": "ダルグ",
+        "name": "Dalug",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:30,30,29,28>\n\n<start_motion:right>   # 右から出現",
         "params": [
             5000,
@@ -2954,7 +2954,7 @@
             }
         ],
         "gold": 700,
-        "name": "フレイムデーモン",
+        "name": "Flame Demon",
         "note": "<steal A:43, 50>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             4000,
@@ -3105,7 +3105,7 @@
             }
         ],
         "gold": 1200,
-        "name": "ネスパ",
+        "name": "Nespa",
         "note": "<steal A:99, 50>\n\n<start_motion:upper>  # 上から出現\n\n<hue_animation:0,360,2,0> ",
         "params": [
             7000,
@@ -3276,7 +3276,7 @@
             }
         ],
         "gold": 521,
-        "name": "バーサーカー騎士",
+        "name": "Berserker Knight",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:34,34,35,36>\n\n<start_motion:left>   # 左から出現",
         "params": [
             3000,
@@ -3399,7 +3399,7 @@
             }
         ],
         "gold": 450,
-        "name": "リッパー",
+        "name": "Ripper",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:35,35,36,34>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             3000,
@@ -3515,7 +3515,7 @@
             }
         ],
         "gold": 500,
-        "name": "デーモン騎士",
+        "name": "Demon Knight",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:36,36,34,35>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             2500,
@@ -3631,7 +3631,7 @@
             }
         ],
         "gold": 700,
-        "name": "デビルランサー",
+        "name": "Devil Lancer",
         "note": "<steal A:97, 50>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             4000,
@@ -3747,7 +3747,7 @@
             }
         ],
         "gold": 700,
-        "name": "ドラゴンゾンビ",
+        "name": "Dragon Zombie",
         "note": "<steal A:96, 50>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             4000,
@@ -3911,7 +3911,7 @@
             }
         ],
         "gold": 521,
-        "name": "オーガ",
+        "name": "Ogre",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:40,40,41,42>\n\n<start_motion:left>   # 左から出現",
         "params": [
             3000,
@@ -4027,7 +4027,7 @@
             }
         ],
         "gold": 450,
-        "name": "幽霊ミイラ",
+        "name": "Ghost Mummy",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:41,41,42,40>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             3000,
@@ -4136,7 +4136,7 @@
             }
         ],
         "gold": 500,
-        "name": "ギメラ",
+        "name": "Gimera",
         "note": "<steal I:12, 70>\n\n<RandomEnemy:42,42,40,41>\n\n<start_motion:right>   # 右から出現",
         "params": [
             2500,
@@ -4354,7 +4354,7 @@
             }
         ],
         "gold": 700,
-        "name": "ハピネス",
+        "name": "Happiness",
         "note": "<steal A:82, 50>\n\n<start_motion:lower>  # 下から出現\n\n<hue_animation:0,360,2,0> ",
         "params": [
             4000,
@@ -4904,7 +4904,7 @@
             }
         ],
         "gold": 450,
-        "name": "妖狐",
+        "name": "Youko (Spirit Fox)",
         "note": "<steal I:15, 50>\n\n<RandomEnemy:52,52,53,54>\n\n<start_motion:left>   # 左から出現",
         "params": [
             5000,
@@ -5020,7 +5020,7 @@
             }
         ],
         "gold": 450,
-        "name": "赤龍",
+        "name": "Akaryu (Red Dragon)",
         "note": "<steal I:15, 50>\n\n<RandomEnemy:53,53,52,54>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             5000,
@@ -5136,7 +5136,7 @@
             }
         ],
         "gold": 450,
-        "name": "ケルベロス",
+        "name": "Cerberus",
         "note": "<steal I:15, 50>\n\n<RandomEnemy:54,54,52,53>\n\n<start_motion:right>   # 右から出現",
         "params": [
             5000,
@@ -5252,7 +5252,7 @@
             }
         ],
         "gold": 800,
-        "name": "ラグナス",
+        "name": "Regnus",
         "note": "<steal A:91, 30>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             4500,
@@ -5373,7 +5373,7 @@
             }
         ],
         "gold": 500,
-        "name": "黒騎士",
+        "name": "Black Knight",
         "note": "<steal I:13, 80>\n\n<start_motion:right>   # 右から出現",
         "params": [
             5000,
@@ -5565,7 +5565,7 @@
             }
         ],
         "gold": 600,
-        "name": "氷龍",
+        "name": "Ice Dragon",
         "note": "<steal I:15, 50>\n\n<RandomEnemy:58,58,59,60>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             5000,
@@ -5695,7 +5695,7 @@
             }
         ],
         "gold": 600,
-        "name": "魔狼",
+        "name": "Demon Wolf",
         "note": "<steal I:15, 50>\n\n<RandomEnemy:59,59,60,58>\n\n<start_motion:right>   # 右から出現",
         "params": [
             5000,
@@ -5811,7 +5811,7 @@
             }
         ],
         "gold": 600,
-        "name": "エビルエルフ",
+        "name": "Evil Elf",
         "note": "<steal A:92, 30>\n\n<RandomEnemy:60,60,58,59>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             5000,
@@ -5941,7 +5941,7 @@
             }
         ],
         "gold": 600,
-        "name": "妖精天使",
+        "name": "Fairy Angel",
         "note": "<steal A:117, 50>\n\n<RandomEnemy:61,58,59,60>\n\n<start_motion:upper>  # 上から出現\n\n<hue_animation:0,360,2,0> ",
         "params": [
             5000,
@@ -6126,7 +6126,7 @@
             }
         ],
         "gold": 700,
-        "name": "アサシン",
+        "name": "Assassin",
         "note": "<steal A:91, 80>\n\n<RandomEnemy:63,63,64,65>\n\n<start_motion:left>   # 左から出現",
         "params": [
             6000,
@@ -6249,7 +6249,7 @@
             }
         ],
         "gold": 700,
-        "name": "カラステング",
+        "name": "Karasteng",
         "note": "<steal I:15, 50>\n\n<RandomEnemy:64,64,63,65>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             6000,
@@ -6379,7 +6379,7 @@
             }
         ],
         "gold": 700,
-        "name": "ダークユニコーン",
+        "name": "Dark Unicorn",
         "note": "<steal I:15, 50>\n\n<RandomEnemy:65,65,63,64>\n\n<start_motion:right>   # 右から出現",
         "params": [
             6000,
@@ -6495,7 +6495,7 @@
             }
         ],
         "gold": 700,
-        "name": "死神騎士",
+        "name": "Reaper Knight",
         "note": "<steal A:150, 30>\n\n<start_motion:left>   # 左から出現",
         "params": [
             6000,
@@ -6619,7 +6619,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼中ボス",
+        "name": "▼Mid-Boss",
         "note": "",
         "params": [
             100,
@@ -6755,7 +6755,7 @@
             }
         ],
         "gold": 800,
-        "name": "ブラスター",
+        "name": "Blaster",
         "note": "<steal I:57, 80>\n\n<start_motion:left>   # 左から出現\n\n<noMirror>\n\n<hue_animation:0,360,2,500>\n\n",
         "params": [
             2000,
@@ -6892,7 +6892,7 @@
             }
         ],
         "gold": 3000,
-        "name": "フーガ",
+        "name": "Fuga",
         "note": "<steal I:81, 80>\n\n<start_motion:left>   # 左から出現\n\n<noMirror>\n\n<hue_animation:0,360,2,500>",
         "params": [
             10000,
@@ -7029,7 +7029,7 @@
             }
         ],
         "gold": 10000,
-        "name": "ボロ",
+        "name": "Boro",
         "note": "<steal I:86, 80>\n\n<start_motion:lower>  # 下から出現\n\n<noMirror>\n\n<hue_animation:0,360,2,500>",
         "params": [
             25000,
@@ -7159,7 +7159,7 @@
             }
         ],
         "gold": 10000,
-        "name": "強化ゴーレム",
+        "name": "Enhanced Golem",
         "note": "<steal I:84, 80>\n\n<start_motion:lower>  # 下から出現\n<noMirror>\n\n<hue_animation:0,360,2,500>",
         "params": [
             30000,
@@ -7289,7 +7289,7 @@
             }
         ],
         "gold": 9998,
-        "name": "ガーディアン",
+        "name": "Guardian",
         "note": "<steal I:69, 80>\n\n<start_motion:left>   # 左から出現\n<noMirror>\n\n<hue_animation:0,360,2,500>",
         "params": [
             30000,
@@ -7426,7 +7426,7 @@
             }
         ],
         "gold": 10000,
-        "name": "魔導兵ザリア",
+        "name": "Magic Soldier Zaria",
         "note": "<steal A:91, 80>\n\n<start_motion:upper>  # 上から出現\n<noMirror>\n\n<hue_animation:0,360,2,500>",
         "params": [
             30000,
@@ -7556,7 +7556,7 @@
             }
         ],
         "gold": 10000,
-        "name": "氷魔",
+        "name": "Ice Demon",
         "note": "<steal A:99, 80>\n\n<start_motion:left>   # 左から出現\n<noMirror>\n\n<hue_animation:0,360,2,500>",
         "params": [
             30000,
@@ -7686,7 +7686,7 @@
             }
         ],
         "gold": 20000,
-        "name": "バレンチナの魔導士",
+        "name": "Valentina's Sorcerer",
         "note": "<steal A:98, 80>\n\n<scale:1>\n<breathH:0>\n<noMirror>",
         "params": [
             35000,
@@ -7809,7 +7809,7 @@
             }
         ],
         "gold": 20000,
-        "name": "バレンチナの魔導士ユイナ",
+        "name": "Valentina's Sorcerer Yuina",
         "note": "<steal A:145, 80>\n\n<scale:1>\n<breathH:0>\n<noMirror>",
         "params": [
             35000,
@@ -7946,7 +7946,7 @@
             }
         ],
         "gold": 4500,
-        "name": "死神神官",
+        "name": "Reaper Priest",
         "note": "<steal A:126, 80>\n\n<start_motion:upper>  # 上から出現\n\n<hue_animation:0,360,2,500>",
         "params": [
             30000,
@@ -8121,7 +8121,7 @@
             }
         ],
         "gold": 4500,
-        "name": "死神神官ゴースト",
+        "name": "Reaper Priest Ghost",
         "note": "<steal A:88, 80>\n\n<start_motion:upper>  # 上から出現\n\n<hue_animation:0,360,2,500>\n",
         "params": [
             30000,
@@ -8296,7 +8296,7 @@
             }
         ],
         "gold": 4500,
-        "name": "リッツ",
+        "name": "Ritz",
         "note": "<steal I:90, 80>",
         "params": [
             35000,
@@ -8660,7 +8660,7 @@
             }
         ],
         "gold": 800,
-        "name": "ガーゴイルサタン",
+        "name": "Gargoyle Satan",
         "note": "<steal A:136, 30>\n\n<RandomEnemy:86,86,87,88>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             7000,
@@ -8776,7 +8776,7 @@
             }
         ],
         "gold": 800,
-        "name": "イフリートキング",
+        "name": "Ifrit King",
         "note": "<steal A:135, 30>\n\n<RandomEnemy:87,87,86,88>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             7000,
@@ -8892,7 +8892,7 @@
             }
         ],
         "gold": 800,
-        "name": "ドラゴンロード",
+        "name": "Dragon Lord",
         "note": "<steal A:146, 30>\n\n<RandomEnemy:88,88,86,87>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             7000,
@@ -9077,7 +9077,7 @@
             }
         ],
         "gold": 1000,
-        "name": "ダークマター",
+        "name": "Dark Matter",
         "note": "<steal A:107, 30>\n\n<RandomEnemy:90,90,91,92>\n\n<start_motion:left>   # 左から出現\n\n<hue_animation:0,360,2,500>",
         "params": [
             8000,
@@ -9193,7 +9193,7 @@
             }
         ],
         "gold": 1000,
-        "name": "グプター",
+        "name": "Gupter",
         "note": "<steal W:58, 80>\n<RandomEnemy:91,91,90,92>\n\n<start_motion:lower>  # 下から出現\n\n",
         "params": [
             8000,
@@ -9309,7 +9309,7 @@
             }
         ],
         "gold": 1000,
-        "name": "ネルパ",
+        "name": "Nelpa",
         "note": "<steal A:128, 30>\n\n<RandomEnemy:92,92,90,91>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             8000,
@@ -9681,7 +9681,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼蒼魔法(超レアキャラ)",
+        "name": "▼Azure Magic (Ultra Rare Character)",
         "note": "",
         "params": [
             100,
@@ -9847,7 +9847,7 @@
             }
         ],
         "gold": 0,
-        "name": "ダークエンジェル",
+        "name": "Dark Angel",
         "note": "<steal I:88, 30>\n\n<hue_animation:0,360,1,120>\n\n<MakeShadow:false>\n\n<start_motion:upper>  # 上から出現\n\n<scale:1>\n\n<noMirror>\n\n\n<breathH:0>\n\n<BigEnemy>\n<BigEnemy:OriginalRatio>\n<BigEnemy:UnderPosition>\n\n<BigEnemyY:-110>\n[x300]",
         "params": [
             50000,
@@ -10020,7 +10020,7 @@
             }
         ],
         "gold": 0,
-        "name": "ゴールドバフ",
+        "name": "Gold Buff",
         "note": "<steal I:40, 30>\n\n<hue_animation:0,360,2,500> \n\n<MakeShadow:false>\n<start_motion:upper>  # 上から出現\n<scale:1>\n<noMirror>\n\n<breathH:0>\n<BigEnemy>\n<BigEnemy:OriginalRatio>\n<BigEnemy:UnderPosition>\n\n<BigEnemyY:-120>\n[x300]",
         "params": [
             10000,
@@ -10186,7 +10186,7 @@
             }
         ],
         "gold": 0,
-        "name": "デススィクル",
+        "name": "Death Scythe",
         "note": "<MakeShadow:false>\n<start_motion:upper>  # 上から出現\n<scale:1>\n<noMirror>\n\n<hue_animation:0,360,2,500> \n\n<steal I:21, 70>\n<breathH:0>\n<BigEnemy>\n<BigEnemy:OriginalRatio>\n<BigEnemy:UnderPosition>\n\n<BigEnemyY:-95>\n[x300]",
         "params": [
             100000,
@@ -10396,7 +10396,7 @@
             }
         ],
         "gold": 1000,
-        "name": "バレンチナ上位魔導士1",
+        "name": "Valentina High Sorcerer 1",
         "note": "<steal I:24, 80>\n\n<scale:1>\n<breathH:0>\n<noMirror>\n\n",
         "params": [
             50000,
@@ -10551,7 +10551,7 @@
             }
         ],
         "gold": 1000,
-        "name": "バレンチナ上位魔導士2",
+        "name": "Valentina High Sorcerer 2",
         "note": "<steal I:88, 80>\n\n<scale:1>\n<breathH:0>\n<noMirror>\n\n<hue_animation:0,360,2,500>",
         "params": [
             50000,
@@ -10706,7 +10706,7 @@
             }
         ],
         "gold": 1000,
-        "name": "バレンチナ上位魔導士3",
+        "name": "Valentina High Sorcerer 3",
         "note": "<steal I:26, 80>\n\n<scale:1>\n<breathH:0>\n<noMirror>",
         "params": [
             50000,
@@ -10906,7 +10906,7 @@
             }
         ],
         "gold": 1001,
-        "name": "ヒルダ",
+        "name": "Hilda",
         "note": "<steal W:59, 80>\n<motion_action:none>\n\n\n\n<scale:1>\n<breathH:0>\n<noMirror>\n\n<NoHPGauge>",
         "params": [
             100000,
@@ -11139,7 +11139,7 @@
             }
         ],
         "gold": 50000,
-        "name": "ルーシア",
+        "name": "Lucia",
         "note": "<MakeShadow:false>\n<motion_action:none>\n\n<scale:1>\n<breathH:0>\n<noMirror>\n\n<steal I:89, 70>\n<NoHPGauge>\n\n<damage_motion:blink>\n<damage_se:Splash>\n\n<BigEnemy>\n<BigEnemy:OriginalRatio>\n<BigEnemy:UnderPosition>\n\n<BigEnemyY:40>\n[x300]",
         "params": [
             80000,
@@ -11312,7 +11312,7 @@
             }
         ],
         "gold": 0,
-        "name": "ルーシア",
+        "name": "Lucia",
         "note": "<MakeShadow:false>\n<motion_action:none>\n\n<scale:1>\n<breathH:0>\n<noMirror>\n\n<steal I:21, 70>\n<NoHPGauge>\n\n<damage_motion:blink>\n<damage_se:Splash>\n\n<BigEnemy>\n<BigEnemy:OriginalRatio>\n<BigEnemy:UnderPosition>\n\n<BigEnemyY:40>\n[x300]",
         "params": [
             120000,
@@ -11436,7 +11436,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼戦闘エロ",
+        "name": "▼Combat H-Scene",
         "note": "",
         "params": [
             100,
@@ -11629,7 +11629,7 @@
             }
         ],
         "gold": 10000,
-        "name": "山賊軍団",
+        "name": "Bandit Brigade",
         "note": "<steal I:13, 80>\n\n<start_motion:left>   # 左から出現",
         "params": [
             50000,
@@ -11745,7 +11745,7 @@
             }
         ],
         "gold": 800,
-        "name": "ドラゴンロード",
+        "name": "Dragon Lord",
         "note": "<steal A:146, 30>\n\n<RandomEnemy:88,88,86,87>\n\n<start_motion:upper>  # 上から出現",
         "params": [
             7000,
@@ -11987,7 +11987,7 @@
             }
         ],
         "gold": 0,
-        "name": "レーデ",
+        "name": "Rade",
         "note": "<MakeShadow:false>\n<motion_action:none>\n\n<scale:1>\n<breathH:0>\n<noMirror>\n\n<steal I:91, 70>\n<NoHPGauge>\n\n<BigEnemy>\n<BigEnemy:OriginalRatio>\n<BigEnemy:UnderPosition>\n\n<BigEnemyY:40>\n[x300]",
         "params": [
             999999,

@@ -2871,14 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ポールには1000,0000G程度の金を貸しているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全てポールが賭博で作った借金だ。"
+                                "Man: I've lent Pole about 10 million G. It's all debt he racked up\nfrom gambling."
                             ]
                         },
                         {
@@ -2896,14 +2889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】まぁ返せない時は、こいつの一番大切にしているものでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貰おうか。へへ･･･"
+                                "Man: Well, if he can't pay it back, maybe I'll take something he\ncherishes most. Hehe..."
                             ]
                         },
                         {
@@ -2930,14 +2916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: ビート、まーたあなた達なの？うちの旦那は大怪我をしたのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "借金の回収なら怪我が治ってからにしてよ。"
+                                "Becky: Beat, is it you guys again? My husband is seriously injured. If\nyou're here to collect the debt, please wait until he's healed."
                             ]
                         },
                         {
@@ -2955,14 +2934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男】うるせぇ。お前の旦那は怪我をしてなくても不真面目な男だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "借金を返せない時は、わかってるだろうな？へへ･･･"
+                                "Man: Shut up. Your husband is an irresponsible man even when he's not\ninjured. You know what happens if he can't pay the debt, right?\nHehe..."
                             ]
                         },
                         {
@@ -2980,7 +2952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: ･････"
+                                "Becky: ......"
                             ]
                         },
                         {
@@ -2998,7 +2970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男】わかってるならいいんだよ。村を追い出されなく無いだろう？へへへっ"
+                                "Man: If you understand, then that's good. You don't want to be driven\nout of the village, do you? Heheheh"
                             ]
                         },
                         {
@@ -3077,7 +3049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】へへ･･･ベッキーに用があるんだが、ベッキーを呼んでくれるか？"
+                                "Hehe... I need Becky, can you call her for me?"
                             ]
                         },
                         {
@@ -3085,8 +3057,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "呼ばない。",
-                                    "ベッキーを呼ぶ。"
+                                    "I won't call her.",
+                                    "I'll call Becky."
                                 ],
                                 0,
                                 0,
@@ -3160,7 +3132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナはベッキーと交代した。"
+                                "Luuna switched places with Becky."
                             ]
                         },
                         {
@@ -3260,14 +3232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】俺達は、ポールに大金を貸してる者だ。こいつが逃げないように見張ってるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪我したらしいが返すものは返してもらわないとな。"
+                                "We're the guys who lent a large sum of money to Pole. We're keeping\nwatch to make sure he doesn't run away. Seems like he's injured, but\nwe still need to get back what he owes us."
                             ]
                         },
                         {
@@ -3516,14 +3481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノア: ルーナ、僕は逃げないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっと脚は治るから信じて待っていてくれ。"
+                                "Noah: \"Luuna, I won't run away. I'm sure my leg will heal, so please\nbelieve in me and wait.\""
                             ]
                         },
                         {
@@ -3551,7 +3509,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノア: うう･･･"
+                                "Noah: \"Ugh...\""
                             ]
                         },
                         {
@@ -3630,7 +3588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･･･････"
+                                "Noah: ..."
                             ]
                         },
                         {
@@ -3660,7 +3618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\I[89]HINT】各Hイベントの選択は「昼のノア」に話しかけましょう。"
+                                "\\I[89]HINT: To select each H event, talk to \"Noah during the day\"."
                             ]
                         },
                         {
@@ -3729,7 +3687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･･･････"
+                                "Noah: ..."
                             ]
                         },
                         {
@@ -3747,14 +3705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナが売り飛ばされるのを見て興奮してしまうなんて･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺、頭がおかしくなってしまったのかな･･･"
+                                "Noah: To get excited seeing Luuna being sold off... Have I gone\nmad...?"
                             ]
                         },
                         {
@@ -3784,7 +3735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\I[89]HINT】各Hイベントの選択は「昼のノア」に話しかけましょう。"
+                                "\\I[89]HINT: To select each H event, talk to \"Noah during the day\"."
                             ]
                         },
                         {
@@ -3862,14 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: うう･･･村長の親戚の借金取りが此処まで来るなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はもう働けないしどうしたらいいんだ。あげれるものなんて何もないぞ。"
+                                "Pole: Ugh... I can't believe the village chief's relative, a debt\ncollector, has come all the way here. I can't work anymore, what\nshould I do? I have nothing left to give."
                             ]
                         },
                         {
@@ -3938,14 +3882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: うう･･･あいつらに借金を返さないと殺されちまうよ･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "働きたくても身体が思うように動かないんだよ･･･"
+                                "Pole: Ugh... If I don't pay back my debts, they're going to kill me...\nI want to work, but my body just won't move the way I want it to..."
                             ]
                         },
                         {

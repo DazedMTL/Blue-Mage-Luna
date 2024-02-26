@@ -3629,7 +3629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: お前が、ナイツオブメサイアのセリス・アリアーヌか。"
+                                "Sylvia: So you're the Knight of Messiah, Ceres Aria-Ann, huh?"
                             ]
                         },
                         {
@@ -3656,7 +3656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ど、どうも～。シルヴィアさんですね。"
+                                "Ceres: Ah, umm~. You're Sylvia-san, right?"
                             ]
                         },
                         {
@@ -3674,14 +3674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: バレンチナ筆頭の魔導士様ですよね。とてもお綺麗だ。(媚び媚び･･･)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところで、あの～･･･ その～･･･"
+                                "Ceres: The leading sorceress of Valentina, aren't you? You're so\nbeautiful. (fawning...) By the way, umm... well..."
                             ]
                         },
                         {
@@ -3699,7 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: お世辞はいい。"
+                                "Sylvia: Spare me the flattery."
                             ]
                         },
                         {
@@ -3717,14 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: セリス殿、停戦の仲立ちに来たのなら答えは不可だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お引き取りを。"
+                                "Sylvia: If you've come to mediate a ceasefire, Ceres-dono, the answer\nis no. Please leave."
                             ]
                         },
                         {
@@ -3751,7 +3737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: やはり、そうですか･･･"
+                                "Ceres: As I thought, that's your stance..."
                             ]
                         },
                         {
@@ -3778,7 +3764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】小国のモードゥナのくせに内政干渉が趣味とはねぇ。ひひひっ"
+                                "[Hilda] To think a small country like Moorduna would take pleasure in\nmeddling with internal affairs. Hehehe."
                             ]
                         },
                         {
@@ -3805,7 +3791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】なに！"
+                                "[Vice-Captain] What!"
                             ]
                         },
                         {
@@ -3823,7 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: やめろ。"
+                                "Ceres: Stop it."
                             ]
                         },
                         {
@@ -3841,7 +3827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】すみません。"
+                                "[Vice-Captain] My apologies."
                             ]
                         },
                         {
@@ -3859,14 +3845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ところでレオンさんは何処ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにルーシア皇女とはやはり会わせてくれませんか？"
+                                "Ceres: By the way, where is Leon-san? And could you possibly let me\nmeet with Princess Lucia?"
                             ]
                         },
                         {
@@ -3891,7 +3870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ･････"
+                                "Sylvia: ......"
                             ]
                         },
                         {
@@ -3909,7 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: セリス・アリアーヌ、何を企んでいる？"
+                                "Sylvia: Ceres Aria-Ann, what are you plotting?"
                             ]
                         },
                         {
@@ -3927,7 +3906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: いやぁ～･･･ 企むだなんてそんな。まずは世間話でもと。"
+                                "Ceres: No, no~... Plotting? Nothing like that. I just thought we could\nhave a casual chat first."
                             ]
                         },
                         {
@@ -3945,7 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ･････"
+                                "Sylvia: ......"
                             ]
                         },
                         {
@@ -3963,7 +3942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: まぁいい。レオンを呼んでやる。"
+                                "Sylvia: Well, fine. I'll call for Leon."
                             ]
                         },
                         {

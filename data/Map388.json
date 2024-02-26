@@ -7685,7 +7685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: やぁ、こんにちは。君がルーナだね。"
+                                "Kyle: Hey, good afternoon. You must be Luuna."
                             ]
                         },
                         {
@@ -7786,7 +7786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなたは･･･？"
+                                "Luuna: And you are...?"
                             ]
                         },
                         {
@@ -7804,7 +7804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ノルヴァーナ反乱軍のリーダー『カイル』だ。"
+                                "Kyle: I'm Kyle, the leader of the Norvana Rebellion."
                             ]
                         },
                         {
@@ -7822,7 +7822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 君の噂は聞いている。"
+                                "Kyle: I've heard rumors about you."
                             ]
                         },
                         {
@@ -7840,14 +7840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: シェーナの村の蒼魔導士。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして何よりルーシアの元側近の宮廷魔導士。会えて光栄だよ。"
+                                "Kyle: The Azure Sorceress from the village of Sheena. And above all, a\nformer court magician and close aide to Lucia. It's an honor to meet\nyou."
                             ]
                         },
                         {
@@ -7865,7 +7858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -7883,7 +7876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ん？どうした？"
+                                "Kyle: Hm? What's wrong?"
                             ]
                         },
                         {
@@ -7934,14 +7927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: カイルさん、ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナはルーシアとの昔話をされるのを酷く不快に感じるのです。"
+                                "Becky: I'm sorry, Kyle-san. Luuna feels very uncomfortable when people\nbring up her past with Lucia."
                             ]
                         },
                         {
@@ -7959,7 +7945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: そうか。それは失礼した。"
+                                "Kyle: I see. My apologies for that."
                             ]
                         },
                         {
@@ -8010,7 +7996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: いえ･･･"
+                                "Luuna: No..."
                             ]
                         },
                         {
@@ -8028,7 +8014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ん？もう一人、お客さんが来たようだ。"
+                                "Kyle: Hm? It looks like we have another guest."
                             ]
                         },
                         {
@@ -8342,7 +8328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: リニ･･･！"
+                                "Luuna: Rinny...!"
                             ]
                         },
                         {
@@ -8393,7 +8379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: よう。"
+                                "Rinny: Yo."
                             ]
                         },
                         {
@@ -8411,7 +8397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 魔導将軍リニか。今日は豪華な客が多い。"
+                                "Kyle: General Rinny of the Magi, huh? We have quite the distinguished\nguests today."
                             ]
                         },
                         {
@@ -8462,7 +8448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 貴様は･･･リューベル王国の元将軍カイルか。意外な所で会うな。"
+                                "Rinny: You are... Kyle, the former general of the Lyubel Kingdom. An\nunexpected place to meet."
                             ]
                         },
                         {
@@ -8480,7 +8466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 俺もナイツオブメサイアのように、リーヌ様の意思を受け継いだ一人だ。"
+                                "Kyle: Like the Knights of Messiah, I am one who has inherited the will\nof Lady Reine."
                             ]
                         },
                         {
@@ -8631,7 +8617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あっ 鐘の音？"
+                                "Becky: Ah, the sound of a bell?"
                             ]
                         },
                         {
@@ -8649,7 +8635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 祈りの鐘だ。一日に数回は鳴る。"
+                                "Kyle: It's the bell of prayer. It rings several times a day."
                             ]
                         },
                         {
@@ -8667,14 +8653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 王族軍とバレンチナ軍との戦いで亡くなった者達を祀る祈りの鐘。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が職人に言って作らせた。"
+                                "Kyle: The bell of prayer to commemorate those who died in the battle\nbetween the royal army and the Valentia army. I had it made on my\norders to the craftsmen."
                             ]
                         },
                         {
@@ -8692,7 +8671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････"
+                                "Rinny: ......"
                             ]
                         },
                         {
@@ -8800,7 +8779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 素敵な鐘ですね。"
+                                "Luuna: It's a beautiful bell."
                             ]
                         },
                         {
@@ -8818,7 +8797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ありがとう、ルーナ。"
+                                "Kyle: Thank you, Luuna."
                             ]
                         },
                         {
@@ -8836,14 +8815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 此処には、選び抜かれた頼もしい戦闘のプロが沢山いる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてルーナ、君達もだ。我々は同志だ。"
+                                "Kyle: Here, we have many reliable professionals selected for combat.\nAnd you and your friends are among them, Luuna. We are comrades."
                             ]
                         },
                         {
@@ -8861,7 +8833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: やったね！ルーナ！"
+                                "Becky: That's great, Luuna!"
                             ]
                         },
                         {
@@ -8912,7 +8884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん！"
+                                "Luuna: Yes!"
                             ]
                         },
                         {
@@ -9009,14 +8981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】私はリマ。グラレス大国の元少尉だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう我々は仲間だ。よろしく。"
+                                "[Rima] My name is Rima. I'm a former lieutenant from the great nation\nof Glares. We're comrades now. Nice to meet you."
                             ]
                         },
                         {
@@ -9083,7 +9048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: お前はグラレスの･･･"
+                                "Rinny: You're from Glares..."
                             ]
                         },
                         {
@@ -9101,7 +9066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】忌み子リニ、昔は色々あったが全て昔の事だ。"
+                                "[Rima] Outcast Rinny, we've had our differences in the past, but\nthat's all in the past now."
                             ]
                         },
                         {
@@ -9152,7 +9117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ふっ･･･忌み子リニか。『忌み子』は俺の蔑称だがまぁいい。よろしく。"
+                                "Rinny: Hmph... Outcast Rinny, huh? That's a derogatory nickname for\nme, but alright. Nice to meet you."
                             ]
                         },
                         {
@@ -9170,7 +9135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】それは失礼。ナイツオブメサイアの一員になって丸くなったと聞いたよ。ふふっ"
+                                "[Rima] My apologies. I heard you've mellowed out since joining the\nKnights of Messiah. Heh heh."
                             ]
                         },
                         {
@@ -9188,7 +9153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････"
+                                "Rinny: ......"
                             ]
                         },
                         {
@@ -9285,14 +9250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ウェンディ】私はリマの妹のウェンディ。私は戦士じゃなくて世話係で雑用係。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくね。えへへっ"
+                                "[Wendy] I'm Wendy, Rima's younger sister. I'm not a warrior but a\ncaretaker and jack-of-all-trades. Nice to meet you. Ehehe!"
                             ]
                         },
                         {
@@ -9343,7 +9301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ああ。"
+                                "Rinny: Ah."
                             ]
                         },
                         {
@@ -9440,7 +9398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジャック】私はジャック。参謀だ。"
+                                "[Jack] I am Jack, the strategist."
                             ]
                         },
                         {
@@ -9491,7 +9449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: よろしく。リマ、ウェンディ、ジャック。"
+                                "Luuna: Nice to meet you. Rima, Wendy, Jack."
                             ]
                         },
                         {
@@ -9588,7 +9546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リリム】あたしはリリム～！"
+                                "[Lilim] I'm Lilim~!"
                             ]
                         },
                         {
@@ -9685,7 +9643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポロ】僕はポロ～！"
+                                "[Polo] And I'm Polo~!"
                             ]
                         },
                         {
@@ -9712,7 +9670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: おいおい、お前達は関係無いだろ。"
+                                "Kyle: Hey now, you guys aren't involved in this."
                             ]
                         },
                         {
@@ -9769,7 +9727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リリム】関係あるも～ん！"
+                                "[Lilim] We are too involved~!"
                             ]
                         },
                         {
@@ -9836,7 +9794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふふっ よろしく。リリム、ポロ。"
+                                "Becky: Hehe, nice to meet you. Lilim, Polo."
                             ]
                         },
                         {
@@ -9893,7 +9851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リリム】此処の皆はね～、物凄く強い勇者達なのよ～！"
+                                "Lilim: Everyone here is an incredibly strong hero~!"
                             ]
                         },
                         {
@@ -9950,7 +9908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポロ】皆、勇者達なんだぜ～！"
+                                "Polo: We're all heroes, you know~!"
                             ]
                         },
                         {
@@ -10001,7 +9959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ふっ･･･ 勇者達か。"
+                                "Rinny: Hmph... Heroes, huh."
                             ]
                         },
                         {
@@ -10019,14 +9977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: そういえば、ミサの村にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつらみたいな汚いガキ共がいたな～。"
+                                "Cain: Now that you mention it, there were some dirty brats like you\nguys in the village of Misa~."
                             ]
                         },
                         {
@@ -10077,7 +10028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: メイとマオね。今頃、どうしているかしら。"
+                                "Becky: Mei and Mao, right? I wonder how they're doing now."
                             ]
                         },
                         {
@@ -10128,7 +10079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: カイルさん、私、此処がとても気に入りました。"
+                                "Luuna: Kyle-san, I've really taken a liking to this place."
                             ]
                         },
                         {
@@ -10179,7 +10130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 早速、何か仕事をさせて頂けませんか？"
+                                "Luuna: May I start working on something right away?"
                             ]
                         },
                         {
@@ -10197,7 +10148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ･････"
+                                "Kyle: ......"
                             ]
                         },
                         {
@@ -10215,7 +10166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: では重要な任務を頼んでも良いかな？"
+                                "Kyle: Then, may I entrust you with an important mission?"
                             ]
                         },
                         {
@@ -10298,7 +10249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジャック】カイル、あれは･･･"
+                                "Jack: Kyle, that is..."
                             ]
                         },
                         {
@@ -10316,14 +10267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: いや、ルーナは凄腕の魔導士だ。あのルーシアやシルヴィアも一目置いているからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしこの仕事が上手くいけば、突破口になる。"
+                                "Kyle: No, Luuna is an exceptional mage. Even Lucia and Sylvia hold her\nin high regard. If this job goes well, it could be a breakthrough."
                             ]
                         },
                         {
@@ -10374,7 +10318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: わかりました。その重要な任務、是非やらせて下さい。"
+                                "Luuna: Understood. Please let me take on that important mission."
                             ]
                         },
                         {
@@ -10392,7 +10336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: わかった。準備が出来たら俺に話しかけてくれ。"
+                                "Kyle: Alright. Talk to me once you're ready."
                             ]
                         },
                         {
@@ -10862,7 +10806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 準備はできたかな？"
+                                "Kyle: Are you ready?"
                             ]
                         },
                         {
@@ -10870,8 +10814,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ。",
-                                    "出来た。"
+                                    "Not yet.",
+                                    "I'm ready."
                                 ],
                                 0,
                                 0,
@@ -10954,7 +10898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイル: 君達に向かって欲しいのは『レビウスの遺跡』だ。"
+                                "Kyle: The place I want you to head to is the \"Ruins of Levius.\""
                             ]
                         },
                         {
@@ -11005,7 +10949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: レビウスの遺跡？"
+                                "Luuna: The Ruins of Levius?"
                             ]
                         },
                         {
@@ -11023,7 +10967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイル: その遺跡に『聖杯の鍵』がある。"
+                                "Kyle: Yes, the \"Key to the Holy Grail\" is there."
                             ]
                         },
                         {
@@ -11074,7 +11018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: 聖杯の鍵？"
+                                "Luuna: The Key to the Holy Grail?"
                             ]
                         },
                         {
@@ -11092,7 +11036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイル: 『レグナス・グラハードの聖杯』を入手する為の鍵だ。"
+                                "Kyle: It's the key to obtain \"Regnus Grahardt's Holy Grail.\""
                             ]
                         },
                         {
@@ -11110,14 +11054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイル: ある場所に聖杯があるのだが、鍵が無いと入れない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その鍵を入手してもらいたいのだ。"
+                                "Kyle: There's a place where the Holy Grail is located, but without the\nkey, you can't enter. I want you to retrieve that key."
                             ]
                         },
                         {
@@ -11135,7 +11072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイル: 言い伝えが本当なら聖杯は、触れた者の力を最大限に引き出してくれるらしい。"
+                                "Kyle: If the legend is true, the Holy Grail can bring out the maximum\npotential of whoever touches it."
                             ]
                         },
                         {
@@ -11153,14 +11090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイル: 我々が聖杯の力で能力を最大限に伸ばせれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "奴等に勝てるかもしれない。"
+                                "Kyle: If we can maximize our abilities with the power of the Holy\nGrail, we might be able to defeat them."
                             ]
                         },
                         {
@@ -11178,7 +11108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイル: 聖杯を入手後、ルーシアとバレンチナの将軍達を我々で討つ。"
+                                "Kyle: After obtaining the Holy Grail, we will take down Lucia and the\ngenerals of Valentina ourselves."
                             ]
                         },
                         {
@@ -11229,7 +11159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: わかりました。聖杯の鍵を必ず手に入れます。"
+                                "Luuna: Understood. I will definitely secure the Key to the Holy Grail."
                             ]
                         },
                         {
@@ -11356,14 +11286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイル: 此処が「レヴィウスの遺跡」だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "此処は財宝目当ての盗賊や暴漢が沢山出ると聞く。気を付けてな。"
+                                "Kyle: This is the 'Ruins of Levius.' I've heard it's full of thieves\nand brutes looking for treasure. Be careful."
                             ]
                         },
                         {
@@ -11456,14 +11379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "                           ルーナ達は「レヴィウスの遺跡」へ向かった。"
+                                "Luuna and her companions headed towards the 'Ruins of Levius.'"
                             ]
                         },
                         {
@@ -11657,7 +11573,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カイル: ･････"
+                                "Kyle: ..."
                             ]
                         },
                         {
@@ -11710,7 +11626,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カイル: ･････"
+                                "Kyle: ..."
                             ]
                         },
                         {
@@ -11779,14 +11695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 本当は我々も同行したいのだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々が留守の間、此処を攻められる可能性がある。頼んだぞ。"
+                                "Kyle: Truthfully, we would like to accompany you, but there's a chance\nthis place could be attacked while we're away. We're counting on you."
                             ]
                         },
                         {
@@ -11862,21 +11771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: なんて事だ･･･こんな事になるなんて･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ、君を止めても無駄なようだ。メイとマオを守れなかった我々には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君を止める資格はない･･･"
+                                "Kyle: What a disaster... I never imagined it would come to this...\nLuuna, it seems futile to stop you. We who couldn't protect Mei and\nMao have no right to stop you..."
                             ]
                         },
                         {
@@ -11894,7 +11789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: カイルさん･･･"
+                                "Luuna: Kyle-san..."
                             ]
                         },
                         {
@@ -12023,7 +11918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジャック】ルーナ、我々の一員になってくれて心から歓迎する。"
+                                "Jack: \"Luuna, I sincerely welcome you as a member of our group.\""
                             ]
                         },
                         {
@@ -12092,7 +11987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジャック】何という事だ･･･ルーナ、すまない。"
+                                "Jack: \"What a thing to happen... Luuna, I'm sorry.\""
                             ]
                         },
                         {
@@ -12170,7 +12065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】何も無い所だが、ゆっくりしていってくれ。"
+                                "Rima: \"It's a place with nothing much, but please make yourself\ncomfortable.\""
                             ]
                         },
                         {
@@ -12239,21 +12134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】ルーナ･･･一番悪いのは私よ。ウェンディには戦闘能力は無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時、戦えるのは私だけだった。でも･･･奴等を前にすると何も出来なくて･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メイとマオは最期まであなたを･･･私はあなたに謝罪の言葉が見当たらない。"
+                                "Rima: Luuna... I'm the one to blame. Wendy has no combat abilities. At\nthat time, I was the only one who could fight. But... when faced with\nthem, I couldn't do anything... Mei and Mao were protecting you until\nthe very end... I can't find the words to apologize to you."
                             ]
                         },
                         {
@@ -12595,14 +12476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】姉さんのリマは、今は無き、あの巨大な国家だったグラレスの将軍を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "していた事があるのよ。妹の私は何も出来ないけどね～ てへっ。"
+                                "Rima: \"My sister Rima used to be a general of Glares, that now non-\nexistent mighty nation. As for me, her little sister, I can't do much\nthough~ Teehee.\""
                             ]
                         },
                         {
@@ -12671,14 +12545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】ルーナ、ごめんなさい･･･メイ･･･マオ･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうして･･･どうして･･･こんな事に･･･"
+                                "Rima: Luuna, I'm sorry... Mei... Mao... Why... Why did it come to\nthis..."
                             ]
                         },
                         {
@@ -12756,14 +12623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リリム】此処にいる皆は英雄の中の英雄なのよ～。先の闘いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "選ばれた人達なんだから。"
+                                "Lilim: \"Everyone here is a hero among heroes~. They were chosen in the\nprevious battle, after all.\""
                             ]
                         },
                         {
@@ -12832,7 +12692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リリム】ルーナ･･･元気出して。"
+                                "Lilim: Luuna... cheer up."
                             ]
                         },
                         {
@@ -12910,7 +12770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポロ】俺も大きくなったら此処の皆みたいになるぜ～。"
+                                "Pole: \"I'm gonna be just like everyone here when I grow up~.\""
                             ]
                         },
                         {
@@ -12979,7 +12839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポロ】くそ･･･！奴等･･･許せないよ。"
+                                "Pole: \"Damn...! I can't forgive them.\""
                             ]
                         },
                         {
@@ -16942,7 +16802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････"
+                                "Rinny: ..."
                             ]
                         },
                         {
@@ -17011,7 +16871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････"
+                                "Rinny: ..."
                             ]
                         },
                         {
@@ -17029,7 +16889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: お前のせいじゃない。"
+                                "Rinny: It's not your fault."
                             ]
                         },
                         {

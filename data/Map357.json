@@ -5869,7 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5887,7 +5887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ、どうしたの？顔が少し赤いけど。"
+                                "Noah: Luuna, what's wrong? Your face is a bit red."
                             ]
                         },
                         {
@@ -5905,7 +5905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうかな。何でもないよ。"
+                                "Luuna: Is that so? It's nothing."
                             ]
                         },
                         {
@@ -5985,7 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: またダリエフに変な事言われたり、されてないか？"
+                                "Noah: Did Dalieh say or do something weird to you again?"
                             ]
                         },
                         {
@@ -6003,7 +6003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 大丈夫だよ、ノア。心配しないで。"
+                                "Luuna: I'm fine, Noah. Don't worry."
                             ]
                         },
                         {
@@ -6021,7 +6021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: それなら良いけど。"
+                                "Noah: If you say so."
                             ]
                         },
                         {
@@ -6046,7 +6046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア、ちょっとこれから用事があるの。先に村へ戻って。"
+                                "Luuna: Noah, I have some errands to run now. You go on ahead to the\nvillage."
                             ]
                         },
                         {
@@ -6064,7 +6064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 用事？何の用事？"
+                                "Noah: Errands? What kind of errands?"
                             ]
                         },
                         {
@@ -6082,7 +6082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: それは内緒よ。"
+                                "Luuna: That's a secret."
                             ]
                         },
                         {
@@ -6100,7 +6100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: え～、気になるな。"
+                                "Noah: Eh~, I'm curious now."
                             ]
                         },
                         {
@@ -6118,7 +6118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: んー･･･ 女の子の秘密よ。あまり詮索しないで。"
+                                "Luuna: Mm... It's a girl's secret. Don't pry too much."
                             ]
                         },
                         {
@@ -6136,14 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 女の子の秘密か･･･まぁルーナも年頃だし･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この俺にだって言いたくない事はあるよね。"
+                                "Noah: A girl's secret, huh... Well, Luuna is at that age... and there\nare things even I wouldn't want to say."
                             ]
                         },
                         {
@@ -6161,7 +6154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめんね。おやすみ、ノア。"
+                                "Luuna: Sorry. Goodnight, Noah."
                             ]
                         },
                         {
@@ -6179,7 +6172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: あ、ああ。それじゃあ俺はこれで。"
+                                "Noah: Oh, okay. Then I'll be off."
                             ]
                         },
                         {
@@ -6408,7 +6401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6426,14 +6419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: さてと･･･売春して少しでもお金を稼がなくてはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダリエフに娼館で働いている事を村中にばらされても嫌だし･･･"
+                                "Luuna: Well then... I need to prostitute myself to earn some money. I\nwouldn't want Dalieh to spread around the village that I work at the\nbrothel..."
                             ]
                         },
                         {
@@ -6451,14 +6437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノアには私が売春している事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつか伝えないとね。"
+                                "Luuna: I'll have to tell Noah someday that I'm prostituting myself."
                             ]
                         },
                         {
@@ -6476,14 +6455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノアは私が他の男性に抱かれる事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興奮する体質なようだから喜んでくれるかな。"
+                                "Luuna: Noah seems to get excited by the thought of me being held by\nother men, so maybe he'll be happy about it."
                             ]
                         },
                         {
@@ -6501,14 +6473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 今のノアには他の男性とのセックスの内容は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "刺激が強すぎるから言えないけどね･･･皆、私に凄い事するから･･･はぁ･･･"
+                                "Luuna: But I can't tell Noah about the sex with other men right now;\nit's too stimulating... Everyone does such intense things to me...\nHaa..."
                             ]
                         },
                         {
@@ -6526,7 +6491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6544,7 +6509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ん･･･濡れてきた。"
+                                "Luuna: Mm... I'm getting wet."
                             ]
                         },
                         {
@@ -6562,7 +6527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そろそろ誰か来るかな･･･"
+                                "Luuna: Someone should be coming soon..."
                             ]
                         },
                         {

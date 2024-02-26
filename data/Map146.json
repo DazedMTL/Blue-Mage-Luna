@@ -3249,14 +3249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: ルーナ、此処に入る前に「ジュピターノの砦」に行きたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょっと気になってね。"
+                                "Becky: Luuna, before we enter here, I want to go to \"Fortress\nJupiterino.\" It's been on my mind."
                             ]
                         },
                         {
@@ -3274,7 +3267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: え、ええ。行こう。"
+                                "Luuna: Eh, sure. Let's go."
                             ]
                         },
                         {

@@ -17948,7 +17948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『キュアーⅡの魔法書』を手に入れた。"
+                                "You have obtained the \"Cure-II Spellbook\"."
                             ]
                         },
                         {
@@ -18206,7 +18206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『祈りの指輪』を手に入れた。"
+                                "Obtained the \"Ring of Prayer.\""
                             ]
                         },
                         {

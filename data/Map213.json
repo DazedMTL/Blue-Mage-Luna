@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ジュピターノの砦-居間室",
+    "displayName": "Jupiterino's Fortress - Living Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 28,
@@ -3620,7 +3620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: レオンさん！久しぶりです。"
+                                "Ceres: Leon-san! It's been a while."
                             ]
                         },
                         {
@@ -3638,14 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】セリス殿、久しぶりでござるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拙者が教官としてモードゥナに剣技を伝授した日が懐かしい。"
+                                "Leon: Lady Ceres, it has indeed been a while. I fondly remember the\ndays when I, as an instructor, imparted swordsmanship in Moduna."
                             ]
                         },
                         {
@@ -3663,14 +3656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ええ。レオンさんが今、バレンチナの将軍になっていると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いて驚きました。"
+                                "Ceres: Yes. I was surprised to hear that you are now a general of\nValentina, Leon-san."
                             ]
                         },
                         {
@@ -3688,7 +3674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】まぁ色々あってな。"
+                                "Leon: Well, a lot has happened."
                             ]
                         },
                         {
@@ -3706,7 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･････"
+                                "Ceres: ......"
                             ]
                         },
                         {
@@ -3724,14 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ところでレオンさん･･･ ジュピターノに来ている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレンチナ軍の最高指導者はゼナ卿と噂で聞きました。"
+                                "Ceres: By the way, Leon-san... I've heard rumors that the supreme\ncommander of the Valentina army in Jupiterino is Lord Zena."
                             ]
                         },
                         {
@@ -3749,7 +3728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 何とかレオンさんからゼナ卿に頼んで彼等と停戦できませんか？"
+                                "Ceres: Can you somehow ask Lord Zena to negotiate a ceasefire with\nthem?"
                             ]
                         },
                         {
@@ -3767,7 +3746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】･････"
+                                "Leon: ......"
                             ]
                         },
                         {
@@ -3785,14 +3764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】承知した。伝えてはおくが、ゼナ卿は聞く耳持たぬでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待はしないで頂きたい。"
+                                "Leon: Understood. I will pass on the message, but I doubt Lord Zena\nwill be receptive. Please don't get your hopes up."
                             ]
                         },
                         {
@@ -3810,7 +3782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: そうですか･･･"
+                                "Ceres: Is that so..."
                             ]
                         },
                         {
@@ -3828,14 +3800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: レオンさん、ルーナという蒼魔導士がいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナでは、あなた方には到底勝ち目はありません。彼女は俺の古くからの友人です。"
+                                "Ceres: Leon-san, there is a blue mage named Luuna. With Luuna, you\nstand no chance of victory. She is an old friend of mine."
                             ]
                         },
                         {
@@ -3853,14 +3818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ルーナはあくまでも、あなた方とルーシアを倒そうとしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシアの悪政を止める為に命を懸けて。"
+                                "Ceres: Luuna is determined to defeat you and Lucia. She's risking her\nlife to stop Lucia's tyranny."
                             ]
                         },
                         {
@@ -3878,7 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】ルーナ？あの蒼魔導士の事ですか。"
+                                "Leon: Luuna? Are you referring to that blue mage?"
                             ]
                         },
                         {
@@ -3896,14 +3854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: レオンさんが、どういう事情でバレンチナに居るのか聞きませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたならゼナ卿とバレンチナ軍に説得する事が出来る筈だ。ルーナを死なせたくない。"
+                                "Ceres: I won't ask why you are in Valentina, Leon-san, but if anyone\ncan persuade Lord Zena and the Valentina army, it's you. I don't want\nLuuna to die."
                             ]
                         },
                         {
@@ -3921,7 +3872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】･････"
+                                "Leon: ......"
                             ]
                         },
                         {
@@ -3939,14 +3890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】ヒルダはともかく、シルヴィア殿は頷かんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにゼナ卿が素直に拙者の言う事を聞くとは思えん。"
+                                "Leon: Regardless of Hilda, Lady Sylvia will likely not agree. And I\ndoubt Lord Zena will readily listen to what I have to say."
                             ]
                         },
                         {
@@ -3964,7 +3908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: っ･････"
+                                "Ceres: ......"
                             ]
                         },
                         {
@@ -3982,7 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】･････"
+                                "Leon: ......"
                             ]
                         },
                         {
@@ -4000,14 +3944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】とはいえ･･･ 古き友人のセリス殿の頼みだ。ゼナ卿に伝えておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々もナイツオブメサイアとは戦いたくないでござるからな。"
+                                "Leon: However... since it's a request from an old friend like you,\nCeres-dono, I will convey it to Lord Zena. We also do not wish to\nbattle the Knights of Messiah."
                             ]
                         },
                         {
@@ -4025,7 +3962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 何とかお願いします。"
+                                "Ceres: Please do whatever you can."
                             ]
                         },
                         {
@@ -4043,7 +3980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】ああ。すまぬな。では拙者はこれにて。"
+                                "Leon: Yes. Forgive me. With this, I must take my leave."
                             ]
                         },
                         {
@@ -4204,7 +4141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･････"
+                                "Ceres: ......"
                             ]
                         },
                         {
@@ -4253,7 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】レオンか。あの振る舞いと礼儀、それに凄腕の剣豪に見えましたね。"
+                                "Vice-Captain: Was that Leon? His demeanor and manners, not to mention\nhis formidable swordsmanship, were quite impressive."
                             ]
                         },
                         {
@@ -4271,14 +4208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ああ。レオンさんは凄腕の剣豪だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゼナ卿への説得は期待できそうにないが･･･やるべき事はやった。"
+                                "Ceres: Yes. Leon-san is a formidable swordsman. It doesn't seem likely\nthat we can expect much from persuading Lord Zena... but we've done\nwhat we could."
                             ]
                         },
                         {
@@ -4296,7 +4226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: あと俺達に出来る事はルーナを見守る事くらいしか無いがな。"
+                                "Ceres: All that's left for us to do is to watch over Luuna, as there's\nnot much else we can do."
                             ]
                         },
                         {
@@ -4314,7 +4244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ルーナ･･･"
+                                "Ceres: Luuna..."
                             ]
                         },
                         {
@@ -4390,14 +4320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達はノルヴァーナの街の前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そびえたつ氷山「ヴィラックの氷山」へと向かった。"
+                                "Luuna and her companions headed towards the towering iceberg in front\nof the city of Norvania, \"Vilac's Iceberg.\""
                             ]
                         },
                         {

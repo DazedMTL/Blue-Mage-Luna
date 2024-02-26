@@ -14331,7 +14331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】へへっ"
+                                "Heheh"
                             ]
                         },
                         {
@@ -14884,7 +14884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】夜は変態が多いから気を付けてね。"
+                                "Woman: \"Be careful at night, there are a lot of perverts around.\""
                             ]
                         },
                         {
@@ -15060,7 +15060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】夜は変なオッサンが多いから気を付けてね。"
+                                "Be careful at night, there are a lot of weird old men around."
                             ]
                         },
                         {
@@ -15138,14 +15138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ノルヴァーナのレジスタンス達は世界各国の強者が集結しているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この階段を登った屋敷に居るよ。"
+                                "Man: \"The resistance fighters of Norva-Na are a gathering of strong\nindividuals from all around the world. They're in the mansion at the\ntop of these stairs.\""
                             ]
                         },
                         {
@@ -15223,7 +15216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】夜は物騒だよ。"
+                                "Man: \"The night is dangerous.\""
                             ]
                         },
                         {
@@ -15541,7 +15534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】夜は店が閉まってるよ。"
+                                "Woman: \"The shop is closed at night.\""
                             ]
                         },
                         {
@@ -15717,7 +15710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】へへっ"
+                                "Heheh"
                             ]
                         },
                         {
@@ -15785,8 +15778,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "今はいい",
-                                    "昼まで待つ"
+                                    "Not now",
+                                    "Wait until noon"
                                 ],
                                 0,
                                 0,
@@ -16010,7 +16003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男】そこの魔導士の女の子、、俺達と遊んでいかない？"
+                                "Man: Hey there, little sorceress girl, won't you come and play with\nus?"
                             ]
                         },
                         {
@@ -16018,8 +16011,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "無視！",
-                                    "遊ぶ"
+                                    "Ignore!",
+                                    "Play"
                                 ],
                                 1,
                                 0,
@@ -16120,7 +16113,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルーナ: え･･･私？"
+                                "Luuna: Eh... me?"
                             ]
                         },
                         {
@@ -16138,7 +16131,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【男】お洒落な格好してるじゃん。ちょっと服の中を見たいな～。"
+                                "Man: You're dressed up pretty fancy. I'd love to take a peek inside\nthose clothes~."
                             ]
                         },
                         {
@@ -16156,7 +16149,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【男】OKならパンツ見せてよ。"
+                                "Man: If it's okay with you, show us your panties."
                             ]
                         },
                         {
@@ -16174,7 +16167,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -16192,14 +16185,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルーナ: (どうしよう･･･私が他の男性の誘いを受けるのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ノアは望んでいるし･･･)"
+                                "Luuna: (What should I do... Noah wants me to accept invitations from\nother men...)"
                             ]
                         },
                         {
@@ -16207,8 +16193,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "遊ばない",
-                                    "この男と遊ぶ"
+                                    "Don't play along",
+                                    "Play with this man"
                                 ],
                                 1,
                                 0,
@@ -16768,7 +16754,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -16791,7 +16777,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ルーナは男の誘いを受ける事にした。仲間達と別れ一人になる。"
+                                "Luuna decided to accept the man's invitation. She parted ways with her\ncompanions to be alone."
                             ]
                         },
                         {
@@ -16889,21 +16875,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【\\I[89]HINT】「\"昼\"のシェーナの村の兵士休憩所」でノアに話しかけて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ルーナを不良共に売り飛ばし孕ませる。」の条件を達成すれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "この男達の誘いを受ける事が出来ます。"
+                                "\\I[89]HINT: If you speak to Noah at the \"Daytime\" soldier's rest area\nin the village of Shena and fulfill the condition \"Sell Luuna to the\ndelinquents and impregnate her,\" you will be able to accept these\nmen's invitation."
                             ]
                         },
                         {
@@ -17080,14 +17052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【妖精】この丸い玉に触れると昼が夜になり、夜が昼になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿屋でも出来ます。"
+                                "Fairy: \"If you touch this round orb, day will turn to night, and night\nwill turn to day. You can also do this at an inn.\""
                             ]
                         },
                         {

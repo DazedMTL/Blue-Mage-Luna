@@ -5345,7 +5345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『メテオの魔法書』を手に入れた。"
+                                "Obtained the \"Meteor Spellbook\"."
                             ]
                         },
                         {
@@ -5856,7 +5856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: これは･･･"
+                                "Luuna: What is this..."
                             ]
                         },
                         {
@@ -5907,7 +5907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: とても綺麗な鉱物ね。"
+                                "Becky: It's a very beautiful mineral."
                             ]
                         },
                         {
@@ -5978,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: とても強い魔力を感じる石ね。"
+                                "Luuna: I can feel a very strong magical power from this stone."
                             ]
                         },
                         {
@@ -6029,7 +6029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: え、魔力が入ってるの？"
+                                "Becky: Eh, it contains magical power?"
                             ]
                         },
                         {
@@ -6047,14 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 何だか怪しそうな石だなぁ。持って帰らない方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいんじゃないのか？"
+                                "Cain: It looks like a suspicious stone. Maybe we shouldn't take it\nhome, huh?"
                             ]
                         },
                         {
@@ -6072,7 +6065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: でも気になる･･･"
+                                "Becky: But I'm curious..."
                             ]
                         },
                         {
@@ -6090,7 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -6141,14 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: そうねぇ。レーデに見せようよ。あいつなら何か知ってるかも？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "折角だし持って帰ろう。ルーナ、いいでしょ？"
+                                "Becky: Right. Let's show it to Rade. She might know something about\nit. Since we've found it, let's take it home. Luuna, that's okay,\nright?"
                             ]
                         },
                         {
@@ -6199,7 +6185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え、ええ。"
+                                "Luuna: Uh, yes."
                             ]
                         },
                         {
@@ -6217,14 +6203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 持って帰るのかぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レーデは、お菓子以外は喜ばんだろ。"
+                                "Cain: We're taking it home? Rade probably won't be pleased unless it's\nsweets."
                             ]
                         },
                         {
@@ -6242,7 +6221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: いいのっ"
+                                "Becky: It's fine!"
                             ]
                         },
                         {
@@ -6260,14 +6239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 本当に凄い魔力を秘めている･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かにレーデ様なら何か知ってるかも･･･"
+                                "Luuna: It truly harbors incredible magical power... Indeed, Lady Rade\nmight know something about it..."
                             ]
                         },
                         {
@@ -6297,7 +6269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『謎の綺麗な石』を手に入れた。"
+                                "Acquired the \"Mysterious Beautiful Stone\"."
                             ]
                         },
                         {

@@ -9696,8 +9696,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "準備する",
-                                    "「必真の水鏡」に触れる"
+                                    "Prepare",
+                                    "Touch the \"Mirror of Truth\""
                                 ],
                                 0,
                                 0,
@@ -9797,7 +9797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -9892,7 +9892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -9943,7 +9943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: この映像は･･･"
+                                "Luuna: This footage is..."
                             ]
                         },
                         {
@@ -9994,7 +9994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: ルーナ、この子は誰？"
+                                "Becky: Luuna, who is this child?"
                             ]
                         },
                         {
@@ -10045,7 +10045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: わからない。"
+                                "Luuna: I don't know."
                             ]
                         },
                         {
@@ -10063,7 +10063,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -10149,7 +10149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: え･･･この情報は何･･･？"
+                                "Luuna: Huh... What is this information...?"
                             ]
                         },
                         {
@@ -10167,7 +10167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -10185,7 +10185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 どうしてそんなにボロボロなの？"
+                                "Girl: Why are you so battered?"
                             ]
                         },
                         {
@@ -10203,7 +10203,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 誰かにやられたの？"
+                                "Girl: Were you attacked by someone?"
                             ]
                         },
                         {
@@ -10221,7 +10221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 もしかして、レグナス・グラハード･･･？"
+                                "Girl: Could it be, Regnus Grahardt...?"
                             ]
                         },
                         {
@@ -10239,7 +10239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【レグナス・グラハード】････････"
+                                "Regnus Grahardt: ............"
                             ]
                         },
                         {
@@ -10292,7 +10292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 待って！レグナス・グラハード！"
+                                "Girl: Wait! Regnus Grahardt!"
                             ]
                         },
                         {
@@ -10310,7 +10310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【レグナス・グラハード】････････"
+                                "Regnus Grahardt: ............"
                             ]
                         },
                         {
@@ -10328,7 +10328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 レグナス・グラハード！"
+                                "Girl: Regnus Grahardt!"
                             ]
                         },
                         {
@@ -10346,7 +10346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 ･････････"
+                                "Girl: ..............."
                             ]
                         },
                         {
@@ -10364,7 +10364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【レグナス・グラハード】････････"
+                                "Regnus Grahardt: ............"
                             ]
                         },
                         {
@@ -10382,7 +10382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 待って！！！○○○○○！！！"
+                                "Girl: Wait!!! !!!"
                             ]
                         },
                         {
@@ -10400,7 +10400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 ○○○○○！！！"
+                                "Girl: !!!"
                             ]
                         },
                         {
@@ -10451,7 +10451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: あれ･･･聞こえない。"
+                                "Luuna: Huh... I can't hear."
                             ]
                         },
                         {
@@ -10469,7 +10469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 ○○○○○！！！"
+                                "Girl: !!!"
                             ]
                         },
                         {
@@ -10487,7 +10487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: この子、何を叫んでいるのかしら。"
+                                "Becky: What is this child shouting about, I wonder."
                             ]
                         },
                         {
@@ -10538,7 +10538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: わからない。"
+                                "Luuna: I don't know."
                             ]
                         },
                         {
@@ -10556,7 +10556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女の子】 ○○○○○ー･･･！！！"
+                                "Girl: -...!!!"
                             ]
                         },
                         {
@@ -10574,7 +10574,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -10625,7 +10625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: これ以上は見れないようね。"
+                                "Luuna: It seems we can't watch any further."
                             ]
                         },
                         {
@@ -10693,7 +10693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -10744,7 +10744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ううっ･･･ ごめん･･･ 何故か体調が悪い。"
+                                "Luuna: Ugh... Sorry... I feel sick for some reason."
                             ]
                         },
                         {
@@ -10805,7 +10805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: ちょっと！ルーナ！！！どうしたの！！？"
+                                "Becky: Hey! Luuna!!! What's wrong?!"
                             ]
                         },
                         {
@@ -10823,7 +10823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイン: おいおい。一旦、此処を出ようぜ。"
+                                "Cain: Hey, hey. Let's get out of here for now."
                             ]
                         },
                         {
@@ -11086,7 +11086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！！"
+                                "Luuna: !!!"
                             ]
                         },
                         {
@@ -11104,7 +11104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーナ、どうしたの？"
+                                "Becky: Luuna, what's wrong?"
                             ]
                         },
                         {
@@ -11153,7 +11153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 誰かが追ってくる･･･"
+                                "Luuna: Someone is following us..."
                             ]
                         },
                         {
@@ -11171,7 +11171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: げっ まじかよ。"
+                                "Cain: Damn, are you serious?"
                             ]
                         },
                         {
@@ -11307,7 +11307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！！"
+                                "Luuna: !!!"
                             ]
                         },
                         {
@@ -11325,7 +11325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【追跡者】『･････"
+                                "[Pursuer] \"......\""
                             ]
                         },
                         {
@@ -11376,7 +11376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: これは･･･魔法によって作られた魔導兵ね。"
+                                "Luuna: This is... a magical automaton created by magic."
                             ]
                         },
                         {
@@ -11394,14 +11394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: バレンチナ式の魔導生成によって作られている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを作ったのは恐らく･･･シルヴィアかヒルダね。"
+                                "Luuna: It's made using the Valentina method of magical creation. The\none who made this is probably... Sylvia or Hilda."
                             ]
                         },
                         {
@@ -11419,7 +11412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･だとしたら強いわね。"
+                                "Becky: ...If that's the case, it's going to be strong."
                             ]
                         },
                         {
@@ -11437,7 +11430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 倒すわよ･･･！"
+                                "Luuna: We'll take it down...!"
                             ]
                         },
                         {
@@ -11531,7 +11524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -11652,7 +11645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -12029,7 +12022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】はぁ･･･"
+                                "【???】Sigh..."
                             ]
                         },
                         {
@@ -12047,21 +12040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】この場所に酢豚弁当の移動販売が来ると聞いて来たのですがねぇ･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石にデマだったようです･･･。え、此処で何してる？探索ですよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考古学者として生活してますのでな。"
+                                "【???】I came here because I heard that there was a mobile vendor\nselling sweet and sour pork bento... It seems it was just a rumor\nafter all... Huh, what am I doing here? I'm exploring. I make a living\nas an archaeologist."
                             ]
                         },
                         {
@@ -12079,14 +12058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】それがですな、此処で凄い魔法書を2つも発見したのですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "1つだけ、あなた方に差し上げます。"
+                                "【???】You see, I've discovered two incredible spellbooks here. I will\ngive one of them to you."
                             ]
                         },
                         {
@@ -12104,21 +12076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】えーと･･･コホンッ 「右の手に持つ魔法書は～ 黄金の魔法書。」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「左の手に持つ魔法書は～ 古びた魔法書。」さぁ、どっちが欲しいですかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はですな、この芸がしたくて1つしか差し上げないのですっ うししししし････"
+                                "【???】Um... *cough* \"The spellbook in my right hand is the golden\nspellbook. The spellbook in my left hand is the ancient spellbook.\"\nNow, which one would you like? Actually, I only want to give one\nbecause I wanted to perform this trick. Hehehehe..."
                             ]
                         },
                         {
@@ -12126,9 +12084,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "どっちもいらない･･･",
-                                    "右の手に持つ黄金の魔法書",
-                                    "左の手に持つ古びたの魔法書"
+                                    "I don't need either...",
+                                    "The golden grimoire in your right hand",
+                                    "The worn grimoire in your left hand"
                                 ],
                                 1,
                                 0,
@@ -12171,7 +12129,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『オールヒールVの魔法書』と『レイズⅣの魔法書』を手に入れた。"
+                                "You have obtained the \"All-Heal V Spellbook\" and the \"Raise IV\nSpellbook\"."
                             ]
                         },
                         {
@@ -12199,14 +12157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【???】欲の無いあなたに2つプレゼントですっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よくこの選択に気付きましたな～。グッドです。"
+                                "【???】For you, who are without greed, I present both. You've noticed\nthis choice well. Good for you."
                             ]
                         },
                         {
@@ -12258,7 +12209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『オールヒールVの魔法書』を手に入れた。"
+                                "You have obtained the \"All-Heal V Spellbook\"."
                             ]
                         },
                         {
@@ -12320,7 +12271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『レイズⅣの魔法書』を手に入れた。"
+                                "You have obtained the \"Raise IV Spellbook\"."
                             ]
                         },
                         {
@@ -12418,21 +12369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】この魔法書は私がモンスターに追い回されて、逃げまくってる時にモンスターが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落とした魔法書でしてな、恐らく盗む事の出来る魔法書なのかもしれませんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、差し上げた魔法書はかなり盗める確率が低いと思うので貴重ですぞ～。"
+                                "【???】\"This grimoire was dropped by a monster while I was being chased\nand running away. It's probably a grimoire that can be stolen. The\ngrimoire I've just given you has a pretty low chance of being stolen,\nso it's quite valuable.\""
                             ]
                         },
                         {
@@ -12450,7 +12387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】えっと、私？酢豚弁当好きの考古学者ですよ。"
+                                "【???】\"Uh, me? I'm an archaeologist who loves sweet and sour pork\nbento.\""
                             ]
                         },
                         {
@@ -12510,14 +12447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: はぁ･･･あんた、砂漠に居たオジサンでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "前に一回話したじゃん？"
+                                "Becky: \"Hah... Aren't you that old man from the desert? We've talked\nonce before, remember?\""
                             ]
                         },
                         {
@@ -12535,7 +12465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【おじさん】あうっ･･･！そうでしたな。お久しぶりですなぁ。"
+                                "【Old Man】\"Ah...! That's right. It's been a while, hasn't it?\""
                             ]
                         },
                         {
@@ -12586,14 +12516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: ったく、こんなとこに酢豚弁当屋の移動販売が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "来るなんて何処の情報雑誌なんだか。"
+                                "Becky: \"Seriously, who would've thought a sweet and sour pork bento\nvendor would come to a place like this. What kind of information\nmagazine is this?\""
                             ]
                         },
                         {
@@ -12611,14 +12534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【おじさん】いやぁ、それが客から逃げ回っている幻の酢豚弁当屋でしたな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見つけた人間だけが食べれる極上の酢豚弁当なのですよ！"
+                                "【Old Man】\"Well, that's because it's the phantom sweet and sour pork\nbento vendor, always on the run from customers. Only those who find it\ncan taste its supreme deliciousness!\""
                             ]
                         },
                         {
@@ -12669,14 +12585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: わかった、わかった、あたし達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "汚っちゃんに付き合ってる暇はないの。じゃあね。"
+                                "Becky: \"Got it, got it. We don't have time to mess around with dirty\nold men. See ya.\""
                             ]
                         },
                         {

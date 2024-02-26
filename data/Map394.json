@@ -4637,14 +4637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】ノルヴァーナのレジスタンス達は義勇兵の集まりで皆の憧れさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浮遊大陸の戦士達は勿論、地上国のグラレスやリューベル出身の戦士達が多いと聞く。"
+                                "The resistance fighters of Norva-Na are a gathering of volunteers,\nadmired by everyone. I hear that many warriors come from the floating\ncontinent, of course, but also from the ground nations like Grales and\nRue-Belle."
                             ]
                         },
                         {
@@ -4662,14 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】皆、ルーシアの鋼鉄兵や、ジュピターノと軍事同盟を結んでいるバレンチナに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "苦しめられているからね。だけどこの街、ノルヴァーナだけは帝都に毅然と対応しているんだ。"
+                                "Everyone is suffering under Lucia's steel soldiers and Valentina,\nwhich has formed a military alliance with Jupiterino. But this city,\nNorva-Na, is the only one that stands firm against the imperial\ncapital."
                             ]
                         },
                         {
@@ -4747,14 +4733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ヒルダは人を食べる恐ろしい魔導士じゃ。頭から丸呑みする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街はレジスタンス達が護ってくれているから安全だがな。"
+                                "Man: \"Hilda is a terrifying sorceress who devours people. She swallows\nthem whole, starting from the head. But this town is safe because the\nresistance fighters are protecting us.\""
                             ]
                         },
                         {

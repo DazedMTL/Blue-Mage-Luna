@@ -6073,7 +6073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: そこを入れて下さいよぉ～。"
+                                "Ceres: Please let me through there~."
                             ]
                         },
                         {
@@ -6091,7 +6091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【警備兵】駄目だ。絶対に入れん。何度来ても一緒だ。"
+                                "[Guard] No way. Absolutely not. It's the same no matter how many times\nyou come."
                             ]
                         },
                         {
@@ -6109,7 +6109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 旦那、良い酒があるんです。"
+                                "Ceres: Sir, I have some fine liquor here."
                             ]
                         },
                         {
@@ -6127,7 +6127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【警備兵】手土産を持ってきても駄目。"
+                                "[Guard] Even if you bring a gift, it's no good."
                             ]
                         },
                         {
@@ -6145,7 +6145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: いや～、あんたも頑固だな。立派な警備兵の証拠だ。"
+                                "Ceres: Geez, you're stubborn. A true mark of a fine guard."
                             ]
                         },
                         {
@@ -6211,7 +6211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: よっ！未来の警備班長！"
+                                "Ceres: Yo! Future head of the guard squad!"
                             ]
                         },
                         {
@@ -6238,7 +6238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【警備兵】ゴマをすっても駄目！"
+                                "[Guard] Flattery will get you nowhere!"
                             ]
                         },
                         {
@@ -6256,14 +6256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【警備兵】この先にはルーシア様やバレンチナの方々が居られる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様のような小汚い鼠を入れる訳にはいかん。さっさと帰れ。シッシッ"
+                                "[Guard] Beyond here are Lady Lucia and the Valentinas. I can't let a\nfilthy rat like you in. Scram. Shoo!"
                             ]
                         },
                         {
@@ -6281,7 +6274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: はぁ･･･"
+                                "Ceres: Sigh..."
                             ]
                         },
                         {
@@ -6330,7 +6323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･････！"
+                                "Ceres: ......!"
                             ]
                         },
                         {
@@ -6381,7 +6374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あ･･･"
+                                "Luuna: Ah..."
                             ]
                         },
                         {
@@ -6399,7 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: セリス様！"
+                                "Luuna: Lord Ceres!"
                             ]
                         },
                         {
@@ -6417,7 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ルーナじゃないか。帝都ジュピターノの天才魔導士。"
+                                "Ceres: If it isn't Luuna. The genius sorceress of the imperial capital\nJupiterino."
                             ]
                         },
                         {
@@ -6468,7 +6461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい、ご無沙汰しております。"
+                                "Luuna: Yes, it's been a while."
                             ]
                         },
                         {
@@ -6634,7 +6627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【警備兵】ルーナだと！？捕まえろ！"
+                                "[Guard] Luuna, you say!? Seize her!"
                             ]
                         },
                         {
@@ -6716,7 +6709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: セリス様！私は追われています！こちらへ！"
+                                "Luuna: Lord Ceres! I'm being pursued! This way!"
                             ]
                         },
                         {
@@ -6734,7 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: そ、そのようだな･･･！"
+                                "Ceres: So, it seems...!"
                             ]
                         },
                         {
@@ -7278,7 +7271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【警備兵】待てー！！"
+                                "[Guard] Wait-!!"
                             ]
                         },
                         {

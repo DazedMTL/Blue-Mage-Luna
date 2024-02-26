@@ -5048,7 +5048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -5066,7 +5066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ルーナ、手紙は読んだよ。良い返事は出来なかったが。"
+                                "Ceres: \"Luuna, I read your letter. I couldn't give a good response,\nthough.\""
                             ]
                         },
                         {
@@ -5117,7 +5117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: いえ、良いのです。断られても当然の事ですから。"
+                                "Luuna: \"No, it's alright. It's only natural to be refused.\""
                             ]
                         },
                         {
@@ -5135,14 +5135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: だが気になったから少数の兵と共に、ジュピターノまで来たんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近、ジュピターノのレジスタンス達からナイツオブメサイアへ手紙が沢山届く。"
+                                "Ceres: \"But I was concerned, so I came to Jupiterino with a few\nsoldiers. Recently, we've been receiving a lot of letters from the\nresistance in Jupiterino to the Knights of Messiah.\""
                             ]
                         },
                         {
@@ -5193,14 +5186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうですか。今、この国はおかしくなっています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私以外のレジスタンス達も活動していますので。"
+                                "Luuna: \"Is that so? The country is becoming strange now. Other members\nof the resistance are also active.\""
                             ]
                         },
                         {
@@ -5218,14 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ルーシアはルーナを実の妹のようにずっと可愛がっていたのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナはジュピターノの宮廷魔導士としてルーシアと共に生きる筈だった。残念な事だ。"
+                                "Ceres: \"Lucia always adored you like a real sister, Luuna. You were\nsupposed to live together with Lucia as a court magician of\nJupiterino. It's regrettable.\""
                             ]
                         },
                         {
@@ -5243,7 +5222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: よして下さい。昔の事です。"
+                                "Luuna: \"Please stop. That's all in the past.\""
                             ]
                         },
                         {
@@ -5261,7 +5240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーシアは変わった。直系の魔導士に覚醒した事で。"
+                                "Luuna: \"Lucia has changed. It happened when she awakened as a direct-\nline magician.\""
                             ]
                         },
                         {
@@ -5279,14 +5258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 俺もルーシアの様子が昔と変わったと感じた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "砂漠のオアシスで会った時のルーシアは暗い表情をしていたな。"
+                                "Ceres: \"I also felt that Lucia has changed from before. She had a\ngloomy expression when I met her at the oasis in the desert.\""
                             ]
                         },
                         {
@@ -5337,14 +5309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 直系の魔導士に覚醒したルーシアは魔法大国バレンチナと手を組み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジュピターノの国民を苦しめています。私は断じてルーシアを許しません。"
+                                "Luuna: \"Lucia, who awakened as a direct-line magician, has joined\nhands with the magical kingdom of Valentina and is causing suffering\nto the people of Jupiterino. I will never forgive Lucia.\""
                             ]
                         },
                         {
@@ -5362,7 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ルーナ･････"
+                                "Ceres: \"Luuna...\""
                             ]
                         },
                         {
@@ -5389,7 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: セリス様！"
+                                "Becky: \"Lord Ceres!\""
                             ]
                         },
                         {
@@ -5440,7 +5405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: やはり我々レジスタンスは、ナイツオブメサイアの力を貸りたい。"
+                                "Becky: \"Indeed, we, the resistance, want to borrow the power of the\nKnights of Messiah.\""
                             ]
                         },
                         {
@@ -5458,14 +5423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ナイツオブメサイアは他国の困っている人々の国々に出向き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けていると聞きました。世界の警察だと風の噂で聞きました。"
+                                "Becky: \"I've heard that the Knights of Messiah go out to countries\nwhere people are in trouble and help them. They're rumored to be the\npolice of the world.\""
                             ]
                         },
                         {
@@ -5516,14 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 下界のグラレス大国を制圧した事は聞いています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近ではウィンザー王国の美女狩り隊をも撃破したとか。どうか我々に力をお貸し下さい。"
+                                "Becky: \"I've heard about your conquest of the great nation of Grales\nbelow. Recently, you even defeated the beauty hunting squad of the\nKingdom of Windsor. Please lend us your strength.\""
                             ]
                         },
                         {
@@ -5541,7 +5492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･･････"
+                                "Ceres: \"...\""
                             ]
                         },
                         {
@@ -5559,7 +5510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: すまん、それが無理なんだな。はは‥‥･"
+                                "Ceres: \"Sorry, but that's impossible. Haha...\""
                             ]
                         },
                         {
@@ -5610,7 +5561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: な、何故ですか？"
+                                "Becky: \"Why is that?\""
                             ]
                         },
                         {
@@ -5628,7 +5579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 騎士団長といっても、俺はただの中間管理職だよ？"
+                                "Ceres: \"Even though I'm called the commander of the knights, I'm just\na middle manager, you know?\""
                             ]
                         },
                         {
@@ -5646,14 +5597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: モードゥナ軍、別名、ナイツオブメサイアを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動かす決定権を持つのは国王と、国王の娘であるアリシア皇女と軍師のハーデスだ。"
+                                "Ceres: \"The decision-making power to move the Moduna army, also known\nas the Knights of Messiah, lies with the king, Princess Alicia, his\ndaughter, and Hades, the military strategist.\""
                             ]
                         },
                         {
@@ -5671,7 +5615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: まぁ･･･俺の意見も少しは聞いてくれるけどさ･･･けどさ･･･"
+                                "Ceres: \"Well... they do listen to my opinion a bit... but still...\""
                             ]
                         },
                         {
@@ -5698,14 +5642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: な～んだよ、頼りないなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも騎士団長かよ。しっかりしろよ、中間管理職さんよぉ。"
+                                "Cain: \"What a letdown. And you call yourself the commander of the\nknights? Get it together, Mr. Middle Manager.\""
                             ]
                         },
                         {
@@ -5723,7 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: いやぁ面目ない。"
+                                "Ceres: \"I'm ashamed.\""
                             ]
                         },
                         {
@@ -5774,14 +5711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: しかしセリス様、セリス様とアリシア皇女は婚姻したのですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなら国王に進言する事も出来るじゃないですか？"
+                                "Becky: \"But Lord Ceres, you are married to Princess Alicia, aren't\nyou? Then you could suggest something to the king, couldn't you?\""
                             ]
                         },
                         {
@@ -5799,7 +5729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 国王は俺の事を嫌ってるからねぇ。"
+                                "Ceres: \"The king dislikes me though.\""
                             ]
                         },
                         {
@@ -5817,14 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 駄目だこりゃ。頼りだったナイツオブメサイアは来てくれそうにないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達の事なんてどうでもいいのさ。ベッキー、街に行って飯でも食いに行こうぜ～。"
+                                "Cain: \"This is hopeless. The Knights of Messiah we were relying on\ndon't seem like they'll come to our aid. They don't care about us.\nBecky, let's go into town and grab some food.\""
                             ]
                         },
                         {
@@ -5875,7 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: う、うん･････"
+                                "Becky: \"Yeah... sure...\""
                             ]
                         },
                         {
@@ -5988,7 +5911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 仲間が失礼を･･･"
+                                "Luuna: \"My apologies for my companions' rudeness...\""
                             ]
                         },
                         {
@@ -6006,21 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: いいんだよ。頼りない中間管理職なのは本当だから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも国王と兵士達との板挟み状態だよ。軍師のハーデスには小姑のように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "叱られてばかりだ。"
+                                "Ceres: \"It's fine. It's true that I'm just a middle manager caught\nbetween the king and the soldiers. I'm always getting scolded by Hades\nlike a nagging sister-in-law.\""
                             ]
                         },
                         {
@@ -6038,7 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: セリス様も大変なんですね･･･"
+                                "Luuna: \"You have it tough too, Lord Ceres...\""
                             ]
                         },
                         {
@@ -6056,7 +5965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: わかってくれる～･･･！？"
+                                "Ceres: \"You understand...?!\""
                             ]
                         },
                         {
@@ -6074,14 +5983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ルーナは昔から変わらないな。まっすぐで真面目で素直で優しくて･･･ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、どうしてもルーシアは許せないのか？あんなに仲が良かったのに。"
+                                "Ceres: \"Luuna, you haven't changed at all since then. Straightforward,\nserious, honest, kind... But can you really not forgive Lucia? You two\nwere so close.\""
                             ]
                         },
                         {
@@ -6132,7 +6034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい。"
+                                "Luuna: \"Yes.\""
                             ]
                         },
                         {
@@ -6150,7 +6052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: そうか。"
+                                "Ceres: \"I see.\""
                             ]
                         },
                         {
@@ -6168,7 +6070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ルーナ、俺も性格変わってないだろ？"
+                                "Ceres: \"Luuna, I haven't changed my personality either, have I?\""
                             ]
                         },
                         {
@@ -6219,7 +6121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･･･"
+                                "Luuna: \"Uh...\""
                             ]
                         },
                         {
@@ -6237,7 +6139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -6255,14 +6157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: セリス様は少し変わったと思います。グラレス大国と戦う前の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の知っているセリス様とは少し違う。"
+                                "Luuna: \"I think you have changed a little, Lord Ceres. You're\ndifferent from the Ceres I knew before the battle with the great\nnation of Grales.\""
                             ]
                         },
                         {
@@ -6280,7 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: そ、そうかな？"
+                                "Ceres: \"Is that so?\""
                             ]
                         },
                         {
@@ -6331,7 +6226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい。"
+                                "Luuna: \"Yes.\""
                             ]
                         },
                         {
@@ -6349,14 +6244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 昔のセリス様はもっと怠け者だったように思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔に比べ、今はよく働いているのではないでしょうか。"
+                                "Luuna: I think the Lord Ceres of the past was more of a slacker.\nCompared to before, you seem to be working much harder now."
                             ]
                         },
                         {
@@ -6383,7 +6271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: な、なるほど･･･！"
+                                "Ceres: I see...!"
                             ]
                         },
                         {
@@ -6434,7 +6322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふふ･･･"
+                                "Luuna: Hehe..."
                             ]
                         },
                         {
@@ -6452,14 +6340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: セリス様、何故、ナイツオブメサイアは他国に干渉するのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故、無関係な他国を助けようとするのですか？昔のセリス様なら面倒な事はしなかった筈です。"
+                                "Luuna: Lord Ceres, why does the Knights of Messiah interfere with\nother countries? Why do you try to help other nations that have\nnothing to do with you? The Lord Ceres of the past wouldn't have\nbothered with such troublesome matters."
                             ]
                         },
                         {
@@ -6477,7 +6358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･･････"
+                                "Ceres: ......"
                             ]
                         },
                         {
@@ -6589,7 +6470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･･････"
+                                "Ceres: ......"
                             ]
                         },
                         {
@@ -6607,7 +6488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 真の平和を願った無抵抗な男の為さ。"
+                                "Ceres: It's for the sake of a man who wished for true peace without\nresistance."
                             ]
                         },
                         {
@@ -6625,7 +6506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 無抵抗な男？"
+                                "Luuna: A man without resistance?"
                             ]
                         },
                         {
@@ -6643,14 +6524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: グラレスとの戦い･･･あの戦いは、各国が領土争いをしていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "血で血を洗う終わりの無い戦争が続いた。"
+                                "Ceres: The battle with Grales... During that war, various countries\nwere fighting over territories. It was an endless war where blood\nwashed blood."
                             ]
                         },
                         {
@@ -6668,14 +6542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: だがある国の、ある人物が戦争の連鎖を断ち切ろうとしたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "終わりのない戦争は、皆もうやめようってな。その国は戦う事をやめた。"
+                                "Ceres: But a certain person from a certain country tried to break the\nchain of wars. They said, \"Let's all stop this endless war.\" And so,\nthat country ceased to fight."
                             ]
                         },
                         {
@@ -6693,7 +6560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -6711,14 +6578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 戦う事を自ら放棄したその国は当然、一方的に被害を受けた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもその国のある男は無抵抗を貫き、抵抗しなかったんだ。その為、多数の自国民が死んだ。"
+                                "Ceres: Naturally, the country that gave up fighting unilaterally\nsuffered damage. Even so, a certain man from that country persisted in\nnon-resistance and did not fight back. Because of that, many of his\ncountrymen died."
                             ]
                         },
                         {
@@ -6736,14 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: その男は挙句の果てには敵兵の墓まで作り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵兵の国民を守りながら、敵兵の攻撃を防戦一方で受けるだけだった。"
+                                "Ceres: In the end, that man even made graves for the enemy soldiers\nand protected the citizens of the enemy nation while only defending\nagainst their attacks."
                             ]
                         },
                         {
@@ -6761,7 +6614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････！"
+                                "Luuna: ......!"
                             ]
                         },
                         {
@@ -6779,7 +6632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: その無抵抗な男とは、リューベル王国のリーヌ王子･･･？"
+                                "Luuna: Is this man without resistance Prince Reanu of the Kingdom of\nRyubel...?"
                             ]
                         },
                         {
@@ -6820,7 +6673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･･････"
+                                "Ceres: ......"
                             ]
                         },
                         {
@@ -6838,14 +6691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: リューベル王国のリーヌ王子は昔、殺戮が趣味と言われるほどの戦上手で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グラレスの大将軍達は、リーヌの名を聞くだけで震えあがる存在だったんだ。"
+                                "Ceres: Prince Reanu of Ryubel was once known as a skilled warrior who\nenjoyed slaughter so much that even the great generals of Grales\ntrembled at the mention of his name."
                             ]
                         },
                         {
@@ -6863,7 +6709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 俺はリーヌに何度も聞いたさ。何故、そのお前がやられっぱなしなんだ？ってな。"
+                                "Ceres: I asked Reanu many times. Why are you, of all people, just\ntaking it? Why do you, known for your demonic strength, persist in\nnon-resistance? Even going so far as to make graves for enemy soldiers\nkilled by mistake by Ryubel's troops and protecting their families."
                             ]
                         },
                         {
@@ -6881,14 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 何故、鬼人の強さを誇るお前が無抵抗を貫くんだ？ってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リューベル兵が誤って殺した敵兵の墓を作り、敵兵の家族を守ってまで。"
+                                "Ceres: When I heard the answer from Reanu... when I heard 'the true\nanswer' from his mouth, I decided to inherit his will and do what he\ncouldn't. That's when I thought of creating the Knights of Messiah."
                             ]
                         },
                         {
@@ -6906,7 +6745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: セリス様･･･"
+                                "Luuna: Lord Ceres..."
                             ]
                         },
                         {
@@ -6924,21 +6763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 俺はリーヌから、その答えを聞いた時･･･あいつの口から「真実の答え」を聞いた時、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつの意思を受け継ぎ、あいつの出来なかった事をしてあげようと思ったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナイツオブメサイアを作ろうって。"
+                                "Ceres: So, the Knights of Messiah are carrying on Prince Reanu's will?"
                             ]
                         },
                         {
@@ -6989,7 +6814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: では、ナイツオブメサイアは、リーヌ王子の意思を受け継ぐもの？"
+                                "Luuna: Then, are the Knights of Messiah inheriting Prince Reanu's\nwill?"
                             ]
                         },
                         {
@@ -7038,7 +6863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･･････"
+                                "Ceres: ......"
                             ]
                         },
                         {
@@ -7056,14 +6881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ははっ･･･悪い、こんな糞面白くも無い話をダラダラと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナには、つい話してしまうよ。"
+                                "Ceres: Haha... Sorry, for such a boring and long-winded story. I just\nend up talking when it's with you, Luuna."
                             ]
                         },
                         {
@@ -7081,7 +6899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -7230,7 +7048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･･････"
+                                "Ceres: ......"
                             ]
                         },
                         {
@@ -7248,7 +7066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: だが･･･リーヌは間違っていた。"
+                                "Ceres: But... Reanu was wrong."
                             ]
                         },
                         {
@@ -7266,7 +7084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 話し合いなど通じない相手に、無抵抗なんて通用しないんだ。"
+                                "Ceres: Non-resistance doesn't work against opponents who won't listen\nto reason."
                             ]
                         },
                         {
@@ -7284,7 +7102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 俺はリーヌに何もしてやれなかった。何も出来なかった。"
+                                "Ceres: I couldn't do anything for Reanu. I was powerless."
                             ]
                         },
                         {
@@ -7302,7 +7120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: セリス様･･･"
+                                "Luuna: Lord Ceres..."
                             ]
                         },
                         {
@@ -7320,7 +7138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･･････"
+                                "Ceres: ......"
                             ]
                         },
                         {
@@ -7338,14 +7156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 哀しい事だがルーシアも、その「話し合いなど通じない相手」に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なってしまったのだろう。ルーナが無抵抗を貫いてもルーシアの心は少しも揺るがない。"
+                                "Ceres: It's sad, but perhaps Lucia has become one of those 'opponents\nwho won't listen to reason.' Even if you persist in non-resistance,\nLuuna, it won't shake Lucia's heart in the slightest."
                             ]
                         },
                         {
@@ -7396,7 +7207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい･･･"
+                                "Luuna: Yes..."
                             ]
                         },
                         {
@@ -7414,7 +7225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -7432,14 +7243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: だが一縷の望みをかけ、ルーシアと二人で話してみようと思ってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジュピターノの門前に行ったのだが見事、門前払いというわけだ。ははっ･･･"
+                                "Ceres: But I'm holding onto a sliver of hope and thought about talking\nwith Lucia. I went to the gates of Jupiterino but was turned away\nspectacularly. Haha..."
                             ]
                         },
                         {
@@ -7457,14 +7261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 俺には軍隊を動かす力は無いし、何もできない中間管理職だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし話くらいは聞いてもらえると思ったのだが、聞く耳すら持たないらしい。"
+                                "Ceres: I don't have the power to move armies; I'm just a middle\nmanager who can't do anything. However, I thought at least they would\nlisten to me, but it seems they won't even lend an ear."
                             ]
                         },
                         {
@@ -7515,7 +7312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうだったのですか。私達を助けようとしてくれていたのですね。"
+                                "Luuna: Is that so? You were trying to help us."
                             ]
                         },
                         {
@@ -7533,14 +7330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: モードゥナは小国だ。帝都ジュピターノや、ましてや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法大国バレンチナに意見できるような国じゃない。うちの王様は臆病だしね。"
+                                "Ceres: Moduna is a small country. It's not a nation that can voice its\nopinions against the imperial capital Jupiterino or, let alone, the\nmagical superpower Valentina. Our king is also a coward."
                             ]
                         },
                         {
@@ -7558,14 +7348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: 俺の出来る事なんて小さい事だが、まずは帝都ジュピターノに行って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探ってみようと思ったんだ。仲間も此処に来ているらしいしな。"
+                                "Ceres: The little that I can do is to first head to Jupiterino and\ninvestigate. It seems my comrades are also here."
                             ]
                         },
                         {
@@ -7583,14 +7366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 仲間とは魔導将軍リニですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リニは我々の力になってくれるでしょうか？"
+                                "Luuna: Your comrade is the Magic General Rinny, right? Will Rinny be\nable to help us?"
                             ]
                         },
                         {
@@ -7608,7 +7384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: さぁな。きまぐれな奴だから。"
+                                "Ceres: Who knows. They're quite capricious."
                             ]
                         },
                         {
@@ -7626,7 +7402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: さてと。そろそろ俺は帰るよ。"
+                                "Ceres: Well then, I should be heading back soon."
                             ]
                         },
                         {
@@ -7653,14 +7429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: これ以上、ルーナと二人で此処に居たら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狼さんになっちゃいそうだから～。"
+                                "Ceres: If I stay here alone with you, Luuna, any longer, I might turn\ninto a big bad wolf~"
                             ]
                         },
                         {
@@ -7720,14 +7489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: な、何を考えているのですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真面目な話をしていたのに･･･呆れました。"
+                                "Luuna: What are you thinking? We were having a serious conversation...\nI'm appalled."
                             ]
                         },
                         {
@@ -7851,7 +7613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ガウガウッ あはははははっ"
+                                "Ceres: Grrr, Ahahahaha!"
                             ]
                         },
                         {
@@ -7902,7 +7664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふふ･･･"
+                                "Luuna: Hehe..."
                             ]
                         },
                         {

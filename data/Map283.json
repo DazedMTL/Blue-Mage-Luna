@@ -3261,14 +3261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ま、待って下さい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(今、此処でこの人達と別れたら一生後悔する気がする･･･そんな気がする。)"
+                                "Luuna: Wait, please! (If I part ways with these people here, I feel\nlike I'll regret it for the rest of my life... I just have that\nfeeling.)"
                             ]
                         },
                         {
@@ -3286,7 +3279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】何か？"
+                                "Servant: Something wrong?"
                             ]
                         },
                         {
@@ -3304,7 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 友人の無礼は私が謝ります。"
+                                "Luuna: I apologize for my friend's rudeness."
                             ]
                         },
                         {
@@ -3355,7 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさんでしたか、私達に力を貸して欲しいのです。"
+                                "Luuna: Rade-san, we need your help."
                             ]
                         },
                         {
@@ -3373,7 +3366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･･･････"
+                                "Rade: ............"
                             ]
                         },
                         {
@@ -3424,7 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 私の実名がこんな者達に知られるとはな。"
+                                "Rade: To think my real name would be known to such people."
                             ]
                         },
                         {
@@ -3475,14 +3468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ったく･･･ 実名が知られたら嫌なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた、アイドルか何か？"
+                                "Becky: Seriously... You don't like your real name being known? What\nare you, an idol or something?"
                             ]
                         },
                         {
@@ -3500,7 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】いいえ、違うんです。この人は･･･え～っと、ちょっと変な人なんです。"
+                                "Servant: No, that's not it. This person is... well, a bit of an\noddball."
                             ]
                         },
                         {
@@ -3518,14 +3504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん、従者さん、お願いです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた達は相当の使い手だとお見受けしました。私、わかるんです。"
+                                "Luuna: Rade-san, Servant-san, please. I can tell you both are quite\nskilled. I just know it."
                             ]
                         },
                         {
@@ -3543,7 +3522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさんと従者さんなら、ルーシアとシルヴィアに対抗できます。"
+                                "Luuna: With Rade-san and Servant-san, we can stand up to Lucia and\nSylvia."
                             ]
                         },
                         {
@@ -3654,7 +3633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 帰りましょ～ん。くだらないわ～ん。"
+                                "Rade: Let's go home. This is so pointless."
                             ]
                         },
                         {
@@ -3705,14 +3684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 何が下らないんだよ！ルーシアとシルヴィアだよ！知ってるだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村はおろか、あいつらのせいでジュピターノの民が苦労してるのを。"
+                                "Becky: What do you mean pointless?! We're talking about Lucia and\nSylvia here! You know them, right? They're the reason why the people\nof Jupiterino are suffering, not just this village."
                             ]
                         },
                         {
@@ -3794,7 +3766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 知らないわよ～ん。そんな人達、興味ないわ～ん。"
+                                "Rade: I don't know them. I'm not interested in such people."
                             ]
                         },
                         {
@@ -3905,7 +3877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ついでにあなた達にも興味ない～ん。この村にも興味ない～ん。"
+                                "Rade: And I'm not interested in you guys either. Nor this village."
                             ]
                         },
                         {
@@ -3956,7 +3928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 勝手にその人達と殺し合えば～ん？"
+                                "Rade: Why don't you just go and kill each other?"
                             ]
                         },
                         {
@@ -4007,7 +3979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 面白いじゃない～ん？きゃはははーんっ"
+                                "Rade: Wouldn't that be interesting? Kyahaha!"
                             ]
                         },
                         {
@@ -4068,7 +4040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: こいつ！何て奴だ！"
+                                "Becky: This person! What a piece of work!"
                             ]
                         },
                         {
@@ -4119,7 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 待って！ベッキー！"
+                                "Luuna: Wait! Becky!"
                             ]
                         },
                         {
@@ -4170,7 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん、あなたには何が必要ですか？お金ですか？"
+                                "Luuna: Rade-san, what do you need? Money?"
                             ]
                         },
                         {
@@ -4281,7 +4253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: いいえ～ん。"
+                                "Rade: No way."
                             ]
                         },
                         {
@@ -4299,7 +4271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: それとも他の何かですか？"
+                                "Luuna: Then what else could it be?"
                             ]
                         },
                         {
@@ -4350,14 +4322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: うーん。そうね～ん･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しいて言えば情報が欲しいかしらん？"
+                                "Rade: Hmm. Well... if I had to say, maybe I want information?"
                             ]
                         },
                         {
@@ -4375,7 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 情報？"
+                                "Luuna: Information?"
                             ]
                         },
                         {
@@ -4426,7 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あなた『レグナス・グラハード』を知ってるん？"
+                                "Rade: Do you know \"Regnus Grahardt\"?"
                             ]
                         },
                         {
@@ -4444,7 +4409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！"
+                                "Luuna: !!"
                             ]
                         },
                         {
@@ -4495,7 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レグナス・グラハード･･･"
+                                "Luuna: Regnus Grahardt..."
                             ]
                         },
                         {
@@ -4513,7 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 確かルーシアが探し続けている人物･･･"
+                                "Luuna: That's the person Lucia has been continuously searching for..."
                             ]
                         },
                         {
@@ -4624,7 +4589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ん～、知ってるのん？"
+                                "Rade: Hmm, do you know about him?"
                             ]
                         },
                         {
@@ -4681,7 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】マスター、朗報ですね！こんな所でレグナス様の事を知ってる人がいるとは！"
+                                "Servant: Master, this is great news! To think we'd find someone who\nknows about Lord Regnus in a place like this!"
                             ]
                         },
                         {
@@ -4732,7 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: いえ、直接会った事はありません。"
+                                "Luuna: No, I've never met him directly."
                             ]
                         },
                         {
@@ -4750,7 +4715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 昔、ルーシアが私に呟いた事があるだけです。"
+                                "Luuna: It's just something Lucia once mentioned to me a long time ago."
                             ]
                         },
                         {
@@ -4861,7 +4826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: なーんだ。じゃあレグナスの居場所は知らないのねん？"
+                                "Rade: So you don't know where Regnus is?"
                             ]
                         },
                         {
@@ -4912,21 +4877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい･･･お役に立てず、すみません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらくルーシアもレグナス・グラハードの居場所を知らないと思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人が現れるのをずっと待っていたので。"
+                                "Luuna: Yes... I'm sorry I can't be of help. Lucia probably doesn't\nknow Regnus Grahardt's whereabouts either. She's been waiting for him\nto appear all this time."
                             ]
                         },
                         {
@@ -5068,7 +5019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: なら此処に居ても仕方ないわ～ん。帰りましょ～ん。"
+                                "Rade: Then there's no point in staying here. Let's go home."
                             ]
                         },
                         {
@@ -5170,7 +5121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 待ってください！レーデさん、私達に力を貸して下さい！"
+                                "Luuna: Please wait! Rade-san, lend us your strength!"
                             ]
                         },
                         {
@@ -5320,7 +5271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: なによ～！しつこい～ん！"
+                                "Rade: What?! You're so persistent!"
                             ]
                         },
                         {
@@ -5371,7 +5322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: やだやだやだやだ～ん！"
+                                "Rade: No no no no!"
                             ]
                         },
                         {
@@ -5422,14 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: お願いします！私達にはもう頼るものが無いのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レーデさんしかいないのです！この村を救えるのはレーデさんしかいないのです！"
+                                "Luuna: Please! We have no one else to turn to. You're the only one,\nRade-san! You're the only one who can save this village!"
                             ]
                         },
                         {
@@ -5579,14 +5523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 離してよ～ん！なによ、なによ、なによ～ん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何であたしが関係あるのよ～ん！たまたま此処でケーキ食べてただけでしょ～ん！"
+                                "Rade: Let go of me! What do you want from me?! I was just here eating\ncake!"
                             ]
                         },
                         {
@@ -5637,7 +5574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: お願いします！お願いします！"
+                                "Luuna: Please! Please!"
                             ]
                         },
                         {
@@ -5727,14 +5664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: この村が滅びようが、村人が全員野垂れ死のうが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "餓死しようが、あたしに何の関係があるのよ～ん！"
+                                "Rade: Whether this village perishes, the villagers all die in the\nfields, or starve to death, what does it have to do with me~n!"
                             ]
                         },
                         {
@@ -5785,7 +5715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 勝手に戦争でも何でもすればいいでしょ～ん！"
+                                "Rade: Just go ahead and fight your wars or whatever~n!"
                             ]
                         },
                         {
@@ -5836,7 +5766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん、お願いします！お願いします！"
+                                "Luuna: Rade-san, please! Please!"
                             ]
                         },
                         {
@@ -5926,7 +5856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あたしが何したって言うのよ～ん！離してよ～ん！"
+                                "Rade: What did I even do~n! Let go of me~n!"
                             ]
                         },
                         {
@@ -5944,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさんも本当は心を痛めているのではないでしょうか！？"
+                                "Luuna: Aren't you truly pained at heart, Rade-san?"
                             ]
                         },
                         {
@@ -5995,14 +5925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あたしには関係ない～ん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国が滅びようとあたしの知った事じゃないの～ん！"
+                                "Rade: It has nothing to do with me~n! Whether this country perishes is\nnone of my concern~n!"
                             ]
                         },
                         {
@@ -6029,14 +5952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】あの～･･･レーデ様は善悪が無いので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いしても絶対に聞き入れてくれないと思いますよ。"
+                                "[Servant] Umm... Since Rade-sama is indifferent to good and evil, I\ndon't think she'll listen to any pleas."
                             ]
                         },
                         {
@@ -6054,7 +5970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】本当にこの村の人達の事なんて、どうでもいいと思っているので･･･"
+                                "[Servant] She truly doesn't care about the people of this village..."
                             ]
                         },
                         {
@@ -6072,14 +5988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】むしろ、村人が全員死んだ方が静かになって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "此処を寝床に出来るとか本気で思える方です。"
+                                "[Servant] Rather, she genuinely thinks it would be better if all the\nvillagers died so she could have a quiet place to sleep."
                             ]
                         },
                         {
@@ -6097,14 +6006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】その何とかっていう、ルーシアでしたか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人の事などレーデ様にとってはどうでもいいのです。"
+                                "[Servant] To Rade-sama, that person called Lucia or whatever is just\nas insignificant."
                             ]
                         },
                         {
@@ -6122,14 +6024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】むしろ、面白いから戦争しろ～っ 争え～っ どっちも滅べ～ と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本気で願う方なんです。"
+                                "[Servant] Rather, she earnestly wishes for war and conflict – for both\nsides to perish – because she finds it amusing."
                             ]
                         },
                         {
@@ -6180,7 +6075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: やれやれ、超最低のクズじゃん。"
+                                "Becky: Geez, what a complete scumbag."
                             ]
                         },
                         {
@@ -6198,14 +6093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】だから助けを求めるならば、レーデ様でなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた方を不憫と思える方に頼まれてはどうでしょうか？"
+                                "[Servant] So if you're seeking help, why not ask someone who feels\npity for you instead of Rade-sama?"
                             ]
                         },
                         {
@@ -6256,7 +6144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: そうね、こんな奴に頼みたくない。"
+                                "Becky: Right, I wouldn't want to ask someone like her."
                             ]
                         },
                         {
@@ -6367,14 +6255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 頼まれても引き受けません～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしはレグナスを探してるだけなんですからね～ん。"
+                                "Rade: Even if you ask, I won't accept~. I'm only here to search for\nRegnus, after all~n."
                             ]
                         },
                         {
@@ -6425,14 +6306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 何であなた達の戦争ゴッコにあたしが巻き込まれなきゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならないのよ～ん。"
+                                "Rade: Why should I get involved in your little war games~n."
                             ]
                         },
                         {
@@ -6483,7 +6357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: さっさと殺し合って皆死ねばいいのよ～ん。"
+                                "Rade: Just hurry up and kill each other off."
                             ]
                         },
                         {
@@ -6594,7 +6468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あなた達の命なんてウジ虫同然なのよ～ん。"
+                                "Rade: Your lives are no more than maggots to me~n."
                             ]
                         },
                         {
@@ -6645,7 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 死んだらまたウジウジと湧いてくるでしょ～ん？"
+                                "Rade: Once you're dead, more will just wriggle up again, right~n?"
                             ]
                         },
                         {
@@ -6756,14 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: そしてまた戦争して殺し合えばいいのよ～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "延々と同じ事を繰り返すがいいわ～ん。バッカみたい～ん。きゃははははは～っん。"
+                                "Rade: Then you can go back to warring and killing each other. Keep\nrepeating the same thing over and over – it's so stupid~n. Kyahaha~n!"
                             ]
                         },
                         {
@@ -6814,14 +6681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーナ、こいつ･･･頭おかしいよ。ちょっと頭のネジが何本か外れてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "異常というか常人じゃないよ。こんな奴に頼むのはやめよう。"
+                                "Becky: Luuna, this girl... she's crazy. A few screws loose in her\nhead. Abnormal, not a normal person. Let's not rely on someone like\nher."
                             ]
                         },
                         {
@@ -6839,7 +6699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ベッキーは黙ってて。"
+                                "Luuna: Becky, be quiet."
                             ]
                         },
                         {
@@ -6890,7 +6750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん。ではあなたの従者さんを貸して頂けませんか？"
+                                "Luuna: Rade-san. Then, may we borrow your servant?"
                             ]
                         },
                         {
@@ -6917,7 +6777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】私ですか？でも･･･レーデ様の許可がないと･･･"
+                                "[Servant] Me? But... without Rade-sama's permission..."
                             ]
                         },
                         {
@@ -7059,7 +6919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: だ～めっ！"
+                                "Rade: No way!"
                             ]
                         },
                         {
@@ -7110,7 +6970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ:  ダメダメダメダメ～！ めッ！！！"
+                                "Rade: No no no no! No!!"
                             ]
                         },
                         {
@@ -7200,14 +7060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ:  めッ！！！ メッ！！！ めッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた、しつこい～ん。"
+                                "Rade: No!! No!! No!! You're so persistent~n."
                             ]
                         },
                         {
@@ -7225,7 +7078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん･･･"
+                                "Luuna: Rade-san..."
                             ]
                         },
                         {
@@ -7367,7 +7220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: さぁ従者、帰るわよ～ん。"
+                                "Rade: Come on, servant, we're going home~n."
                             ]
                         },
                         {
@@ -7385,7 +7238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】は、はい、マスター。"
+                                "[Servant] Yes, Master."
                             ]
                         },
                         {
@@ -7496,14 +7349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 次にあたしが来る時には～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村が滅んで廃墟になって住みやすくなってると良いわね～ん。"
+                                "Rade: When I come back next time~ I hope this village has perished and\nbecome ruins that are more comfortable to live in~n."
                             ]
                         },
                         {
@@ -7554,21 +7400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ジュピターノごと滅んでくれる事を祈ってるわ～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた達も何とかって人達も全員くたばって～全て大自然に戻ればいいの～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きゃい～んっ"
+                                "Rade: I pray that it meets the same fate as Jupiterino~n. May all of\nyou and those people called whatever all drop dead~ and return\neverything to nature~n. Kyai~n!"
                             ]
                         },
                         {
@@ -7619,7 +7451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: じゃあね～ん、あなた達の茶番劇はウザかったわ～ん。"
+                                "Rade: Bye now~n, your farce was so annoying~n."
                             ]
                         },
                         {
@@ -7670,7 +7502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 今度～ あたしが会う時には屍でいてね～ん。"
+                                "Rade: Next time I see you~ make sure you're a corpse~n."
                             ]
                         },
                         {
@@ -7721,7 +7553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: さよ～なら～ん、クソウジ虫さ～ん。"
+                                "Rade: Goodbye~n, you maggoty vermin~san."
                             ]
                         },
                         {
@@ -7739,7 +7571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: っ･･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -7919,7 +7751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･･････････"
+                                "Rade: ............"
                             ]
                         },
                         {
@@ -7937,7 +7769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････？"
+                                "Luuna: ...?"
                             ]
                         },
                         {
@@ -7988,7 +7820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あら～、あなた、ひょっとして魔法が封じられてる～ん？"
+                                "Rade: Oh my~, you, could it be that your magic has been sealed~n?"
                             ]
                         },
                         {
@@ -8006,7 +7838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: は、はい。どうして分かったのですか？何も言ってないのに。"
+                                "Luuna: Yes. How did you know? I haven't said anything about it."
                             ]
                         },
                         {
@@ -8117,7 +7949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: どうやら～ かなりの使い手に魔法を封じ込められたみたいね～ん。"
+                                "Rade: It seems you've been sealed by quite a skilled magic user~n."
                             ]
                         },
                         {
@@ -8168,7 +8000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい。凄い･･･そこまで分かるなんて。"
+                                "Luuna: Yes. Amazing... to think you could tell just like that."
                             ]
                         },
                         {
@@ -8219,7 +8051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 従者～、この子～、なかなかの使い手よ～ん。"
+                                "Rade: Servant~, this girl~, she's quite the user herself~n."
                             ]
                         },
                         {
@@ -8246,7 +8078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】えっ そうなんですか？この人も魔導士？"
+                                "[Servant] Eh? Really? Is she also a sorceress?"
                             ]
                         },
                         {
@@ -8297,14 +8129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: この子～、魔法を封じ込められる前は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり高位の魔導士だったんじゃないかしら～ん？"
+                                "Rade: Before her magic was sealed, she must have been a rather high-\nranking sorceress, don't you think~n?"
                             ]
                         },
                         {
@@ -8322,7 +8147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】へ～ レーデ様がレグナス様以外で魔導の才能をを認めるなんて珍しい。"
+                                "[Servant] Wow, it's rare for Lady Rade to acknowledge magical talent\nin someone other than Lord Regnus."
                             ]
                         },
                         {
@@ -8472,7 +8297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 認めてない～ん！"
+                                "Rade: I'm not acknowledging anything~n!"
                             ]
                         },
                         {
@@ -8490,7 +8315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん？"
+                                "Luuna: Lady Rade?"
                             ]
                         },
                         {
@@ -8601,7 +8426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: へぇ･･･これは本当に逸材だな。"
+                                "Rade: Heh... this is truly a rare find."
                             ]
                         },
                         {
@@ -8619,7 +8444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！？"
+                                "Luuna: !?"
                             ]
                         },
                         {
@@ -8679,7 +8504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: また急に口調が変わったよ。二重人格か？"
+                                "Becky: There she goes changing her tone all of a sudden again. Does\nshe have a split personality?"
                             ]
                         },
                         {
@@ -8697,14 +8522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】いえ、レーデ様は真剣になると本音口調になるだけです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この人、いつもは適当に生きてますから。"
+                                "[Servant] No, Lady Rade just speaks her true mind when she's serious.\nShe usually lives quite carelessly."
                             ]
                         },
                         {
@@ -8755,7 +8573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: もう、本当にふざけた奴ね。"
+                                "Becky: Really, such a joker."
                             ]
                         },
                         {
@@ -8773,7 +8591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･････････"
+                                "Rade: ............"
                             ]
                         },
                         {
@@ -8791,7 +8609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -8842,14 +8660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: この国の者共の命など、どうでも良いが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この者の天賦の才を消すのは多少惜しいか。"
+                                "Rade: I couldn't care less about the lives of the people in this\ncountry, but it would be somewhat regrettable to snuff out such innate\ntalent."
                             ]
                         },
                         {
@@ -8867,14 +8678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん･･･ありがとう。でも流石にレーデさんでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この魔法封じは解除できないと思います。"
+                                "Luuna: Lady Rade... thank you. But I doubt even you can break this\nmagical seal."
                             ]
                         },
                         {
@@ -8925,7 +8729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私の魔法を封じたのはルーシアという「直系の黒魔導士」です。"
+                                "Luuna: The one who sealed my magic is a 'direct descendant of the\nblack sorcerers' named Lucia."
                             ]
                         },
                         {
@@ -8943,7 +8747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】なんと！直系の黒魔導士･･･"
+                                "[Servant] What! A direct descendant of the black sorcerers..."
                             ]
                         },
                         {
@@ -8961,7 +8765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･････････"
+                                "Rade: ............"
                             ]
                         },
                         {
@@ -9012,21 +8816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーシアは直系の黒魔導士なのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何十億人に一人の伝説の魔導士なのです。だから流石にレーデさんでも･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはり私の魔法封じを解く事は出来ないでしょうね。"
+                                "Luuna: Lucia is a direct descendant of the black sorcerers. She's a\nlegendary sorceress, one in tens of billions. So naturally, I thought\neven Lady Rade couldn't... surely you can't break my magical seal."
                             ]
                         },
                         {
@@ -9044,7 +8834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ･････････"
+                                "Rade: ............"
                             ]
                         },
                         {
@@ -9062,7 +8852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 君、私の手を握ってみて。"
+                                "Rade: You, try holding my hand."
                             ]
                         },
                         {
@@ -9113,7 +8903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あ、はい。"
+                                "Luuna: Ah, yes."
                             ]
                         },
                         {
@@ -9200,7 +8990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[79]ルーナは下級魔法を少し思い出した。"
+                                "\\I[79]Luuna remembered a bit of her lower-level magic."
                             ]
                         },
                         {
@@ -9251,7 +9041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あ･･･"
+                                "Luuna: Ah..."
                             ]
                         },
                         {
@@ -9269,7 +9059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私、魔法が使えるようになった？下級魔法だけど･･･"
+                                "Luuna: I can use magic again? It's just lower-level magic, but..."
                             ]
                         },
                         {
@@ -9320,21 +9110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そんな･･･ ルーシアと同等かそれ以上の魔導士でないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の魔法封じが解けない筈なのに･･･ こんな人がいるなんて･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも特殊な技を使ったのだろうか。"
+                                "Luuna: That's... It should take a sorcerer of equal or greater power\nthan Lucia to undo my magical seal... Could there really be such a\nperson... Or did you use some special technique?"
                             ]
                         },
                         {
@@ -9385,14 +9161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん！本当にありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは本当に一体、何者なんですか！？"
+                                "Luuna: Lady Rade! Thank you so much! Who exactly are you?"
                             ]
                         },
                         {
@@ -9503,14 +9272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あたしの事は詮索しないで～ん。それから～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この事は絶対に秘密だからね～ん。あたし達と出会った事も極秘よ～？わかった～ん？"
+                                "Rade: Don't pry into my affairs~n. Also~ this must absolutely remain a\nsecret~n. Even our meeting must be kept strictly confidential, okay~n?\nUnderstand~n?"
                             ]
                         },
                         {
@@ -9561,14 +9323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 誰かに教えたら～ めっ！ メッ！ めっ！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ペシペシペシペシ！ペシペシペシペシ！するんだからね～ん"
+                                "Rade: If you tell anyone~ tsk! Tsk! Tsk! Smack smack smack smack!\nSmack smack smack smack! That's what I'll do to you~n."
                             ]
                         },
                         {
@@ -9619,14 +9374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: わかりました。秘密は守ります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素性を言えない特別な事情があるようですね。"
+                                "Luuna: Understood. I will keep the secret. It seems you have some\nspecial circumstances that prevent you from revealing your identity."
                             ]
                         },
                         {
@@ -9644,14 +9392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】そうして頂けると助かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々が此処に居たのは、ほんの偶然です。"
+                                "[Servant] We would appreciate it if you did. Our presence here is\nmerely coincidental."
                             ]
                         },
                         {
@@ -9669,14 +9410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】我々は風のような存在でして。完全な裏方と申しますか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決して人前に現れてはいけない存在なのです。どうか我々の事は他者には言わないで頂きたいです。"
+                                "[Servant] We are like the wind. We are meant to stay completely behind\nthe scenes, never to appear before others. Please do not speak of us\nto anyone else."
                             ]
                         },
                         {
@@ -9694,7 +9428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 風のような存在･･･ですか。"
+                                "Luuna: Like the wind... I see."
                             ]
                         },
                         {
@@ -9712,7 +9446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】それにしてもルーナさんでしたか、あなたは非常に運がいい。"
+                                "[Servant] Moreover, Miss Luuna, you are very fortunate."
                             ]
                         },
                         {
@@ -9730,14 +9464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】我々と出会えただけでなく、マスターに興味を持ってもらえるなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の人間ではあり得ませんよ。"
+                                "[Servant] Not only did you encounter us, but our Master took an\ninterest in you. That's not something that happens to ordinary people."
                             ]
                         },
                         {
@@ -9755,14 +9482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】マスターが他人に何かをするなんて私も長年、従者をしていて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見るのは初めてですから。"
+                                "[Servant] It's the first time I've seen the Master do something for\nsomeone else in all my years of service."
                             ]
                         },
                         {
@@ -9847,7 +9567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデ様、本当にありがとうございます。"
+                                "Luuna: Lady Rade, I truly thank you."
                             ]
                         },
                         {
@@ -9898,14 +9618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: もう～ 何を勘違いしてるんだか～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたや村を助けるつもりは無いわ～ん。"
+                                "Rade: Oh please~ what are you misunderstanding~. I had no intention of\nsaving you or your village~n."
                             ]
                         },
                         {
@@ -9956,14 +9669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あたしが助けたのは、あなたの才能ちゃ～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの魔導の才能ちゃ～んを助けたのよ～ん。"
+                                "Rade: What I saved was your talent~chan. I saved your magical\ntalent~chan."
                             ]
                         },
                         {
@@ -9981,7 +9687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私の才能･･･"
+                                "Luuna: My talent..."
                             ]
                         },
                         {
@@ -10032,14 +9738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あなたの魔導の才能は～あたしにとっては～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "此処の村人全員の命どころか～、一国に値すると思ったから助けたのよ～ん。"
+                                "Rade: Your magical talent is, to me, worth more than the lives of all\nthe villagers here~ even worth a whole country, that's why I saved\nit~n."
                             ]
                         },
                         {
@@ -10057,7 +9756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！"
+                                "Luuna: !!"
                             ]
                         },
                         {
@@ -10075,14 +9774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レーデ様は光る素質や才を持った人間を好まれます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆に凡才の人間の命はゴミ屑同然に思われる方ですので。"
+                                "[Servant] Lady Rade favors humans with shining potential and talent.\nConversely, she considers the lives of mediocre talents to be no more\nvaluable than trash."
                             ]
                         },
                         {
@@ -10142,7 +9834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･なんてハチャメチャな奴なのよ。本当に解せん奴ね。"
+                                "Becky: Sigh... What a crazy person. Truly incomprehensible."
                             ]
                         },
                         {
@@ -10160,7 +9852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】その中でもレグナス様はレーデ様に一泡吹かせた人間でして。"
+                                "[Servant] Among them, Regnus Grahardt is someone who has given Lady\nRade a run for her money."
                             ]
                         },
                         {
@@ -10178,14 +9870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】なのでレーデ様はレグナス・グラハードに非常に関心を持ってしまい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行方を探しています。"
+                                "[Servant] Therefore, Lady Rade is very interested in Regnus Grahardt\nand is searching for his whereabouts."
                             ]
                         },
                         {
@@ -10296,14 +9981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 従者～！あんた、余計な事を喋り過ぎよ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしはレグナスに負けてない～ん。"
+                                "Rade: Servant~! You're talking too much about unnecessary things~! I\nhaven't lost to Regnus~n."
                             ]
                         },
                         {
@@ -10321,7 +9999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -10339,14 +10017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん･･･我が儘言って申し訳ないのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下級魔法を思い出したからといって、ルーシアとシルヴィアには勝てません。"
+                                "Luuna: Lady Rade... I'm sorry to be selfish, but just because I\nremembered some lower-level magic, it doesn't mean I can beat Lucia\nand Sylvia."
                             ]
                         },
                         {
@@ -10364,7 +10035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: もっと魔法を思い出したいのです。"
+                                "Luuna: I want to remember more magic."
                             ]
                         },
                         {
@@ -10475,7 +10146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: だ～め。少しずつ思い出した方が面白い～ん。"
+                                "Rade: No~ way. It's more interesting if you remember it little by\nlittle~n."
                             ]
                         },
                         {
@@ -10526,7 +10197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: お願いします！"
+                                "Luuna: Please!"
                             ]
                         },
                         {
@@ -10637,7 +10308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ダメダメダメダメ～･････"
+                                "Rade: No, no, no, no~......"
                             ]
                         },
                         {
@@ -10688,7 +10359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: メッ！めっ！メッ！"
+                                "Rade: Meh! Meh! Meh!"
                             ]
                         },
                         {
@@ -10739,14 +10410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇルーナ、レーデじゃなくて従者に頼めば？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "従者でも魔法を思い出させる事が出来るのでは？"
+                                "Becky: Hey Luuna, why not ask the servant instead of Rade? Can't the\nservant help you remember magic?"
                             ]
                         },
                         {
@@ -10773,7 +10437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】あ、駄目です。私にはそういう力はありません。"
+                                "[Servant] Ah, no, that's not possible. I don't have such power."
                             ]
                         },
                         {
@@ -10791,14 +10455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】それにマスターのレーデ様から命令が無い限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "従者の我々は勝手な事はできません。"
+                                "[Servant] Besides, without an order from Master Rade, we servants\ncannot do anything on our own."
                             ]
                         },
                         {
@@ -10849,7 +10506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうですか･････"
+                                "Luuna: Is that so......"
                             ]
                         },
                         {
@@ -10867,7 +10524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん、お願いします！"
+                                "Luuna: Lady Rade, please!"
                             ]
                         },
                         {
@@ -10978,14 +10635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: だーめ。面倒だからこれ以上、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた達に関わりたくない～ん。"
+                                "Rade: No~ way. It's troublesome, so I don't want to get involved with\nyou guys anymore~n."
                             ]
                         },
                         {
@@ -11067,7 +10717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: じゃあね～ん。そろそろ帰る～ん。話過ぎてお腹減った～ん"
+                                "Rade: Well then~n. It's about time to go home~n. Talking too much made\nme hungry~n"
                             ]
                         },
                         {
@@ -11118,7 +10768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ま、待って！待ってください！"
+                                "Luuna: Wait, please wait!"
                             ]
                         },
                         {
@@ -11136,7 +10786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: せめてレーデさん達の住んでいる場所を教えてください。"
+                                "Luuna: At least tell me where you and your people live."
                             ]
                         },
                         {
@@ -11256,7 +10906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: はぁ･･･本当にしつこい･･･"
+                                "Rade: Sigh... You're really persistent..."
                             ]
                         },
                         {
@@ -11340,7 +10990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: お願いします！"
+                                "Luuna: Please!"
                             ]
                         },
                         {
@@ -11391,7 +11041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 従者～ 説明して～ん。疲れた～ん"
+                                "Rade: Servant~ Explain for me~n. I'm tired~n"
                             ]
                         },
                         {
@@ -11409,7 +11059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】我々の住んでいる所は遥か異国です。今はそういう言い方しか出来ません。"
+                                "[Servant] The place where we live is in a faraway foreign land. That's\nall I can say for now."
                             ]
                         },
                         {
@@ -11427,7 +11077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】我々はレグナス・グラハードを探す為、当分はジュピターノに留まるつもりです。"
+                                "[Servant] We plan to stay in Jupiterino for a while as we search for\nRegnus Grahardt."
                             ]
                         },
                         {
@@ -11445,7 +11095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】ですので先日、豪邸を買いました。"
+                                "[Servant] That's why we recently bought a mansion."
                             ]
                         },
                         {
@@ -11496,7 +11146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 豪邸を買ったのか。旅人なのに金持ちなんだな。"
+                                "Becky: You bought a mansion? Even though you're travelers, you're\nrich."
                             ]
                         },
                         {
@@ -11514,14 +11164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】いえ。レーデ様を襲おうとした野党共が居たのですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レーデ様が全員殺して金を奪ったのです。"
+                                "[Servant] No. There were some bandits who tried to attack Lady Rade,\nbut she killed them all and took their money."
                             ]
                         },
                         {
@@ -11572,7 +11215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: こいつ、本当に悪党だ。容赦ないな。"
+                                "Becky: This one's really a villain. No mercy at all."
                             ]
                         },
                         {
@@ -11683,14 +11326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 悪党をブチ殺して金を奪って何がいけないのよ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな甘い戯言を言ってるから戦争に負ける～ん。ウジ虫さ～ん"
+                                "Rade: What's wrong with killing villains and taking their money~? It's\nbecause you spout such naive nonsense that you lose wars~n.\nMaggots~san"
                             ]
                         },
                         {
@@ -11708,7 +11344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】えっと･･･我々の屋敷ですが此処「シェーナの村から北」に行った所です。"
+                                "[Servant] Um... Our residence is located to the 'north of Sheena\nVillage'."
                             ]
                         },
                         {
@@ -11738,7 +11374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※フィールドマップから「レーデの屋敷」に行けるようになりました。"
+                                "※You can now go to \"Rade's Mansion\" from the field map."
                             ]
                         },
                         {
@@ -11789,7 +11425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ありがとうございます！絶対に伺います！"
+                                "Luuna: Thank you very much! I will definitely visit!"
                             ]
                         },
                         {
@@ -11909,14 +11545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: はぁ･･･何でこんな面倒な事に～･･･来なくていい～ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケーキ食べてただけなのに～ん･･･あたしが何したって言うの～ん。"
+                                "Rade: Sigh... Why do I get involved in such troublesome matters~n. You\ndon't need to come~n. All I did was eat cake~n... What did I even\ndo~n."
                             ]
                         },
                         {
@@ -11934,14 +11563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん、必ず伺いますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甘いお菓子でも持っていきますから。"
+                                "Luuna: Lady Rade, I will definitely visit. I'll bring some sweet\ntreats with me."
                             ]
                         },
                         {
@@ -12092,7 +11714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: きゃぃ～ん！本当～ん？あなた、良い子ね～ん！"
+                                "Rade: Kyaa~n! Really~n? You're such a good girl~n!"
                             ]
                         },
                         {
@@ -12110,7 +11732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: それから、レグナス・グラハードについても調べておきますね。"
+                                "Luuna: And then, I'll also look into Regnus Grahardt."
                             ]
                         },
                         {
@@ -12221,14 +11843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: わかったわ～ん。それじゃあ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甘い物を持ってきてね～ん！いぇいっ♪ 屋敷で待ってるわよ～ん"
+                                "Rade: Got it~n. Then, make sure to bring some sweets~n! Yay♪ I'll be\nwaiting at the mansion~n"
                             ]
                         },
                         {
@@ -12279,7 +11894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: じゃあ、ウジ虫さん達～ん、さようなら～ん。"
+                                "Rade: Well then, maggots~san, goodbye~n."
                             ]
                         },
                         {
@@ -12330,7 +11945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ケぇッ！やっぱりこいつ嫌い！"
+                                "Becky: Ugh! I really hate this guy!"
                             ]
                         },
                         {
@@ -12381,7 +11996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふふっ ベッキー、そう言わないで。"
+                                "Luuna: Hehe, Becky, don't say that."
                             ]
                         },
                         {
@@ -12613,7 +12228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】隙あり！おっぱいターッチ！"
+                                "[Servant] Now's my chance! Boob touch!"
                             ]
                         },
                         {
@@ -12638,7 +12253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】下半身ターッチ！"
+                                "[Servant] Lower body touch!"
                             ]
                         },
                         {
@@ -12749,7 +12364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: やっ！！？"
+                                "Rade: Stop it!!?"
                             ]
                         },
                         {
@@ -12807,14 +12422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ちょっ･･･と･･･あんた、そういうのやめてよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に嫌なんだから。冗談でもやめて。"
+                                "Rade: Hey... just... stop that. I really hate it. Even as a joke, stop\nit."
                             ]
                         },
                         {
@@ -12832,7 +12440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】すいません･･･ムラムラしてつい。"
+                                "[Servant] I'm sorry... I got carried away because I was horny."
                             ]
                         },
                         {
@@ -12883,7 +12491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 本当に嫌なの！"
+                                "Rade: I really hate it!"
                             ]
                         },
                         {
@@ -12934,14 +12542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: そういう事は、そっちのウジ虫さん達にしなさい～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何で主のあたしにするのよ～。それ完全にセクハラよ！？"
+                                "Rade: Do that kind of thing to those maggots over there~. Why do it to\nme, your master~n? That's totally sexual harassment!?"
                             ]
                         },
                         {
@@ -12959,7 +12560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】すいません！すいません！"
+                                "[Servant] I'm sorry! I'm so sorry!"
                             ]
                         },
                         {
@@ -13008,7 +12609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】では皆さん、我々はこの辺で！"
+                                "[Servant] Well then everyone, we shall take our leave here!"
                             ]
                         },
                         {
@@ -13219,14 +12820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･レーデも大概だけど、あの従者も大概よね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌がってる女を触りまくるなんて。"
+                                "Becky: Sigh... Rade is bad enough, but that servant is just as bad.\nTouching a woman who clearly doesn't want it."
                             ]
                         },
                         {
@@ -13277,7 +12871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: まぁ･･･どっちかというと従者がぶっ殺されるような事してるんだけどなぁ。"
+                                "Becky: Well... it's more like the servant is doing something that\ncould get him killed though."
                             ]
                         },
                         {
@@ -13328,7 +12922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え、ええ。"
+                                "Luuna: Uh, yeah."
                             ]
                         },
                         {
@@ -13346,14 +12940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: それにしても凄い方ね。レーデさんは一体何者？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出会えて良かった。"
+                                "Luuna: Anyway, she's an amazing person. Who exactly is Rade? I'm glad\nwe met her."
                             ]
                         },
                         {
@@ -13404,7 +12991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 少しだけ光が見えてきた。希望の光が。"
+                                "Luuna: I can see a little light now. A light of hope."
                             ]
                         },
                         {
@@ -13479,14 +13066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: まずはベルの街に行きましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売春以外でお金を稼げる方法があるかもしれない。"
+                                "Luuna: First, let's go to the city of Bell. There might be a way to\nearn money other than through prostitution."
                             ]
                         },
                         {

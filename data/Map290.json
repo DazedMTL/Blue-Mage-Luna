@@ -3896,7 +3896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宿屋】此処は宿屋です。一泊5ゴールドになります。"
+                                "[Inn] This is an inn. It costs 5 gold per night."
                             ]
                         },
                         {
@@ -3904,9 +3904,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "寝ない。",
-                                    "寝る。",
-                                    "夜まで待つ。"
+                                    "I won't sleep.",
+                                    "I'll sleep.",
+                                    "Wait until nightfall."
                                 ],
                                 0,
                                 0,
@@ -4025,7 +4025,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【宿屋】足りません。"
+                                "[Inn] You don't have enough."
                             ]
                         },
                         {
@@ -4156,7 +4156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宿屋】此処は宿屋です。一泊5ゴールドになります。"
+                                "[Inn] This is an inn. It costs 5 gold per night."
                             ]
                         },
                         {
@@ -4164,9 +4164,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "寝ない。",
-                                    "寝る。",
-                                    "昼まで待つ。"
+                                    "Don't sleep.",
+                                    "Sleep.",
+                                    "Wait until noon."
                                 ],
                                 1,
                                 0,
@@ -4285,7 +4285,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【宿屋】足りません。"
+                                "[Inn] You don't have enough."
                             ]
                         },
                         {
@@ -4430,7 +4430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『不死鳥の羽』を手に入れた。"
+                                "Obtained the \"Phoenix Feather\"."
                             ]
                         },
                         {

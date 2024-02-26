@@ -3905,7 +3905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】よう、カイン。"
+                                "Informant Jeff: Hey there, Cain."
                             ]
                         },
                         {
@@ -3923,7 +3923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: おう、ジェフ。"
+                                "Cain: Hey, Jeff."
                             ]
                         },
                         {
@@ -3975,7 +3975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 知り合い？"
+                                "Luuna: An acquaintance?"
                             ]
                         },
                         {
@@ -3993,7 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 情報屋のジェフ。俺の親友だ。"
+                                "Cain: Informant Jeff. He's a good friend of mine."
                             ]
                         },
                         {
@@ -4011,7 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 情報屋の情報は高額だが、親友だから俺の依頼は無料なんだぜ。"
+                                "Cain: Information from an informant is expensive, but since we're\nfriends, he does my requests for free."
                             ]
                         },
                         {
@@ -4029,7 +4029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】おいおい、そりゃねぇだろ。"
+                                "Informant Jeff: Come on, you know that's not how it works."
                             ]
                         },
                         {
@@ -4081,14 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 情報屋のジェフがカインの親友だったとはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジェフの情報網は凄いから助けになる。"
+                                "Becky: To think that Informant Jeff is Cain's good friend. Jeff's\ninformation network is amazing, so it'll be a big help."
                             ]
                         },
                         {
@@ -4106,7 +4099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ところでジェフ、俺の依頼していた件は調べてくれたか？"
+                                "Cain: By the way, Jeff, did you look into that matter I asked you\nabout?"
                             ]
                         },
                         {
@@ -4124,7 +4117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】ああ。"
+                                "Informant Jeff: Yeah."
                             ]
                         },
                         {
@@ -4142,7 +4135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】「レグナス・グラハード」と「レーデ」についてだったな。"
+                                "Informant Jeff: It was about 'Regnus Grahardt' and 'Rade', right?"
                             ]
                         },
                         {
@@ -4160,7 +4153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】･･･････"
+                                "Informant Jeff: ............"
                             ]
                         },
                         {
@@ -4178,7 +4171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】すまん。その二人の素性は殆ど分からなかった。"
+                                "Informant Jeff: Sorry. I couldn't find much about those two."
                             ]
                         },
                         {
@@ -4196,7 +4189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: おいおい、情報屋のジェフともあろう者が。"
+                                "Cain: Come on, you're supposed to be Informant Jeff."
                             ]
                         },
                         {
@@ -4214,7 +4207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】知り合いの情報屋を集めて聞いたのだが全く素性がわからん。"
+                                "Informant Jeff: I gathered information from my contacts, but their\nbackgrounds are a mystery."
                             ]
                         },
                         {
@@ -4232,7 +4225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】だが、レグナス・グラハードには妙な噂があってな。"
+                                "Informant Jeff: However, there's a strange rumor about Regnus\nGrahardt."
                             ]
                         },
                         {
@@ -4250,14 +4243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】レグナス・グラハードは何度かこのジュピターノ王国で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "活躍した事があるらしい。"
+                                "Informant Jeff: It seems Regnus Grahardt has made a name for himself\nin the Jupiterino kingdom several times before."
                             ]
                         },
                         {
@@ -4308,7 +4294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 活躍？"
+                                "Luuna: Made a name for himself?"
                             ]
                         },
                         {
@@ -4326,14 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】バレンチナの高位魔導士達がジュピターノのある村の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下級魔導士達を虐殺して楽しんでいた事があったんだ。要するに虐めだ。"
+                                "Informant Jeff: There was an incident where high-ranking magicians\nfrom Valentina were massacring low-ranking magicians in a village in\nJupiterino for fun. Basically, it was bullying."
                             ]
                         },
                         {
@@ -4351,7 +4330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: バレンチナの高位の魔導士達がそんな事を･･･"
+                                "Luuna: High-ranking magicians from Valentina did such a thing..."
                             ]
                         },
                         {
@@ -4402,14 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: いつもの事だよ。バレンチナの高位魔導士は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "偉そうな奴が多いからね。"
+                                "Becky: It's the usual. Many of Valentina's high-ranking magicians are\narrogant."
                             ]
                         },
                         {
@@ -4427,7 +4399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: おい、バレンチナの高位の魔導士ってそんなに凄いのか？"
+                                "Cain: Hey, are the high-ranking magicians of Valentina really that\npowerful?"
                             ]
                         },
                         {
@@ -4478,14 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: そうねぇ。一人一人がルーナと匹敵するくらいの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天才魔導士達よ。つまり、エリート魔導士。"
+                                "Becky: Well, each one of them is a genius magician comparable to\nLuuna. In other words, they're elite magicians."
                             ]
                         },
                         {
@@ -4536,7 +4501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: それでどうなったのですか？"
+                                "Luuna: So what happened then?"
                             ]
                         },
                         {
@@ -4554,14 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】さぁね。だがバレンチナの高位魔導士達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村から居なくなったんだ。きっとレグナスの力を見て逃げ出したんだろう。"
+                                "Informant Jeff: Who knows. But the high-ranking magicians from\nValentina disappeared from the village. They must have fled after\nseeing Regnus's power."
                             ]
                         },
                         {
@@ -4579,7 +4537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････！"
+                                "Becky: ............!"
                             ]
                         },
                         {
@@ -4597,14 +4555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】そしてレグナス・グラハードはその村に置き土産をしたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の力を分け与える為の置き土産をな。"
+                                "Informant Jeff: And then Regnus Grahardt left a parting gift in that\nvillage. A gift to share his power with others."
                             ]
                         },
                         {
@@ -4655,7 +4606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 置き土産とは何ですか？"
+                                "Luuna: What kind of parting gift?"
                             ]
                         },
                         {
@@ -4673,21 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】そこまでは分からねぇ。だがレグナス・グラハードが残した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その置き土産を手に入れれば、ルーナがルーシアに勝てる可能性が少しでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "芽生えるかもしれないぜ。"
+                                "Informant Jeff: I don't know the details. But if you can get your\nhands on the parting gift that Regnus Grahardt left behind, there\nmight be a chance for Luuna to beat Lucia."
                             ]
                         },
                         {
@@ -4738,7 +4675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レグナス・グラハードが残した置き土産･･･"
+                                "Luuna: The parting gift left by Regnus Grahardt..."
                             ]
                         },
                         {
@@ -4756,14 +4693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ちょっと待て。レグナス・グラハードが救ったその村は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうなったんだ？そこに行けば置き土産が手に入るだろ？"
+                                "Cain: Wait a minute. What happened to the village that Regnus Grahardt\nsaved? If we go there, we might find the parting gift, right?"
                             ]
                         },
                         {
@@ -4781,21 +4711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】残念。結局、バレンチナのシルヴィアが村人達を皆殺しにしたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女子供、老人、見せしめとして全てを皆殺しにした。だから今は置き土産が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何処にあるのか分からん。"
+                                "Informant Jeff: Unfortunately, Sylvia from Valentina ended up\nslaughtering all the villagers. Women, children, the elderly—she\nkilled them all as a show of force. So now we don't know where the\nparting gift is."
                             ]
                         },
                         {
@@ -4846,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ひどい･･･皆殺しなんて･･･"
+                                "Luuna: That's terrible... A massacre..."
                             ]
                         },
                         {
@@ -4897,7 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: シルヴィアの奴･･･"
+                                "Becky: That Sylvia..."
                             ]
                         },
                         {
@@ -4915,21 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: そうか。置き土産が無いとなると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レグナス・グラハードを探すしかないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず悪い奴じゃないんだろ？俺達の味方になってくれるだろ。"
+                                "Cain: I see. If there's no parting gift, then we have no choice but to\nlook for Regnus Grahardt. He's not a bad guy, right? He'll become our\nally."
                             ]
                         },
                         {
@@ -4947,21 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】悪い奴じゃない？味方になる？それはどうだろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "得体が知れんよ。性別年齢も不詳だ。助けたというより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村人達は実験台にされた可能性もあるからな。"
+                                "Informant Jeff: Not a bad guy? Become an ally? That's hard to say.\nHe's an enigma. His age and gender are unknown. Rather than helping,\nthere's also a possibility that he used the villagers as test\nsubjects."
                             ]
                         },
                         {
@@ -4979,7 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】置き土産だって本当の所、何が入ってるか分からん。"
+                                "Informant Jeff: And as for the parting gift, who knows what's really\ninside it."
                             ]
                         },
                         {
@@ -4997,7 +4885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -5015,14 +4903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】レグナス・グラハードの情報はこんな所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の場所でも現れているという噂はあるが確証はない。"
+                                "Informant Jeff: That's all I have on Regnus Grahardt. There are rumors\nhe's appeared elsewhere, but there's no confirmation."
                             ]
                         },
                         {
@@ -5040,7 +4921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】レーデについては全く分からん。"
+                                "Informant Jeff: As for Rade, I've got nothing at all."
                             ]
                         },
                         {
@@ -5058,7 +4939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5109,7 +4990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: シルヴィア･･･ルーシア･･･私は絶対に許さない。"
+                                "Luuna: Sylvia... Lucia... I will never forgive you."
                             ]
                         },
                         {
@@ -5127,14 +5008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】おいおいルーナ、ルーシアだけじゃなく、バレンチナも敵に回すのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やめとけ、お前等だけではどうにもならんよ。"
+                                "Informant Jeff: Hey, hey, Luuna, are you planning to make enemies with\nnot just Lucia but Valentina as well? Stop it, you guys can't handle\nthis on your own."
                             ]
                         },
                         {
@@ -5185,14 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: でも･･･あたし達、レジスタンスが頑張らないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その村のように罪の無い人達が皆殺しにされる。"
+                                "Becky: But... if we, the resistance, don't put up a fight, innocent\npeople will be slaughtered just like in that village."
                             ]
                         },
                         {
@@ -5210,7 +5077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5228,14 +5095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ジェフさん。私、じっとはしていられない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシアに魔法は封じられたけど、レーデさんによって封印は解かれた。"
+                                "Luuna: Jeff-san. I can't just sit still. My magic was sealed by Lucia,\nbut the seal was broken by Rade-san."
                             ]
                         },
                         {
@@ -5286,7 +5146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 蒼魔法のラーニングも復活した。また類まれなる強敵から技を習得できる。"
+                                "Luuna: My blue magic has also been revived. I can learn techniques\nfrom exceptionally strong enemies again."
                             ]
                         },
                         {
@@ -5304,14 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ジェフさん、類まれな技を使うモンスターの居る場所を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えてくれませんか？一つでも多く強力な技をラーニングしたいのです。"
+                                "Luuna: Jeff-san, could you tell me where to find monsters that use\nrare techniques? I want to learn as many powerful skills as possible."
                             ]
                         },
                         {
@@ -5329,7 +5182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】類まれな技を使うモンスターか。"
+                                "Informant Jeff: Monsters that use rare techniques, huh."
                             ]
                         },
                         {
@@ -5347,21 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】「セレンの森」に特殊な技を使うモンスターが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "稀に現れるという情報がある。そのモンスターに出会えるかどうかは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ次第だ。行くなら場所を教えるぜ？"
+                                "Informant Jeff: There's information that monsters using special\ntechniques occasionally appear in 'Seren Forest'. Whether you\nencounter that monster or not is up to you, Luuna. Want me to tell you\nwhere it is?"
                             ]
                         },
                         {
@@ -5412,14 +5251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 「セレンの森」に特殊な技を使うモンスターですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "是非、セレンの丘の場所を教えてください。"
+                                "Luuna: Monsters in 'Seren Forest' that use special techniques, got it.\nPlease tell me the location of Seren Hill."
                             ]
                         },
                         {
@@ -5437,7 +5269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】あいよ。ルーナ、俺はあんたが気に入ったからな。情報料は無料だ。"
+                                "Informant Jeff: Alright. Luuna, I've taken a liking to you. The\ninformation is free of charge."
                             ]
                         },
                         {
@@ -5488,7 +5320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ありがとうございます！"
+                                "Luuna: Thank you very much!"
                             ]
                         },
                         {
@@ -5518,7 +5350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※フィールドマップに「セレンの森」が解放されました。"
+                                "※'Seren Forest' has been unlocked on the field map."
                             ]
                         },
                         {
@@ -5654,7 +5486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】セレンの森は此処の場所だ。気を付けてな。"
+                                "Informant Jeff: Seren Forest is at this location. Be careful out\nthere."
                             ]
                         },
                         {
@@ -5751,14 +5583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイン: 次は「レアショップ」に行くぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『通信機』を貰いに行く。"
+                                "Cain: Next, we're heading to the 'Rare Shop'. We're going to get a\n\"Communicator\"."
                             ]
                         },
                         {
@@ -5795,14 +5620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイン: 此処が「レアショップ」だ。珍しい物が置いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マニアックな店としても有名だ。"
+                                "Cain: This is the 'Rare Shop'. They have unusual items. It's also\nfamous as a niche store."
                             ]
                         },
                         {
@@ -5955,7 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】また役に立つ情報を調べておくぜ。頑張ってこいよ。"
+                                "Jeff the Informant: \"I'll dig up some more useful information for you.\nKeep up the good work.\""
                             ]
                         },
                         {
@@ -6031,7 +5849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】よう、ルーナ。"
+                                "Informant Jeff: Hey there, Luuna."
                             ]
                         },
                         {
@@ -6049,7 +5867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】ノアの脚を治す薬の原料が何処にあるかだったな？"
+                                "Informant Jeff: You were asking where the ingredients for Noah's leg\nmedicine are located, right?"
                             ]
                         },
                         {
@@ -6067,7 +5885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 大丈夫。脚の壊死を遅らせる薬の原料を見つけたぜ。"
+                                "Cain: Don't worry. I've found the ingredients for the medicine that\nslows down the necrosis of the leg."
                             ]
                         },
                         {
@@ -6152,7 +5970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 本当ですか!? 薬の原料は何処にあるのですか!?"
+                                "Luuna: Really!? Where can we find the ingredients for the medicine!?"
                             ]
                         },
                         {
@@ -6170,7 +5988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】薬の原料は「グラの洞窟」にある。"
+                                "Informant Jeff: The ingredients for the medicine are in \"Gra's Cave.\""
                             ]
                         },
                         {
@@ -6297,7 +6115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】グラの洞窟は此処の場所だ。気を付けてな。"
+                                "Informant Jeff: Gra's Cave is located here. Be careful."
                             ]
                         },
                         {
@@ -6434,7 +6252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ありがとうございます！"
+                                "Luuna: Thank you so much!"
                             ]
                         },
                         {
@@ -6457,7 +6275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達は早速、「グラの洞窟」へと向かった。"
+                                "Luuna and her companions immediately headed for \"Gra's Cave.\""
                             ]
                         },
                         {
@@ -6585,21 +6403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】グラの薬草を困ってる人達にあげちゃった～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ･･･ルーナらしいが。ん～、代わりになる薬草は思い当たらないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず、様々な情報を揃えておくよ。"
+                                "Information Dealer Jeff: You gave away the Gra herbs to people in\nneed? Well... that's so like you, Luuna. Hmm, I can't think of any\nherb that could replace it. For now, I'll gather various pieces of\ninformation for you."
                             ]
                         },
                         {
@@ -6675,14 +6479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】ルーナ、話は聞いたぜ。ノルヴァーナに行くんだってな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつかそんな気はしていたよ。"
+                                "Information Broker Jeff: Luuna, I've heard the news. You're heading to\nNorvana, huh? I had a feeling you might someday."
                             ]
                         },
                         {
@@ -6700,14 +6497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】ノルヴァーナは帝都と最前線で戦っているレジスタンスだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直系の魔導士ルーシアの前に苦戦している。ルーナが行けば歓迎されるだろう。"
+                                "Information Broker Jeff: Norvana is a resistance fighting on the front\nlines against the imperial capital, but they're struggling against the\ndirect descendant and sorceress Lucia. If you go there, Luuna, you'll\nsurely be welcomed."
                             ]
                         },
                         {
@@ -6725,14 +6515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】ノルヴァーナへ行くには『セフィの森』からだ。長い道のりになるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最前線に近付くに連れて敵も手強くなる。バレンチナの魔導士がいるからな。気を付けろ。"
+                                "Information Broker Jeff: To get to Norvana, you must go through \"Sefi\nForest.\" It's going to be a long journey. The closer you get to the\nfront lines, the tougher the enemies will become. There are sorcerers\nfrom Valentina there. Be careful."
                             ]
                         },
                         {
@@ -6859,7 +6642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】セフィの森は此処の場所だ。気を付けてな。"
+                                "Information Broker Jeff: Sefi Forest is located here. Take care."
                             ]
                         },
                         {
@@ -6952,7 +6735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達は「セフィの森」へと向かった。"
+                                "Luuna and her companions headed for \"Sefi Forest.\""
                             ]
                         },
                         {
@@ -7089,21 +6872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【情報屋ジェフ】ルーナ、売春する事も忘れるなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シェーナの村は王国から懲罰を受けて貧困状態だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナとベッキーが売春すれば大金なんてすぐに稼げるさ。ひひひっ"
+                                "Informant Jeff: \"Luuna, don't forget about prostituting yourself.\nShena Village is in poverty due to the kingdom's punishment. If Luuna\nand Becky turn to prostitution, you could make a fortune in no time.\nHehehe.\""
                             ]
                         },
                         {
@@ -7406,7 +7175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『300G』を手に入れた。"
+                                "Gained 300G."
                             ]
                         },
                         {

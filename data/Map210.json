@@ -2271,7 +2271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！？"
+                                "Luuna: ?!!"
                             ]
                         },
                         {
@@ -2289,7 +2289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】はわわ！私ですよ～。"
+                                "Servant: Oh my! It's me~."
                             ]
                         },
                         {
@@ -2340,7 +2340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 従者さん！"
+                                "Luuna: Servant-san!"
                             ]
                         },
                         {
@@ -2391,7 +2391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: もう、従者か。紛らわしいわね。敵だと思った。"
+                                "Becky: Geez, it's just the servant. You had me fooled. I thought you\nwere an enemy."
                             ]
                         },
                         {
@@ -2409,7 +2409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 従者かよ。そこに居たならバレンチナの魔導士を倒してくれよなぁ。"
+                                "Cain: The servant, huh? If you were there, you could've taken down\nValentina's sorcerer for us."
                             ]
                         },
                         {
@@ -2436,7 +2436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】はは･･･ そういう事はできません。"
+                                "Servant: Ha ha... I'm afraid I can't do that."
                             ]
                         },
                         {
@@ -2454,14 +2454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】あなた方の為に船を作っていたのですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "此処から川を下るとノルヴァーナに行けます。"
+                                "Servant: I've been building a boat for you all. If you go down the\nriver from here, you can reach Norva-na."
                             ]
                         },
                         {
@@ -2512,7 +2505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 従者さん･･･"
+                                "Luuna: Servant-san..."
                             ]
                         },
                         {
@@ -2530,14 +2523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】い、いやぁ･･･あなた方を見てると放っておけなくなりましてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レーデ様には内緒ですよ。"
+                                "Servant: No, well... Seeing you all like this, I couldn't just leave\nyou be. This is a secret from Lady Rade, okay?"
                             ]
                         },
                         {
@@ -2571,7 +2557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -2622,7 +2608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 従者さん、感謝します。"
+                                "Luuna: Servant-san, thank you."
                             ]
                         },
                         {
@@ -2640,7 +2626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】で、では私はこれで。"
+                                "Servant: Well then, I'll be off now."
                             ]
                         },
                         {
@@ -3248,14 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                                  ルーナ達は川を下った。"
+                                "Luuna and the others went down the river."
                             ]
                         },
                         {
@@ -3273,14 +3252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                     その頃、モードゥナ軍はジュピターノの砦に居た。"
+                                "Meanwhile, the Moduna army was at the fortress of Jupiterino."
                             ]
                         },
                         {

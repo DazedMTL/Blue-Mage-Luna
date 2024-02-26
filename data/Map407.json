@@ -4580,14 +4580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                            \\{\\c[0]制作：同人サークルGyu!\\c[0]"
+                                "\\c[0]Produced by: Doujin Circle Gyu!\\c[0]"
                             ]
                         },
                         {
@@ -4605,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -4623,7 +4616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: マオ･･･メイ･･･"
+                                "Luuna: Mao... Mei..."
                             ]
                         },
                         {
@@ -4674,7 +4667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめんなさい･･･"
+                                "Luuna: I'm sorry..."
                             ]
                         },
                         {
@@ -4692,14 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなた達に『人を恨む事を憶えて欲しくない。』と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えたのは私なのに･･･"
+                                "Luuna: I was the one who taught you \"not to hold grudges against\npeople,\" yet..."
                             ]
                         },
                         {
@@ -4717,14 +4703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あの時の私はヒルダを恨み、憎しみで目の前が見えていなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結果、奴等の罠にかかってしまった。"
+                                "Luuna: Back then, I was blinded by hatred for Hilda, and as a result,\nI fell into their trap."
                             ]
                         },
                         {
@@ -4742,14 +4721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: へへっ ヒルダの奴、ルーナが与えた傷で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お化けみたいな顔になったらしいぜ。死ぬより屈辱だろ。ザマァねぇな。"
+                                "Cain: Heh heh, that Hilda guy, I heard he's got a face like a ghost\nfrom the wound Luuna gave him. It's more humiliating than death.\nServes him right."
                             ]
                         },
                         {
@@ -4800,7 +4772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: もうっ 余計な事を言うな。"
+                                "Becky: Enough with the unnecessary comments."
                             ]
                         },
                         {
@@ -4818,7 +4790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 安らかにね･･･"
+                                "Luuna: Rest in peace..."
                             ]
                         },
                         {
@@ -4836,7 +4808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･････"
+                                "Noah: ............"
                             ]
                         },
                         {
@@ -4887,7 +4859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇ、ルーナ、これからどうするんだ？"
+                                "Becky: Hey, Luuna, what are you going to do now?"
                             ]
                         },
                         {
@@ -4938,7 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうね･･･"
+                                "Luuna: Well..."
                             ]
                         },
                         {
@@ -4956,7 +4928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -4974,7 +4946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: もう･･･私は戦わない。"
+                                "Luuna: No more... I won't fight anymore."
                             ]
                         },
                         {
@@ -4992,14 +4964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 今回、戦って分かった。やはり私には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "到底、ルーシアやシルヴィア、ゼナには勝てない。しばらくは･･･"
+                                "Luuna: This battle made it clear. I simply can't win against Lucia,\nSylvia, or Zena. For a while..."
                             ]
                         },
                         {
@@ -5050,7 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んん･･･そっか･･･"
+                                "Becky: Hmm... I see..."
                             ]
                         },
                         {
@@ -5068,7 +5033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナはよくやったよ。"
+                                "Noah: Luuna did well."
                             ]
                         },
                         {
@@ -5086,7 +5051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････！"
+                                "Luuna: ............!"
                             ]
                         },
                         {
@@ -5137,7 +5102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ベッキー、この花は･･･"
+                                "Luuna: Becky, this flower..."
                             ]
                         },
                         {
@@ -5188,7 +5153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: その花は多分、手紙を送った人物が置いた花よ。"
+                                "Becky: That flower was probably left by the person who sent the\nletter."
                             ]
                         },
                         {
@@ -5239,14 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 不思議なのよ。その花、全く枯れないのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ活き活きしてる。"
+                                "Becky: It's strange. That flower doesn't wilt at all. In fact, it's\nthriving."
                             ]
                         },
                         {
@@ -5264,7 +5222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 枯れない花･･･ この花を置いたのには意味があるのよ。"
+                                "Luuna: A flower that doesn't wilt... There must be a meaning behind\nthis flower being placed here."
                             ]
                         },
                         {
@@ -5315,7 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: え･･･枯れない花の意味？"
+                                "Becky: Eh... The meaning of a flower that doesn't wilt?"
                             ]
                         },
                         {
@@ -5333,7 +5291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5358,14 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうか･･･これからの私の進むべき道は･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この花言葉が意味している。"
+                                "Luuna: I see... The path I should take from now on... is what this\nflower's language signifies."
                             ]
                         },
                         {
@@ -5416,7 +5367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 花言葉･･･"
+                                "Becky: The language of flowers..."
                             ]
                         },
                         {
@@ -5487,14 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: この花は「ローゼ・ノット・ウィザー」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花言葉は、枯れない花･･･諦めない花･････"
+                                "Luuna: This flower is 'Rose Not Wither.' Its language means an\nunwilting flower... a flower that doesn't give up..."
                             ]
                         },
                         {
@@ -5512,7 +5456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あの手紙の送り主は、私にこう言っているのよ。"
+                                "Luuna: The sender of that letter is telling me this."
                             ]
                         },
                         {
@@ -5564,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私に『枯れるな！挫けるな！諦めるな！』･･･とね。"
+                                "Luuna: \"Do not wither! Do not falter! Do not give up!\"... that's what\nthey're saying."
                             ]
                         },
                         {
@@ -5701,7 +5645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私は･･･ 枯れない花よ。"
+                                "Luuna: I am... an unwilting flower."
                             ]
                         },
                         {
@@ -5752,7 +5696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーナ･･･ふふっ･･･"
+                                "Becky: Luuna... hehe..."
                             ]
                         },
                         {
@@ -5803,7 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私･･･もう一度、レグナス・グラハードを探す旅に出る。ベッキー･･･"
+                                "Luuna: I... will set out on a journey to find Regnus Grahardt once\nmore. Becky..."
                             ]
                         },
                         {
@@ -5854,7 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: わかってるわよ！あたしも手伝う！"
+                                "Becky: I know! I'll help too!"
                             ]
                         },
                         {
@@ -5905,7 +5849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 行きましょう、帝都ジュピターノへ。"
+                                "Luuna: Let's go to the imperial capital, Jupiterino."
                             ]
                         },
                         {
@@ -6203,7 +6147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: コラ～！お前等、村に借金を返す事を完全に忘れてるな～！"
+                                "Cain: Hey! You guys completely forgot about repaying the debt to the\nvillage!"
                             ]
                         },
                         {
@@ -6334,7 +6278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あ～ら、借金なんてあったっけ～？ねぇ、ルーナ？"
+                                "Becky: Oh my, was there such a debt? Right, Luuna?"
                             ]
                         },
                         {
@@ -6352,7 +6296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふふっ･･･ さ～てね。じゃあカインも一緒に来る？"
+                                "Luuna: Hehe... Well now. So, Cain, are you coming with us?"
                             ]
                         },
                         {
@@ -6370,7 +6314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: げぇ･･･ッ！もう、怖い目に遭いたくねーよ。"
+                                "Cain: Geez...! No way, I don't want to go through scary stuff again."
                             ]
                         },
                         {
@@ -6388,7 +6332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あはははははっ"
+                                "Luuna: Ahahaha!"
                             ]
                         },
                         {
@@ -6439,7 +6383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はははははははっ"
+                                "Becky: Hahahaha!"
                             ]
                         },
                         {
@@ -6488,7 +6432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: じゃあノア、俺の下の世話してよ～。まだ脚が悪いんだよ～。"
+                                "Noah: So Noah, take care of my lower half~. My legs are still in bad\nshape~."
                             ]
                         },
                         {
@@ -6537,7 +6481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ば～か～や～ろ～！"
+                                "Cain: Idiooot!"
                             ]
                         },
                         {
@@ -6594,7 +6538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 皆～！いくわよ～！"
+                                "Luuna: Everyone~! Let's go~!"
                             ]
                         },
                         {
@@ -6645,7 +6589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふふっ･･･ お～う！"
+                                "Becky: Fufu... Okay!"
                             ]
                         },
                         {
@@ -6663,7 +6607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あはははははっ"
+                                "Luuna: Ahahahahaha!"
                             ]
                         },
                         {

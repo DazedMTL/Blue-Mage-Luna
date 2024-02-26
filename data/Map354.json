@@ -4637,7 +4637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】･･･！？"
+                                "Coris: ...!?"
                             ]
                         },
                         {
@@ -4655,7 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】君はシェーナの村の蒼魔導士ルーナ･･･！"
+                                "Coris: You're Luuna, the Azure Sorceress from Sheena Village...!"
                             ]
                         },
                         {
@@ -4680,7 +4680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】私はこの村のレジスタンスの責任者「コリス」だ。"
+                                "Coris: I am 'Coris,' the leader of the resistance in this village."
                             ]
                         },
                         {
@@ -4698,7 +4698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ:･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -4803,7 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】ルーナ、我々もレグナス・グラハードを探してみるよ。"
+                                "Ceres: Luuna, we'll also try to search for Regnus Grahardt."
                             ]
                         },
                         {
@@ -5480,7 +5480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】蒼魔導士ルーナ、マオとメイを助けてくれてありがとう。"
+                                "Corys: Thank you, Sorceress Luuna, for helping Mao and Mei."
                             ]
                         },
                         {
@@ -5531,7 +5531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: コリスさん、あなた達もレジスタンスなのですね。"
+                                "Luuna: Corys-san, you're part of the resistance as well, aren't you?"
                             ]
                         },
                         {
@@ -5549,14 +5549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】ああ。しかし壊滅状態だ。ルーシアとバレンチナの将軍達に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奇襲をかけたが、ご覧の通り兵達は大怪我を負ってね･･･"
+                                "Corys: Yes. But we're in a state of ruin. We tried to launch a\nsurprise attack on Lucia and the generals of Valentina, but as you can\nsee, our soldiers have been gravely injured..."
                             ]
                         },
                         {
@@ -5574,7 +5567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】それでマオとメイに頼んで「グラの薬草」を取りに行かせていたんだ。"
+                                "Corys: That's why I had Mao and Mei go to fetch the \"Gra Herb.\""
                             ]
                         },
                         {
@@ -5625,14 +5618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: なるほど。グラの薬草が欲しいのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたし達だけじゃないという事ね。"
+                                "Becky: I see. So we're not the only ones who wanted the Gra Herb."
                             ]
                         },
                         {
@@ -5650,14 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: その人数でルーシア達を襲撃なんて無謀だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達だって手も足も出なかったのに。"
+                                "Cain: Attacking Lucia and her group with that number of people is\nreckless. We couldn't lay a finger on them either."
                             ]
                         },
                         {
@@ -5675,7 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -5809,7 +5788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: コリスさん、グラの薬草はあなた達が使って下さい。"
+                                "Luuna: Corys-san, please use the Gra Herb for yourselves."
                             ]
                         },
                         {
@@ -5827,7 +5806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】い、いいのか？"
+                                "Corys: Is that really okay?"
                             ]
                         },
                         {
@@ -5878,7 +5857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ちょっとルーナ！折角、見つけたのに！"
+                                "Becky: Wait a minute, Luuna! After all the trouble we went through to\nfind it!"
                             ]
                         },
                         {
@@ -5927,14 +5906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 薬はまた見つければいい。それに此処の人達の方が重症者が多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノアもきっと分かってくれると思う。"
+                                "Luuna: We can find more medicine. Besides, the people here are more\nseriously injured. I'm sure Noah would understand too."
                             ]
                         },
                         {
@@ -5985,7 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: もう･･･お人好しなんだから。"
+                                "Becky: You're just too kind-hearted..."
                             ]
                         },
                         {
@@ -6067,7 +6039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私達に気にせず、グラの薬草を使って下さい。"
+                                "Luuna: Please don't worry about us and use the Gra Herb."
                             ]
                         },
                         {
@@ -6085,7 +6057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】かたじけない･･･"
+                                "Corys: I am deeply grateful..."
                             ]
                         },
                         {
@@ -6142,7 +6114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -6193,14 +6165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ところでコリスさん、一つお聞きしたいのですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは「レグナス・グラハード」を知っていますか？"
+                                "Luuna: By the way, Corys-san, may I ask if you know someone named\n\"Regnus Grahardt\"?"
                             ]
                         },
                         {
@@ -6218,7 +6183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】レグナス・グラハード？いや、聞いた事もないな。"
+                                "Corys: Regnus Grahardt? No, I've never heard of him."
                             ]
                         },
                         {
@@ -6269,7 +6234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうですか･･･"
+                                "Luuna: Is that so..."
                             ]
                         },
                         {
@@ -6287,7 +6252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】その人が何か？"
+                                "Corys: Who is that person?"
                             ]
                         },
                         {
@@ -6338,14 +6303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 我々のようなレジスタンスが探している人物です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レグナス・グラハードなら、ルーシアやバレンチナの将軍達に対抗できるかもしれません。"
+                                "Luuna: He's someone we, as the resistance, are looking for. If Regnus\nGrahardt were here, he might be able to stand against Lucia and the\ngenerals of Valentina."
                             ]
                         },
                         {
@@ -6363,21 +6321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】そんな人物、居る筈がない。ルーシアは直系の魔導士だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにバレンチナの将軍達は神がかり的な強さだ。例え居たとしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシア達に勝てる筈がない。そんな夢みたいな話あるか。"
+                                "Corys: Such a person couldn't possibly exist. Lucia is a direct\ndescendant of sorcerers. And the generals of Valentina have godlike\nstrength. Even if he did exist, there's no way he could defeat Lucia\nand her group. Are such dream-like stories even possible?"
                             ]
                         },
                         {
@@ -6395,14 +6339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: おいおい、それなのに、あんた達は勝てないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かっていてもルーシア達に挑んだのか？馬鹿だぜ。"
+                                "Cain: Hey, hey, knowing you couldn't win, you still challenged Lucia\nand her group? That's foolish."
                             ]
                         },
                         {
@@ -6420,14 +6357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】ああ、馬鹿だよ。だがこれ以上、ルーシアの悪政には耐えられない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達は奴隷のように働かされる毎日だ。"
+                                "Corys: Yes, it's foolish. But we can no longer endure Lucia's tyranny.\nWe are made to work like slaves every day."
                             ]
                         },
                         {
@@ -6445,7 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】頼みのナイツオブメサイアは動いてくれない。もう終わりだ。"
+                                "Corys: Our hope, the Knights of Messiah, won't move a muscle. It's all\nover."
                             ]
                         },
                         {
@@ -6463,7 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････！"
+                                "Luuna: ......!"
                             ]
                         },
                         {
@@ -6514,7 +6444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: セリス様に会ったのですか？"
+                                "Luuna: Have you met with Lady Ceres?"
                             ]
                         },
                         {
@@ -6532,7 +6462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】ああ。モードゥナには何度か足を運んだが、答えはノーだ。"
+                                "Corys: Yes. I've been to Moorduna several times, but the answer was\nalways no."
                             ]
                         },
                         {
@@ -6550,14 +6480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】セリス・アリアーヌは動かない。ナイツオブメサイアは我々を見殺しにする気だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モードゥナは、ジュピターノとバレンチナが怖いのだ。当然の事かもしれないが。"
+                                "Corys: Ceres Arianne won't budge. The Knights of Messiah seem intent\non leaving us to die. Moorduna is afraid of Jupiterino and Valentina.\nIt might be inevitable."
                             ]
                         },
                         {
@@ -6575,7 +6498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -6593,14 +6516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: セリス様には何か考えがあるのだと思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく、バレンチナと交渉をする気かと。"
+                                "Luuna: I believe Lady Ceres must have some plan in mind. Perhaps she\nintends to negotiate with Valentina."
                             ]
                         },
                         {
@@ -6625,7 +6541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】魔法大国バレンチナが、モードゥナの言う事に耳を貸すとは思えないけどな。"
+                                "Corys: I can't imagine the magical kingdom of Valentina would listen\nto anything Moorduna has to say."
                             ]
                         },
                         {
@@ -6676,7 +6592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうですか･･･"
+                                "Luuna: Is that so..."
                             ]
                         },
                         {
@@ -6958,7 +6874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････!?"
+                                "Luuna: ......!?"
                             ]
                         },
                         {
@@ -6976,7 +6892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！！"
+                                "Luuna: !!!"
                             ]
                         },
                         {
@@ -6994,7 +6910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ........"
                             ]
                         },
                         {

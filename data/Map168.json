@@ -16,7 +16,7 @@
         "volume": 5
     },
     "disableDashing": false,
-    "displayName": "帝都ジュピターノの砦",
+    "displayName": "Imperial Capital Jupiterino's Fortress",
     "encounterList": [],
     "encounterStep": 30,
     "height": 47,
@@ -14886,7 +14886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ..."
                             ]
                         },
                         {
@@ -14937,7 +14937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: レグナス・グラハード･･･何処に居る？"
+                                "Lucia: Regnus Grahardt... where are you?"
                             ]
                         },
                         {
@@ -14955,7 +14955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ..."
                             ]
                         },
                         {
@@ -14973,7 +14973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: いつ私の前に現れる？レグナス・グラハード･･･"
+                                "Lucia: When will you appear before me? Regnus Grahardt..."
                             ]
                         },
                         {
@@ -14991,7 +14991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ..."
                             ]
                         },
                         {
@@ -15096,7 +15096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:ルーシア、どうした？"
+                                "Sylvia: Lucia, what's wrong?"
                             ]
                         },
                         {
@@ -15178,7 +15178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 義姉さん。"
+                                "Lucia: Sister-in-law."
                             ]
                         },
                         {
@@ -15276,7 +15276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 何でもなくてよ。"
+                                "Lucia: It's nothing."
                             ]
                         },
                         {
@@ -15325,7 +15325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:そう。なら良いけど。"
+                                "Sylvia: I see. If you say so."
                             ]
                         },
                         {
@@ -15343,14 +15343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:レジスタンス共のゴミ掃除は順調のようね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国、帝都ジュピターノの反乱分子は随分と減った。"
+                                "Sylvia: The cleanup of the resistance scum seems to be going well. The\nnumber of rebels in the capital, Jupiterino, has significantly\ndecreased."
                             ]
                         },
                         {
@@ -15368,7 +15361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ..."
                             ]
                         },
                         {
@@ -15419,7 +15412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ええ。"
+                                "Lucia: Yes."
                             ]
                         },
                         {
@@ -15437,7 +15430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:また手伝ってやろうか？"
+                                "Sylvia: Shall I help you again?"
                             ]
                         },
                         {
@@ -15504,7 +15497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 結構よ。あんな奴等、私一人で十分だから。"
+                                "Lucia: No need. I'm more than enough for those guys by myself."
                             ]
                         },
                         {
@@ -15522,14 +15515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:あっそう。それもそうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだけの鋼鉄兵を一人で作り同時に操る腕前なのだから。"
+                                "Sylvia: Oh, is that so? That makes sense, considering you can create\nand control an army of steel soldiers all by yourself."
                             ]
                         },
                         {
@@ -15574,7 +15560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ..."
                             ]
                         },
                         {
@@ -15656,14 +15642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 義姉さんの仕事はどうなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレンチナに洗礼に来る魔導士が多いみたいだけど。"
+                                "Lucia: How about your work, sister-in-law? It seems like a lot of\nmagicians are coming to Valentina for baptism."
                             ]
                         },
                         {
@@ -15681,14 +15660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:いつも通り忙しいわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有象無象の「落ちこぼれ魔導士共」の洗礼に付き合うのはね。"
+                                "Sylvia: As busy as always. Dealing with the baptism of the 'dropout\nmagicians' is quite tiresome."
                             ]
                         },
                         {
@@ -15706,7 +15678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 落ちこぼれ魔導士共？"
+                                "Lucia: Dropout magicians?"
                             ]
                         },
                         {
@@ -15724,14 +15696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:昨日だけで洗礼の申し出が100人もきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしようもないクズ魔導士ばかり。いい加減、うんざりするわ。"
+                                "Sylvia: Just yesterday, there were 100 requests for baptism. Nothing\nbut useless trash magicians. I'm getting sick of it."
                             ]
                         },
                         {
@@ -15749,7 +15714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:例えば、こいつなんてクズ魔導士過ぎて笑っちゃった。"
+                                "Sylvia: Take this girl, for example. Dhe's such a trash magician that\nit's laughable."
                             ]
                         },
                         {
@@ -15808,21 +15773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: レイ・グランフォード。魔導士歴は10年。年齢は･･･書いてないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法学校の教師である母親マリーから幼少期より魔導を学ぶが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現在使えるのはファイアとヒールだけ。"
+                                "Sylvia: Ray Granford. A magician for 10 years. Age... it's not written\nhere. Learned magic from her mother Marie, a teacher at a magic\nschool, since she was a child, but now she can only use Fire and Heal."
                             ]
                         },
                         {
@@ -15840,7 +15791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:ぷっ･･･ ははははは！"
+                                "Sylvia: Pfft... Hahahahaha!"
                             ]
                         },
                         {
@@ -15858,14 +15809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:本当に面と向かって言ってやりたいよ。お前なんかが魔法大国バレンチナで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗礼を受けて少し魔力があがってもクズはクズだってさー。"
+                                "Sylvia: I really want to tell her to her face. Even if you receive\nbaptism in the great magical nation of Valentina and gain a little\nmagical power, trash is still trash."
                             ]
                         },
                         {
@@ -15914,7 +15858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ..."
                             ]
                         },
                         {
@@ -15932,14 +15876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:まぁこのクズ魔導士、顔は可愛いんだけどね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法の才能は皆無だから、アイドルでもやってろよって本人と母親に言ってやりたいよ。"
+                                "Sylvia: Well, this trash magician is cute-looking at least. But since\nshe has no talent for magic, she might as well become an idol or\nsomething. That's what I want to tell her and her mother."
                             ]
                         },
                         {
@@ -15966,7 +15903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:あははっ 興味ないって顔ね。"
+                                "Sylvia: Ahaha! You look uninterested."
                             ]
                         },
                         {
@@ -15984,14 +15921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 直系の魔導士のあんたと、魔法大国バレンチナ一位の私にとっては、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クズ魔導士の気持ちはわからんよね。"
+                                "Sylvia: To a direct-line magician like you and me, the number one\nmagician in Valentina, the feelings of trash magicians are\nincomprehensible, right?"
                             ]
                         },
                         {
@@ -16009,14 +15939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:クズ魔導士が大成したところでクズはクズ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達の足元にも及ばない。ぷくくくっ はははっ･･･"
+                                "Sylvia: Even if a trash magician becomes successful, they're still\ntrash. They can't hold a candle to us. Pukukuku... Hahahah..."
                             ]
                         },
                         {
@@ -16041,7 +15964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ..."
                             ]
                         },
                         {
@@ -16108,14 +16031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: それより義姉さん、ナイツオブメサイアが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "此処、帝都ジュピターノにも来るという噂がある。それは本当なの？"
+                                "Lucia: More importantly, sister-in-law, there's a rumor that the\nKnights of Messiah are coming here to the capital, Jupiterino. Is that\ntrue?"
                             ]
                         },
                         {
@@ -16164,7 +16080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:そういう噂はあるわね。"
+                                "Sylvia: There are such rumors, yes."
                             ]
                         },
                         {
@@ -16182,7 +16098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:ナイツオブメサイア。つまり、モードゥナ軍。"
+                                "Sylvia: The Knights of Messiah, in other words, the Moduna army."
                             ]
                         },
                         {
@@ -16200,7 +16116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:下界の大国、あのグラレス大国を制圧した事で有名ね。"
+                                "Sylvia: They're famous for having subdued the great nation of Grales\nbelow."
                             ]
                         },
                         {
@@ -16218,14 +16134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:ナイツオブメサイアを率いているのは、セリス・アリアーヌという聖騎士。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凡才で腰抜けと言われている。何かと評判の悪い男だが油断はできない。私はそう思う。"
+                                "Sylvia: The Knights of Messiah are led by a holy knight named Ceres\nArianne. He's said to be mediocre and cowardly. He has a bad\nreputation, but we can't let our guard down. That's what I think."
                             ]
                         },
                         {
@@ -16243,21 +16152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:ナイツオブメサイアが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国のレジスタンス共と手を組めば厄介になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴等、どういうつもりか知らないが他国に内政干渉するからな。"
+                                "Sylvia: If the Knights of Messiah join forces with the resistance in\nthis country, it will be troublesome. I don't know what they're\nplanning, but they interfere in other countries' internal affairs."
                             ]
                         },
                         {
@@ -16275,7 +16170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ..."
                             ]
                         },
                         {
@@ -16357,7 +16252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 先日、私は砂漠のオアシスでセリス・アリアーヌと偶然会ったわ。"
+                                "Lucia: The other day, I happened to meet Ceres Arianne at an oasis in\nthe desert."
                             ]
                         },
                         {
@@ -16375,7 +16270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:へー。いい男だった？"
+                                "Sylvia: Oh? Was he a good man?"
                             ]
                         },
                         {
@@ -16440,7 +16335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ふざけた男よ。あんなヘラヘラした奴がグラレス大国を制圧したとは信じられない。"
+                                "Lucia: A frivolous man. I can't believe such a flippant person could\nsubdue the great nation of Grales."
                             ]
                         },
                         {
@@ -16491,7 +16386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ナイツオブメサイアがレジスタンス共と組んだところで何も変わらない。"
+                                "Lucia: Even if the Knights of Messiah team up with the resistance,\nnothing will change."
                             ]
                         },
                         {
@@ -16509,7 +16404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:セリス・アリアーヌを甘くみない方が良い。力は無いが妙に冴えている。"
+                                "Sylvia: You shouldn't underestimate Ceres Arianne. He may not be\nstrong, but he's oddly sharp."
                             ]
                         },
                         {
@@ -16558,7 +16453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: バレンチナの最高魔導士のあなたが随分と彼を高く評価するのね。"
+                                "Lucia: You, the greatest sorceress of Valentina, seem to think highly\nof him."
                             ]
                         },
                         {
@@ -16609,7 +16504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ナイツオブメサイアの一番の強敵といえば、魔導将軍リニだと思うけど。"
+                                "Lucia: I would think the greatest threat from the Knights of Messiah\nis the sorcerer general Rinny."
                             ]
                         },
                         {
@@ -16627,14 +16522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:いや、魔導将軍リニもだが、セリス・アリアーヌは特に油断できないと感じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の買いかぶりかもしれないがな。"
+                                "Sylvia: Yes, sorcerer general Rinny is a threat, but I feel\nparticularly wary of Ceres Arianne. It might just be me overestimating\nhim though."
                             ]
                         },
                         {
@@ -16652,7 +16540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 忠告は聞いておくわ。姉さんがそう言うなら。"
+                                "Lucia: I'll take your advice to heart. If you say so, sister."
                             ]
                         },
                         {
@@ -16701,14 +16589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:ナイツオブメサイアは最近、亜空間の中にある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウィンザー王国を見つけ出して撃破し、リッツ王子を倒したという噂だ。"
+                                "Sylvia: Recently, the Knights of Messiah discovered and defeated the\nKingdom of Windsor located in subspace, and there are rumors that they\ndefeated Prince Ritz."
                             ]
                         },
                         {
@@ -16726,7 +16607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････"
+                                "Lucia: ..."
                             ]
                         },
                         {
@@ -16744,7 +16625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ウィンザー王国の美女狩り隊は壊滅。リッツ王子は逃亡した。"
+                                "Sylvia: The Kingdom of Windsor's beauty hunting squad was annihilated.\nPrince Ritz has fled."
                             ]
                         },
                         {
@@ -16795,7 +16676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: なるほど。"
+                                "Lucia: I see."
                             ]
                         },
                         {
@@ -16844,7 +16725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: そのリッツが此処に逃げ込んできたのだけどね。"
+                                "Sylvia: And that Ritz has fled here."
                             ]
                         },
                         {
@@ -16862,7 +16743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････！"
+                                "Lucia: ...!"
                             ]
                         },
                         {
@@ -16984,7 +16865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: 久しぶりだな、帝都ジュピターノのルーシア皇女。"
+                                "Ritz: It's been a while, Princess Lucia of the imperial capital\nJupiterino."
                             ]
                         },
                         {
@@ -17035,7 +16916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 久しぶりね。ウィンザー王国のリッツ王子。"
+                                "Lucia: It has been a while. Prince Ritz of the Kingdom of Windsor."
                             ]
                         },
                         {
@@ -17102,14 +16983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 聞いてるわよ。あなたのご自慢だった亜空間城が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナイツオブメサイアに発見されて破壊されたってね。"
+                                "Lucia: I've heard about it. Your prized subspace castle was discovered\nand destroyed by the Knights of Messiah."
                             ]
                         },
                         {
@@ -17127,14 +17001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: モードゥナのアリシア皇女を美女狩りしたのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "運の尽きだったようね。"
+                                "Lucia: It seems your luck ran out when you hunted the beautiful\nPrincess Alicia of Moduna."
                             ]
                         },
                         {
@@ -17152,14 +17019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: ジェダイトだ。元帝国バルファラの総帥が奴等に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "肩入れをして邪魔された。あいつさえいなければ。"
+                                "Ritz: It's Jedite's fault. The former supreme commander of the Balfala\nEmpire interfered on their behalf. If it weren't for him..."
                             ]
                         },
                         {
@@ -17177,7 +17037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: で？リッツ、アリシア皇女を抱いたの？美女狩りは成功したんでしょ？"
+                                "Sylvia: So? Ritz, did you bed Princess Alicia? Was your beauty hunt\nsuccessful?"
                             ]
                         },
                         {
@@ -17226,7 +17086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: いや･･･"
+                                "Ritz: No..."
                             ]
                         },
                         {
@@ -17244,14 +17104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 情けない。そんな腰抜けだからナイツオブメサイアなどに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛い目に遭わされるのよ。"
+                                "Sylvia: Pathetic. It's because you're such a coward that you suffer at\nthe hands of the Knights of Messiah."
                             ]
                         },
                         {
@@ -17269,14 +17122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: セリス達に敗北した俺は、命からがら此処まで逃げてきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔導将軍リニに追跡されつつ、身を隠しながら命からがらな。"
+                                "Ritz: I was defeated by Ceres and his lot, and barely escaped with my\nlife to this place. I've been hiding and running from sorcerer general\nRinny, barely clinging to life."
                             ]
                         },
                         {
@@ -17294,7 +17140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア:魔導将軍リニか。リッツ、よく逃げてこれたわね。"
+                                "Sylvia: Sorcerer general Rinny, huh? Ritz, you did well to escape."
                             ]
                         },
                         {
@@ -17343,7 +17189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: とんでもない化け物だ。あんな化け物、見たこと無いわ。"
+                                "Ritz: An unbelievable monster. I've never seen anything like it."
                             ]
                         },
                         {
@@ -17361,7 +17207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ........"
                             ]
                         },
                         {
@@ -17412,14 +17258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ふふっ･･･もっとも今回はナイツオブメサイアが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたの汚らわしい「美女狩り隊」を叩き潰してくれて一人の女性としては嬉しいわ。"
+                                "Lucia: Hehe... As a woman, I'm pleased that the Knights of Messiah\ncrushed your filthy 'beauty hunting squad.'"
                             ]
                         },
                         {
@@ -17437,7 +17276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: なに･･･"
+                                "Ritz: What..."
                             ]
                         },
                         {
@@ -17488,7 +17327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: お前は女の敵だと言ってるのよ。"
+                                "Lucia: I'm saying you're an enemy of women."
                             ]
                         },
                         {
@@ -17506,7 +17345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: ･････････"
+                                "Ritz: ........"
                             ]
                         },
                         {
@@ -17524,7 +17363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: へへ･･･そうだよ。俺は女の敵さ。"
+                                "Ritz: Heh... That's right. I am an enemy of women."
                             ]
                         },
                         {
@@ -17542,7 +17381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: ルーシア、シルヴィア、おまえらもいつか俺の性奴隷コレクションにしてやるよ。"
+                                "Ritz: Lucia, Sylvia, one day I'll make you both part of my collection\nof sex slaves."
                             ]
                         },
                         {
@@ -17569,7 +17408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ああん？おまえ喧嘩売ってんの？"
+                                "Sylvia: What? Are you picking a fight?"
                             ]
                         },
                         {
@@ -17603,14 +17442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 気色悪いから消えてくれる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたみたいな外道が私の国に居るだけでも反吐がでる。"
+                                "Lucia: Can you disappear? It makes me sick just having someone like\nyou in my country."
                             ]
                         },
                         {
@@ -17628,14 +17460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: へへ･･･わかったよ。ルーシア、リニの処罰はあんたに任せるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の無念を代わりに果たしてくれや。"
+                                "Ritz: Heh... Alright. Lucia, I'll leave Rinny's punishment to you.\nAvenge my grudge for me."
                             ]
                         },
                         {
@@ -17717,7 +17542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: さっさと消えなさい。女の敵とこれ以上話したくはない。"
+                                "Lucia: Just go away. I don't want to talk to an enemy of women any\nlonger."
                             ]
                         },
                         {
@@ -17735,7 +17560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: へいへい。"
+                                "Ritz: Yes, yes."
                             ]
                         },
                         {
@@ -18045,7 +17870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】ルーシア殿、大変でござる。反乱分子がこの砦へやってきた。"
+                                "[Leon] Lady Lucia, there is trouble. Rebels have come to this\nfortress."
                             ]
                         },
                         {
@@ -18063,7 +17888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 反乱分子か。これといった強敵はいるの？"
+                                "Lucia: Rebels? Are there any formidable enemies among them?"
                             ]
                         },
                         {
@@ -18081,7 +17906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】ルーナという蒼魔導士が厄介でござるな。"
+                                "[Leon] The blue sorceress Luuna is quite troublesome, my lady."
                             ]
                         },
                         {
@@ -18132,7 +17957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ルーナが･･･"
+                                "Lucia: Luuna is..."
                             ]
                         },
                         {
@@ -18150,14 +17975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 蒼魔導士ルーナか。確か帝都ジュピターノでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高峰の魔導士だったわね。魔導の才は我々と変わらぬ素質を持っていた。"
+                                "Sylvia: The blue sorceress Luuna, huh? She was indeed one of the top\nsorceresses in the imperial capital Jupiterino. She possesses magical\ntalents not inferior to ours."
                             ]
                         },
                         {
@@ -18175,7 +17993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･････"
+                                "Lucia: ......"
                             ]
                         },
                         {
@@ -18193,7 +18011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ルーシア、ルーナは油断できない。私も手伝ってあげる。"
+                                "Sylvia: Lucia, we can't be careless with Luuna. I'll help you out."
                             ]
                         },
                         {
@@ -18211,14 +18029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】シルヴィア殿、それはいけませぬ。我々三人は魔法大国バレンチナの将軍です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あくまで此処は帝都ジュピターノ。ルーシア殿に任せるのが筋であり礼儀というもの。"
+                                "[Leon] Lady Sylvia, that would be inappropriate. We three are generals\nof the magical kingdom of Valentia. This place is the imperial capital\nJupiterino. It is only proper and polite to leave this to Lady Lucia."
                             ]
                         },
                         {
@@ -18236,14 +18047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: レオン、相変わらずあなたは筋とか礼儀とかを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "重んじる堅物な男ね～。"
+                                "Sylvia: Leon, you're always so serious about principles and manners."
                             ]
                         },
                         {
@@ -18261,7 +18065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】リッツ殿も何処かに避難しなされ。此処はまもなく戦場となる。"
+                                "[Leon] Lady Ritz, please evacuate somewhere else. This place will soon\nbecome a battlefield."
                             ]
                         },
                         {
@@ -18279,7 +18083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リッツ: へいへい。言われなくても女の敵は退散しますよ。"
+                                "Ritz: Yeah, yeah. I'll make myself scarce without you telling me,\nenemy of women."
                             ]
                         },
                         {
@@ -18560,14 +18364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 義姉さん、レオンの言う通りよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに反乱分子の討伐は私一人で十分。"
+                                "Lucia: Sister-in-law, Leon is right. Besides, I alone am more than\nenough to subdue the rebels."
                             ]
                         },
                         {
@@ -18585,7 +18382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: あっそう。それなら此処で高みの見物をしておくわ。"
+                                "Sylvia: Oh really? Then I'll just enjoy the view from here."
                             ]
                         },
                         {
@@ -18634,7 +18431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: レオン、案内して。反乱分子の集まっている場所へ。"
+                                "Lucia: Leon, lead the way. To where the rebels are gathered."
                             ]
                         },
                         {
@@ -18652,14 +18449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】ルーシア殿、我々、バレンチナも本心では力を貸したいが･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が主君、ゼナ様のご命令なく帝都ジュピターノに内政干渉する訳にはいかんのだ。"
+                                "[Leon] Lady Lucia, we of Valentia truly wish to lend our strength,\nbut... without orders from our lord, Zenah, we cannot interfere in the\ninternal affairs of the imperial capital Jupiterino."
                             ]
                         },
                         {
@@ -18677,7 +18467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: わかってるわよ。ゼナには伝えなくていい。"
+                                "Lucia: I understand. There's no need to tell Zenah."
                             ]
                         },
                         {
@@ -18704,14 +18494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】ルーシア、ルーナとかいう反乱軍のリーダーは若すぎる少女のようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうか生け捕りにしておくれ。ハラワタをすすりたいんでねぇ。"
+                                "[Hilda] Lucia, this rebel leader Luuna seems to be a young girl who's\ntoo young. Please capture her alive. I want to slurp her guts."
                             ]
                         },
                         {
@@ -18729,7 +18512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ヒルダ、あなたの趣味に付き合うつもりはない。"
+                                "Lucia: Hilda, I have no intention of indulging your hobbies."
                             ]
                         },
                         {
@@ -18747,14 +18530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】ルーナでなくてもいいんだよ。若い兵なら誰でもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若い子のハラワタと脳味噌は格別だからねぇ。"
+                                "[Hilda] It doesn't have to be Luuna. Any young soldier will do. The\nguts and brains of the young are exceptional, after all."
                             ]
                         },
                         {
@@ -18772,7 +18548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････"
+                                "Lucia: ......"
                             ]
                         },
                         {
@@ -18823,14 +18599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: とりあえず、バレンチナの三将軍は此処に留まって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは私の国の問題だから。"
+                                "Lucia: For now, the three generals of Valentia should stay here. This\nis a problem for my country to deal with."
                             ]
                         },
                         {
@@ -18848,14 +18617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ふふ･･･わかったわよ、ルーシア。見届けてあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反乱分子の最期をね。"
+                                "Sylvia: Hehe... Understood, Lucia. I'll witness it for you. The end of\nthe rebels."
                             ]
                         },
                         {
@@ -18873,7 +18635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････"
+                                "Lucia: ......"
                             ]
                         },
                         {

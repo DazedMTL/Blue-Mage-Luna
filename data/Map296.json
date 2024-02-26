@@ -4799,21 +4799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】此処は娼館だ。へへ･･･良い身体してるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ、ベッキー、お前等二人が\\シェーナの村の村長が言っていた女達だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その顔は金に困ってる顔だ。娼婦になる覚悟は出来てるんだろうな？"
+                                "Manager: This is a brothel. Hehe... You've got a nice body there.\nLuuna, Becky, you two must be the girls that the village chief of\nShena Village was talking about. That look on your face is one of\nsomeone in need of money. You're prepared to become prostitutes,\naren't you?"
                             ]
                         },
                         {
@@ -4821,8 +4807,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ならない",
-                                    "娼婦になる"
+                                    "I won't become one",
+                                    "I'll become a prostitute"
                                 ],
                                 0,
                                 0,
@@ -4882,7 +4868,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: や、やります･･･。"
+                                "Luuna: I-I'll do it..."
                             ]
                         },
                         {
@@ -4900,14 +4886,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【店長】おほっ･･･ほう、まじか？やるのか。へへ･･･ではまずはご挨拶だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺の言った通りにやるんだ。いいな？"
+                                "Manager: Oh... really? You'll do it? Hehe... Well then, first things\nfirst, let's have a greeting. You do as I say, got it?"
                             ]
                         },
                         {
@@ -4925,7 +4904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: はい。"
+                                "Luuna: Yes."
                             ]
                         },
                         {
@@ -5024,7 +5003,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -5042,7 +5021,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: こんな事･･･ノアには言えないけど。"
+                                "Luuna: I can't tell Noah about this..."
                             ]
                         },
                         {
@@ -5060,14 +5039,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カイン: ルーナ、緊張するな。ノアには言わないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ベッキーも新婚だからな。ポールには内緒にしておくぜ。"
+                                "Cain: Don't be nervous, Luuna. I won't tell Noah. Becky is newly\nmarried too, so I'll keep it a secret from Pole."
                             ]
                         },
                         {
@@ -5085,14 +5057,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ベッキー: はぁ･･･村長の息子のカインがいる限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "逃げる訳にもいかないし･･･仕方ないわね。"
+                                "Becky: Sigh... As long as the village chief's son Cain is here,\nthere's no escaping it... I guess there's no choice."
                             ]
                         },
                         {
@@ -5110,14 +5075,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カイン: ノアとポールは医療費が高いからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前等にはしっかりと村の金を稼いでもらわないと。"
+                                "Cain: Noah and Pole have expensive medical bills. You two need to earn\na good amount of money for the village."
                             ]
                         },
                         {
@@ -5140,14 +5098,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナとベッキーは、お立ち台に昇った。店長に言われた通り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "初日は観客達に愛想良く自己紹介をする事となった。"
+                                "Luuna and Becky stepped onto the stage. As instructed by the manager,\non their first day, they had to introduce themselves cheerfully to the\naudience."
                             ]
                         },
                         {
@@ -5218,7 +5169,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\I[89]HINT】ルーナとノアが3度ほど公園で会話すれば条件達成します。"
+                                "【\\I[89]HINT】If Luuna and Noah talk in the park about three times, the\ncondition will be met."
                             ]
                         },
                         {
@@ -5326,7 +5277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】ルーナ、ベッキー、お前等は客から大好評だよ。今日はどうする？"
+                                "Manager: Luuna, Becky, you both are hugely popular with the customers.\nWhat will you do today?"
                             ]
                         },
                         {
@@ -5334,11 +5285,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "今日はやめる",
-                                    "娼館で働く(お立ち台)",
-                                    "部屋で売春する",
-                                    "デリヘル",
-                                    "コスプレして客引きをする",
+                                    "I'll take a break today",
+                                    "Work at the brothel (on the stage)",
+                                    "Prostitute in the room",
+                                    "Escort service",
+                                    "Attract customers with cosplay",
                                     "???"
                                 ],
                                 0,
@@ -5383,7 +5334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【店長】そうそう、二人とも今度はちゃんとオマンコおっぴろげて観衆に見せつけろよ？"
+                                "Manager: That's right, both of you make sure to spread your pussies\nwide open for the audience next time, okay?"
                             ]
                         },
                         {
@@ -5413,7 +5364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナとベッキーは、お立ち台に昇った。"
+                                "Luuna and Becky stepped onto the stage."
                             ]
                         },
                         {
@@ -5477,10 +5428,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "キャンセル",
-                                    "ルーナ",
-                                    "ベッキー",
-                                    "レーデ"
+                                    "Cancel",
+                                    "Luuna",
+                                    "Becky",
+                                    "Rade"
                                 ],
                                 0,
                                 0,
@@ -5543,7 +5494,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナは、売春部屋に向かった。"
+                                "Luuna headed to the brothel room."
                             ]
                         },
                         {
@@ -5631,7 +5582,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ベッキーは、売春部屋に向かった。"
+                                "Becky headed to the brothel room."
                             ]
                         },
                         {
@@ -5728,7 +5679,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "レーデは、売春部屋に向かった。"
+                                "Rade headed to the brothel room."
                             ]
                         },
                         {
@@ -5813,14 +5764,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【\\I[89]HINT】あるダンジョンで、ある「アイテム」を取得して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "レーデに持って行き、あるイベントを達成すれば閲覧できます。"
+                                "\\I[89]HINT: You can view this by obtaining a certain \"Item\" in a\ndungeon, bringing it to Rade, and achieving a certain event."
                             ]
                         },
                         {
@@ -5861,10 +5805,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "キャンセル",
-                                    "ルーナ",
-                                    "ベッキー",
-                                    "レーデ"
+                                    "Cancel",
+                                    "Luuna",
+                                    "Becky",
+                                    "Rade"
                                 ],
                                 0,
                                 0,
@@ -5936,7 +5880,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルーナは、出張売春先の客の自宅へ向かった。"
+                                "Luuna headed to a client's home for an outcall."
                             ]
                         },
                         {
@@ -6024,7 +5968,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6073,14 +6017,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルーナ: こんにちは。デリヘルにきましたルーナです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "オマンコしにきました。"
+                                "Luuna: Hello. I'm Luuna from the delivery health service. I've come to\noffer my pussy."
                             ]
                         },
                         {
@@ -6098,7 +6035,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【男】おお～･･･やっときたか。入れ。"
+                                "Man: Ohh... finally arrived, huh. Come in."
                             ]
                         },
                         {
@@ -6174,7 +6111,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【\\I[89]HINT】ルーナが娼館部屋で働けば条件を達成します。"
+                                "\\I[89]HINT: You can achieve the condition if Luuna works in the\nbrothel room."
                             ]
                         },
                         {
@@ -6243,7 +6180,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ベッキーは、出張売春先の客の自宅へ向かった。"
+                                "Becky headed to a client's home for an outcall."
                             ]
                         },
                         {
@@ -6331,7 +6268,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -6380,14 +6317,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ベッキー: こんにちは。デリヘルにきましたベッキーです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "オマンコしにきました。"
+                                "Becky: Hello. I'm Becky from the delivery health service. I've come to\noffer my pussy."
                             ]
                         },
                         {
@@ -6405,7 +6335,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【男】おお～･･･やっときたか。入れ。"
+                                "Man: Ohh... finally arrived, huh. Come in."
                             ]
                         },
                         {
@@ -6481,7 +6411,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【\\I[89]HINT】ベッキーが娼館部屋で働けば条件を達成します。"
+                                "\\I[89]HINT: You can achieve the condition if Becky works in the\nbrothel room."
                             ]
                         },
                         {
@@ -6550,7 +6480,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "レーデは、出張売春先の客の自宅へ向かった。"
+                                "Rade headed to a client's home for an outcall."
                             ]
                         },
                         {
@@ -6656,7 +6586,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "レーデ: ･･･････"
+                                "Rade: ............"
                             ]
                         },
                         {
@@ -6705,14 +6635,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "レーデ: こんにちは。デリヘルにきましたベッキーです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "オマンコしにきました。"
+                                "Rade: Hello. I'm Becky from the delivery health service. I've come to\noffer my pussy."
                             ]
                         },
                         {
@@ -6730,7 +6653,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【男】おお～･･･やっときたか。入れ。"
+                                "Man: Ohh... finally arrived, huh. Come in."
                             ]
                         },
                         {
@@ -6806,14 +6729,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【\\I[89]HINT】あるダンジョンで、ある「アイテム」を取得して、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "レーデに持って行き、あるイベントを達成すれば閲覧できます。"
+                                "\\I[89]HINT: You can view this by obtaining a certain \"Item\" in a\ndungeon, bringing it to Rade, and achieving a certain event."
                             ]
                         },
                         {
@@ -6864,14 +6780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【店長】二人とも娼館の売春も慣れてきたようだな。ちょっと店の方も手伝ってくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "店の外でコスプレして客引きして欲しいんだ。人手が足りなくてな。"
+                                "Manager: It seems like both of you are getting used to working in the\nbrothel. Help out with the shop a bit too. I want you to do some\ncosplay outside to attract customers. We're short on staff."
                             ]
                         },
                         {
@@ -6879,8 +6788,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "しない",
-                                    "コスプレして客引きする"
+                                    "Refuse",
+                                    "Do cosplay to attract customers"
                                 ],
                                 0,
                                 0,
@@ -6991,21 +6900,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【店長】ルーナ、ベッキー、お前等の浣腸プレイを楽しみにしている客が沢山いるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ルーナのベッキーのウンコが見たいって客がな。前にも一度やった事があるだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今度もやってくれるな？"
+                                "Manager: Luuna, Becky, there are lots of customers looking forward to\nyour enema play. They want to see Luuna's and Becky's shit. You've\ndone it before, right? Will you do it again?"
                             ]
                         },
                         {
@@ -7056,7 +6951,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: あれは･･･くっ･･･めちゃくちゃ恥ずかしい･･･"
+                                "Luuna: That is... ugh... so embarrassingly..."
                             ]
                         },
                         {
@@ -7107,7 +7002,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ベッキー: はぁ･･･またウンコかぁ･･･変態ね･･･"
+                                "Becky: Sigh... shit again... what a pervert..."
                             ]
                         },
                         {
@@ -7115,8 +7010,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "やらない",
-                                    "やる(※スカ注意。★スカは水色ゼリーに変更可能)"
+                                    "I won't do it",
+                                    "I'll do it (※Be aware of scat. ★Scat can be changed to light blue jelly)"
                                 ],
                                 0,
                                 0,
@@ -7179,21 +7074,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【店長】ルーナとベッキーは、人気の無い空地へ向かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "マニアックな客達はそれぞれ浣腸器具を持ち、ルーナとベッキーのウンコを見るべく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "道中、二人の乳や尻を触りながら共に空地へと向かった。"
+                                "Manager: Luuna and Becky headed to a deserted lot. The maniacal\ncustomers each brought enema equipment, touching Luuna's and Becky's\nbreasts and asses along the way as they all headed to the lot to see\ntheir shit."
                             ]
                         },
                         {
@@ -7278,21 +7159,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\I[89]HINT】「銀メダル」を持っていると閲覧できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メダルは蒼魔法のラーニング数によって貰えます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メダルについてはCG／回想ルームの「ヒント茶犬」の説明をご覧ください。"
+                                "\\I[89]HINT: You can view this if you have a \"Silver Medal\". Medals can\nbe obtained by learning blue magic spells. For more information about\nmedals, please see the \"Hint Teadog\" explanation in the\nCG/Recollection Room."
                             ]
                         },
                         {
@@ -8158,14 +8025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】私はエッチ系のヒントバニー。エッチ系のヒントを教えるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりにくいエッチイベントのみね。簡単なものはヒントから割愛するわ。"
+                                "[Hint Bunny] I'm the hint bunny for lewd tips. I'll give you hints for\nthe lewd events that are hard to understand. I'll omit the easy ones\nfrom the hints."
                             ]
                         },
                         {
@@ -8173,8 +8033,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "自分で探す",
-                                    "エロイベント系で「次に何をすれば良いのか」教えて欲しい"
+                                    "I'll search by myself.",
+                                    "I want you to tell me \"what I should do next\" for the erotic events."
                                 ],
                                 0,
                                 0,
@@ -8218,28 +8078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒントバニー】今は娼館で働けないみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "娼館で働くには、シナリオを進める必要があるみたい。シナリオを進めていくと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのうち『娼館で働ける』というメッセージが出てくる。つまり『娼館フラグがON』になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今はまだ序盤。娼館フラグがONになるのは中盤あたりよ。"
+                                "[Hint Bunny] It seems you can't work at the brothel right now. To work\nat the brothel, you need to progress the scenario. As you advance the\nscenario, a message saying \"You can now work at the brothel\" will\nappear, meaning the \"brothel flag is ON\". Right now, it's still early\nin the game. The brothel flag will turn ON around the middle of the\ngame."
                             ]
                         },
                         {
@@ -8257,14 +8096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒントバニー】『娼館フラグがON』になると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこに居る店長に話しかけると娼婦になるか選択できる。"
+                                "[Hint Bunny] Once the \"brothel flag is ON\", you can talk to the\nmanager there and choose whether to become a prostitute."
                             ]
                         },
                         {
@@ -8282,21 +8114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒントバニー】ただし、このゲームは『処女クリア』が出来るのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "処女クリアは特別なエンディングがあるから見たい方は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "エッチ系は避けてクリアしてね。"
+                                "[Hint Bunny] However, this game allows for a \"virgin clear\". There's a\nspecial ending for virgin clear, so if you want to see it, avoid lewd\nevents and clear the game."
                             ]
                         },
                         {
@@ -8314,21 +8132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒントバニー】店長に話しかけて娼婦になった後、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "此処の娼館の新人娼婦はまず「お立ち台」に立って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お客さんに自己紹介してもらう決まりになっているの。"
+                                "[Hint Bunny] After talking to the manager and becoming a prostitute,\nthe new girls at this brothel must first stand on the 'presentation\nstage' and introduce themselves to the customers—it's a rule here."
                             ]
                         },
                         {
@@ -8346,14 +8150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒントバニー】お立ち台が終わった後に店長に話しかけると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『部屋で売春』と『コスプレ』が選択できるようになるわよ。"
+                                "[Hint Bunny] After you're done with the presentation stage, talking to\nthe manager will allow you to choose between \"prostitution in a room\"\nand \"cosplay\"."
                             ]
                         },
                         {
@@ -8371,7 +8168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒントバニー】『デリヘル』は『部屋で売春』をしてから出来るようになるよ。"
+                                "[Hint Bunny] \"Outcall prostitution\" becomes available after you've\ndone \"prostitution in a room\"."
                             ]
                         },
                         {
@@ -8389,14 +8186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒントバニー】『デリヘル』までいけば、あなたにファンがつくかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "専用のセフレになって欲しいという人が現れるかもね。"
+                                "[Hint Bunny] If you reach \"outcall prostitution\", you might gain fans.\nSomeone might even show up wanting to become your personal fuck buddy."
                             ]
                         },
                         {
@@ -8414,21 +8204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒントバニー】あとレーデも条件を達成すると売春できるようになるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レーデは物語後半でないと条件を達成できないから覚えておいてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その時がくれば、またヒントを教えるわ。"
+                                "[Hint Bunny] Also, Rade can become available for prostitution once\ncertain conditions are met, but those conditions can't be fulfilled\nuntil later in the story. Remember that, and I'll give you a hint when\nthe time comes."
                             ]
                         },
                         {
@@ -8507,7 +8283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】晴れて娼婦になったようね。おめでとう。"
+                                "[Hint Bunny] It seems you've officially become a prostitute.\nCongratulations."
                             ]
                         },
                         {
@@ -8583,7 +8359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】デリヘルを達成したようね。おめでとう。"
+                                "Hint Bunny: It seems you've completed the delivery health service.\nCongratulations."
                             ]
                         },
                         {
@@ -8601,14 +8377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】ルーナ、あなたの常連客が娼館の隣の「やり部屋」の前で待ってるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼、あなたの性器が忘れられないみたい。"
+                                "Hint Bunny: Luuna, your regular client is waiting in front of the\n\"playroom\" next to the brothel. It seems he can't forget your\ngenitals."
                             ]
                         },
                         {
@@ -8626,14 +8395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】先日、あなたの身体を買ったお客さんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノア君という恋人がいるあなたに惚れちゃったんだって。"
+                                "Hint Bunny: It's from a client who bought your body the other day.\nHe's fallen for you, even though you have a boyfriend named Noah-kun."
                             ]
                         },
                         {
@@ -8651,14 +8413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】あなたのオマンコが忘れられないと言って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やり部屋」で専用マンコとして買い馴らしたいんだって。「やり部屋」は建物の隣よ。"
+                                "Hint Bunny: He says he can't forget your pussy and wants to train you\nas his personal pussy in the \"playroom.\" The \"playroom\" is right next\nto the building."
                             ]
                         },
                         {
@@ -8676,14 +8431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】サムという常連客よ。娼館の建物の前で立ってる男よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サムとのエッチが終わったら･･･ノアの所に行けば何か起きるかも？"
+                                "Hint Bunny: A regular client named Sam. He's the man standing in front\nof the brothel building. After you finish having sex with Sam... maybe\nsomething will happen if you go to Noah?"
                             ]
                         },
                         {
@@ -8701,14 +8449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】サムとのエッチが終わったら、店長があなた達の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エッチな宣伝広告のビラを娼館の建物に貼るんだって。サムとのエッチ後に確認してね。"
+                                "Hint Bunny: After you finish having sex with Sam, the manager is going\nto put up a lewd promotional flyer of you two on the brothel building.\nMake sure to check it out after your session with Sam."
                             ]
                         },
                         {
@@ -8726,7 +8467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】だいぶ達成できてきたようね。以前のヒントを見る？"
+                                "Hint Bunny: You seem to have accomplished quite a bit. Would you like\nto see previous hints?"
                             ]
                         },
                         {
@@ -8734,8 +8475,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もういい",
-                                    "見る"
+                                    "No, that's fine",
+                                    "Let's see"
                                 ],
                                 1,
                                 0,
@@ -8847,14 +8588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】「寝取られ発覚フラグ」がONになったようね。おめでとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで、たいていの売春は出来るようになったわ。"
+                                "Hint Bunny: \"It seems the 'NTR Detection Flag' has been turned ON.\nCongratulations. Now, you can engage in most forms of prostitution.\""
                             ]
                         },
                         {
@@ -8872,14 +8606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】ルーナちゃん、サムのセフレになったみたいね。これで寝取られ公認よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの恋人のノアに話しかけば何か起きるかもね。"
+                                "Hint Bunny: \"Luuna-chan, it looks like you've become Sam's sex friend.\nWith this, the NTR is officially recognized. Something might happen if\nyou talk to your lover Noah.\""
                             ]
                         },
                         {
@@ -8897,14 +8624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】それじゃあ、回収しにくい所を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まとめて言うわね。"
+                                "Hint Bunny: \"Well then, let me summarize the hard-to-collect spots for\nyou.\""
                             ]
                         },
                         {
@@ -8922,21 +8642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★1、寝取られ発覚フラグがONになると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ベルの街の酒場の前に立っているナンパ男」の誘いを受ける事が可能になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確認してみてね。"
+                                "Hint Bunny: \"★1, Once the 'NTR Detection Flag' is ON, you can accept\nthe invitation from the 'Pick-up Guy standing in front of the tavern\nin Bell's town.' Make sure to check it out.\""
                             ]
                         },
                         {
@@ -8954,21 +8660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★2、また寝取られ発覚フラグがONになると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\"ノルヴァーナの夜の街の宿屋\"の前に立っているナンパ男」の誘いを受ける事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可能になる。「寝取られ発覚フラグがON」になると色々とH条件が緩和されるの。"
+                                "Hint Bunny: \"★2, Also, when the 'NTR Detection Flag' is ON, you can\naccept the invitation from the 'Pick-up Guy standing in front of the\ninn in Norva-Na's night town.' When the 'NTR Detection Flag' is ON,\nvarious H conditions become more lenient.\""
                             ]
                         },
                         {
@@ -8986,14 +8678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】ノルヴァーナの街を夜にするには、街の北東(右上)に居る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妖精に話しかけてね。"
+                                "Hint Bunny: \"To turn Norva-Na's town into night, talk to the fairy in\nthe northeast (upper right) part of town.\""
                             ]
                         },
                         {
@@ -9011,21 +8696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★3、 そしてノアに話しかけて「不良達に寝取らせる」を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "達成すれば「不良達に寝取らせるフラグ」が立って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルの街の「公衆浴場」で売春を出来るようになるよ。"
+                                "Hint Bunny: \"★3, And if you talk to Noah and achieve 'Letting the\ndelinquents NTR,' the 'Delinquents NTR Flag' will be set, and you'll\nbe able to prostitute in the 'Public Bathhouse' in Bell's town.\""
                             ]
                         },
                         {
@@ -9043,28 +8714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★4、 あと分かりにくい事といえば･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナの「シェーナの村の夜の公園」での売春かな。これはルーナが娼婦になっていれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「娼婦フラグ」がONになり「シェーナ村の夜の公園」のダリエフに話しかける事で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売春できるようになる。"
+                                "Hint Bunny: \"★4, Another thing that's a bit hard to understand... is\nLuuna's prostitution in 'Shena's village night park.' If Luuna has\nbecome a prostitute, the 'Prostitute Flag' will be ON and you can\nprostitute by talking to Dalieh in 'Shena Village's night park.'"
                             ]
                         },
                         {
@@ -9082,21 +8732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★5、「シェーナの村の\"夜\"の兵士達の宿舎」に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "借金取り達とベッキーがエッチできるイベントもあるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはベッキーは娼婦になっていれば発生するイベントよ。"
+                                "Hint Bunny: \"★5, There's also an event where Becky and the debt\ncollectors can get it on at 'Shena Village's night barracks for\nsoldiers.' This event occurs if Becky has become a prostitute.\""
                             ]
                         },
                         {
@@ -9114,21 +8750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★6、それから、これはもう達成したと思うけど一応、復唱するね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娼婦になれば「シェーナの村のルーナの家」でカインとダリエフに話しかければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナとベッキーがそれぞれ売春できるようになるよ。"
+                                "Hint Bunny: \"★6, Then, I think you've already achieved this but just\nto reiterate. If you become a prostitute, you can talk to Cain and\nDalieh in 'Luuna's house in Shena Village,' and Luuna and Becky can\neach prostitute themselves.\""
                             ]
                         },
                         {
@@ -9146,21 +8768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★7、それから娼館メニューの各「？？？」は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蒼魔法のラーニング数で貰える「メダル」があれば閲覧可能になるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「メダル」については回想部屋のヒント茶犬で確認してね。"
+                                "Hint Bunny: \"★7, Also, each '???' in the brothel menu can be viewed if\nyou have 'Medals' that you get from the number of Blue Magic\nlearnings. For details about 'Medals,' check with the Hint Tea Dog in\nthe Recollection Room.\""
                             ]
                         },
                         {
@@ -9178,14 +8786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】そうそう、娼館メニューの「お立ち台」は、バイブを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入れられる所までは変化するよ。"
+                                "Hint Bunny: \"Oh yes, the brothel menu's 'Show Stage' will change up to\nthe point where you can be inserted with a vibrator.\""
                             ]
                         },
                         {
@@ -9203,21 +8804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★8、レーデのエッチシーンの達成条件について語るわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レーデのエッチシーンを解放するには『レヴィウスの遺跡で、謎の綺麗な石を入手』して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「謎の綺麗な石」をレーデに持っていくこと。これが必須条件。"
+                                "Hint Bunny: \"★8, Let's talk about the conditions for unlocking Rade's\nH-scenes. To unlock Rade's H-scenes, you must \"obtain the mysterious\nbeautiful stone in Levius Ruins\" and bring it to Rade. This is a\nmandatory condition.\""
                             ]
                         },
                         {
@@ -9235,21 +8822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★9、「謎の綺麗な石」をレーデに見せると･･･色々ありエッチシーンが発生する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのエッチシーン後に、再度レーデに話しかけると･･･レーデを娼婦にする事が出来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店長に話しかけると「レーデの娼館部屋での売春」と「レーデのデリヘル」が閲覧可能になるのよ。"
+                                "Hint Bunny: \"★9, When you show Rade the 'mysterious beautiful\nstone'... various things happen and an H-scene occurs. After that\nH-scene, if you talk to Rade again... you can make her a prostitute.\nIf you talk to the manager, you'll be able to view 'Rade's brothel\nroom prostitution' and 'Rade's call girl service.'"
                             ]
                         },
                         {
@@ -9267,21 +8840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★10、戦闘エロに関しては、様々なカットインやアニメーションパターンが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるから、試してみてね。これもCG回想で埋まるから、あとから回想部屋で楽しんでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラストの肉便器エロも複数のアニメーションパターンが回想部屋で閲覧できるよ。"
+                                "Hint Bunny: \"★10, As for battle ero, there are various cut-ins and\nanimation patterns, so give them a try. These will also fill up your\nCG recollection, so you can enjoy them later in the Recollection Room.\nThe last meat toilet ero also has multiple animation patterns that can\nbe viewed in the Recollection Room.\""
                             ]
                         },
                         {
@@ -9299,21 +8858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】★11、それから超大事な事！妊娠して孕んだら、ノアに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話しかけて出産してね。でないとシェーナ村からフィールドマップに出れないから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「■出産する」を選んでね。そうすれば行動できるようになるから。"
+                                "Hint Bunny: \"★11, And something super important! If you get pregnant\nand conceive, talk to Noah and give birth. Otherwise, you won't be\nable to leave Shena Village for the Field Map. Choose '■ Give Birth.'\nThen you'll be able to act again.\""
                             ]
                         },
                         {
@@ -9331,21 +8876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】\\I[7]色々言ったけど最後のヒントね。これだけは覚えて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「全クリア後」に、回想部屋の動物『猫』に話しかけると･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「CG・回想シーンが全て埋まる。」のよ。"
+                                "Hint Bunny: \"\\I[7]I've said a lot but here's the last hint. Remember\nthis. 'After completing everything,' if you talk to the animal \"Cat\"\nin the Recollection Room... 'All CG recollection scenes will be\nfilled.'"
                             ]
                         },
                         {
@@ -9363,21 +8894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】\\I[7]「全クリア後」は強くてニューゲーム「周回プレイ」が出来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初から「処女プレイ」をしたいという方はCG回想部屋の【ヒント鼠】に話しかけてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しくは、CG回想部屋の【ヒント鼠】に聞いてね。"
+                                "Hint Bunny: \"\\I[7]After completing everything,' you can play a strong\nNew Game+ 'loop play.' If you want to start from scratch with a\n'virgin play,' talk to 【Hint Mouse】 in the CG Recollection Room. For\ndetails, ask 【Hint Mouse】 in the CG Recollection Room.\""
                             ]
                         },
                         {
@@ -9395,14 +8912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】\\I[7]ここまでの説明でも分からければ『攻略ページ』を見てね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『攻略ページ』(※要フォロー)のURLは、回想部屋の「羊」に話しかけると良いわよ。"
+                                "Hint Bunny: \"\\I[7]If you still don't understand after all this\nexplanation, check out the 'Strategy Page.' The URL for the 'Strategy\nPage' (※requires follow) can be obtained by talking to the 'Sheep' in\nthe Recollection Room.\""
                             ]
                         },
                         {
@@ -9420,7 +8930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒントバニー】ヒントが重複すると思うけど、以前までのヒントを見る？"
+                                "Hint Bunny: \"I think some hints might be repetitive, but do you want\nto see previous hints?\""
                             ]
                         },
                         {
@@ -9428,8 +8938,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もういい",
-                                    "見る"
+                                    "I'm good",
+                                    "Show me"
                                 ],
                                 1,
                                 0,

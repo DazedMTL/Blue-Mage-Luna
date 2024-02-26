@@ -4936,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -4954,14 +4954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･ついに何処の馬の骨かも分からない男と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エッチする日がきたわね。"
+                                "Becky: Sigh... The day has finally come for me to sleep with a man\nwhose name I don't even know."
                             ]
                         },
                         {
@@ -4979,7 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: もうすぐあたしを抱きに盛った男が来るのね･･･はぁ。"
+                                "Becky: Any moment now, that horny guy will come to embrace me... sigh."
                             ]
                         },
                         {
@@ -4997,7 +4990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 店長の言われた通りにしないとね。"
+                                "Becky: I have to do as the manager told me."
                             ]
                         },
                         {
@@ -5015,7 +5008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -5033,7 +5026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ポールには･･･内緒にしないとね。"
+                                "Becky: I have to keep this a secret from Pole..."
                             ]
                         },
                         {
@@ -5051,14 +5044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: とりあえず･･･アソコは洗ったし･･･陰毛も整えた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとは煮るなり焼くなり好きにするといいわ。はぁ･･･ったく。"
+                                "Becky: At least... I've washed down there... and trimmed my pubic\nhair. He can do whatever he wants to me after that. Sigh... seriously."
                             ]
                         },
                         {
@@ -5088,7 +5074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ベッキー！"
+                                "Pole: Becky!"
                             ]
                         },
                         {
@@ -5106,7 +5092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: いっ！？ ポール･･･"
+                                "Becky: Ah! Pole..."
                             ]
                         },
                         {
@@ -5124,61 +5110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ど、どうしたのよ？これから用事があるんだけど･･･"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポール: 用事？なんだよ、何か声色がおかしいな？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッキー: べ、別にそんな事ないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッキー: それより、どうしたのよ？"
+                                "Becky: What's up? I have something to do soon..."
                             ]
                         },
                         {
@@ -5196,7 +5128,43 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ちょっと、お前が気になってな。結婚して一年目だし。"
+                                "Pole: Something to do? You sound strange, what's up?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Becky: It's nothing, really."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Becky: Anyway, what's up?"
                             ]
                         },
                         {
@@ -5214,7 +5182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: お前が遠くに行って夜が寂しくなってな。"
+                                "Pole: Just worried about you. It's our first year of marriage, after\nall."
                             ]
                         },
                         {
@@ -5232,43 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ベッキー、愛してるよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッキー: え･･･"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッキー: はははっ･･･ ポールらしくないわね。何言ってるんだか。"
+                                "Pole: You're far away and the nights are lonely without you."
                             ]
                         },
                         {
@@ -5286,7 +5218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: 別に変じゃないだろ、お前は俺の女房なんだから。"
+                                "Pole: Becky, I love you."
                             ]
                         },
                         {
@@ -5304,7 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はは･･･ そうね。"
+                                "Becky: Eh..."
                             ]
                         },
                         {
@@ -5322,25 +5254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: (ポール･････)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッキー: じゃ、じゃあポール、通信機を切るわよ。"
+                                "Becky: Hahaha... That's not like you, Pole. What are you talking\nabout?"
                             ]
                         },
                         {
@@ -5358,7 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ああ。愛してるよ、ベッキー。"
+                                "Pole: It's not weird. You're my wife, after all."
                             ]
                         },
                         {
@@ -5376,7 +5290,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あたしも愛してるわよ。ポール･･･"
+                                "Becky: Haha... Right."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Becky: (Pole......)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Becky: So, Pole, I'm going to hang up now."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Pole: Yeah. I love you, Becky."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Becky: I love you too, Pole..."
                             ]
                         },
                         {
@@ -5406,7 +5392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -5424,7 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･ こんな時にポールから･･･あたし何やってるんだろ･･･"
+                                "Becky: Sigh... Of all times for Pole to call... What am I doing..."
                             ]
                         },
                         {
@@ -5526,7 +5512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: きた･･･"
+                                "Becky: He's here..."
                             ]
                         },
                         {
@@ -5599,7 +5585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】おお･･･すげぇ可愛いね。今日は当たりだぜ。"
+                                "[Man]: Oh... you're really cute. Today's my lucky day."
                             ]
                         },
                         {
@@ -5617,7 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ど、どうも･･･初めまして。"
+                                "Becky: Th-thank you... Nice to meet you."
                             ]
                         },
                         {
@@ -5635,14 +5621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】店長から聞いてるよ。新婚の人妻で旦那が作った借金を身体で返しているらしいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村にも借金があるそうじゃないか。"
+                                "[Man]: I heard from the manager. You're a newlywed paying off your\nhusband's debts with your body. Seems like there's debt in the village\ntoo, huh?"
                             ]
                         },
                         {
@@ -5660,7 +5639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ええ･･･まぁ･･･"
+                                "Becky: Yes... well..."
                             ]
                         },
                         {
@@ -5678,14 +5657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】まぁ事情なんてどうでもいいか。新婚の人妻とオマンコできるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は運がいいぜ。お前の旦那に感謝しないとなぁ。"
+                                "[Man]: Well, I don't care about the circumstances. Being able to fuck\na newlywed wife today is my lucky day. Gotta thank your husband for\nthis."
                             ]
                         },
                         {
@@ -5703,14 +5675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: (はぁ･･･こんな下らない奴でも客だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛想良くしないと。)"
+                                "Becky: (Sigh... Even if he's a worthless guy, he's still a customer. I\nhave to be nice.)"
                             ]
                         },
                         {
@@ -5744,14 +5709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 今日、オマンコさせて頂くベッキーと申します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願いします。"
+                                "Becky: Today, I'll be the one you'll be fucking, Becky. Please take\ncare of me."
                             ]
                         },
                         {
@@ -5769,7 +5727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】おほお･･･近頃の人妻はエロいな。"
+                                "[Man]: Oh ho... Married women these days are so erotic."
                             ]
                         },
                         {
@@ -5794,7 +5752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: それでは、オマンコタイム始めますね。"
+                                "Becky: Then, let's start our pussy time."
                             ]
                         },
                         {
@@ -5812,14 +5770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】なぁ、中に出していいか？旦那いるのに良いかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛いから中出しをしたいんだ。"
+                                "[Man]: Hey, can I cum inside? Is it okay even though you have a\nhusband? You're so cute; I want to creampie you."
                             ]
                         },
                         {
@@ -5837,7 +5788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: くっ･･･え、ええ。今日は安全日なので。(最っ低！)"
+                                "Becky: Gah... Y-yes. Today is a safe day. (The worst!)"
                             ]
                         },
                         {
@@ -5898,7 +5849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んっ･･･"
+                                "Becky: Mmm..."
                             ]
                         },
                         {
@@ -5916,7 +5867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】はぁはぁ･･･すんげ～"
+                                "[Man]: Hah hah... amazing..."
                             ]
                         },
                         {
@@ -5941,7 +5892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･んっ･･･んっ･･･"
+                                "Becky: Haa... mmm... mmm..."
                             ]
                         },
                         {
@@ -5966,7 +5917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: スリーサイズは、B:95 W:62 H:88 です。"
+                                "Becky: My three sizes are B:95 W:62 H:88."
                             ]
                         },
                         {
@@ -5984,7 +5935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】すげぇエッチな体型してるな。"
+                                "[Man]: You've got such an erotic figure."
                             ]
                         },
                         {
@@ -6002,7 +5953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: どうも･･･"
+                                "Becky: Thank you..."
                             ]
                         },
                         {
@@ -6027,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んっ･･･"
+                                "Becky: Mmm..."
                             ]
                         },
                         {
@@ -6045,7 +5996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】はぁはぁ･･･すんげ～"
+                                "[Man]: Hah hah... amazing..."
                             ]
                         },
                         {
@@ -6095,7 +6046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】お前の旦那は今、何してるんだろうな。"
+                                "[Man]: I wonder what your husband is doing right now."
                             ]
                         },
                         {
@@ -6113,7 +6064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: わかりません･･･ 今は･･･夫の事を言わないで下さい･･･"
+                                "Becky: I don't know... Please don't talk about my husband right now..."
                             ]
                         },
                         {
@@ -6131,7 +6082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ははっ 呑気なものだ。自分の妻がこんな事してるのにな。"
+                                "[Man]: Haha, how carefree. To think his wife is doing something like\nthis."
                             ]
                         },
                         {
@@ -6175,7 +6126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ベッキー！"
+                                "Pole: Becky!"
                             ]
                         },
                         {
@@ -6193,25 +6144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ポール･･･今は忙しいから後にして。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポール: ！？おい、傍に誰かいないか？"
+                                "Becky: Pole... I'm busy now, so let's talk later."
                             ]
                         },
                         {
@@ -6229,25 +6162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: 男じゃないだろうな？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッキー: だ、誰もいないわよ。急にどうしたのよ。"
+                                "Pole: !? Hey, is there someone with you?"
                             ]
                         },
                         {
@@ -6265,7 +6180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: 誰もいないなら良いけど･･･"
+                                "Pole: It's not a man, is it?"
                             ]
                         },
                         {
@@ -6283,7 +6198,43 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: き、切るわよ。今、忙しいから。"
+                                "Becky: There's, there's no one here. What's gotten into you all of a\nsudden?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Pole: As long as there's no one, that's fine..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Becky: I'm, I'm hanging up. I'm busy right now."
                             ]
                         },
                         {
@@ -6313,7 +6264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】びっくりしたな。今の旦那か？"
+                                "[Man]: That was a surprise. Was that your husband just now?"
                             ]
                         },
                         {
@@ -6331,7 +6282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ええ･･･うちの旦那、心配性なんで。"
+                                "Becky: Yes... my husband is the worrying type."
                             ]
                         },
                         {
@@ -6349,7 +6300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】そうか。心配事は当たってるけどな。へへっ"
+                                "[Man]: Is that so. His worries are spot on though. Heheh"
                             ]
                         },
                         {
@@ -6367,7 +6318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: もう切ったので大丈夫です。続けましょう。んっ･･･"
+                                "Becky: I've already hung up, so it's fine. Let's continue. Mmm..."
                             ]
                         },
                         {
@@ -6513,7 +6464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】んうう･･･"
+                                "[Man]: Nuuu..."
                             ]
                         },
                         {
@@ -9829,7 +9780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -9847,14 +9798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･さんざん潮吹かされたな･･･凄くスケベな奴だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ので一人目。次はどんな男が相手なのかな･･･"
+                                "Becky: Haa... I was made to squirt so much... He was such a pervert.\nThat was the first one. I wonder what kind of man the next one will\nbe..."
                             ]
                         },
                         {
@@ -9884,7 +9828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ベッキー！"
+                                "Pole: Becky!"
                             ]
                         },
                         {
@@ -9902,7 +9846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ポール･････今はかけてこないでって言ったでしょ･･･んっ"
+                                "Becky: Pole... I told you not to call me now... Mmm"
                             ]
                         },
                         {
@@ -9920,7 +9864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: おい！"
+                                "Pole: Hey!"
                             ]
                         },
                         {
@@ -9938,7 +9882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 切るわよ。(すぐに次の奴がくるんだから･･･)"
+                                "Becky: I'm hanging up. (The next guy is coming soon...)"
                             ]
                         },
                         {
@@ -9968,7 +9912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -9986,7 +9930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 着替えなくちゃね。"
+                                "Becky: I need to change clothes."
                             ]
                         },
                         {
@@ -10069,7 +10013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -10200,7 +10144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: きた･･･"
+                                "Becky: Here he comes..."
                             ]
                         },
                         {
@@ -10273,7 +10217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: いらっしゃいませ。"
+                                "Becky: Welcome."
                             ]
                         },
                         {
@@ -10291,14 +10235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】おほ･･･やっと俺の出番だぜ。たっぷりとオマンコさせてもらうからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにしても前の客のチンポの臭いがするぜ。"
+                                "[Man]: Oh ho... Finally, it's my turn. I'm going to enjoy your pussy\nthoroughly. And man, I can smell the dick of the previous customer on\nyou."
                             ]
                         },
                         {
@@ -10316,7 +10253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】お前が人妻のベッキーだな。"
+                                "[Man]: You're the married woman Becky, right?"
                             ]
                         },
                         {
@@ -10334,7 +10271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はい･･･オマンコよろしくお願いします。"
+                                "Becky: Yes... Please enjoy my pussy."
                             ]
                         },
                         {
@@ -10366,7 +10303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んっ･･･"
+                                "Becky: Mmm..."
                             ]
                         },
                         {
@@ -10398,7 +10335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･んっ･･･んっ･･･"
+                                "Becky: Haa... mmm... mmm..."
                             ]
                         },
                         {
@@ -10423,7 +10360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: どうも･･･"
+                                "Becky: Thank you..."
                             ]
                         },
                         {
@@ -10448,7 +10385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んっ･･･"
+                                "Becky: Mmm..."
                             ]
                         },
                         {
@@ -10614,7 +10551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】さっきまで他の男とオマンコしてたのにスケベな女だぜ。"
+                                "[Man]: Even though you were just fucking another man, you're such a\nslutty woman."
                             ]
                         },
                         {
@@ -10639,7 +10576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】さっきの奴の精液残ってるんだろ？"
+                                "[Man]: You still got the cum from the last guy inside you, don't you?"
                             ]
                         },
                         {
@@ -10664,14 +10601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】たっぷり中出しして精液の上から精液を出してやるからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟しろよ。"
+                                "[Man]: I'm going to fill you up with my cum on top of his. Brace\nyourself."
                             ]
                         },
                         {
@@ -10708,7 +10638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この後もベッキーは数名の男性の肉棒を膣穴で受け止めた。"
+                                "After that, Becky received the cocks of several men with her pussy."
                             ]
                         },
                         {
@@ -11111,7 +11041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふう･･･やっと終わった。"
+                                "Becky: Phew... it's finally over."
                             ]
                         },
                         {
@@ -11129,7 +11059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ベッキー、ポールは･･･"
+                                "Luuna: Becky, how is Pole...?"
                             ]
                         },
                         {
@@ -11147,7 +11077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: セックス中にポールから何度も通信があってね。最悪だった。"
+                                "Becky: During sex, I kept getting messages from Pole. It was the\nworst."
                             ]
                         },
                         {
@@ -11172,14 +11102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ベッキーが色んな奴とオマンコしてるとはポールは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わないだろうなぁ。俺としては「ざまぁみろ」だけどな～。"
+                                "Cain: Pole would never imagine Becky getting her pussy filled by all\nthese guys. As for me, I'm thinking 'serves him right' though."
                             ]
                         },
                         {
@@ -11197,7 +11120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ったく･･･"
+                                "Becky: Seriously..."
                             ]
                         },
                         {
@@ -11350,7 +11273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ..."
                             ]
                         },
                         {
@@ -11368,7 +11291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: もうすぐあたしを抱きに盛った男が来るのね･･･はぁ。"
+                                "Becky: Any minute now, that horny guy who's going to fuck me will be\nhere... *sigh*"
                             ]
                         },
                         {
@@ -11386,7 +11309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 店長の言われた通りにしないとね。"
+                                "Becky: I have to do as the manager says."
                             ]
                         },
                         {
@@ -11413,7 +11336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ･･･････"
+                                "Pole: ..."
                             ]
                         },
                         {
@@ -11431,7 +11354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ベッキーの奴･･･何してんだよ･･･くそ･･･"
+                                "Pole: That Becky... what the hell is she doing... damn it..."
                             ]
                         },
                         {
@@ -11449,7 +11372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ..."
                             ]
                         },
                         {
@@ -11467,7 +11390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ポールには･･･内緒にしないとね。"
+                                "Becky: I have to keep it a secret from Pole..."
                             ]
                         },
                         {
@@ -11485,14 +11408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: とりあえず･･･アソコは洗ったし･･･陰毛も整えた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとは煮るなり焼くなり好きにするといいわ。はぁ･･･ったく。"
+                                "Becky: For now... I've washed down there... and trimmed my pubic hair.\nThey can do whatever they want with me after that. *sigh* Seriously..."
                             ]
                         },
                         {
@@ -11510,7 +11426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ..."
                             ]
                         },
                         {
@@ -11528,7 +11444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･ こんな時にポールから･･･あたし何やってるんだろ･･･"
+                                "Becky: *sigh* At a time like this, getting calls from Pole... what am\nI even doing..."
                             ]
                         },
                         {
@@ -11630,7 +11546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: きた･･･"
+                                "Becky: He's here..."
                             ]
                         },
                         {
@@ -11703,7 +11619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】おお･･･すげぇ可愛いね。今日は当たりだぜ。"
+                                "[Man]: Oh... you're really cute. I hit the jackpot today."
                             ]
                         },
                         {
@@ -11721,7 +11637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ど、どうも･･･初めまして。"
+                                "Becky: Th-thank you... nice to meet you."
                             ]
                         },
                         {
@@ -11739,14 +11655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】店長から聞いてるよ。新婚の人妻で旦那が作った借金を身体で返しているらしいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村にも借金があるそうじゃないか。"
+                                "[Man]: I've heard from the manager. You're a newlywed housewife paying\noff your husband's debts with your body, right? Seems like the village\nis in debt too."
                             ]
                         },
                         {
@@ -11764,7 +11673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ええ･･･まぁ･･･"
+                                "Becky: Yes... well..."
                             ]
                         },
                         {
@@ -11782,14 +11691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】まぁ事情なんてどうでもいいか。新婚の人妻とオマンコできるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は運がいいぜ。お前の旦那に感謝しないとなぁ。"
+                                "[Man]: Well, I don't care about the circumstances. Being able to fuck\na newlywed housewife is my lucky day. I should thank your husband,\nhuh?"
                             ]
                         },
                         {
@@ -11807,14 +11709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: (はぁ･･･こんな下らない奴でも客だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛想良くしないと。)"
+                                "Becky: (Ugh... Even if he's a pathetic guy, he's still a customer. I\nhave to be nice.)"
                             ]
                         },
                         {
@@ -11848,14 +11743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 今日、オマンコさせて頂くベッキーと申します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願いします。"
+                                "Becky: My name is Becky, and I'll be the one you'll be fucking today.\nPlease take care of me."
                             ]
                         },
                         {
@@ -11873,7 +11761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】おほお･･･近頃の人妻はエロいな。"
+                                "[Man]: Ohoho... Housewives these days are so erotic."
                             ]
                         },
                         {
@@ -11898,7 +11786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: それでは、オマンコタイム始めますね。"
+                                "Becky: Then, let's start our pussy time."
                             ]
                         },
                         {
@@ -11916,14 +11804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】なぁ、中に出していいか？旦那いるのに良いかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛いから中出しをしたいんだ。"
+                                "[Man]: Hey, can I cum inside? Is that okay even though you have a\nhusband? You're so cute, I want to creampie you."
                             ]
                         },
                         {
@@ -11941,7 +11822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: くっ･･･え、ええ。今日は安全日なので。(最っ低！)"
+                                "Becky: Ghh... Y-yes. Today is a safe day. (The worst!)"
                             ]
                         },
                         {
@@ -12002,7 +11883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んっ･･･"
+                                "Becky: Mmm..."
                             ]
                         },
                         {
@@ -12020,7 +11901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】はぁはぁ･･･すんげ～"
+                                "[Man]: Hah hah... this is amazing..."
                             ]
                         },
                         {
@@ -12045,7 +11926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･んっ･･･んっ･･･"
+                                "Becky: *panting* Mmm... Mmm..."
                             ]
                         },
                         {
@@ -12070,7 +11951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: スリーサイズは、B:95 W:62 H:88 です。"
+                                "Becky: My measurements are B:95 W:62 H:88."
                             ]
                         },
                         {
@@ -12088,7 +11969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】すげぇエッチな体型してるな。"
+                                "[Man]: Damn, you've got a sexy body."
                             ]
                         },
                         {
@@ -12106,7 +11987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: どうも･･･"
+                                "Becky: Thank you..."
                             ]
                         },
                         {
@@ -12131,7 +12012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んっ･･･"
+                                "Becky: Mmm..."
                             ]
                         },
                         {
@@ -12149,7 +12030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】はぁはぁ･･･すんげ～"
+                                "[Man]: Hah hah... this is amazing..."
                             ]
                         },
                         {
@@ -12199,7 +12080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】お前の旦那は今、何してるんだろうな。"
+                                "[Man]: I wonder what your husband is doing right now."
                             ]
                         },
                         {
@@ -12217,7 +12098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: わかりません･･･ 今は･･･夫の事を言わないで下さい･･･"
+                                "Becky: I don't know... Please don't talk about my husband right now..."
                             ]
                         },
                         {
@@ -12235,7 +12116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ははっ 呑気なものだ。自分の妻がこんな事してるのにな。"
+                                "[Man]: Haha, how carefree. To think his wife is doing something like\nthis."
                             ]
                         },
                         {
@@ -12354,7 +12235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んっ･･･"
+                                "Becky: Mmm..."
                             ]
                         },
                         {
@@ -12455,7 +12336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: くっ･･･"
+                                "Pole: Damn it..."
                             ]
                         },
                         {
@@ -12473,7 +12354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ･･･････"
+                                "Pole: ..."
                             ]
                         },
                         {
@@ -12491,7 +12372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ベッキー･･･あの糞野郎･･･俺の妻の身体を奪いやがって･･･"
+                                "Pole: Becky... that bastard... taking my wife's body like that..."
                             ]
                         },
                         {
@@ -12854,7 +12735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ･･･････"
+                                "Pole: ..."
                             ]
                         },
                         {
@@ -13154,7 +13035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ･･･････"
+                                "Pole: ..."
                             ]
                         },
                         {
@@ -13454,7 +13335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ベッキー･･･"
+                                "Pole: Becky..."
                             ]
                         },
                         {
@@ -13754,7 +13635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ･･･････"
+                                "Pole: ..."
                             ]
                         },
                         {
@@ -14301,7 +14182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】んうう･･･"
+                                "[Man]: Nngh..."
                             ]
                         },
                         {
@@ -17607,7 +17488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ..."
                             ]
                         },
                         {
@@ -17625,14 +17506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･さんざん潮吹かされたな･･･凄くスケベな奴だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ので一人目。次はどんな男が相手なのかな･･･"
+                                "Becky: Haah... I was made to squirt so much... He was such a pervert.\nThat was just the first guy. I wonder what kind of man will be next..."
                             ]
                         },
                         {
@@ -17650,7 +17524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ･･･････"
+                                "Pole: ..."
                             ]
                         },
                         {
@@ -17668,7 +17542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 着替えなくちゃね。"
+                                "Becky: I need to change."
                             ]
                         },
                         {
@@ -17751,7 +17625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ..."
                             ]
                         },
                         {
@@ -17882,7 +17756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: きた･･･"
+                                "Becky: Here he comes..."
                             ]
                         },
                         {
@@ -17955,7 +17829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: いらっしゃいませ。"
+                                "Becky: Welcome."
                             ]
                         },
                         {
@@ -17973,14 +17847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】おほ･･･やっと俺の出番だぜ。たっぷりとオマンコさせてもらうからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにしても前の客のチンポの臭いがするぜ。"
+                                "[Man]: Oh... finally, it's my turn. I'm going to enjoy your pussy\nthoroughly. And man, I can smell the last guy's cock on you."
                             ]
                         },
                         {
@@ -17998,7 +17865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】お前が人妻のベッキーだな。"
+                                "[Man]: You're the married woman, Becky, right?"
                             ]
                         },
                         {
@@ -18016,7 +17883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はい･･･オマンコよろしくお願いします。"
+                                "Becky: Yes... Please enjoy my pussy."
                             ]
                         },
                         {
@@ -18041,7 +17908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ･･･････"
+                                "Pole: ..."
                             ]
                         },
                         {
@@ -18066,7 +17933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んっ･･･"
+                                "Becky: Mmm..."
                             ]
                         },
                         {
@@ -18098,7 +17965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･んっ･･･んっ･･･"
+                                "Becky: Haah... Mmm... Mmm..."
                             ]
                         },
                         {
@@ -18123,7 +17990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: どうも･･･"
+                                "Becky: Thank you..."
                             ]
                         },
                         {
@@ -18148,7 +18015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: んっ･･･"
+                                "Becky: Mmm..."
                             ]
                         },
                         {
@@ -18314,7 +18181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】さっきまで他の男とオマンコしてたのにスケベな女だぜ。"
+                                "[Man]: You're such a slut, getting your pussy done by another man just\nbefore this."
                             ]
                         },
                         {
@@ -18339,7 +18206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】さっきの奴の精液残ってるんだろ？"
+                                "[Man]: The last guy's semen is still in there, isn't it?"
                             ]
                         },
                         {
@@ -18364,14 +18231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】たっぷり中出しして精液の上から精液を出してやるからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟しろよ。"
+                                "[Man]: I'm going to cum inside you and layer my semen on top of his.\nBe ready for it."
                             ]
                         },
                         {
@@ -18396,7 +18256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ･･･････"
+                                "Pole: ..."
                             ]
                         },
                         {
@@ -18426,7 +18286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この後もベッキーは数名の男性の肉棒を膣穴で受け止めた。"
+                                "After that, Becky took several more men's cocks in her vaginal hole."
                             ]
                         },
                         {
@@ -18818,7 +18678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふう･･･やっと終わった。"
+                                "Becky: Phew... It's finally over."
                             ]
                         },
                         {
@@ -18836,7 +18696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ベッキー、ポールは･･･"
+                                "Luuna: Becky, about Pole..."
                             ]
                         },
                         {
@@ -18854,7 +18714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: セックス中にポールから何度も通信があってね。最悪だった。"
+                                "Becky: During sex, I kept getting calls from Pole. It was the worst."
                             ]
                         },
                         {
@@ -18879,14 +18739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ベッキーが色んな奴とオマンコしてるとはポールは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わないだろうなぁ。俺としては「ざまぁみろ」だけどな～。"
+                                "Cain: Pole would never imagine Becky getting fucked by all these guys.\nAs for me, I'm thinking 'serves him right' though."
                             ]
                         },
                         {
@@ -18904,7 +18757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ったく･･･"
+                                "Becky: Seriously..."
                             ]
                         },
                         {
@@ -19804,7 +19657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: (今は大丈夫･･･)"
+                                "Becky: (I'm okay for now...)"
                             ]
                         },
                         {

@@ -4644,7 +4644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】ルーナか。懐かしいのう。"
+                                "Gil: Luuna, is that you? How nostalgic."
                             ]
                         },
                         {
@@ -4729,7 +4729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ジル･･･"
+                                "Luuna: Gil..."
                             ]
                         },
                         {
@@ -4747,7 +4747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ルーナ、知り合いかい？"
+                                "Cain: Luuna, someone you know?"
                             ]
                         },
                         {
@@ -4765,7 +4765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -4783,14 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ジルはルーシアの育ての親で第二の魔導の師だった人よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシアの母親、レイシア様はルーシアが直系の力を伝承すべく殺害したけどね。"
+                                "Luuna: Gil was Lucia's foster parent and my second magic mentor.\nLucia's mother, Lady Reicia, was killed by Lucia herself to inherit\nthe direct line of power."
                             ]
                         },
                         {
@@ -4808,7 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】･････"
+                                "Gil: ..."
                             ]
                         },
                         {
@@ -4826,7 +4819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ジル･･･私は黒い魔女を倒す･･･ルーシアを。"
+                                "Luuna: Gil... I will defeat the Black Witch... Lucia."
                             ]
                         },
                         {
@@ -4844,14 +4837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】ふむ･･･ 今や、ルーシアは私の手の届かぬほどの存在となってしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ、お前もな。"
+                                "Gil: Hmm... Now, Lucia has become an existence beyond my reach. And so\nhave you, Luuna."
                             ]
                         },
                         {
@@ -4869,14 +4855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】しかしルーシアだけでなく、バレンチナ筆頭の魔導士シルヴィアまで来ている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のお前には荷が重かろう。"
+                                "Gil: But it's not just Lucia, even the head magician Sylvia from\nValentina is here. It might be too much for you to handle right now."
                             ]
                         },
                         {
@@ -4894,7 +4873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -4912,7 +4891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】強力な蒼魔法は覚えたのかい？"
+                                "Gil: Have you learned any powerful azure magic?"
                             ]
                         },
                         {
@@ -4930,7 +4909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･！"
+                                "Luuna: ...!"
                             ]
                         },
                         {
@@ -4948,14 +4927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】硫酸の雨～！という･･･おっかない蒼魔法を使っていたではないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またあれを見てみたいのぉ。ひょひょひょっ"
+                                "Gil: The Rain of Sulfuric Acid... that terrifying azure magic spell\nyou used to wield. I'd like to see that again. Hyohyohyo!"
                             ]
                         },
                         {
@@ -5006,28 +4978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あれは･･･硫酸の雨は私の得意な蒼魔法ですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシアに魔法を封じられて使えなくなりましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調子の良い時や魔力が高まってる時には使えるようですが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれを使うモンスターは極稀で、もう絶滅していて現れないかもしれませんね。"
+                                "Luuna: That... The Rain of Sulfuric Acid is a blue magic spell I'm\nproficient in, but Lucia has sealed my magic, making it unusable. I\ncan use it when I'm in good condition or when my magical power is\nhigh. Monsters that use that spell are extremely rare, and they might\nhave gone extinct and may not appear anymore."
                             ]
                         },
                         {
@@ -5045,7 +4996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】それは残念じゃの。お主は技を覚えて強くなる魔導士じゃからのう。"
+                                "Gil: That's a shame. You're a magician who grows stronger by learning\ntechniques."
                             ]
                         },
                         {
@@ -5063,21 +5014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】そうそう、わしの知る所だと、希有な技を使うモンスターは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヴィラックの氷山の雪山付近」と「ボロの炭鉱の砂漠付近」と「十路地の道付近」で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見かけた事があるのう。"
+                                "Gil: Oh yes, from what I know, monsters that use rare techniques have\nbeen spotted near 'Villack's Iceberg Snowfields', 'Bolo's Coal Mine\nDesert', and 'Juurochi Path'."
                             ]
                         },
                         {
@@ -5128,14 +5065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: えっ！本当ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヴィラックの氷山の雪山付近」と「ボロの炭鉱の砂漠」と「十路地の道」･･･"
+                                "Luuna: Eh! Really? 'Villack's Iceberg Snowfields', 'Bolo's Coal Mine\nDesert', and 'Juurochi Path'..."
                             ]
                         },
                         {
@@ -5153,21 +5083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】あ～出現するという約束はできんぞ？極稀なモンスターなど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうそう現れんからのう。現れたとしても凄い技を持っているとは限らんし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "適当に探索すればいい。"
+                                "Gil: Ah, but I can't promise they'll appear. Such rare monsters don't\nshow up often. Even if they do, they might not have impressive\ntechniques. Just search around casually."
                             ]
                         },
                         {
@@ -5185,14 +5101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】場所が分かっていても、かなりの確率でしか現れんから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まず見つからんだろう。それこそ足を棒のようにして同じ場所を探索せねばなぁ。"
+                                "Gil: Even if you know the place, they hardly appear, so you probably\nwon't find them. You'd have to search the same place over and over\nuntil your legs turn to sticks."
                             ]
                         },
                         {
@@ -5210,21 +5119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】まぁ一つでも多く、蒼魔法を覚える事じゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ･･･今のお前にルーシアと戦うなというのは無理じゃろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のルーシアは鋼鉄兵を使って村々を襲撃しているのだからのう･･･。"
+                                "Gil: Well, learn as many azure magic spells as you can. Well... It\nwould be impossible to tell you not to fight Lucia now. She's using\nsteel soldiers to attack villages..."
                             ]
                         },
                         {
@@ -5291,7 +5186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ありがとう、ジル。"
+                                "Luuna: Thank you, Gil."
                             ]
                         },
                         {
@@ -5309,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】ふふ･･･"
+                                "Gil: Hehe..."
                             ]
                         },
                         {
@@ -5327,14 +5222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】これっ そこの坊主、貴重な情報を教えたのだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おこづかいをよこさんかいっ！"
+                                "Gil: Hey there, lad, since I've given you such valuable information,\nhow about giving me some pocket money!"
                             ]
                         },
                         {
@@ -5352,7 +5240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】「500G」もらっておくぞ～。"
+                                "Gil: I'll be taking '500G' then~."
                             ]
                         },
                         {
@@ -5370,7 +5258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「500G」なくなった･･･。"
+                                "'500G' gone..."
                             ]
                         },
                         {
@@ -5397,7 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: げっ！俺の財布からスリやがった！なんちゅう婆さんだ･･･"
+                                "Cain: Gah! She picked my pocket! What a crone..."
                             ]
                         },
                         {
@@ -5448,7 +5336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふふっ カイン、盗賊の面目丸つぶれね～。"
+                                "Becky: Hehe, Cain, so much for the thief's honor."
                             ]
                         },
                         {
@@ -5466,7 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: くそ～･･･金よりプライドが～･･･"
+                                "Cain: Damn it... My pride hurts more than my wallet..."
                             ]
                         },
                         {
@@ -5484,7 +5372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】ひぇっ ひぇっ ひぇっ 修行せえよ～ 糞ガキャ～"
+                                "Gil: Heheheh, train harder, you brat!"
                             ]
                         },
                         {
@@ -5569,14 +5457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】硫酸の雨～！という･･･おっかない蒼魔法を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また見てみたいのぉ。ひょひょひょっ"
+                                "Gil: Acid Rain~! I'd like to see that terrifying blue magic again.\nHyohyohyo!"
                             ]
                         },
                         {
@@ -5627,28 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あれは･･･硫酸の雨は私の得意な蒼魔法ですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシアに魔法を封じられて使えなくなりましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調子の良い時や魔力が高まってる時には使えるようですが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれを使うモンスターは極稀で、もう絶滅していて現れないかもしれませんね。"
+                                "Luuna: That... Acid Rain is one of my specialties in blue magic, but\nit's been sealed by Lucia and I can't use it anymore. It seems I can\nuse it when I'm in good condition or when my magical power is high.\nThe monster that uses it is extremely rare, and it might have gone\nextinct and may not appear anymore."
                             ]
                         },
                         {
@@ -5666,21 +5526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】わしの知る所だと、希有な技を使うモンスターは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヴィラックの氷山の雪山付近」と「ボロの炭鉱の砂漠付近」と「十路地の道付近」で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見かけた事があるのう。"
+                                "Gil: From what I know, monsters that use rare techniques have been\nspotted near \"Vilack's Ice Mountain Snowy Area,\" \"Bolo's Coal Mine\nDesert Area,\" and \"Juurochi Path.\""
                             ]
                         },
                         {
@@ -5698,7 +5544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 「ヴィラックの氷山の雪山付近」と「ボロの炭鉱の砂漠」と「十路地の道」･･･"
+                                "Luuna: \"Vilack's Ice Mountain Snowy Area,\" \"Bolo's Coal Mine Desert,\"\nand \"Juurochi Path\"..."
                             ]
                         },
                         {
@@ -5716,14 +5562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】場所が分かっていても、かなりの確率でしか現れんから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まず見つからんだろう。それこそ足を棒のようにして同じ場所を探索せねばなぁ。"
+                                "Gil: Even if you know the places, they appear so rarely that you'll\nhardly find them. You'd have to search the same place over and over\nuntil your legs turn to sticks."
                             ]
                         },
                         {
@@ -5741,21 +5580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】まぁ一つでも多く、蒼魔法を覚える事じゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ･･･今のお前にルーシアと戦うなというのは無理じゃろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のルーシアは鋼鉄兵を使って村々を襲撃しているのだからのう･･･。"
+                                "Gil: Well, you should learn as many blue magics as you can. Well...\nIt's impossible to tell you not to fight Lucia now. Lucia is currently\nattacking villages with her steel soldiers..."
                             ]
                         },
                         {
@@ -5773,7 +5598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】ひぇっ ひぇっ ひぇっ もう金は取らんから安心せえ～っ"
+                                "Gil: Heheh heheh heheh, don't worry, I won't take any more money from\nyou~"
                             ]
                         },
                         {
@@ -5791,14 +5616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 盗るの間違いだろうが、糞ババァ～っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗賊の俺から盗むなんて、なんちゅうの手の早い婆さんだ･･･"
+                                "Cain: You mean stealing, you damn hag~! To think you'd steal from a\nthief like me, what a quick-handed old woman..."
                             ]
                         },
                         {
@@ -5816,7 +5634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジル】じゃかましいわ、糞ガキャ～ ひぇっ ひぇっ ひぇっ "
+                                "Gil: Shut up, you brat~ Heheh heheh heheh"
                             ]
                         },
                         {
@@ -5824,8 +5642,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "別にいい",
-                                    "もっと超レア敵の情報を知りたい！"
+                                    "It doesn't matter.",
+                                    "I want to know more about the ultra-rare enemies!"
                                 ],
                                 0,
                                 0,
@@ -5869,21 +5687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ジル】長年生きてきて、希有のモンスターを見た事があるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ヴィラックの氷山の雪山付近」と「ボロの炭鉱の砂漠」と「十路地の道」だが･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "問題は何処で現れるか･･･じゃ。"
+                                "Gil: Having lived for so long, the rare monsters I've seen are near\n\"Vilack's Ice Mountain Snowy Area,\" \"Bolo's Coal Mine Desert,\" and\n\"Juurochi Path\"... The problem is where they will appear..."
                             ]
                         },
                         {
@@ -5901,14 +5705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ジル】『ヴィラックの氷山の雪山付近』は、雪山のエリアに入ってすぐに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "遭遇した憶えがある。"
+                                "Gil: \"Near Vilack's Ice Mountain Snowy Area,\" I remember encountering\nit as soon as I entered the snowy mountain area."
                             ]
                         },
                         {
@@ -5926,28 +5723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ジル】切り株の付近に居て･･･真正面で見かけたかのう･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "超希有のモンスターは「目が黄緑」じゃから注意深く見る事じゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(※フィールド画面からヴィラックの氷山に入ってすぐのエリアです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かなり低確率ですが出現します。※フィールドを出たり入ったりを繰り返して下さい。)"
+                                "Gil: It was near a tree stump... I saw it right in front of me... The\nsuper rare monster has 'lime green eyes,' so be sure to look\ncarefully. (※Enter the area right after Vilack's Ice Mountain from the\nfield screen. It appears at a very low rate. Please enter and exit the\nfield repeatedly.)"
                             ]
                         },
                         {
@@ -5965,21 +5741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ジル】『ボロの炭鉱の砂漠付近』は、砂漠の東側付近と記憶しておる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(※フィールド画面からボロの炭鉱に入ってすぐのエリアです。画面中央の東側(右)にいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かなり低確率ですが出現します。※フィールドを出たり入ったりを繰り返して下さい。)"
+                                "Gil: \"Near Bolo's Coal Mine Desert,\" I remember it being on the\neastern side of the desert. (※Enter the area right after Bolo's Coal\nMine from the field screen. It is located in the center of the screen\non the east side (right). It appears at a very low rate. Please enter\nand exit the field repeatedly.)"
                             ]
                         },
                         {
@@ -5997,14 +5759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ジル】『十路地の道付近』は、十路地の道の西側付近に出現したと記憶しておる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "街灯の真下におってな。"
+                                "Gil: \"Near Juurochi Path,\" I remember it appearing on the west side of\nJuurochi Path. It was right under a streetlight."
                             ]
                         },
                         {
@@ -6022,28 +5777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ジル】とても影の薄いモンスターじゃったが、あれは超レアだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(※フィールド画面から「十路地の道」に入ってすぐのエリアです。画面中央の西側(左)にいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「十路地の道」は物語後半にフィールド画面に現れます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かなり低確率ですが出現します。※フィールドを出たり入ったりを繰り返して下さい。)"
+                                "Gil: It was a very inconspicuous monster, but that one is super rare.\n(※Enter the area right after 'Juurochi Path' from the field screen. It\nis located in the center of the screen on the west side (left).\n'Juurochi Path' will appear on the field screen in the latter half of\nthe story. It appears at a very low rate. Please enter and exit the\nfield repeatedly.)"
                             ]
                         },
                         {
@@ -6131,14 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】俺は大工だ。普段は帝都近くの森に住んでいるのだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はジル婆さんの別荘を修理してるんだ。"
+                                "Mido: I'm a carpenter. I usually live in the forest near the imperial\ncapital, but today I'm repairing Granny Zil's villa."
                             ]
                         },
                         {
@@ -6246,7 +5973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あっ･･･あなたはミド？"
+                                "Luuna: Ah... Are you Mido?"
                             ]
                         },
                         {
@@ -6273,7 +6000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】ルーナ･･･？帝都の宮廷魔導士だったルーナか。"
+                                "Mido: Luuna...? The court magician from the imperial capital, Luuna,\nright?"
                             ]
                         },
                         {
@@ -6291,14 +6018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】懐かしいな。帝都の宮廷魔導士の時は服装も違ったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く気付かなかったよ。"
+                                "Mido: It's been a while. I didn't recognize you at all since you wore\ndifferent clothes when you were a court magician at the imperial\ncapital."
                             ]
                         },
                         {
@@ -6349,7 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: え、ルーナの知り合い？"
+                                "Becky: Eh, you know Luuna?"
                             ]
                         },
                         {
@@ -6416,7 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ミドはルーシアの恋人だった人よ。"
+                                "Luuna: Mido was Lucia's lover."
                             ]
                         },
                         {
@@ -6467,7 +6187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: え･･･まじ？"
+                                "Becky: Eh... seriously?"
                             ]
                         },
                         {
@@ -6532,7 +6252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】やめろ！"
+                                "Mido: Stop it!"
                             ]
                         },
                         {
@@ -6550,7 +6270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】忌まわしい記憶だ。あんな黒い魔女･･･"
+                                "Mido: It's a cursed memory. That dark witch..."
                             ]
                         },
                         {
@@ -6601,7 +6321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめんなさい。当然よね･･･ミド。"
+                                "Luuna: I'm sorry. It's natural... Mido."
                             ]
                         },
                         {
@@ -6652,14 +6372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: そうね。ルーシアは直系の魔導士に覚醒してから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "殺戮の皇女に変わったからね。"
+                                "Becky: Right. Lucia became known as the princess of slaughter after\nawakening as a direct-line magician."
                             ]
                         },
                         {
@@ -6710,14 +6423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あんな奴の元恋人なんて言われたくないよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ以上に憎む気持ちもわかる。"
+                                "Becky: No one would want to be known as the ex-lover of someone like\nthat. I understand hating her even more than Luuna does."
                             ]
                         },
                         {
@@ -6735,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】･････"
+                                "Mido: ..."
                             ]
                         },
                         {
@@ -6753,7 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】あんな黒い魔女、火あぶりか八つ裂きになって早く殺されたいいんだ。"
+                                "Mido: That dark witch should be burned at the stake or torn to pieces\nand killed quickly."
                             ]
                         },
                         {
@@ -6804,14 +6510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 黒い魔女か･･･ルーシアが黒魔法の直系の魔導士に覚醒してからは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『黒い魔女』と皆から言われたのよね。"
+                                "Becky: The dark witch, huh... After Lucia awakened as a direct-line\nblack magic magician, everyone started calling her \"The Dark Witch.\""
                             ]
                         },
                         {
@@ -6829,7 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】･････"
+                                "Mido: ..."
                             ]
                         },
                         {
@@ -6847,7 +6546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ミド･･･"
+                                "Luuna: Mido..."
                             ]
                         },
                         {
@@ -6865,14 +6564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (ルーシアの恋人だったミドは私より深い傷を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "負っているに違いない。)"
+                                "Luuna: (Mido, who was Lucia's lover, must be carrying deeper wounds\nthan I am.)"
                             ]
                         },
                         {
@@ -6890,7 +6582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】すまないが、黒い魔女の話をしにきたのなら帰ってくれ。気分が悪くなる。"
+                                "Mido: I'm sorry, but if you've come to talk about the dark witch,\nplease leave. It makes me feel sick."
                             ]
                         },
                         {
@@ -6975,7 +6667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミド】すまないが、黒い魔女の話をしにきたのなら帰ってくれ。気分が悪くなる。"
+                                "Mido: \"I'm sorry, but if you've come to talk about the Black Witch,\nplease leave. It makes me feel sick.\""
                             ]
                         },
                         {

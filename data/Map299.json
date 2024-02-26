@@ -11815,7 +11815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『レーヴァテイン』を手に入れた。"
+                                "Obtained \"Levatein\"."
                             ]
                         },
                         {
@@ -12896,7 +12896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『エリクサー(ミニ)』を手に入れた。"
+                                "Gained \"Elixir (Mini).\""
                             ]
                         },
                         {
@@ -13154,7 +13154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『正宗』を手に入れた。"
+                                "You've obtained the \"Masamune.\""
                             ]
                         },
                         {

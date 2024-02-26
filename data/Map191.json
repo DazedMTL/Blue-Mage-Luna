@@ -3787,7 +3787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ぴゃ～！ビールうめ～！今日は酒場で貸し切りだ～！"
+                                "Cain: Pya~! This beer is awesome! We've got the whole tavern to\nourselves today!"
                             ]
                         },
                         {
@@ -3888,7 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ちょっとカイン、最初から飲み過ぎよ～。"
+                                "Becky: Hey Cain, you're drinking too much right from the start~."
                             ]
                         },
                         {
@@ -3906,14 +3906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: これが飲まずにいられるかっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局、レグナス・グラハードは見つからず、ゲームは振り出しに戻った～。"
+                                "Cain: How can I not drink? In the end, we couldn't find Regnus\nGrahardt, and it's back to square one with the game~."
                             ]
                         },
                         {
@@ -3980,7 +3973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうね･･･ これからどうすれば。また希望が閉ざされてしまった。"
+                                "Luuna: That's true... What should we do now? Our hope seems to have\nbeen sealed off again."
                             ]
                         },
                         {
@@ -4005,7 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: いや、何でもない。ルーナが今どうしてるか気になってさ。"
+                                "Noah: No, it's nothing. I was just wondering how Luuna is doing right\nnow."
                             ]
                         },
                         {
@@ -4072,7 +4065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 今、皆と酒場にいるのよ。貸し切りでね。"
+                                "Luuna: Right now, I'm at the tavern with everyone. We've rented it\nout."
                             ]
                         },
                         {
@@ -4090,7 +4083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: そっか。成果が得られなくて残念だったね。"
+                                "Noah: I see. It's a shame we didn't get any results."
                             ]
                         },
                         {
@@ -4141,7 +4134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん。これからどうしようか迷ってる。"
+                                "Luuna: Yeah. I'm wondering what to do next."
                             ]
                         },
                         {
@@ -4159,7 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナなら大丈夫。きっと良い事あるよ。"
+                                "Noah: You'll be fine, Luuna. I'm sure something good will happen."
                             ]
                         },
                         {
@@ -4210,7 +4203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア、ありがとう。"
+                                "Luuna: Noah, thank you."
                             ]
                         },
                         {
@@ -4228,7 +4221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: うん。愛しているよ、ルーナ。"
+                                "Noah: Yeah. I love you, Luuna."
                             ]
                         },
                         {
@@ -4246,7 +4239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: こうしてルーナと話してると、一緒にいるみたいだ。"
+                                "Noah: Talking to Luuna like this makes me feel like we're together."
                             ]
                         },
                         {
@@ -4297,7 +4290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア、あたしもよ。"
+                                "Luuna: Noah, me too."
                             ]
                         },
                         {
@@ -4324,7 +4317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ････････"
+                                "Cain: ............"
                             ]
                         },
                         {
@@ -4351,7 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ････････"
+                                "Cain: ............"
                             ]
                         },
                         {
@@ -4402,7 +4395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: じゃ･･･じゃあね、ノア。"
+                                "Luuna: So... see you, Noah."
                             ]
                         },
                         {
@@ -4420,7 +4413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: じゃあね、ルーナ。愛してるよ。"
+                                "Noah: See you, Luuna. I love you."
                             ]
                         },
                         {
@@ -4457,7 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -4508,7 +4501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 二人とも、ごめんね。"
+                                "Luuna: Sorry, both of you."
                             ]
                         },
                         {
@@ -4559,7 +4552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: カイン、どうしたの？"
+                                "Luuna: Cain, what's wrong?"
                             ]
                         },
                         {
@@ -4586,7 +4579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: あいつ･･･ちょっと最近、うざくないか？"
+                                "Cain: That guy... hasn't he been a bit annoying lately?"
                             ]
                         },
                         {
@@ -4604,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ノアの奴、最近は1日に5回くらいラブコールしてきやがる。"
+                                "Cain: Noah has been making like five love calls a day recently."
                             ]
                         },
                         {
@@ -4655,14 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふふっ･･･それだけルーナが好きなのよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナに変な男が付いていないか心配だと思うしね～。"
+                                "Becky: Hehe... It's just because he loves Luuna so much~. He's\nprobably worried that some weird guy might be hitting on Luuna~."
                             ]
                         },
                         {
@@ -4680,14 +4666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: まぁ･･･ルーナとノアは小さい時からの幼馴染だし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナと一番長い時間を共にした男だから仕方ないけどよ。"
+                                "Cain: Well... Luuna and Noah have been childhood friends since they\nwere little. Noah's the guy who's spent the most time with Luuna, so\nit can't be helped."
                             ]
                         },
                         {
@@ -4705,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: こう毎日、ラブコールしてきたら一緒にいる俺達がイライラするよ。"
+                                "Cain: But if he keeps making love calls every day, it's irritating for\nthose of us who are with her."
                             ]
                         },
                         {
@@ -4756,7 +4735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめんね。"
+                                "Luuna: I'm sorry."
                             ]
                         },
                         {
@@ -4867,14 +4846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ルーナ、以前にも言ったがノアの脚は駄目だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別の男と結婚した方が良いんじゃないのか？"
+                                "Cain: Luuna, I've said it before, but Noah's legs are no good.\nWouldn't it be better for you to marry another man?"
                             ]
                         },
                         {
@@ -4925,7 +4897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうね･･･ でもノアは私の事を好きでいてくれるから。"
+                                "Luuna: Maybe... But Noah loves me."
                             ]
                         },
                         {
@@ -4952,7 +4924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイン: ルーナは娼館で既に色んな男とオマンコしてるのになぁ。へへっ"
+                                "Cain: And yet, Luuna's already been with various men at the brothel.\nHeheh"
                             ]
                         },
                         {
@@ -5003,7 +4975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: うっ･･･ それは言わないで。"
+                                "Luuna: Ugh... Don't say that."
                             ]
                         },
                         {
@@ -5040,14 +5012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイン: しかもノアは、ルーナが別の男とオマンコしてるの知ってて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "容認してるんだろ？それなのに恋人のノアとはオマンコしてないなんてよ。よくわからないぜ。"
+                                "Cain: Moreover, Noah knows that Luuna is with other men and he accepts\nit, right? Yet you haven't been with your lover Noah. I don't get it."
                             ]
                         },
                         {
@@ -5098,7 +5063,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ううっ･･･ 色々あったのよ。"
+                                "Luuna: Ugh... There's been a lot going on."
                             ]
                         },
                         {
@@ -5159,7 +5124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･ 何でこうなったのか。"
+                                "Becky: Sigh... How did things end up like this?"
                             ]
                         },
                         {
@@ -5177,7 +5142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5328,7 +5293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 誰か来たみたい。"
+                                "Luuna: It seems like someone has arrived."
                             ]
                         },
                         {
@@ -5617,14 +5582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】ルーシアに逆らおうなんてレジスタンスも馬鹿だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝てるわけないのに。何とかっていう人物を探しているらしいが。"
+                                "Master: \"Those resistance fools are stupid to defy Lucia. There's no\nway they can win. They seem to be looking for someone named... what\nwas it?\""
                             ]
                         },
                         {
@@ -5702,7 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】王都の悪政続きで、小さい村は壊滅しているね。"
+                                "Woman: \"Due to the continued misrule of the capital, small villages\nare being devastated.\""
                             ]
                         },
                         {

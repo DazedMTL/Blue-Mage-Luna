@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "レジスタンス達の墓地",
+    "displayName": "Resistance's Graveyard",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -4845,14 +4845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】此処か？ミサの村のレジスタンス達の墓地だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都に抵抗して皆やられちまった。俺達の父さんや母さんもこの墓に眠ってるんだ。"
+                                "Mao: Is this the place? It's the graveyard for the resistance fighters\nfrom Misa Village. They were all killed resisting the capital. Our\nfathers and mothers are also sleeping in these graves."
                             ]
                         },
                         {
@@ -4870,7 +4863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】･････"
+                                "Mao: ..."
                             ]
                         },
                         {
@@ -4888,14 +4881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】王都の奴等をぶち殺すのが俺の夢さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺とメイから全てを奪った奴等だからな。"
+                                "Mao: My dream is to kill those bastards from the capital. They took\neverything from me and Mei."
                             ]
                         },
                         {
@@ -4954,7 +4940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: マオ･････"
+                                "Luuna: Mao..."
                             ]
                         },
                         {
@@ -4972,7 +4958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -4990,7 +4976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (この子も私と同じ･･･)"
+                                "Luuna: (This child is just like me...)"
                             ]
                         },
                         {
@@ -5008,7 +4994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (この子からも憎悪の念を感じる。)"
+                                "Luuna: (I can feel the hatred emanating from this child.)"
                             ]
                         },
                         {
@@ -5026,7 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5044,14 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (ジュピターノ王のやり方に我慢できず、物言いをして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の両親は暗殺された。そして逃げるように私はバレンチナ魔法学校を退学した･･･)"
+                                "Luuna: (Unable to tolerate the ways of King Jupiterino, my parents\nspoke out and were assassinated. And so, I fled and left the Valentia\nMagic School...)"
                             ]
                         },
                         {
@@ -5122,21 +5101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (国王に刃向かった父母を持つ宮廷魔導士の私を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待ち受けていたのは王国からの冷たい視線･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以来、私はジュピターノを憎悪する事になった。)"
+                                "Luuna: (As a court magician with parents who opposed the king, I was\nmet with cold stares from the kingdom... Since then, I've come to hate\nJupiterino.)"
                             ]
                         },
                         {
@@ -5154,14 +5119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (孤独になった私をルーシアの母親、レイシア様だけが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の唯一の理解者だった。そのレイシア様を殺したルーシアを私は絶対に許さない。)"
+                                "Luuna: (After becoming alone, only Lucia's mother, Lady Leicia,\nunderstood me. I will never forgive Lucia for killing her. She was my\nonly ally.)"
                             ]
                         },
                         {
@@ -5179,14 +5137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (レイシア様の計らいで･･･私はノアと一緒に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シェーナの村に移り住む事になった。)"
+                                "Luuna: (Thanks to Lady Leicia's arrangements... I ended up moving to\nthe village of Shena with Noah.)"
                             ]
                         },
                         {
@@ -5204,21 +5155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (父母が暗殺され無一文になった私を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "経済的に支えてくれたのはレイシア様･･･そんなレイシア様をあいつは･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直系の力を得る理由だけで手にかけた･･･)"
+                                "Luuna: (Lady Leicia supported me financially after my parents were\nassassinated and I was left penniless... And that person... killed her\njust to obtain direct lineage power...)"
                             ]
                         },
                         {
@@ -5236,14 +5173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (ベッキー達と知り合えたのも･･･今があるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイシア様のお陰･･･だから私はルーシアを許せない。たとえレイシア様の娘でも。)"
+                                "Luuna: (It's also thanks to Lady Leicia that I met Becky and the\nothers... I owe my current life to her... That's why I can't forgive\nLucia. Even if she is Lady Leicia's daughter.)"
                             ]
                         },
                         {
@@ -5314,14 +5244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (私は普段から怒りと憎悪を表に出さない為、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自らに戒めの鎖をつけた･･･この鎖が無いと仲間の前で微笑む事さえ出来なかっただろう。)"
+                                "Luuna: (To prevent myself from showing my anger and hatred, I put\nchains of restraint on myself... Without these chains, I wouldn't have\nbeen able to smile in front of my friends.)"
                             ]
                         },
                         {
@@ -5392,21 +5315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (この鎖は私自身の高ぶる感情を抑える鎖であり処方箋･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この鎖は当初、魔力向上の強制ギブスのような役割だったけど･･･いつしか鎖がなくては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平静を保てなくなった。)"
+                                "Luuna: (These chains are meant to suppress my surging emotions and act\nas a prescription... Initially, they served as a sort of forced cast\nto improve my magical power... but eventually, I couldn't maintain my\ncomposure without them.)"
                             ]
                         },
                         {
@@ -5477,21 +5386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (ジュピターノ王国を私は許さない･･･何かを恨むのは･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "憎悪をする事は･･･何かに執着する事は･･･酷く疲れる･･･だから私には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今や処方箋となってしまった、この鎖が必要なのだ。)"
+                                "Luuna: (I will never forgive the Jupiterino Kingdom... To hate\nsomething... to harbor hatred... to be obsessed with something... it's\nall so exhausting... That's why I need these chains now, they've\nbecome my prescription.)"
                             ]
                         },
                         {
@@ -5509,14 +5404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (しかし、この戒めの鎖は酷く身体に負担がかかる･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この鎖が解き放たれた時、私は私でいられるのだろうか。)"
+                                "Luuna: (However, these chains of restraint are a heavy burden on my\nbody... When these chains are released, will I still be able to be\nmyself?)"
                             ]
                         },
                         {
@@ -5534,14 +5422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (マオ･･･この子も昔の私と同じ雰囲気を感じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子も私と同じ･･･酷く人を恨む事を覚えてしまった。)"
+                                "Luuna: (Mao... I sense the same aura in this child as I had in the\npast. This child has also learned to deeply hate others, just like\nme.)"
                             ]
                         },
                         {
@@ -5559,14 +5440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (でも、この子には「戒めの鎖」をつけて欲しくない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "願うならば、人を恨む事を覚えて欲しくない。)"
+                                "Luuna: (But I don't want this child to wear 'chains of restraint' like\nme. If I could wish for anything, it would be that he never learns to\nhate others.)"
                             ]
                         },
                         {
@@ -5660,7 +5534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】ルーナ？どうしたんだよ、ボーっとしてさ。"
+                                "Mao: Luuna? What's wrong? You're spacing out."
                             ]
                         },
                         {
@@ -5678,7 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5712,7 +5586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5730,7 +5604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ねぇマオ、将来は何に成りたいの？"
+                                "Luuna: Hey Mao, what do you want to be in the future?"
                             ]
                         },
                         {
@@ -5748,14 +5622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】将来？ノルヴァーナに行って、ノルヴァーナのレジスタンスに入る事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あそこは精鋭揃いだからな。"
+                                "Mao: The future? I'm going to Norvana and joining the resistance\nthere. It's full of elites."
                             ]
                         },
                         {
@@ -5773,14 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】そして俺の両親や村の人達を殺した帝都の奴等に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達と同じ目に遭わせてやるんだ。"
+                                "Mao: And then, I'll make those bastards from the imperial city suffer\nthe same fate as my parents and the villagers."
                             ]
                         },
                         {
@@ -5798,7 +5658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そっか･･･"
+                                "Luuna: I see..."
                             ]
                         },
                         {
@@ -5816,7 +5676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ねぇマオ、復讐鬼になっては駄目よ。"
+                                "Luuna: Hey Mao, don't become a demon of revenge."
                             ]
                         },
                         {
@@ -5834,7 +5694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】？？？"
+                                "Mao: ???"
                             ]
                         },
                         {
@@ -5852,7 +5712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】何で？"
+                                "Mao: Why not?"
                             ]
                         },
                         {
@@ -5870,14 +5730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 人を恨み、憎悪する気持ちをずっと持ち続ける事ってね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても哀しくて疲れる事だからよ。復讐を果たせたとしても、きっと不幸になる。"
+                                "Luuna: Because holding onto feelings of resentment and hatred is very\nsad and tiring. Even if you achieve your revenge, you'll surely be\nunhappy."
                             ]
                         },
                         {
@@ -5895,7 +5748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなた達に、人を恨む事を覚えて欲しくない。(私のように･･･)"
+                                "Luuna: I don't want you guys to learn to hate others. (Like me...)"
                             ]
                         },
                         {
@@ -5913,7 +5766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】な～んだよ、分かったような事言ってくれるな～。"
+                                "Mao: Geez, don't talk like you know it all."
                             ]
                         },
                         {
@@ -5931,7 +5784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ははっ ごめん。(まるで自分に言ってるみたいね･･。)"
+                                "Luuna: Haha, sorry. (It's like I'm talking to myself...)"
                             ]
                         },
                         {
@@ -5949,14 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】ところでさ、ルーナについてちょっと調べたんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの世界的に有名な魔法学校の名門、バレンチナ魔法学校で主席だったんだろ？"
+                                "Mao: By the way, I did some digging on you, Luuna. Weren't you the top\nstudent at that world-famous magic school, Valentia Magic School?"
                             ]
                         },
                         {
@@ -5974,14 +5820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】教授全員から一目おかれていたんだって？なのに何で辞めたんだよ？主席なのにさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "というか、ルーナみたいな偉いさんが何でこんな辺鄙な村に居るのか理解できないよ。"
+                                "Mao: All the professors respected you, right? So why did you quit? You\nwere the top student. And why would someone as important as you be in\nsuch a remote village? I can't understand it."
                             ]
                         },
                         {
@@ -5999,14 +5838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】蒼魔法を習得できる時点で天才魔導士だと聞いたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蒼魔法が使えるという事は天才魔導士の証だってね。俺の兄貴分のコリスがそう言ってたよ。"
+                                "Mao: I heard that being able to learn blue magic already makes you a\ngenius magician. Being able to use blue magic is proof of being a\ngenius magician. My big bro Coris said so."
                             ]
                         },
                         {
@@ -6024,7 +5856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6042,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: マオ、約束よ。"
+                                "Luuna: Mao, promise me."
                             ]
                         },
                         {
@@ -6069,7 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】わ、わかったよ。帝都の奴等は許せんけど、復讐鬼にはならないよ。"
+                                "Mao: Yeah, yeah, I get it. I can't forgive those from the imperial\ncity, but I won't become a demon of revenge."
                             ]
                         },
                         {
@@ -6120,7 +5952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん。それでいい。"
+                                "Luuna: Yes, that's good."
                             ]
                         },
                         {
@@ -6138,7 +5970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】ルーナは夢とかあるのか？"
+                                "Mao: Do you have any dreams, Luuna?"
                             ]
                         },
                         {
@@ -6156,7 +5988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6207,21 +6039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうね･･･世界で一番の魔導士になる事かな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが私の小さい頃からの夢だった。私のお父さんやお母さんも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夢を語っていた私を温かく見守っていてくれていたから。"
+                                "Luuna: Well... I guess it would be to become the world's greatest\nmagician. That's been my dream since I was little. My father and\nmother always warmly watched over me as I talked about my dreams."
                             ]
                         },
                         {
@@ -6239,7 +6057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】「世界で一番の魔導士」かぁ～。意外とベターだね～。"
+                                "Mao: \"The world's greatest magician,\" huh? That's surprisingly cliché."
                             ]
                         },
                         {
@@ -6290,14 +6108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふふっ･･･ そうかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも今でも本当にそう思ってるのよ。"
+                                "Luuna: Hehe... Is that so? But I still truly believe that."
                             ]
                         },
                         {
@@ -6355,7 +6166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】ねぇねぇ、ルーナの身体の周りの鎖は何～？"
+                                "May: Hey hey, what are those chains around your body, Luuna?"
                             ]
                         },
                         {
@@ -6398,14 +6209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･!!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(メイには私の戒めの鎖が見えている。少し心が安堵したせいね･･･)"
+                                "Luuna: ...!!! (May can see the chains of my restraint. It's because my\nheart is a little relieved...)"
                             ]
                         },
                         {
@@ -6423,7 +6227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】鎖？メイ、何の事だ？見えないぞ。"
+                                "Mao: Chains? May, what are you talking about? I don't see anything."
                             ]
                         },
                         {
@@ -6441,7 +6245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】あれれ、見えなくなった。さっき、ルーナの周りに鎖が見えたのに～。"
+                                "May: Huh, they're gone now. I saw chains around Luuna just a moment\nago."
                             ]
                         },
                         {
@@ -6475,7 +6279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: マオ、メイの為にも約束は守ってね。"
+                                "Luuna: Mao, please keep your promise for May's sake as well."
                             ]
                         },
                         {
@@ -6493,7 +6297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】へいへ～い。説教臭いな～。"
+                                "Mao: Aye aye~ You sound so preachy."
                             ]
                         },
                         {
@@ -6511,7 +6315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】ねぇ、ルーナ～、ルーナの事、鎖ねぇちゃんって呼んでいい？"
+                                "May: Hey, Luuna~, can I call you Chain-nee-chan?"
                             ]
                         },
                         {
@@ -6529,7 +6333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ～～～･･･"
+                                "Luuna: ~~~......"
                             ]
                         },
                         {
@@ -6547,7 +6351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】じゃあ、鎖ねぇちゃんで決まり～！"
+                                "May: Then it's decided, Chain-nee-chan!"
                             ]
                         },
                         {
@@ -6565,14 +6369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】ねぇ、ルーナ･･･じゃなかった、鎖ねぇちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしの夢はね～、装飾品を作る職人になる事なのよ。"
+                                "May: Hey, Luuna... I mean, Chain-nee-chan. My dream is to become a\ncraftsman who makes accessories."
                             ]
                         },
                         {
@@ -6590,14 +6387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】あたし、ルーナの為にイヤリング作ったんだ。これあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段は絶対にあたしの作った物はあげないけど、鎖ねぇちゃんは特別よ～。"
+                                "May: I made earrings for you, Luuna. Here, take them. I never give\naway things I make, but you're special, Chain-nee-chan~."
                             ]
                         },
                         {
@@ -6648,7 +6438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ありがとう、メイ。"
+                                "Luuna: Thank you, May."
                             ]
                         },
                         {
@@ -6678,7 +6468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『祈りのイヤリング』を手に入れた。"
+                                "You obtained the \"Earrings of Prayer.\""
                             ]
                         },
                         {
@@ -6827,14 +6617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】ルーナ、約束は守るよ。俺、復讐鬼はならないよ。奴等は許せないけどさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ていうか～、自分の事を棚に上げすぎだろ～。"
+                                "Mao: Luuna, I'll keep my promise. I won't become a vengeful spirit. I\ncan't forgive them, but still... I mean, aren't you being a bit too\nself-righteous?"
                             ]
                         },
                         {
@@ -6852,14 +6635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】あたし、ルーナが好きだな～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナの行く所なら何処でも連いていきたい～っ"
+                                "Mei: I really like you, Luuna. I want to follow you wherever you go~"
                             ]
                         },
                         {
@@ -6988,7 +6764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】ルーナ、ありがとう。グラの薬草で皆、傷が回復に向かっているわ。"
+                                "May: Luuna, thank you. Everyone's wounds are healing thanks to the Gra\nherbs."
                             ]
                         },
                         {

@@ -6321,7 +6321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【民衆の女】セリス様！何故、ナイツオブメサイアは私達を助けてくれないのですか！"
+                                "Lady Ceres! Why won't the Knights of Messiah help us?"
                             ]
                         },
                         {
@@ -6339,7 +6339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･････"
+                                "Ceres: ..."
                             ]
                         },
                         {
@@ -6357,14 +6357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【民衆の女】私達、家族は毎日怯えながら暮らしている。ルーシア皇女は何もしないどころか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレンチナと共謀して反乱軍を殲滅しています。"
+                                "Every day, our families live in fear. Princess Lucia does nothing, and\nworse, she's conspiring with Valentina to annihilate the rebels."
                             ]
                         },
                         {
@@ -6382,7 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【民衆の女】私達が殺されたらモードゥナのせいです！セリス様のせいです！"
+                                "If we are killed, it will be because of Moduna! It will be your fault,\nLady Ceres!"
                             ]
                         },
                         {
@@ -6400,7 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: え･･･"
+                                "Ceres: Eh..."
                             ]
                         },
                         {
@@ -6418,7 +6411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】こ、こら！"
+                                "Vice-Captain: Hey, stop that!"
                             ]
                         },
                         {
@@ -6436,14 +6429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【民衆の女】皆、ナイツオブメサイアが助けてくれないと嘆いています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレンチナとルーシアを止めて下さい！何故、私達を助けてくれないんですか！ううっ･･･"
+                                "Everyone is lamenting that the Knights of Messiah won't help us.\nPlease stop Valentina and Lucia! Why won't you help us? Ugh..."
                             ]
                         },
                         {
@@ -6461,7 +6447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: っ･････"
+                                "Ceres: ..."
                             ]
                         },
                         {
@@ -6479,21 +6465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: あなた方、家族の気持ちはよくわかりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし今、ナイツオブメサイアを派兵する事は約束できません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少し考える時間を下さい。今日はお引き取りを。"
+                                "Ceres: I understand how you and your families feel. However, I cannot\npromise to dispatch the Knights of Messiah right now. Please give me a\nlittle more time to think. For today, please withdraw."
                             ]
                         },
                         {
@@ -6562,7 +6534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【民衆の女】セリス様！"
+                                "Lady Ceres!"
                             ]
                         },
                         {
@@ -6681,7 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【民衆の女】･････"
+                                "..."
                             ]
                         },
                         {

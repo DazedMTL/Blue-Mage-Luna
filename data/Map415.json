@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ボロの廃坑",
+    "displayName": "Tattered Abandoned Mine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -4553,7 +4553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】･････！"
+                                "...!"
                             ]
                         },
                         {
@@ -4571,14 +4571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】いやはや、この辺りに酢豚弁当の屋台があると聞いたのですがな～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こう熱いと疲れますな。"
+                                "My, my, I heard there was a sweet and sour pork bento stall around\nhere, but it's so hot, it's exhausting."
                             ]
                         },
                         {
@@ -4679,7 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなたは･･･"
+                                "Luuna: You are..."
                             ]
                         },
                         {
@@ -4730,7 +4723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: おじさん、誰？此処で何してるのよ？"
+                                "Becky: Mister, who are you? What are you doing here?"
                             ]
                         },
                         {
@@ -4748,7 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】酢豚弁当好きの考古学者ですよ。酢豚弁当の屋台が来るのずっと待っているのです。"
+                                "I'm an archaeologist who loves sweet and sour pork bento. I've been\nwaiting for the stall to come."
                             ]
                         },
                         {
@@ -4799,7 +4792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふふ･･･考古学者ですか。屋台は来るのですか？"
+                                "Luuna: Hehe... An archaeologist, huh? Is the stall coming?"
                             ]
                         },
                         {
@@ -4817,14 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】それがですな･･･！一度も来た事がありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グルメガイドブックには此処に屋台がくると書いているのですがな。"
+                                "That's the thing...! It has never come. The gourmet guidebook says\nthat the stall comes here, though."
                             ]
                         },
                         {
@@ -4875,7 +4861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･こんな砂漠に屋台なんて来るわけじゃないでしょ。"
+                                "Becky: Hah... There's no way a stall would come to a desert like this."
                             ]
                         },
                         {
@@ -4893,7 +4879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】むぅ･･･言われてみればそうですな。"
+                                "Hmm... Now that you mention it, that does make sense."
                             ]
                         },
                         {
@@ -4911,7 +4897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】で、あなた達は？"
+                                "And who might you be?"
                             ]
                         },
                         {
@@ -4962,14 +4948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あたし達はシェーナの村のレジスタンスだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帝都の悪政が酷いからね。"
+                                "Becky: We're part of the resistance from the village of Sheena. The\ntyranny of the imperial capital is terrible."
                             ]
                         },
                         {
@@ -5003,7 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】なるほど･･･レジスタンスですか。そうですか。"
+                                "I see... The resistance, is it? I see."
                             ]
                         },
                         {
@@ -5054,7 +5033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 何よ、いけないって言うの？"
+                                "Becky: What's that supposed to mean? Is there something wrong with\nthat?"
                             ]
                         },
                         {
@@ -5072,7 +5051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】いけませんねー。"
+                                "It's not good, no."
                             ]
                         },
                         {
@@ -5123,7 +5102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 何故？"
+                                "Luuna: Why not?"
                             ]
                         },
                         {
@@ -5141,7 +5120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】いけないものはいけません。いけませんねー。"
+                                "What's not good is not good. It's not good, no."
                             ]
                         },
                         {
@@ -5159,7 +5138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -5210,14 +5189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: とにかく、ジュピターノの村々は帝都に虐げられているのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酢豚弁当のおっさんには分からないでしょうけどね。じゃあね。"
+                                "Becky: Anyway, the villages of Jupiterino are being oppressed by the\nimperial capital. You probably wouldn't understand, sweet and sour\npork old man. See you."
                             ]
                         },
                         {
@@ -5235,7 +5207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】やれやれ。"
+                                "Good grief."
                             ]
                         },
                         {
@@ -5320,7 +5292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【おじさん】いけませんねー。レジスタンスなんて。"
+                                "Old Man: That won't do... Such resistance."
                             ]
                         },
                         {
@@ -5338,14 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【おじさん】私は屋台が来るまで待つとしますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "砂漠で酢豚弁当を食べるのが夢ですからね。"
+                                "Old Man: I'll wait until the food stall arrives. It's my dream to eat\na sweet and sour pork bento in the desert, after all."
                             ]
                         },
                         {
@@ -5691,7 +5656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 今は此処に用は無いわね。"
+                                "Luuna: There's no need for us to be here right now."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "シェーナの村",
+    "displayName": "Sheena Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10088,7 +10088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア･･･！"
+                                "Luuna: Noah...!"
                             ]
                         },
                         {
@@ -10111,7 +10111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナはノアの容態を確かめる。"
+                                "Luuna checked on Noah's condition."
                             ]
                         },
                         {
@@ -10129,7 +10129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノアの脚は以前より壊死が進行していた。"
+                                "Noah's leg had become more necrotic than before."
                             ]
                         },
                         {
@@ -10147,7 +10147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつ命が尽きても不思議ではないノア･･･"
+                                "Noah, whose life could end at any moment..."
                             ]
                         },
                         {
@@ -10165,7 +10165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その夜、ルーナとノアは公園で話した。"
+                                "That night, Luuna and Noah talked in the park."
                             ]
                         },
                         {
@@ -10335,7 +10335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -10358,7 +10358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その夜、ルーナとノアは公園で話した。"
+                                "That night, Luuna and Noah talked in the park."
                             ]
                         },
                         {
@@ -10528,7 +10528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -10551,7 +10551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その夜、ルーナとノアは公園で話した。"
+                                "That night, Luuna and Noah talked in the park."
                             ]
                         },
                         {
@@ -12205,7 +12205,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】ひゃっ エッチな格好してるね。"
+                                "Girl: \"Hyah! You're dressed so lewdly.\""
                             ]
                         },
                         {
@@ -12251,7 +12251,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】きゃ･･･卑猥な格好してるね。"
+                                "Girl: \"Kyah... You're wearing such indecent clothes.\""
                             ]
                         },
                         {
@@ -12313,7 +12313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】此処はシェーナの村です。"
+                                "Girl: \"This is the village of She-na.\""
                             ]
                         },
                         {
@@ -12469,7 +12469,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村人】おっ･･･\\I[7]ルーナもエロくなったな。\\I[7]"
+                                "Villager: Oh...\\I[7]Luuna has become quite erotic, hasn't she.\\I[7]"
                             ]
                         },
                         {
@@ -12522,7 +12522,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【村人】いいね～\\I[7]"
+                                "Villager: Nice~\\I[7]"
                             ]
                         },
                         {
@@ -12591,14 +12591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村人】此処は村長の村だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長には息子が二人いて長男のダリエフ、次男のカインがいる。"
+                                "Villager: This is the village chief's village. The village chief has\ntwo sons, the eldest Dalieh and the younger Cain."
                             ]
                         },
                         {
@@ -12616,14 +12609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村人】長男のダリエフは女好きのプレイボーイで愛人が何人もいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次男のカインは手癖が悪く森で盗賊をしてた事もある。"
+                                "Villager: The eldest son, Dalieh, is a womanizing playboy with\nnumerous lovers. The younger son, Cain, has sticky fingers and has\neven been a bandit in the forest before."
                             ]
                         },
                         {
@@ -12641,7 +12627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村人】二人とも村長の息子という事で、威張りまくってるよ。"
+                                "Villager: Both of them strut around acting all high and mighty because\nthey're the village chief's sons."
                             ]
                         },
                         {
@@ -12848,7 +12834,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】おっ･･･\\I[7]ルーナ達も雌になったようだな。I[7]"
+                                "Man: \"Oh...\\I[7] It seems Luuna and the others have become females\ntoo.\""
                             ]
                         },
                         {
@@ -12901,7 +12887,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】変態になったのか\\I[7]"
+                                "Man: \"Have you turned into perverts now?\"\\I[7]"
                             ]
                         },
                         {
@@ -12970,7 +12956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】夜の公園は売春には、ぴったりだよ。へへへっ"
+                                "Man: \"The park at night is perfect for prostitution. Hehehe.\""
                             ]
                         },
                         {
@@ -13126,7 +13112,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】わっ ルーナ達もエッチになったのね。"
+                                "Woman: \"Wow, Luuna and the others have become naughty too.\""
                             ]
                         },
                         {
@@ -13172,7 +13158,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】きゃ･･･エッチな格好してるね。"
+                                "Woman: \"Kyaa... You're dressed so lewdly.\""
                             ]
                         },
                         {
@@ -13234,14 +13220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】各地のレジスタンス達が王都軍に挑んだが全て返り討ちにされた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノルヴァーナのレジスタンスだけが頼りだね。"
+                                "Woman: \"The resistance forces from various places challenged the royal\narmy but were all defeated. The resistance of Norva-na is our only\nhope now.\""
                             ]
                         },
                         {
@@ -13397,7 +13376,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】へへっ･･･\\I[7]すげぇ格好だな。"
+                                "Heh heh...\\I[7] That's an amazing outfit."
                             ]
                         },
                         {
@@ -13450,7 +13429,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】エロい身体してるな！\\I[7]"
+                                "What a sexy body you have!\\I[7]"
                             ]
                         },
                         {
@@ -13519,14 +13498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ルーシアは代々受け継がれる直系の黒魔導士だよ。伝説の魔導士だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天才魔導士でも勝てないよ。"
+                                "Lucia is a direct descendant of a line of black mages. She's a\nlegendary mage. Even a genius mage couldn't beat her."
                             ]
                         },
                         {
@@ -13802,7 +13774,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】ひゃっ ルーナ達もエッチな事してるのね。"
+                                "Oh! Luuna and the others are doing naughty things too."
                             ]
                         },
                         {
@@ -13848,7 +13820,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】きゃ･･･変な格好してるね。"
+                                "Kya... You're wearing such a strange outfit."
                             ]
                         },
                         {
@@ -13910,14 +13882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】この村は帝都ジュピターノの王国が管轄しているの。責任者は村長ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシア皇女に刃向かうなんて蜂の巣を叩くような事したから、これからどうなる事か･･･"
+                                "This village is under the jurisdiction of the imperial capital\nJupiterino. The village chief is in charge. Defying Princess Lucia is\nlike poking a hornet's nest; who knows what will happen now..."
                             ]
                         },
                         {
@@ -14014,7 +13979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『300G』を手に入れた。"
+                                "Gained 300G!"
                             ]
                         },
                         {
@@ -14232,14 +14197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【妖精】この丸い玉に触れると昼が夜になり、夜が昼になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿屋でも出来ます。"
+                                "Fairy: \"When you touch this round orb, day turns to night, and night\nturns to day. You can also do this at an inn.\""
                             ]
                         },
                         {
@@ -14389,14 +14347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\I[89]HINT!：「昼 → 夜」「夜 → 昼」に出来ます。宿屋でもできます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "売春する時や、娼館で働く時は 「夜」にして下さい。"
+                                "\\I[89]HINT!: You can change from \"Day → Night\" and \"Night → Day\". You can\nalso do this at the inn. Please make sure it's \"Night\" when you're\nprostituting or working at the brothel."
                             ]
                         },
                         {
@@ -14423,8 +14374,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "今はいい",
-                                    "夜まで待つ"
+                                    "I'm good for now",
+                                    "I'll wait until night"
                                 ],
                                 0,
                                 0,

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "道具屋",
+    "displayName": "Tool Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ラウンドバックラー』を手に入れた。"
+                                "Gained \"Round Backler\"."
                             ]
                         },
                         {
@@ -3524,7 +3524,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】うはっ･･･\\I[7]エロい格好だな～。"
+                                "Man: \"Ugh...\\I[7] That's a sexy outfit.\""
                             ]
                         },
                         {
@@ -3577,7 +3577,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】いい身体してるね！\\I[7]"
+                                "Man: \"You've got a nice body!\\I[7]\""
                             ]
                         },
                         {
@@ -3646,14 +3646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ルーナとノアは幼馴染さ。ルーシアの護衛をしていた事がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの二人、幼馴染といっても殆ど恋人同士だけどな。ノアが羨ましいね～。"
+                                "Man: \"Luuna and Noah are childhood friends. They once served as\nLucia's guards. Those two, even though they say they're just childhood\nfriends, they're pretty much like a couple. I'm envious of Noah~.\""
                             ]
                         },
                         {

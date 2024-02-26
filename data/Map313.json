@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "闇夜の城",
+    "displayName": "Castle of the Dark Night",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9704,7 +9704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -9753,7 +9753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！？"
+                                "Luuna: !!?"
                             ]
                         },
                         {
@@ -9804,7 +9804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 誰か追いかけてくる。"
+                                "Luuna: Someone is chasing after us."
                             ]
                         },
                         {
@@ -10075,7 +10075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ま、待ってくれ！"
+                                "Kyle: Wait, please!"
                             ]
                         },
                         {
@@ -10125,7 +10125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『カイルさん！"
+                                "\"Kyle-san!\""
                             ]
                         },
                         {
@@ -10196,7 +10196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 私も最期の戦いに臨みたい。"
+                                "Kyle: I want to face the final battle as well."
                             ]
                         },
                         {
@@ -10265,7 +10265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 私も君達と同じ道を歩みたい。"
+                                "Kyle: I want to walk the same path as you all."
                             ]
                         },
                         {
@@ -10283,7 +10283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: カイルさん･･･"
+                                "Luuna: Kyle-san..."
                             ]
                         },
                         {
@@ -10334,14 +10334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 嬉しいです。あなたが来てくれた事･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上、心強い味方はいません。"
+                                "Luuna: I'm so happy. Having you come... there's no stronger ally than\nyou."
                             ]
                         },
                         {
@@ -10392,14 +10385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: カイルさん･･･ルーシアとの戦いをあれほど反対したのに･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カイルさんが一緒に戦ってくれるなら奇跡が起きるかもしれない。"
+                                "Becky: Kyle-san... despite your strong opposition to fighting Lucia...\nif you're with us, maybe a miracle will happen."
                             ]
                         },
                         {
@@ -10417,7 +10403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ルーナ、マオとメイの事は･･･私達にも責任がある。"
+                                "Kyle: Luuna, the matter with Mao and Mei... we also bear\nresponsibility."
                             ]
                         },
                         {
@@ -10467,14 +10453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 万策が無い中、君達が勝ち目の無い戦いに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "赴く事になったのは私の責任だ。"
+                                "Kyle: It's my fault that you're heading into a fight without any\nchance of winning, with no strategy left."
                             ]
                         },
                         {
@@ -10492,7 +10471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 部下達がバレンチナの将軍達からマオとメイを救えなかった。"
+                                "Kyle: My subordinates couldn't save Mao and Mei from the generals of\nValentina."
                             ]
                         },
                         {
@@ -10510,7 +10489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -10528,7 +10507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 本当にすまなかった。あんな残酷な事･･･"
+                                "Kyle: I'm truly sorry. For such cruelty..."
                             ]
                         },
                         {
@@ -10578,7 +10557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -10629,7 +10608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: カイルさん、もう自分を責めないで下さい。"
+                                "Luuna: Kyle-san, please don't blame yourself anymore."
                             ]
                         },
                         {
@@ -10647,7 +10626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ルーナ･･･"
+                                "Kyle: Luuna..."
                             ]
                         },
                         {
@@ -10698,7 +10677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: カイルさん、共に行きましょう。最期の戦いに･･･"
+                                "Luuna: Kyle-san, let's go together. To the final battle..."
                             ]
                         },
                         {
@@ -10716,7 +10695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ああ。"
+                                "Kyle: Yes."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "イーザのピラミッド",
+    "displayName": "Pyramid of Eeza",
     "encounterList": [],
     "encounterStep": 75,
     "height": 53,
@@ -16277,7 +16277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『元気薬(完全回復)』を手に入れた。"
+                                "Acquired \"Elixir (Full Recovery).\""
                             ]
                         },
                         {
@@ -20176,7 +20176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『エメラルドローブ』を手に入れた。"
+                                "Obtained the \"Emerald Robe\"."
                             ]
                         },
                         {

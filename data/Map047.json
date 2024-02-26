@@ -4362,8 +4362,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "準備する",
-                                    "「必真の水鏡」に触れる"
+                                    "Prepare",
+                                    "Touch the \"Mirror of Truth\""
                                 ],
                                 0,
                                 0,
@@ -4903,7 +4903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5006,7 +5006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -5177,7 +5177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: これは･･･"
+                                "Luuna: This is..."
                             ]
                         },
                         {
@@ -5195,7 +5195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 何こいつ！？"
+                                "Becky: What is this guy!?"
                             ]
                         },
                         {
@@ -5213,7 +5213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: このピラミッドの番人のようね。"
+                                "Luuna: It seems like the guardian of this pyramid."
                             ]
                         },
                         {
@@ -5231,14 +5231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: なぁ、レグナス・グラハードは此処に来てないんじゃないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし来てたら、この番人は倒されていない筈だろ？"
+                                "Cain: Hey, hasn't Regnus Grahardt been here? If he had, this guardian\nshould have been defeated, right?"
                             ]
                         },
                         {
@@ -5256,14 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: いえ。このモンスター、特殊な魔法で作られている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく、この場所で何度でも復活する番人なのよ。"
+                                "Luuna: No. This monster is created by a special magic. It's probably a\nguardian that can revive itself here any number of times."
                             ]
                         },
                         {
@@ -5281,7 +5267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 一度倒すと数時間は再生されないと思う。"
+                                "Luuna: I think once we defeat it, it won't regenerate for a few hours."
                             ]
                         },
                         {
@@ -5330,7 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 倒すわよ･･･！"
+                                "Luuna: We're going to defeat it...!"
                             ]
                         },
                         {

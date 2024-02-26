@@ -10905,7 +10905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーシア様、綺麗な花を見つけましたよ！"
+                                "Luuna: Lady Lucia, I found a beautiful flower!"
                             ]
                         },
                         {
@@ -10923,7 +10923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: まぁ、とても綺麗な花ね。城に戻って飾りましょう。"
+                                "Lucia: Oh, what a beautiful flower indeed. Let's take it back to the\ncastle and decorate with it."
                             ]
                         },
                         {
@@ -10941,7 +10941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あははははははっ･･･！"
+                                "Luuna: Ahahaha...!"
                             ]
                         },
                         {
@@ -10959,7 +10959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: はははっ･･･！ふふふっ"
+                                "Lucia: Hahaha...! Fufufu"
                             ]
                         },
                         {
@@ -11053,7 +11053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･･･････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -11071,7 +11071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ねぇルーナ、私達、ずっとこのままで居れたらいいわね。"
+                                "Lucia: Hey Luuna, wouldn't it be nice if we could stay like this\nforever?"
                             ]
                         },
                         {
@@ -11089,7 +11089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･･･？"
+                                "Luuna: Eh...?"
                             ]
                         },
                         {
@@ -11107,7 +11107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -11125,14 +11125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 人はいずれ変わってしまうわ。そしていつか別れがくる･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな別れ方にしてもね。"
+                                "Lucia: People eventually change. And someday, parting comes... no\nmatter how it happens."
                             ]
                         },
                         {
@@ -11150,7 +11143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 時々、私は怖いのよ。いつかあなたが遠くに行ってしまいそうで。"
+                                "Lucia: Sometimes, I'm scared. Scared that one day you might go far\naway from me."
                             ]
                         },
                         {
@@ -11168,7 +11161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -11186,14 +11179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 私とお母様のようにね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お母様は、私に資質が無いのだと直系の力を継承させる気が無い。"
+                                "Lucia: Just like with my mother. She doesn't want to pass on the\ndirect lineage powers to me because she says I lack the aptitude."
                             ]
                         },
                         {
@@ -11211,14 +11197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: いつしか、お母様と私は険悪な仲になってしまって･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は、いつもお母様を恨んでしまっている。"
+                                "Lucia: Eventually, my mother and I became estranged... and I always\nfind myself resenting her."
                             ]
                         },
                         {
@@ -11236,7 +11215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーシア様･･･"
+                                "Luuna: Lady Lucia..."
                             ]
                         },
                         {
@@ -11254,7 +11233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････"
+                                "Lucia: ............"
                             ]
                         },
                         {
@@ -11272,7 +11251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 良い事？ルーナ、憶えておくのよ。"
+                                "Lucia: Remember this well, Luuna. It's important."
                             ]
                         },
                         {
@@ -11290,14 +11269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 人を恨むってね、とても苦しくて哀しい事なのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと嫌な事を思い出して、恨み続けて生きていかなければならないから。"
+                                "Lucia: Holding a grudge is such a painful and sad thing. You have to\nkeep remembering the unpleasant things and live on with that\nresentment."
                             ]
                         },
                         {
@@ -11315,14 +11287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: どんな事があっても『人を恨む事を覚えて欲しくない。』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たとえ私と離れて険悪になっても、お互いに恨む事はやめましょうね。"
+                                "Lucia: No matter what happens, I don't want you to learn to hold\ngrudges. Even if we become estranged and part ways, let's not harbor\nresentment towards each other."
                             ]
                         },
                         {
@@ -11394,7 +11359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 『人を恨む事を覚えて欲しくない。』･･･"
+                                "Luuna: \"I don't want you to learn to hold grudges.\"..."
                             ]
                         },
                         {
@@ -11412,7 +11377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: わかりました、ルーシア様。ずっと憶えておきます。"
+                                "Luuna: Understood, Lady Lucia. I will always remember it."
                             ]
                         },
                         {
@@ -11430,7 +11395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ごめんなさい、偉そうな事言って。"
+                                "Lucia: I'm sorry for sounding so preachy."
                             ]
                         },
                         {
@@ -11479,7 +11444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -11497,7 +11462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: でも、大丈夫。"
+                                "Luuna: But, it's okay."
                             ]
                         },
                         {
@@ -11515,7 +11480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私とルーシア様は、ずっと一緒です。"
+                                "Luuna: Lady Lucia and I will always be together."
                             ]
                         },
                         {
@@ -11533,7 +11498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: たとえルーシア様が私を嫌っても･･･私はずっとルーシア様の傍にいます。"
+                                "Luuna: Even if Lady Lucia comes to dislike me... I will always be by\nyour side."
                             ]
                         },
                         {
@@ -11551,14 +11516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私にとって、ルーシア様は主であり親友･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして魔導士としての目標なのですから。"
+                                "Luuna: After all, Lady Lucia is my master, my best friend... and my\ngoal as a sorceress."
                             ]
                         },
                         {
@@ -11607,7 +11565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: そうだったわね。"
+                                "Lucia: That's right."
                             ]
                         },
                         {
@@ -11625,7 +11583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: あなたは蒼魔導を極め、私は直系の魔導士になる。"
+                                "Lucia: You will master Azure Sorcery, and I will become a direct\nlineage sorceress."
                             ]
                         },
                         {
@@ -11643,7 +11601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: 同じ魔導の道を進んでいる限り離れる事はないわ。"
+                                "Lucia: As long as we walk the path of sorcery, we won't be separated."
                             ]
                         },
                         {
@@ -11661,7 +11619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい！"
+                                "Luuna: Yes!"
                             ]
                         },
                         {
@@ -11679,14 +11637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーシア様、帝都に美味しいケーキ屋さんが出来たのですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒に行きましょう。"
+                                "Luuna: Lady Lucia, there's a delicious cake shop that has opened in\nthe imperial capital. Let's go together."
                             ]
                         },
                         {
@@ -11704,7 +11655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: まぁっ･･･！いきましょう。うふふっ"
+                                "Lucia: Oh my...! Let's go. Ufufu"
                             ]
                         },
                         {
@@ -11722,7 +11673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふふふっ･･･"
+                                "Luuna: Fufufu..."
                             ]
                         },
                         {

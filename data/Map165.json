@@ -16335,14 +16335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ: ･････！！！"
+                                "Rinny: ...!!! Luuna: ...!!!"
                             ]
                         },
                         {
@@ -16411,7 +16404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 魔導将軍リニ･･･"
+                                "Luuna: General of Sorcery, Rinny..."
                             ]
                         },
                         {
@@ -16462,7 +16455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 貴様は･･･蒼魔導士ルーナ。"
+                                "Rinny: You are... the Azure Sorceress, Luuna."
                             ]
                         },
                         {
@@ -16513,14 +16506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 今はジュピターノのレジスタンスだと噂で聞いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帝都ジュピターノが誇る宮廷魔導士だったお前がどういう理由か知らんが。"
+                                "Rinny: I've heard rumors that you're now with the Jupiterino\nResistance. You were once a court sorceress boasting the pride of the\nimperial capital, Jupiterino. I don't know what brought you to this."
                             ]
                         },
                         {
@@ -16571,14 +16557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 久しぶりね。ナイツオブメサイアの一員になったと聞いたけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後に会ったのは数年前だった。あなたが帝国バルファラの防衛将軍だった頃に。"
+                                "Luuna: It's been a while. I heard you became a member of the Knights\nof Messiah. The last time we met was years ago when you were the\ndefense general of the Balfala Empire."
                             ]
                         },
                         {
@@ -16629,14 +16608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 俺は普段からナイツオブメサイアの一員ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セリスが泣いて頼んでくるから仕方なくモードゥナ軍に手を貸すだけだ。"
+                                "Rinny: I'm not usually a member of the Knights of Messiah. I'm only\nlending a hand to the Moduna army because Ceres begged me to, crying."
                             ]
                         },
                         {
@@ -16688,7 +16660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -16739,14 +16711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふふっ･･･噂には聞いていたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた、やっぱり変わったわね。"
+                                "Luuna: Hehe... I've heard rumors, but you really have changed, haven't\nyou?"
                             ]
                         },
                         {
@@ -16797,7 +16762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ああ？何を言ってやがる。"
+                                "Rinny: Huh? What are you talking about?"
                             ]
                         },
                         {
@@ -16848,7 +16813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: それより此処に何しに来た？"
+                                "Rinny: More importantly, what are you doing here?"
                             ]
                         },
                         {
@@ -16899,7 +16864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 貴様も「レグナス・グラハード」を探しているのか？"
+                                "Rinny: Are you also looking for 'Regnus Grahardt'?"
                             ]
                         },
                         {
@@ -16984,7 +16949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レグナス・グラハードを知っているの？"
+                                "Luuna: You know about Regnus Grahardt?"
                             ]
                         },
                         {
@@ -17035,7 +17000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: まぁな。だが見た事は無い。"
+                                "Rinny: Well, yeah. But I've never seen him."
                             ]
                         },
                         {
@@ -17053,7 +17018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -17104,14 +17069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: レグナス・グラハードは此処で迷子になっていた者達を助けたらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話によると、襲い掛かる溶岩を止めらしい。"
+                                "Rinny: It seems Regnus Grahardt helped those who were lost here.\nAccording to the stories, he even stopped the attacking lava."
                             ]
                         },
                         {
@@ -17162,7 +17120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 溶岩の動きを止めた･･･？"
+                                "Luuna: He stopped the flow of lava...?"
                             ]
                         },
                         {
@@ -17213,7 +17171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ああ。その後の奴の消息は不明だ。俺も興味本位で探しているんだがな。"
+                                "Rinny: Yeah. His whereabouts after that are unknown. I'm searching out\nof curiosity myself."
                             ]
                         },
                         {
@@ -17231,7 +17189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -17249,7 +17207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: リニ、我々レジスタンスに力を貸して欲しい。"
+                                "Luuna: Rinny, we want you to lend your strength to our Resistance."
                             ]
                         },
                         {
@@ -17267,7 +17225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･･･････"
+                                "Rinny: ............"
                             ]
                         },
                         {
@@ -17318,14 +17276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 断る。見知らぬ国の奴等がどうなろうと俺の知った事か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分達の国は自分達で何とかするんだな。"
+                                "Rinny: I refuse. Why should I care what happens to people from an\nunknown country? They should take care of their own country\nthemselves."
                             ]
                         },
                         {
@@ -17376,14 +17327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ちょっと！あんたも今はナイツオブメサイアの魔導剣士でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたからもセリス様にレジスタンス達を助けるように言ってよ。"
+                                "Becky: Hey! You're a sorcerous swordsman of the Knights of Messiah\nnow, aren't you? You should also tell Lady Ceres to help the\nResistance."
                             ]
                         },
                         {
@@ -17434,7 +17378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: いい加減にしろ。他国の為に死ぬ兵が何処にいるんだ。"
+                                "Rinny: Enough already. Where are there soldiers willing to die for\nanother country?"
                             ]
                         },
                         {
@@ -17452,14 +17396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: っ･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ: っ･････"
+                                "Becky: ... Luuna: ..."
                             ]
                         },
                         {
@@ -17510,7 +17447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめんなさい。確かにあなた言う通りね。私達は図々しかった。"
+                                "Luuna: I'm sorry. You're right. We were presumptuous."
                             ]
                         },
                         {
@@ -17561,14 +17498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: まぁどうしてもと言うなら、金を稼ぐんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ある程度の軍資金を持ってこれば国王も気が変わるだろうぜ。"
+                                "Rinny: Well, if you insist, earn some money. If you bring a decent\namount of war funds, maybe the king will change his mind."
                             ]
                         },
                         {
@@ -17619,7 +17549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私が軍資金を稼ぐ･･･ただでさえ、お金が必要なのに･･･"
+                                "Luuna: Me, earning war funds... when we already need money so badly..."
                             ]
                         },
                         {
@@ -17670,7 +17600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: モードゥナはジュピターノを助ける義理は無いからな。"
+                                "Rinny: Moduna has no obligation to help Jupiterino."
                             ]
                         },
                         {
@@ -17721,7 +17651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうね･･･ 出来るだけお金を貯めてみせる。"
+                                "Luuna: Right... I'll try to save up as much money as possible."
                             ]
                         },
                         {
@@ -17739,7 +17669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････"
+                                "Rinny: ............"
                             ]
                         },
                         {
@@ -17790,7 +17720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ルーナ、ルーシアが何者か俺は興味ないが、一つだけ言っておく。"
+                                "Rinny: Luuna, I don't care who Lucia is, but let me tell you one\nthing."
                             ]
                         },
                         {
@@ -17841,7 +17771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: バレンチナを敵に回すつもりなら貴様に勝ち目は無い。"
+                                "Rinny: If you plan to make an enemy of Valentina, you have no chance\nof winning."
                             ]
                         },
                         {
@@ -17859,7 +17789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････！"
+                                "Luuna: ...!"
                             ]
                         },
                         {
@@ -17910,14 +17840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 特にシルヴィアは、魔法大国バレンチナの最高峰の魔導士だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様では絶対に勝てん。"
+                                "Rinny: Especially Sylvia, she's the top sorceress of the magical\nkingdom of Valentina. You definitely can't win against her."
                             ]
                         },
                         {
@@ -17935,7 +17858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -17986,14 +17909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 俺や、ナイツオブメサイアを味方にしたところで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく勝ち目は無い。"
+                                "Rinny: Even with me or the Knights of Messiah on your side, you\nprobably have no chance of winning."
                             ]
                         },
                         {
@@ -18044,7 +17960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: お前のやろうとしている事は、自殺行為だ。"
+                                "Rinny: What you're trying to do is suicidal."
                             ]
                         },
                         {
@@ -18095,7 +18011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うっ･････"
+                                "Luuna: Ugh..."
                             ]
                         },
                         {
@@ -18146,7 +18062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: もう少し頭を冷やすんだな。さらばだ。"
+                                "Rinny: Cool your head a bit more. Farewell."
                             ]
                         },
                         {
@@ -18299,7 +18215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････"
+                                "Rinny: ............"
                             ]
                         },
                         {
@@ -18446,14 +18362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 追い打ちをかけるようだが仮に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レグナス・グラハードを見つけたとしても無駄だ。"
+                                "Rinny: It might sound like I'm kicking you while you're down, but even\nif you find Regnus Grahardt, it's futile."
                             ]
                         },
                         {
@@ -18514,7 +18423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 何故！？"
+                                "Luuna: Why!?"
                             ]
                         },
                         {
@@ -18565,14 +18474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: レグナス・グラハードでも、バレンチナには勝てないという事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確証は無いがな。"
+                                "Rinny: Even Regnus Grahardt can't win against Valentina. There's no\nproof, but that's how it is."
                             ]
                         },
                         {
@@ -18623,7 +18525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そんな事、やってみなければ分からない！"
+                                "Luuna: We won't know that unless we try!"
                             ]
                         },
                         {
@@ -18674,7 +18576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ならば勝手にしろ。じゃあな。"
+                                "Rinny: Then do as you please. See ya."
                             ]
                         },
                         {
@@ -18766,7 +18668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -18817,7 +18719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レグナス・グラハードでも勝てない･･･"
+                                "Luuna: Even Regnus Grahardt can't win..."
                             ]
                         },
                         {
@@ -18835,7 +18737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -18886,7 +18788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふう･･･"
+                                "Becky: Phew..."
                             ]
                         },
                         {
@@ -18904,14 +18806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: あれが魔導将軍リニか。初めて見た。見るからに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やばそうな奴だな。しかし、あんな奴でもバレンチナには勝てないというのか。"
+                                "Cain: So that's the Sorcery General Rinny. First time I've seen her.\nShe looks like bad news. But even someone like her says we can't beat\nValentina, huh."
                             ]
                         },
                         {
@@ -18962,14 +18857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･何だか疲れたね…レグナス・グラハードが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たった一つのあたし達の希望だったのに。"
+                                "Becky: Sigh... I'm feeling so drained... And to think Regnus Grahardt\nwas our only hope."
                             ]
                         },
                         {
@@ -18987,14 +18875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: とりあえずシェーナの村に戻ろうぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒場で一杯飲みたくなってきたわ。"
+                                "Cain: For now, let's head back to Shayna Village. I'm starting to feel\nlike having a drink at the tavern."
                             ]
                         },
                         {
@@ -19076,14 +18957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうね･･･ 私もノアに会いたくなってきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから一体どうすれば･･･"
+                                "Luuna: Yeah... I want to see Noah too. What should we do from here on\nout..."
                             ]
                         },
                         {

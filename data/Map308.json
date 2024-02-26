@@ -4918,7 +4918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア、脚は大丈夫なの･･･？"
+                                "Luuna: Noah, is your leg okay...?"
                             ]
                         },
                         {
@@ -4936,14 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 僕の脚は壊死が進んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつまで生きられるやら･･･ね。"
+                                "Noah: My leg is necrotizing. I don't know how much longer I can\nlive... you know."
                             ]
                         },
                         {
@@ -4994,7 +4987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そんな･･･"
+                                "Luuna: That's terrible..."
                             ]
                         },
                         {
@@ -5074,7 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･･･････"
+                                "Noah: ............"
                             ]
                         },
                         {
@@ -5092,7 +5085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 僕は･･･いつ死んでもおかしくない。"
+                                "Noah: I could die at any moment."
                             ]
                         },
                         {
@@ -5110,7 +5103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ、こんな状態だから僕の想いを伝えるね。"
+                                "Noah: Luuna, because of my condition, I want to convey my feelings to\nyou."
                             ]
                         },
                         {
@@ -5128,7 +5121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5146,7 +5139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナがずっと好きだった。小さい時からずっと。"
+                                "Noah: I've always loved you, Luuna. Ever since we were little."
                             ]
                         },
                         {
@@ -5197,7 +5190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア･･･"
+                                "Luuna: Noah..."
                             ]
                         },
                         {
@@ -5248,7 +5241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私もよ、ノア･･･"
+                                "Luuna: I feel the same, Noah..."
                             ]
                         },
                         {
@@ -5266,7 +5259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ･･･"
+                                "Noah: Luuna..."
                             ]
                         },
                         {
@@ -5284,7 +5277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5302,7 +5295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: それにしても何でこんな風になってしまったのだろうね。"
+                                "Noah: But why did things turn out this way?"
                             ]
                         },
                         {
@@ -5320,14 +5313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナとベッキーと僕達は、ルーシア様に仕えてきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナはルーシア様に認められる為に頑張ってきたのに。"
+                                "Noah: You, Becky, and I have served Lady Lucia. You've worked so hard\nto be recognized by Lady Lucia."
                             ]
                         },
                         {
@@ -5345,14 +5331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーシア様を助ける為にルーナは蒼魔法を磨いてきたのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その蒼魔法でルーシア様を倒そうとしているなんて。"
+                                "Noah: You honed your azure magic to help Lady Lucia, and now you're\ntrying to use that same azure magic to defeat her."
                             ]
                         },
                         {
@@ -5450,7 +5429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア、あの人の話はやめて。"
+                                "Luuna: Noah, stop talking about her."
                             ]
                         },
                         {
@@ -5468,7 +5447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: すまない。でも言わせて。"
+                                "Noah: Sorry, but let me say this."
                             ]
                         },
                         {
@@ -5486,14 +5465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 何の為にルーナが小さい時から苦労して蒼魔導士になったのかと思ってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシア様に喜んでもらう為だけにルーナは全てを捧げてきたのに･･･"
+                                "Noah: I've been thinking about why you went through all the trouble\nsince you were little to become an azure mage. You dedicated\neverything to make Lady Lucia happy..."
                             ]
                         },
                         {
@@ -5511,14 +5483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーシア様ほど民を大切にする心優しい皇女はいなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナだけじゃない。ベッキーも僕もルーシア様を警護する事を誇りに感じていた。"
+                                "Noah: There was no princess more kind-hearted and caring for her\npeople than Lady Lucia. It wasn't just you; Becky and I also took\npride in guarding her."
                             ]
                         },
                         {
@@ -5536,7 +5501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: それを今では皆で憎しみ合って･･･ こんなの哀しすぎる･･･"
+                                "Noah: And now we all hate each other... It's just too sad..."
                             ]
                         },
                         {
@@ -5587,7 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あんな奴を一度でも慕った自分に憤りを感じる。"
+                                "Luuna: I feel anger towards myself for ever admiring such a person."
                             ]
                         },
                         {
@@ -5638,14 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーシアは自分の母親を殺し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鋼鉄兵を使ってノアや皆を苦しめている。"
+                                "Luuna: Lucia killed her own mother and has been tormenting Noah and\neveryone else using steel soldiers."
                             ]
                         },
                         {
@@ -5696,14 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 魔法大国バレンチナと同盟を結んで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの残忍なバレンチナの将軍達と常に行動を共にしている。"
+                                "Luuna: She's formed an alliance with the magical kingdom of Valentia\nand is always seen with those cruel Valentian generals."
                             ]
                         },
                         {
@@ -5752,7 +5703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･････"
+                                "Noah: ............"
                             ]
                         },
                         {
@@ -5770,7 +5721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: バレンチナの将軍･･･ヒルダやシルヴィアの事か。"
+                                "Noah: The generals of Valentia... You mean Hilda and Sylvia?"
                             ]
                         },
                         {
@@ -5788,14 +5739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 奴等は反乱分子の村を探している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近、ある村は毒殺で皆殺しにされたらしい。シルヴィアによって。"
+                                "Noah: They're searching for villages of rebels. Recently, a village\nwas completely poisoned to death, apparently by Sylvia."
                             ]
                         },
                         {
@@ -5813,7 +5757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5864,14 +5808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 今日、森で出会った戦士達の村もヒルダによって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酷い殺され方をしていた。全てルーシアが奴等に命令にしているのよ。"
+                                "Luuna: The village of warriors we met in the forest today was also\nbrutally slaughtered by Hilda. It's all under Lucia's orders."
                             ]
                         },
                         {
@@ -5889,14 +5826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: やはりルーシアを倒さない限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレンチナは引き下がらないか。"
+                                "Noah: So unless we defeat Lucia, Valentia won't back down, huh?"
                             ]
                         },
                         {
@@ -5914,7 +5844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5932,14 +5862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーシア様が直系の魔導士に覚醒しなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな事にはならなかった。"
+                                "Noah: If Lady Lucia hadn't awakened as a direct-line mage, none of\nthis would have happened."
                             ]
                         },
                         {
@@ -5957,7 +5880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6008,14 +5931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 直系の魔導士は数十億人に一人の魔導士。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "核、またはコアやマザーと呼ばれ崇拝される。魔導士にとって憧れの存在であり伝説。"
+                                "Luuna: A direct-line mage is one in billions. They are called the core\nor mother and are worshipped. They are the aspiration and legend of\nevery mage."
                             ]
                         },
                         {
@@ -6066,14 +5982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーシアは変わってしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりにも遠く特別な存在になってしまった。"
+                                "Luuna: Lucia has changed. She's become too distant, a being far too\nspecial."
                             ]
                         },
                         {
@@ -6091,7 +6000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ああ･･･"
+                                "Noah: Yeah..."
                             ]
                         },
                         {
@@ -6204,14 +6113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: それよりノア、私、あなたの脚を治す薬を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探そうと思ってるの。薬が何処にあるのか情報屋のジェフに聞いてみる。"
+                                "Luuna: More importantly, Noah, I'm thinking of looking for a medicine\nto cure your leg. I'll ask the informant Jeff where it might be."
                             ]
                         },
                         {
@@ -6229,7 +6131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 僕の脚を治す薬？"
+                                "Noah: A medicine for my leg?"
                             ]
                         },
                         {
@@ -6280,14 +6182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 壊死を止める薬よ。帝都ジュピターノまで行けば新薬があると思うけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達はレジスタンスだから帝都には行けない。だから薬の原料を探そうと思うの。"
+                                "Luuna: Yes, a medicine to stop the necrosis. I think there might be a\nnew drug if we go to the imperial capital Jupiterino, but we're part\nof the resistance so we can't go there. That's why I'm thinking of\nlooking for the ingredients for the medicine."
                             ]
                         },
                         {
@@ -6305,7 +6200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 薬の原料か。ルーナ、ありがとう。"
+                                "Noah: The ingredients for the medicine... Luuna, thank you."
                             ]
                         },
                         {
@@ -6323,7 +6218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･････"
+                                "Noah: ............"
                             ]
                         },
                         {
@@ -6341,7 +6236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ、抱きしめていい？"
+                                "Noah: Luuna, can I hold you?"
                             ]
                         },
                         {
@@ -6426,7 +6321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え… ノア…"
+                                "Luuna: Eh... Noah..."
                             ]
                         },
                         {
@@ -6511,7 +6406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん…"
+                                "Luuna: Yes..."
                             ]
                         },
                         {
@@ -6529,7 +6424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･････"
+                                "Noah: ............"
                             ]
                         },
                         {
@@ -6547,7 +6442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ん･････"
+                                "Noah: Mmm............"
                             ]
                         },
                         {
@@ -6598,7 +6493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: んっ…"
+                                "Luuna: Mmm..."
                             ]
                         },
                         {
@@ -6616,7 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア…"
+                                "Luuna: Noah..."
                             ]
                         },
                         {
@@ -6634,7 +6529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ、好きだよ･････"
+                                "Noah: Luuna, I love you............"
                             ]
                         },
                         {
@@ -6685,7 +6580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私も･･･ノア…"
+                                "Luuna: Me too... Noah..."
                             ]
                         },
                         {
@@ -6847,7 +6742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: やぁ、お二人さん。"
+                                "Dalieh: Hey, you two."
                             ]
                         },
                         {
@@ -6865,14 +6760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ダリエフ･･･！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノア: ダリエフ！"
+                                "Luuna: Dalieh...! Noah: Dalieh!"
                             ]
                         },
                         {
@@ -6890,7 +6778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ノア、脚が悪いのにデートかい？"
+                                "Dalieh: Noah, with that bad leg of yours, are you on a date?"
                             ]
                         },
                         {
@@ -6908,14 +6796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 何の用だ？まだルーナを自分の愛人にしようとしてるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナはあんたみたいなキザな男は大嫌いなんだ。"
+                                "Noah: What do you want? Are you still trying to make Luuna your\nmistress? She hates sleazy men like you."
                             ]
                         },
                         {
@@ -6933,7 +6814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: そんな事、ルーナに聞いてみないと分からないだろう？"
+                                "Dalieh: Well, we won't know unless we ask Luuna, right?"
                             ]
                         },
                         {
@@ -6984,21 +6865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: いいえ。ダリエフ、ノアの言う通りよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はあなのように女の人を玩具にしてるような人、好きじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの玩具の女の一人になんて絶対にならないわ。"
+                                "Luuna: No. Dalieh, just like Noah said. I don't like people who treat\nwomen as toys. I will never become one of your playthings."
                             ]
                         },
                         {
@@ -7016,7 +6883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: そうか、そうか。お二人とも仲が良い事だね。"
+                                "Dalieh: Is that so, is that so. You two seem to get along well."
                             ]
                         },
                         {
@@ -7034,21 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: それよりノア、脚が悪いのにこんな所にいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長の親父に怒られるぞ？君は村の金を使って治療をしてるんだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く戻ったらどうだ？"
+                                "Dalieh: More importantly, Noah, if you stay here with that bad leg,\nthe village chief will scold you, right? You're using the village's\nmoney for treatment. Why don't you head back soon?"
                             ]
                         },
                         {
@@ -7066,7 +6919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: う･･･わ、わかってる。ルーナ、先に戻ってるよ。"
+                                "Noah: Ugh... I know. Luuna, go on ahead without me."
                             ]
                         },
                         {
@@ -7117,7 +6970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ええ。"
+                                "Luuna: Okay."
                             ]
                         },
                         {
@@ -7184,21 +7037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ルーナ、僕は君が好きになったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕には愛人が数多くいるが君のように純朴な女性はいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに案外、胸も尻も大きく見える。"
+                                "Dalieh: Luuna, I've come to like you. I have many mistresses, but none\nas innocent as you. And surprisingly, your breasts and butt look big."
                             ]
                         },
                         {
@@ -7216,14 +7055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ルーナ、君をノアより先に僕のものにしたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナを寝取ったノアの悔しがる顔を見たいんだ。"
+                                "Dalieh: Luuna, I want to make you mine before Noah does. I want to see\nthe frustrated look on Noah's face when I take you from him."
                             ]
                         },
                         {
@@ -7241,14 +7073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ルーナ、ノアのような、つまらない男は君には似合わない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕と居たら気持ちいい事されて、君も僕の愛人達のようにすぐにメロメロになるよ。"
+                                "Dalieh: Luuna, a boring man like Noah doesn't suit you. If you were\nwith me, I'd make you feel good, and you'd melt just like my other\nmistresses."
                             ]
                         },
                         {
@@ -7299,7 +7124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私は･･･そんな事わからない。"
+                                "Luuna: I... don't understand such things."
                             ]
                         },
                         {
@@ -7350,7 +7175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: もう帰ります。さようなら。"
+                                "Luuna: I'm going home now. Goodbye."
                             ]
                         },
                         {
@@ -7368,7 +7193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: 残念だね。でも必ずお前を僕のものにするからな。"
+                                "Dalieh: That's too bad. But I will definitely make you mine."
                             ]
                         },
                         {
@@ -7386,7 +7211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -7428,14 +7253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフの誘いを断ったルーナだが、村長から娼館で働くように強く命令される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダリエフが父親である村長に今日の事を報告したのだった。"
+                                "Although Luuna rejected Dalieh's advances, she was strongly ordered by\nthe village chief to work at the brothel. It was Dalieh who had\nreported today's events to his father, the village chief."
                             ]
                         },
                         {
@@ -7453,7 +7271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達はひとまず、情報屋に向かった。"
+                                "For now, Luuna and the others headed towards the informant."
                             ]
                         },
                         {
@@ -7483,7 +7301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[84] ※娼館【夜】で働けるようになりました。"
+                                "\\I[84] ※You can now work at the brothel【Night】."
                             ]
                         },
                         {
@@ -7501,14 +7319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[84] ※娼館で働くには、ゲームを先に進行させる必要があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "条件を達成すると働けます。ゲームを先に進めましょう。"
+                                "\\I[84] ※To work at the brothel, you need to progress the game further. Once\nthe conditions are met, you can work there. Let's move the game\nforward."
                             ]
                         },
                         {
@@ -7526,14 +7337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[84] ※娼館で働く事により他のエッチイベントが解放されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他のエッチイベントを発生させるには、※必ず最初に娼館で働いて下さい。"
+                                "\\I[84] ※By working at the brothel, other erotic events will be unlocked. To\ntrigger other erotic events, ※you must work at the brothel first."
                             ]
                         },
                         {

@@ -18221,7 +18221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『素早さの豆』を手に入れた。"
+                                "Gained \"Bean of Agility\"."
                             ]
                         },
                         {
@@ -18479,7 +18479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『スパークⅡの魔法書』を手に入れた。"
+                                "You've obtained the \"Spark II Spellbook\"."
                             ]
                         },
                         {

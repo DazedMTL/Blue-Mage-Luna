@@ -5878,7 +5878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店員】此処は温泉よ。ゆっくりしていってね。"
+                                "Clerk: \"This is a hot spring. Please relax and enjoy your time here.\""
                             ]
                         },
                         {
@@ -5946,8 +5946,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "やめる",
-                                    "浴場に入る"
+                                    "Stop",
+                                    "Enter the bath"
                                 ],
                                 0,
                                 0,
@@ -6009,7 +6009,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: 今はそういう気分じゃないわね。"
+                                "Luuna: I'm not in the mood for that right now."
                             ]
                         },
                         {
@@ -6198,7 +6198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】おっ･･･！ お前等何してんの？こっちにこいよ。"
+                                "Man: Hey...! What are you girls doing? Come over here."
                             ]
                         },
                         {
@@ -6206,8 +6206,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "やめる",
-                                    "男場に入る"
+                                    "Stop",
+                                    "Join the men"
                                 ],
                                 0,
                                 0,
@@ -6322,7 +6322,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: ちょっとベッキー、いいの？"
+                                "Luuna: Hey Becky, is this okay?"
                             ]
                         },
                         {
@@ -6340,14 +6340,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ベッキー: ルーナ、あのチンポ見てみなよ。凄く大きい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あたし、濡れてきちゃってさ。"
+                                "Becky: Luuna, just look at that cock. It's so big. I'm getting wet\nalready."
                             ]
                         },
                         {
@@ -6365,7 +6358,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: ん･･･本当だ。ゴク･･･凄く大きいね･･･"
+                                "Luuna: Mmm... You're right. Gulp... It's really big..."
                             ]
                         },
                         {
@@ -6383,7 +6376,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ベッキー: ピュッピュッとオマンコの中に出してもらおうよ。"
+                                "Becky: Let's have him squirt inside our pussies."
                             ]
                         },
                         {
@@ -6401,14 +6394,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: そうだね。最近、オマンコ、寂しかったし･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中出ししてもらいたい。"
+                                "Luuna: Yeah, that sounds good. My pussy has been lonely lately... I\nwant him to cum inside."
                             ]
                         },
                         {
@@ -6529,21 +6515,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\I[89]HINT】「\"昼\"のシェーナの村の兵士休憩所」でノアに話しかけて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ルーナを不良共に売り飛ばし孕ませる。」の条件を達成すれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この男達の誘いを受ける事が出来ます。"
+                                "\\I[89]HINT: If you talk to Noah at the \"Daytime\" soldier's rest area\nin Shena Village and fulfill the condition \"Sell Luuna to the\ndelinquents and have her impregnated,\" you can accept the invitation\nfrom these men."
                             ]
                         },
                         {
@@ -6561,14 +6533,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\I[89]HINT】※物語後半のエッチイベントとなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "現在は見れません。"
+                                "\\I[89]HINT: ※This is an erotic event from the latter part of the\nstory. It is not viewable at the moment."
                             ]
                         },
                         {
@@ -6678,7 +6643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『100G』を手に入れた。"
+                                "Gained 100G."
                             ]
                         },
                         {

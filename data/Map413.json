@@ -5029,14 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 此処から先はレジスタンスの最大勢力『ノルヴァーナ』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "に続く道ね。此処から先は強敵が多い。今は引き返しましょう。"
+                                "Luuna: The path from here leads to \"Norva-Na,\" the stronghold of the\nresistance's greatest force. There are many formidable enemies ahead.\nLet's turn back for now."
                             ]
                         },
                         {

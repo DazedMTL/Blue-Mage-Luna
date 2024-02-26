@@ -1439,7 +1439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 此処は･････"
+                                "Luuna: This place is..."
                             ]
                         },
                         {
@@ -1457,7 +1457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -1663,7 +1663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: これは･･･この光の玉は･･･"
+                                "Luuna: This is... this orb of light is..."
                             ]
                         },
                         {
@@ -1681,7 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『今すぐ引き返しなさい。"
+                                "\"Turn back now.\""
                             ]
                         },
                         {
@@ -1732,7 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･･･"
+                                "Luuna: Eh..."
                             ]
                         },
                         {
@@ -1750,7 +1750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『敵はあまりに強敵。奇跡すら起きない。"
+                                "\"The enemy is too formidable. Not even a miracle could occur.\""
                             ]
                         },
                         {
@@ -1835,7 +1835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなたは誰？"
+                                "Luuna: Who are you?"
                             ]
                         },
                         {
@@ -1853,7 +1853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『誰でもいい。撤退しなさい。"
+                                "\"It doesn't matter who. Retreat.\""
                             ]
                         },
                         {
@@ -1904,14 +1904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: いいえ。これ以上、奴等を放置すると今度は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰が殺されるか分からない。"
+                                "Luuna: No. If we leave them be, who knows who will be killed next."
                             ]
                         },
                         {
@@ -1929,7 +1922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『あなたを見殺しには出来ない。"
+                                "\"I cannot stand by and watch you die.\""
                             ]
                         },
                         {
@@ -1947,7 +1940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: やってみなくては分からない。"
+                                "Luuna: We won't know unless we try."
                             ]
                         },
                         {
@@ -1965,7 +1958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『わかる。だから止めに来た。"
+                                "\"I understand. That's why I've come to stop you.\""
                             ]
                         },
                         {
@@ -2016,7 +2009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 戦ってみないと結果は分からないでしょう？"
+                                "Luuna: You won't know the outcome unless you fight, right?"
                             ]
                         },
                         {
@@ -2034,7 +2027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『････････"
+                                "\"........\""
                             ]
                         },
                         {
@@ -2085,7 +2078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなた･･･誰なの？"
+                                "Luuna: You... who are you?"
                             ]
                         },
                         {
@@ -2103,7 +2096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『誰でもいい。ただの通りすがりの光の玉だよ。"
+                                "\"It doesn't matter. Just a passing orb of light.\""
                             ]
                         },
                         {
@@ -2121,7 +2114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -2172,7 +2165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あ･････"
+                                "Luuna: Ah..."
                             ]
                         },
                         {
@@ -2223,7 +2216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうか･･･今、確信した。あなたがレグナス・グラハードなのね。"
+                                "Luuna: I see... Now I'm certain. You're Regnus Grahardt."
                             ]
                         },
                         {
@@ -2241,7 +2234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『違う。"
+                                "\"No.\""
                             ]
                         },
                         {
@@ -2292,14 +2285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: いいえ。あなたはレグナス・グラハードよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "従者さん、いえ･･･ルカさんが言ってた。「レグナス・グラハードに会った」とね。"
+                                "Luuna: Yes, you are Regnus Grahardt. The servant, no... Luca said, \"I\nmet Regnus Grahardt.\""
                             ]
                         },
                         {
@@ -2317,7 +2303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『･････"
+                                "\"......\""
                             ]
                         },
                         {
@@ -2368,14 +2354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レグナス・グラハード、あなたは素性を明かせない理由がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達に力を貸したくても貸せない理由がある。そうなのでしょう？"
+                                "Luuna: Regnus Grahardt, there must be a reason you can't reveal your\nidentity. A reason why you want to help us but can't."
                             ]
                         },
                         {
@@ -2393,7 +2372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『･････"
+                                "\"......\""
                             ]
                         },
                         {
@@ -2411,7 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: 隠しても無駄のようだね。"
+                                "Regnus Grahardt: It seems hiding it is futile."
                             ]
                         },
                         {
@@ -2429,7 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: やっぱり。でもその忠告だけは聞けない。"
+                                "Luuna: I thought so. But I can't heed that advice."
                             ]
                         },
                         {
@@ -2447,7 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: どうしてもルーシア達と戦うというのなら、もう少し待って欲しい。"
+                                "Regnus Grahardt: If you insist on fighting Lucia and the others, then\nI ask you to wait a little longer."
                             ]
                         },
                         {
@@ -2498,7 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 待つ？誰を？いつまで？"
+                                "Luuna: Wait? For whom? How long?"
                             ]
                         },
                         {
@@ -2516,7 +2495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: 詳しい事は言えない。ただもう少しだけ待って欲しい。"
+                                "Regnus Grahardt: I can't say more. Just wait a little longer."
                             ]
                         },
                         {
@@ -2534,7 +2513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -2552,7 +2531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 「必真の水鏡」･････"
+                                "Luuna: \"The Mirror of Truth\"..."
                             ]
                         },
                         {
@@ -2570,7 +2549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ･････！"
+                                "Regnus Grahardt: ......!"
                             ]
                         },
                         {
@@ -2588,7 +2567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 待つ理由は「必真の水鏡」が教えてくれていたのね。"
+                                "Luuna: The reason to wait was told by \"The Mirror of Truth,\" wasn't\nit?"
                             ]
                         },
                         {
@@ -2641,7 +2620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 一つは、ナイツオブメサイア。セリス様やリニ達の事。"
+                                "Luuna: One is about the Knights of Messiah, Lady Ceres and the others."
                             ]
                         },
                         {
@@ -2694,7 +2673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 二つめは叫んでいた、謎の少女。"
+                                "Luuna: The second is the mysterious girl who was shouting."
                             ]
                         },
                         {
@@ -2747,7 +2726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 三つめは、バレンチナの洗礼に合格したという見習い魔導士。"
+                                "Luuna: The third is the apprentice sorcerer who passed the baptism of\nValentina."
                             ]
                         },
                         {
@@ -2800,7 +2779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 「レイ・グランフォード」と言ったわね。"
+                                "Luuna: You said her name was \"Rae Granford,\" right?"
                             ]
                         },
                         {
@@ -2851,7 +2830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レグナス・グラハード、あなたはこの者達を知っている。"
+                                "Luuna: Regnus Grahardt, you know these people."
                             ]
                         },
                         {
@@ -2869,7 +2848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: この者達が動くまで待てと言っているの？"
+                                "Luuna: Are you saying to wait until these people make their move?"
                             ]
                         },
                         {
@@ -2998,14 +2977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: そう、この者達が動くまで待って欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「必真の水鏡」まで予言したのなら･･･ね。"
+                                "Regnus Grahardt: Yes, I want you to wait until these people make their\nmove. If \"The Mirror of Truth\" has prophesied it, then..."
                             ]
                         },
                         {
@@ -3023,7 +2995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうか･･･「必真の水鏡」まで私を止めているのね。"
+                                "Luuna: I see... Even \"The Mirror of Truth\" is trying to stop me."
                             ]
                         },
                         {
@@ -3041,7 +3013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ･････"
+                                "Regnus Grahardt: ......"
                             ]
                         },
                         {
@@ -3092,14 +3064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめん。それでも待てない。もうあんな事･･･絶対に嫌だから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待っている間に取り返しのつかない事になる。呑気に待つ事なんてもう出来ない。"
+                                "Luuna: Sorry, but I can't wait. I absolutely hate the idea of that\nhappening again... Something irreversible could happen while we're\nwaiting. I can't afford to wait calmly anymore."
                             ]
                         },
                         {
@@ -3117,7 +3082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ･･････"
+                                "Regnus Grahardt: ......"
                             ]
                         },
                         {
@@ -3168,7 +3133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: でも、レーデ様なら待つ事は出来る。"
+                                "Luuna: But Lady Rade could wait."
                             ]
                         },
                         {
@@ -3186,7 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: レーデはあなた達に干渉しない。どちらの味方でもない。"
+                                "Regnus Grahardt: Rade will not interfere with you. She is not an ally\nto either side."
                             ]
                         },
                         {
@@ -3204,7 +3169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: なら私がやるしか無い。"
+                                "Luuna: Then I have no choice but to do it myself."
                             ]
                         },
                         {
@@ -3222,7 +3187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ルーナ･･･"
+                                "Regnus Grahardt: Luuna..."
                             ]
                         },
                         {
@@ -3273,7 +3238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめん。忠告を聞けなくて。"
+                                "Luuna: Sorry, I can't heed your advice."
                             ]
                         },
                         {
@@ -3291,7 +3256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: じゃあね。ルーシア達が待っている。"
+                                "Luuna: See you. Lucia and the others are waiting."
                             ]
                         },
                         {
@@ -3374,7 +3339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -3472,7 +3437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レグナス・グラハード、魔法の小箱をありがとう。"
+                                "Luuna: Regnus Grahardt, thank you for the magical box."
                             ]
                         },
                         {
@@ -3523,7 +3488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 起きない奇跡を起こしてみせる。"
+                                "Luuna: I'll make a miracle happen that won't wake up."
                             ]
                         },
                         {
@@ -3541,7 +3506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ･･････"
+                                "Regnus Grahardt: ......"
                             ]
                         },
                         {
@@ -3592,7 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: さようなら、レグナス・グラハード･･･"
+                                "Luuna: Goodbye, Regnus Grahardt..."
                             ]
                         },
                         {
@@ -3610,7 +3575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ルーナ･･･"
+                                "Regnus Grahardt: Luuna..."
                             ]
                         },
                         {
@@ -3668,7 +3633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ありがとう･･･最期まで気にかけてくれて。じゃあね。"
+                                "Luuna: Thank you... for caring about me until the end. Bye now."
                             ]
                         },
                         {
@@ -3794,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ･･････"
+                                "Regnus Grahardt: ......"
                             ]
                         },
                         {
@@ -3829,7 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -3847,7 +3812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ････････････････"
+                                "Luuna: .................."
                             ]
                         },
                         {
@@ -3865,7 +3830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ････････････････････････"
+                                "Luuna: ............................"
                             ]
                         },
                         {
@@ -3972,7 +3937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 皆、もう大丈夫よ。"
+                                "Luuna: Everyone, it's going to be okay now."
                             ]
                         },
                         {
@@ -4023,7 +3988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇルーナ、誰かと話していたの？"
+                                "Becky: Hey Luuna, were you talking to someone?"
                             ]
                         },
                         {
@@ -4074,7 +4039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ううん、何でもない。行きましょう。"
+                                "Luuna: No, it's nothing. Let's go."
                             ]
                         },
                         {

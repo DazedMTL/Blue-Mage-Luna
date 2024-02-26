@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "リマの神殿",
+    "displayName": "Temple of Rima",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -9895,7 +9895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 今は此処に用は無いわね。"
+                                "Luuna: There's no need for us to be here right now."
                             ]
                         },
                         {
@@ -10608,7 +10608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】･･･！"
+                                "...!"
                             ]
                         },
                         {
@@ -10709,7 +10709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あなたは･･･"
+                                "Luuna: Who are you...?"
                             ]
                         },
                         {
@@ -10727,7 +10727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】私はエルナ･･･"
+                                "I am Erna..."
                             ]
                         },
                         {
@@ -10754,7 +10754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エルナ】しまった･･･"
+                                "Erna: Oops..."
                             ]
                         },
                         {
@@ -10772,7 +10772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･？"
+                                "Luuna: ...?"
                             ]
                         },
                         {
@@ -10790,7 +10790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エルナ】怪しい者ではありません。"
+                                "Erna: I'm not someone suspicious."
                             ]
                         },
                         {
@@ -10808,7 +10808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エルナ】失礼します。"
+                                "Erna: Excuse me."
                             ]
                         },
                         {
@@ -11126,7 +11126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -11177,7 +11177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇ、あいつ、思いっきり怪しくない？"
+                                "Becky: Hey, doesn't that person seem super suspicious?"
                             ]
                         },
                         {
@@ -11195,7 +11195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 財宝目当てだろ～。この神殿、お宝がたっぷりありそうだからな。"
+                                "Cain: Probably after the treasure. This temple looks like it's full of\nit."
                             ]
                         },
                         {
@@ -11246,7 +11246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 盗賊には見えなかったけどね。まぁいいか。"
+                                "Becky: Didn't look like a thief to me though. Oh well."
                             ]
                         },
                         {
@@ -11264,14 +11264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: エルナちゃんか～。神秘的で可愛かったな～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度見かけたらデートに誘ってやる。"
+                                "Cain: Erna-chan, huh... She was mysterious and cute. Next time I see\nher, I'll ask her out on a date."
                             ]
                         },
                         {
@@ -11322,7 +11315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･ほんとスケベな事ばかり考えてるんだから。"
+                                "Becky: Sigh... You really only think about lewd things."
                             ]
                         },
                         {

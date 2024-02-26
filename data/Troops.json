@@ -3734,14 +3734,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レーデ: 面倒臭くなったら修行中断だからね～ん。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "それまでにあたしから魔法を覚える事ね～ん。"
+                            "Rade: If it gets too bothersome, I'll just stop the training, okay?\nYou better learn magic from me before that happens."
                         ]
                     },
                     {
@@ -3792,7 +3785,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レーデ: ん～、一つ注意ね～ん。"
+                            "Rade: Hmm, just one thing to note."
                         ]
                     },
                     {
@@ -3843,14 +3836,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レーデ: あたしはね～、きまぐれだから～ 気が向いたら魔法を使うわね～ん。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "あんたがあたしの魔法を覚えれるかどうかは～ あたしの気分次第って事～ん。きゃはははーんっ"
+                            "Rade: You see, I'm quite capricious~ If I feel like it, I'll use\nmagic. Whether you can learn my magic or not depends on my mood~\nKyahaha!"
                         ]
                     },
                     {
@@ -3901,7 +3887,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: そんなっ･･･"
+                            "Luuna: That's just..."
                         ]
                     },
                     {
@@ -3976,7 +3962,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "レーデ: はぁ･･･疲れた。終わり～ん。"
+                            "Rade: *sigh*... I'm tired. That's the end~"
                         ]
                     },
                     {
@@ -4066,14 +4052,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "レーデ: どうやら～ あたしの魔法を覚えたようね～ん。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "これで稽古は終わりよ～ん。"
+                            "Rade: It seems you've finally learned my magic. With this, our\ntraining is over."
                         ]
                     },
                     {
@@ -4124,7 +4103,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ルーナ: ビッグバンメテオ、覚えました！ありがとうございます！"
+                            "Luuna: I've mastered Big Bang Meteor! Thank you so much!"
                         ]
                     },
                     {
@@ -4142,14 +4121,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ルーナ: (こんなにも凄い魔法なら･･･"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "魔法防御力を向上させたのって意味無かったんじゃ･･･)"
+                            "Luuna: (If the magic is this powerful... maybe there was no point in\nimproving my magic defense...)"
                         ]
                     },
                     {
@@ -4200,14 +4172,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "レーデ: 今のあんたには負担の大きい魔法だから"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "ここぞという時に使う事ね～ん。"
+                            "Rade: This magic is a heavy burden for you now, so use it only when\nit's absolutely necessary."
                         ]
                     },
                     {
@@ -4258,14 +4223,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ルーナ: はい！レーデさん、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "超必殺技の伝授、ありがとうございます！"
+                            "Luuna: Yes! Rade-san, thank you for teaching me this ultimate move!"
                         ]
                     },
                     {
@@ -4427,7 +4385,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ルーナ: あ･･･ この敵はまさか･･･"
+                            "Luuna: Ah... Could this enemy possibly be...?"
                         ]
                     },
                     {
@@ -5098,14 +5056,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: 一つ断っておくと、直系の魔導士が並の魔導士と"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "全力で戦う事をわたくしは良しとしない。"
+                            "Lucia: Let me make one thing clear, I do not approve of a direct\ndescendant mage fighting an ordinary mage with all their might."
                         ]
                     },
                     {
@@ -5156,7 +5107,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: だけど･･･"
+                            "Lucia: But..."
                         ]
                     },
                     {
@@ -5207,14 +5158,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: あなた達の無謀さに敬意を表し、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "わたくしも全力でお相手しましょう。『下級魔法だけ』でね。ふふふっ･･･"
+                            "Lucia: Out of respect for your recklessness, I too shall give it my\nall. With \"only low-level magic,\" that is. Fufufu..."
                         ]
                     },
                     {
@@ -5232,7 +5176,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: くっ･･･"
+                            "Luuna: Grr..."
                         ]
                     },
                     {
@@ -5250,14 +5194,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ベッキー: 全力で下級魔法だけだって！？ハンデかよ！馬鹿にしやがって･･･！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "あたし達が此処にくるまで、どれだけの強敵を倒してきたと思ってるの！"
+                            "Becky: Full power with just low-level magic!? Is that a handicap?!\nYou're mocking us...! Do you have any idea how many formidable enemies\nwe've defeated to get here?"
                         ]
                     },
                     {
@@ -5275,7 +5212,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: ベッキーの言う通りよ！以前の私達とは全てが違う！"
+                            "Luuna: Becky's right! We're completely different from who we were\nbefore!"
                         ]
                     },
                     {
@@ -5326,7 +5263,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: ルーナ、生まれながらにして、どうしようもない資質の差はあるものよ。"
+                            "Lucia: Luuna, there are innate differences in talent that simply\ncannot be helped."
                         ]
                     },
                     {
@@ -5377,14 +5314,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: あなたは所詮、巷の天才魔導士の域でしかない。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "直系の力には遠く及ばない。それを今から教えてあげるわ。下級魔法でね。ふふふ･･･"
+                            "Lucia: You are, after all, merely a genius mage by common standards.\nYou're nowhere near the power of a direct descendant. I'll teach you\nthat now. With low-level magic, of course. Fufufu..."
                         ]
                     },
                     {
@@ -5502,14 +5432,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: (さっきとは比べ物にならない程、魔力、魔法防御･･･"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "全ての能力が大幅に飛躍している。)"
+                            "Lucia: (Compared to before, magical power, M. Defense... all abilities\nhave greatly leaped forward.)"
                         ]
                     },
                     {
@@ -5527,7 +5450,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: (解放された力では私を上回る事はできない。)"
+                            "Lucia: (The power that has been released cannot surpass me.)"
                         ]
                     },
                     {
@@ -5578,7 +5501,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: (しかし、解放された瞬間は反動が大きく作用する。)"
+                            "Lucia: (However, the moment it's released, there's a significant\nbacklash.)"
                         ]
                     },
                     {
@@ -5629,14 +5552,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: (チェーンバインズマジックを最期まで解かなかったのは"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "チェーンを解いた刹那･･･つまり反動を利用したピーク時の力を出す為だったか。)"
+                            "Lucia: (Not dispelling the Chain Binds Magic until the very end was to\nutilize the backlash at the moment of release... to exert power at its\npeak, perhaps.)"
                         ]
                     },
                     {
@@ -5687,14 +5603,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーシア: (半端な割に考えてはいるようね。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "わたくしとて油断はできない･･･)"
+                            "Lucia: (For being only half-baked, it seems you've given it some\nthought. I must not be careless...)"
                         ]
                     },
                     {
@@ -5843,14 +5752,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ベッキー: なるほど･･･ルーナ、この敵は特殊な大技を使うらしい。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "必ずラーニングして蒼魔法で倒すのよ！まともに戦ったら勝てない。"
+                            "Becky: I see... Luuna, it seems this enemy uses a special powerful\ntechnique. Make sure to learn it and defeat them with Blue Magic! We\ncan't win if we fight them head-on."
                         ]
                     },
                     {
@@ -5868,7 +5770,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: わかってる！"
+                            "Luuna: Got it!"
                         ]
                     },
                     {
@@ -5886,14 +5788,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "カイン: そういえば、こいつは価値の高い宝物を"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "持ってると言ってたな。必ず盗んでやるぜ。へへっ"
+                            "Cain: Now that you mention it, they said this guy has a valuable\ntreasure. I'll definitely steal it. Heh heh."
                         ]
                     },
                     {
@@ -5923,14 +5818,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\I[89]HINT!：敵の技を覚えて蒼魔法で攻撃しましょう。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ルーナは敵の技を見るだけで覚えます。"
+                            "\\I[89]HINT!: Learn the enemy's technique and attack with Blue Magic. Luuna\ncan learn the enemy's technique just by seeing it."
                         ]
                     },
                     {
@@ -5948,14 +5836,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\I[89]HINT!：覚えた敵の技は、ルーナのスキル「蒼魔法」に登録されます。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "蒼魔法一覧から覚えた技を選択して敵を倒しましょう。"
+                            "\\I[89]HINT!: The enemy's technique that you've learned will be registered in\nLuuna's skill 'Blue Magic'. Select the learned technique from the Blue\nMagic list to defeat the enemy."
                         ]
                     },
                     {
@@ -5973,14 +5854,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\I[89]HINT!：敵のアイテムを盗んでみましょう。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "カインのスキル「盗む」を選択して盗みましょう。"
+                            "\\I[89]HINT!: Try stealing an item from the enemy. Select Cain's skill\n'Steal' to attempt the theft."
                         ]
                     },
                     {
@@ -6501,7 +6375,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: ･････････"
+                            "Luuna: ............"
                         ]
                     },
                     {
@@ -6519,14 +6393,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: もしヒルダを生み出してしまったのが私ならば、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "マオとメイが殺されたのは私の責任でもある･･･ヒルダ、お前は必ず倒す。"
+                            "Luuna: If I'm the one who brought Hilda into this world, then I'm also\nresponsible for Mao and Mei's deaths... Hilda, I will definitely\ndefeat you."
                         ]
                     },
                     {
@@ -6544,7 +6411,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "【ヒルダ】ルーナ、負い目を感じているのか？ではもっと責任を感じろ。"
+                            "Hilda: Luuna, are you feeling guilty? Then feel even more responsible."
                         ]
                     },
                     {
@@ -6562,21 +6429,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "【ヒルダ】マオとメイは最期まで泣き叫びながら、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "お前の名を呼んでいたぞ？肉塊になりながらなぁ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "あの悲鳴は美味だったねぇ。私の腹の中は満たされたよ。ひひひ･･･"
+                            "Hilda: Mao and Mei were screaming and crying out your name until the\nvery end, you know? They were turning into lumps of flesh. Those\nscreams were so delicious. My belly was filled with satisfaction.\nHehehe..."
                         ]
                     },
                     {
@@ -6594,7 +6447,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: くっ･･･"
+                            "Luuna: Grr..."
                         ]
                     },
                     {
@@ -6612,14 +6465,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: (マオ･･･メイ･･･ いつも私をまっすぐな瞳で見て･･･"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "信じて連いてきてくれた。)"
+                            "Luuna: (Mao... Mei... You always looked at me with those earnest\neyes... believing in me and following me.)"
                         ]
                     },
                     {
@@ -6853,7 +6699,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: (マオ･･･メイ･･･ ごめん･･･！）"
+                            "Luuna: (Mao... Mei... I'm sorry...!)"
                         ]
                     },
                     {
@@ -6871,7 +6717,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: ･････････"
+                            "Luuna: ............"
                         ]
                     },
                     {
@@ -6922,7 +6768,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ルーナ: ヒルダ･･･あの子達と同じ苦しみを味わわせてやる。"
+                            "Luuna: Hilda... I'll make you suffer the same pain as those kids."
                         ]
                     },
                     {

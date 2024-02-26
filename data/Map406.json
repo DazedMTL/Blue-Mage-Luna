@@ -4687,7 +4687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はっ･･･！"
+                                "Luuna: Ah...!"
                             ]
                         },
                         {
@@ -4705,7 +4705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ！"
+                                "Noah: Luuna!"
                             ]
                         },
                         {
@@ -4756,7 +4756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あっ！ルーナ！"
+                                "Becky: Oh! Luuna!"
                             ]
                         },
                         {
@@ -4774,7 +4774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: おお、生き返った。"
+                                "Cain: Oh, she's come back to life."
                             ]
                         },
                         {
@@ -4825,7 +4825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うっ･･･此処は･･･"
+                                "Luuna: Ugh... Where is this...?"
                             ]
                         },
                         {
@@ -4876,7 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 此処はミサの村よ。ルーナ･･･生き返って本当に･･･良かった。"
+                                "Becky: This is the village of Misa. Luuna... I'm so glad you've come\nback to life."
                             ]
                         },
                         {
@@ -4927,7 +4927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私の身体はゼナに引き裂かれた筈･･･何故･･･"
+                                "Luuna: My body was supposed to have been torn apart by Zena... Why..."
                             ]
                         },
                         {
@@ -4945,7 +4945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: それが全く分からないんだ。"
+                                "Noah: That's what we can't figure out."
                             ]
                         },
                         {
@@ -4996,7 +4996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 10日ほど前に手紙が届いたのよ。あたし宛にね。"
+                                "Becky: About ten days ago, a letter arrived. It was addressed to me."
                             ]
                         },
                         {
@@ -5014,7 +5014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 手紙？"
+                                "Luuna: A letter?"
                             ]
                         },
                         {
@@ -5065,7 +5065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: うん。手紙には『ミサの村に来るように。』と書かれていたのよ。"
+                                "Becky: Yes. The letter said, \"Come to the village of Misa.\""
                             ]
                         },
                         {
@@ -5116,14 +5116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 此処に来たら、ルーナがこのベッドで寝込んでいてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆、凄く驚いたわよ。"
+                                "Becky: When we got here, there you were, Luuna, lying in this bed.\nEveryone was so surprised."
                             ]
                         },
                         {
@@ -5141,7 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5192,7 +5185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 一体、誰が･････"
+                                "Luuna: Who on earth..."
                             ]
                         },
                         {
@@ -5243,14 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: まぁ･･･筆跡鑑定をしようと思ったんだけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手紙は燃えてしまった。"
+                                "Becky: Well... I thought about getting a handwriting analysis, but the\nletter burned up."
                             ]
                         },
                         {
@@ -5301,14 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 手紙の封を切った次の日に、灰になるように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法がかけられていたのよ。"
+                                "Becky: The day after the letter's seal was broken, it was magically\nturned to ash."
                             ]
                         },
                         {
@@ -5326,7 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5344,14 +5323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ところで身体の方はどうなんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今まで通り、魔法が使えるのか？"
+                                "Cain: By the way, how's your body? Can you still use magic like\nbefore?"
                             ]
                         },
                         {
@@ -5369,14 +5341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ええ。何ともない。傷口は跡形も無く綺麗に塞がっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何事も無かったかのようにね。信じられない。"
+                                "Luuna: Yes, I'm fine. The wounds have healed without a trace, as if\nnothing ever happened. It's unbelievable."
                             ]
                         },
                         {
@@ -5427,14 +5392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あたしが此処に来た時には解熱剤が沢山あったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても献身的に介抱していたようね。"
+                                "Becky: When I arrived here, there were a lot of fever reducers. It\nseems someone took very good care of you."
                             ]
                         },
                         {
@@ -5485,7 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: こんな事が出来て･･･私を大切に想ってくれる人物･･･"
+                                "Luuna: Someone who could do such a thing... someone who cares about me\nso much..."
                             ]
                         },
                         {
@@ -5503,7 +5461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 一体、誰が･･･"
+                                "Luuna: Who could it be..."
                             ]
                         },
                         {
@@ -5521,7 +5479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -5572,7 +5530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: レグナス・グラハード･･･"
+                                "Becky: Regnus Grahardt..."
                             ]
                         },
                         {
@@ -5590,7 +5548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5608,7 +5566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: そうそう、ルーナが寝てる間に大変な事が起きたんだ。"
+                                "Noah: Oh yeah, while you were asleep, Luuna, something big happened."
                             ]
                         },
                         {
@@ -5626,7 +5584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ？"
+                                "Luuna: ?"
                             ]
                         },
                         {
@@ -5644,14 +5602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ナイツオブメサイアが、ジュピターノのレジスタンス達に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力を貸してくれるってさ。"
+                                "Noah: The Knights of Messiah are going to lend their strength to the\nresistance of Jupiterino."
                             ]
                         },
                         {
@@ -5702,7 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･･･"
+                                "Luuna: Eh...?"
                             ]
                         },
                         {
@@ -5720,14 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: モードゥナのアリシア皇女が正式にサインしたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナイツオブメサイアを派遣して、この国の反乱軍を助けてくれるって。"
+                                "Noah: Princess Alicia of Moduna officially signed it. The Knights of\nMessiah will be dispatched to help the rebels in this country."
                             ]
                         },
                         {
@@ -5745,14 +5689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 良かった･･･セリス様が･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達の望みを叶えてくれたのね。"
+                                "Luuna: That's great... Lady Ceres has... fulfilled our wishes."
                             ]
                         },
                         {
@@ -5770,14 +5707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: それと･･･ノルヴァーナのレジスタンス達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何者かによって皆殺しにされたらしい。カイルさんも･･･"
+                                "Noah: Also... it seems that the resistance of Norvana was massacred by\nsomeone. Kyle-san too..."
                             ]
                         },
                         {
@@ -5828,7 +5758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そんな･･･"
+                                "Luuna: That's terrible..."
                             ]
                         },
                         {
@@ -5846,14 +5776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: でも･･･情報屋によると･･･ノルヴァーナのレジスタンス達は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシアやバレンチナの奴等と繋がっている事が分かったんだ。"
+                                "Noah: But... according to an informant... it was discovered that the\nresistance of Norvana was connected with Lucia and those from\nValentia."
                             ]
                         },
                         {
@@ -5871,7 +5794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: だから･･･彼等は何者かによって暗殺されたのかも･･･"
+                                "Noah: So... they might have been assassinated by someone..."
                             ]
                         },
                         {
@@ -5889,7 +5812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -5907,7 +5830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そう･･･残念ね。"
+                                "Luuna: I see... that's unfortunate."
                             ]
                         },
                         {
@@ -5925,7 +5848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･････"
+                                "Becky: ............"
                             ]
                         },
                         {
@@ -5976,7 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇ、ルーナ、謎の人物からの手紙には続きがあるの。"
+                                "Becky: Hey, Luuna, there's more to the mysterious letter."
                             ]
                         },
                         {
@@ -6027,14 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 手紙にはマオとメイの事も書いてあったのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『助けられなくてごめん･･･』って。"
+                                "Becky: The letter also mentioned Mao and Mei. \"I'm sorry I couldn't\nsave them...\" it said."
                             ]
                         },
                         {
@@ -6052,7 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･！"
+                                "Luuna: ...!"
                             ]
                         },
                         {
@@ -6103,7 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーナ、これからマオとメイの墓に行く？"
+                                "Becky: Luuna, are we going to visit Mao and Mei's graves?"
                             ]
                         },
                         {
@@ -6154,7 +6070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ええ、是非行きたい。"
+                                "Luuna: Yes, I definitely want to go."
                             ]
                         },
                         {
@@ -6188,14 +6104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "                         \\{ ★処女プレイ ～エピローグ～ \\}"
+                                "★ Virgin Play - Epilogue ★"
                             ]
                         },
                         {

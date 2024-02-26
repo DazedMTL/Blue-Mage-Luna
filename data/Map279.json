@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ミサの村",
+    "displayName": "Misa Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -5188,14 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】奥にある屋敷はミサの村のレジスタンス達の屋敷よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、兵達は鋼鉄兵にやられて重傷で寝込んでいるわね。"
+                                "The mansion in the back belongs to the resistance fighters of Misa\nVillage. Right now, the soldiers are bedridden with serious injuries\nafter being defeated by the steel troops."
                             ]
                         },
                         {
@@ -5642,14 +5635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】最近、帝都に対抗するジュピターノの村々が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法大国バレンチナの奴等に全滅させられている。"
+                                "Man: \"Recently, the villages of Jupiterino that oppose the imperial\ncapital have been completely wiped out by the forces of the magical\nkingdom of Valentia.\""
                             ]
                         },
                         {
@@ -5667,14 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】この国、帝都ジュピターノと魔法大国バレンチナは軍事同盟関係にある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまりルーシアが命じてるって事だ。"
+                                "Man: \"This country, the imperial capital Jupiterino and the magical\nkingdom of Valentia are in a military alliance. In other words, it's\nLucia who's ordering this.\""
                             ]
                         },
                         {
@@ -5752,7 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宿屋】此処は宿屋です。一泊5ゴールドになります。"
+                                "[Inn] This is an inn. It costs 5 gold per night."
                             ]
                         },
                         {
@@ -5760,9 +5739,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "寝ない。",
-                                    "寝る。",
-                                    "夜まで待つ"
+                                    "Won't sleep.",
+                                    "Sleep.",
+                                    "Wait until nightfall."
                                 ],
                                 1,
                                 0,
@@ -5871,7 +5850,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【宿屋】足りません。"
+                                "[Inn] You don't have enough."
                             ]
                         },
                         {
@@ -5985,7 +5964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宿屋】此処は宿屋です。一泊5ゴールドになります。"
+                                "[Inn] This is an inn. It costs 5 gold per night."
                             ]
                         },
                         {
@@ -5993,9 +5972,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "寝ない。",
-                                    "寝る。",
-                                    "昼まで待つ"
+                                    "I won't sleep.",
+                                    "I'll sleep.",
+                                    "Wait until noon"
                                 ],
                                 1,
                                 0,
@@ -6104,7 +6083,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【宿屋】足りません。"
+                                "[Inn] You don't have enough."
                             ]
                         },
                         {
@@ -6227,7 +6206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】此処はミサの村。帝都に対抗するレジスタンスの隠れ里よ。"
+                                "Woman: \"This is the village of Misa, a hidden hamlet for the\nresistance opposing the imperial capital.\""
                             ]
                         },
                         {

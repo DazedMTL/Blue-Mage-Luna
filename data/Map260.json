@@ -19112,7 +19112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『オールヒールⅢの魔法書』を手に入れた。"
+                                "You've obtained the \"Oruhiru III Spellbook\"."
                             ]
                         },
                         {
@@ -19370,7 +19370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『防御力の豆』を手に入れた。"
+                                "Gained the \"Bean of Defense.\""
                             ]
                         },
                         {
@@ -19628,7 +19628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『聖者の聖水』を手に入れた。"
+                                "Gained the \"Saint's Holy Water\"."
                             ]
                         },
                         {

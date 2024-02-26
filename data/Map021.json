@@ -16724,7 +16724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『火の鳥』を手に入れた。"
+                                "Obtained the \"Phoenix\"."
                             ]
                         },
                         {
@@ -16984,7 +16984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『元気薬(完全回復)』を手に入れた。"
+                                "You've obtained the \"Elixir (Full Recovery).\""
                             ]
                         },
                         {
@@ -21052,7 +21052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『レイズⅡ』を手に入れた。"
+                                "Obtained \"Raise II\"."
                             ]
                         },
                         {

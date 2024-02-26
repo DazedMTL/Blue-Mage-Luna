@@ -2741,7 +2741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あっ ノア!"
+                                "Luuna: Ah, Noah!"
                             ]
                         },
                         {
@@ -2768,7 +2768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ、無事で良かった。"
+                                "Noah: Luuna, I'm glad you're safe."
                             ]
                         },
                         {
@@ -2786,7 +2786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -2837,14 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア、両脚が動かなくなったと聞いたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままだと脚が壊死して死ぬというのは本当なの？"
+                                "Luuna: Noah, I heard that you can't move your legs anymore. Is it true\nthat if it stays like this, your legs will necrotize and you'll die?"
                             ]
                         },
                         {
@@ -2862,7 +2855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ああ･･･"
+                                "Noah: Yeah..."
                             ]
                         },
                         {
@@ -2913,7 +2906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そんな･･･ノア･･･"
+                                "Luuna: That's... Noah..."
                             ]
                         },
                         {
@@ -2931,7 +2924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ポール、大丈夫？"
+                                "Becky: Pole, are you okay?"
                             ]
                         },
                         {
@@ -2958,7 +2951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ベッキー、遅いぞ。新婚の夫をずっと放置しやがって。"
+                                "Pole: Becky, you're late. Leaving your newlywed husband all alone like\nthat."
                             ]
                         },
                         {
@@ -2976,7 +2969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ごめん、ごめん。ちょっと用事があってね。"
+                                "Becky: Sorry, sorry. I had a little errand to run."
                             ]
                         },
                         {
@@ -3003,7 +2996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: ノア、ポール、お前等は弱っちいな。だから怪我するんだよ。"
+                                "Cain: Noah, Pole, you guys are weak. That's why you get injured."
                             ]
                         },
                         {
@@ -3030,7 +3023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: げっ。カインさん！何で村長の息子のあなたが此処へ？"
+                                "Pole: Gah. Cain-san! Why is the village chief's son like you here?"
                             ]
                         },
                         {
@@ -3048,7 +3041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 村長の息子さんが何で･･･"
+                                "Noah: Why is the village chief's son..."
                             ]
                         },
                         {
@@ -3066,7 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 少し訳があって当分、俺はルーナとベッキーと一緒に行動を共にする。"
+                                "Cain: There's a reason. For now, I will be joining Luuna and Becky and\nacting together with them."
                             ]
                         },
                         {
@@ -3084,7 +3077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: 訳って何ですか？"
+                                "Pole: What reason?"
                             ]
                         },
                         {
@@ -3102,7 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: お前等には言えん。親父の命令だからな。色々あるんだよ。"
+                                "Cain: I can't tell you guys. It's an order from my father. There's a\nlot going on."
                             ]
                         },
                         {
@@ -3120,7 +3113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: そうですか。カインさん、ルーナをお願いします。"
+                                "Noah: Is that so. Cain-san, please take care of Luuna."
                             ]
                         },
                         {
@@ -3138,14 +3131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 俺達は旅に出る。また様子を見に来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ、ベッキー、隣町のベルに行くぞ。"
+                                "Cain: We're setting out on a journey. I'll come back to check on\nthings later. Luuna, Becky, we're heading to the next town, Bell."
                             ]
                         },
                         {
@@ -3163,14 +3149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッキー: はい。"
+                                "Luuna: Yes. Becky: Yes."
                             ]
                         },
                         {
@@ -3193,7 +3172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナとベッキーはベルの街に向かう事にした。"
+                                "Luuna and Becky decided to head to the town of Bell."
                             ]
                         },
                         {
@@ -3275,7 +3254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -3324,7 +3303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････?"
+                                "Luuna: ...?"
                             ]
                         },
                         {
@@ -3375,7 +3354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 誰かいる･･･"
+                                "Luuna: Is someone there..."
                             ]
                         },
                         {
@@ -3807,7 +3786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【???】あ、どうも。"
+                                "[???]: \"Ah, hello.\""
                             ]
                         },
                         {

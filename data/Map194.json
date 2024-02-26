@@ -9696,8 +9696,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "準備する",
-                                    "「必真の水鏡」に触れる"
+                                    "Prepare",
+                                    "Touch the \"Mirror of Truth\""
                                 ],
                                 0,
                                 0,
@@ -9784,7 +9784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -10081,7 +10081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -10184,7 +10184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......."
                             ]
                         },
                         {
@@ -10355,7 +10355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！！"
+                                "Luuna: !!!"
                             ]
                         },
                         {
@@ -10373,7 +10373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: こいつ！まさか！？"
+                                "Becky: This guy! Could it be!?"
                             ]
                         },
                         {
@@ -10391,7 +10391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 氷魔･･･"
+                                "Luuna: Ice demon..."
                             ]
                         },
                         {
@@ -10409,7 +10409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 氷魔？有名なモンスターなのか？"
+                                "Cain: Ice demon? Is it a famous monster?"
                             ]
                         },
                         {
@@ -10427,14 +10427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん。私がバレンチナ魔法学生の頃に聞いた事がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "主に神殿や遺跡を中心に荒らし回っているモンスターが居ると。"
+                                "Luuna: Yes. I've heard about it when I was a student at the Valentina\nMagic Academy. It's a monster that mainly rampages around temples and\nruins."
                             ]
                         },
                         {
@@ -10452,14 +10445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あたしも聞いた事がある。何人もの冒険者がこいつの犠牲になっているって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "氷系モンスターの最高峰に位置する。強いわよ。"
+                                "Becky: I've heard about it too. Many adventurers have fallen victim to\nit. It's considered the pinnacle of ice-type monsters. It's strong."
                             ]
                         },
                         {
@@ -10477,7 +10463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ......."
                             ]
                         },
                         {
@@ -10526,7 +10512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 倒すわよ･･･！"
+                                "Luuna: We're going to defeat it...!"
                             ]
                         },
                         {

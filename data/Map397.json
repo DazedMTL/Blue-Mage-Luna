@@ -6127,7 +6127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -6145,7 +6145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ･････"
+                                "Kyle: \"...\""
                             ]
                         },
                         {
@@ -6256,7 +6256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ルーナ、よくやってくれた。感謝する。"
+                                "Kyle: \"Luuna, you did well. I'm grateful.\""
                             ]
                         },
                         {
@@ -6274,7 +6274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: あとは聖杯の鍵で、聖杯を手に入れるだけだ。"
+                                "Kyle: \"Now we just need to use the key to obtain the Holy Grail.\""
                             ]
                         },
                         {
@@ -6325,7 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇ、此処は？"
+                                "Becky: \"Hey, where is this place?\""
                             ]
                         },
                         {
@@ -6352,14 +6352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】此処は兵士や民間人達の慰霊碑。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都軍やバレンチナによって殺害された者達が眠っている。"
+                                "Rima: \"This is a memorial for soldiers and civilians. Those killed by\nthe royal army and Valentina rest here.\""
                             ]
                         },
                         {
@@ -6386,7 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ウェンディ】そんな暗い顔しないで～。ルーナ達が来て皆、喜んでるのだから。"
+                                "Wendy: \"Don't look so gloomy~. Everyone's happy that Luuna and the\nothers have come.\""
                             ]
                         },
                         {
@@ -6422,7 +6415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リリム】リニもいるしね。絶対に王都軍に勝てるよ。"
+                                "Lilim: \"Rinny is here too. We can definitely beat the royal army.\""
                             ]
                         },
                         {
@@ -6456,7 +6449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････"
+                                "Rinny: \"...\""
                             ]
                         },
                         {
@@ -6507,7 +6500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: しかし本当に聖杯の力で、奴等に勝てるのか？"
+                                "Rinny: \"But can we really defeat them with the power of the Holy\nGrail?\""
                             ]
                         },
                         {
@@ -6525,7 +6518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 分からない。まずは聖杯を手に入れなければな。"
+                                "Kyle: \"I don't know. First, we need to get our hands on the Holy\nGrail.\""
                             ]
                         },
                         {
@@ -6576,14 +6569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: カイルさん、聖杯は何処にあるのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先回りされる前に、早く入手しましょう。"
+                                "Luuna: \"Kyle-san, where is the Holy Grail? We should get it quickly\nbefore they get ahead of us.\""
                             ]
                         },
                         {
@@ -6601,7 +6587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 聖杯は『シヴァの聖殿』にある。行ってくれるのか？"
+                                "Kyle: \"The Holy Grail is in 'Shiva's Temple.' Will you go?\""
                             ]
                         },
                         {
@@ -6668,7 +6654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい、勿論です。"
+                                "Luuna: \"Yes, of course.\""
                             ]
                         },
                         {
@@ -6795,14 +6781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 此処が「シヴァの聖殿」だ。此処に聖杯があると伝えられている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聖杯の鍵が無いと決して開かない宝箱に入っているらしい。"
+                                "Kyle: \"This is 'Shiva's Temple.' It is said that the Holy Grail is\nhere, inside a treasure chest that won't open without the key.\""
                             ]
                         },
                         {
@@ -6890,7 +6869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リリム】リニは行かないの～？"
+                                "Lilim: \"Isn't Rinny going too~?\""
                             ]
                         },
                         {
@@ -6908,7 +6887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････"
+                                "Rinny: \"...\""
                             ]
                         },
                         {
@@ -6926,14 +6905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポロ】ばーか、リニは、いざって時の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっておきなんだよ。"
+                                "Polo: \"Idiot, Rinny is our trump card for when the time comes.\""
                             ]
                         },
                         {
@@ -6951,7 +6923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リリム】そっか～♪"
+                                "Lilim: \"I see~♪\""
                             ]
                         },
                         {
@@ -7002,7 +6974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: けっ･･･何言ってるんだよ。"
+                                "Rinny: \"Tch... What are you talking about.\""
                             ]
                         },
                         {
@@ -7082,7 +7054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ウェンディ】うふふっ リリムったら。"
+                                "Wendy: \"Ufufu, Lilim you're such a tease.\""
                             ]
                         },
                         {
@@ -7100,7 +7072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】ははっ 忌み子も形無しだなぁ。"
+                                "Rima: \"Haha, even the cursed child is speechless.\""
                             ]
                         },
                         {
@@ -7118,7 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: はははっ"
+                                "Kyle: \"Hahaha\""
                             ]
                         },
                         {
@@ -7169,7 +7141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うふふっ"
+                                "Luuna: \"Ufufu\""
                             ]
                         },
                         {
@@ -7234,7 +7206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (居心地が良い･･･出来れば、この人達とずっと一緒に居たい。)"
+                                "Luuna: \"(It feels so comfortable... If possible, I want to stay with\nthese people forever.)\""
                             ]
                         },
                         {
@@ -7252,14 +7224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (でも嫌な予感がするのは何故･･･？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから早く聖杯を手に入れたい。急ごう。)"
+                                "Luuna: \"(But why do I have this bad feeling...? That's why I want to\nget the Holy Grail quickly. Let's hurry.)\""
                             ]
                         },
                         {

@@ -5663,7 +5663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -5681,7 +5681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: そうか。あの魔導将軍リニに忠告されたのか。"
+                                "Noah: \"I see. So you were warned by the sorcerer general Rinny.\""
                             ]
                         },
                         {
@@ -5732,7 +5732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ええ。レグナス・グラハードでも奴等には勝てないと言われたわ。"
+                                "Luuna: \"Yes. Even Regnus Grahardt said we couldn't beat them.\""
                             ]
                         },
                         {
@@ -5750,14 +5750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: レグナス・グラハードとナイツオブメサイアが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕達の唯一の希望だったのにな。"
+                                "Noah: \"And here I thought Regnus Grahardt and the Knights of Messiah\nwere our only hope.\""
                             ]
                         },
                         {
@@ -5808,7 +5801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうね。これからどうすれば良いのか悩んでいる。"
+                                "Luuna: \"Right. I'm wondering what we should do now.\""
                             ]
                         },
                         {
@@ -5826,7 +5819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･･･････"
+                                "Noah: \"...\""
                             ]
                         },
                         {
@@ -5906,7 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: レーデさんに相談してみては？"
+                                "Noah: \"Why not consult with Lady Rade?\""
                             ]
                         },
                         {
@@ -5957,14 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: でもレーデさんは･･･助けてくれないと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女は私達の国に興味が無いから。"
+                                "Luuna: \"But Lady Rade... I don't think she'll help us. She has no\ninterest in our country.\""
                             ]
                         },
                         {
@@ -5982,14 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: でも他に頼れる人はレーデさんしかいないじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一度、頼んでみなよ。"
+                                "Noah: \"But there's no one else to turn to but Lady Rade. Try asking\nher again.\""
                             ]
                         },
                         {
@@ -6007,7 +5986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -6089,7 +6068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: わかった。ノアの言う通り。レーデさんに相談してみる。"
+                                "Luuna: \"Alright. As you say, Noah. I'll consult with Lady Rade.\""
                             ]
                         },
                         {
@@ -6138,7 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア･･･"
+                                "Luuna: \"Noah...\""
                             ]
                         },
                         {
@@ -6156,7 +6135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ん･･･？"
+                                "Noah: \"Hmm...?\""
                             ]
                         },
                         {
@@ -6208,7 +6187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -6259,7 +6238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 何でもない。"
+                                "Luuna: \"It's nothing.\""
                             ]
                         },
                         {
@@ -6277,14 +6256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ、ナイツオブメサイアに助けを求めるにしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金が必要なんだろ？そんなお金･･･用意できるのか？"
+                                "Noah: \"Luuna, even if we ask the Knights of Messiah for help, we'll\nneed money, right? Can we really prepare such funds?\""
                             ]
                         },
                         {
@@ -6335,7 +6307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: わからない。でも何とかしてみる。"
+                                "Luuna: \"I don't know. But I'll try to find a way.\""
                             ]
                         },
                         {
@@ -6353,7 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 本当にあまり無茶するなよ。俺は･･･本当にルーナを愛しているんだから･･･"
+                                "Noah: \"Don't push yourself too hard, okay? I... I truly love you,\nLuuna...\""
                             ]
                         },
                         {
@@ -6404,7 +6376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん･･･"
+                                "Luuna: \"Yeah...\""
                             ]
                         },
                         {
@@ -6422,7 +6394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 抱きしてもいい･･･？"
+                                "Noah: \"Can I hold you...?\""
                             ]
                         },
                         {
@@ -6473,7 +6445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん･･･ノア、好きだよ。"
+                                "Luuna: \"Yes... Noah, I love you.\""
                             ]
                         },
                         {
@@ -6491,7 +6463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 俺もルーナが好きだ。愛してる･･･"
+                                "Noah: \"I love you too, Luuna. I really do...\""
                             ]
                         },
                         {
@@ -6542,7 +6514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ん･･･"
+                                "Luuna: \"Mm...\""
                             ]
                         },
                         {
@@ -6572,7 +6544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナとノアは長い時間、抱きしめ合った。"
+                                "Luuna and Noah held each other for a long time."
                             ]
                         },
                         {
@@ -6590,14 +6562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノアはグッとルーナを何度も自分の身体に引き寄せ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分達の愛を確かめるように抱きしめた。ルーナもまたノアを抱きしめる。"
+                                "Noah pulled Luuna close to his body repeatedly, embracing her as if to\nconfirm their love. Luuna embraced Noah in return."
                             ]
                         },
                         {
@@ -6615,14 +6580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナとノアは小さい頃からの励まし合ってきた幼馴染。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "混沌な世の中で二人は成長してきた。"
+                                "Luuna and Noah have been childhood friends who encouraged each other\nsince they were little. They grew up together in a chaotic world."
                             ]
                         },
                         {
@@ -6640,7 +6598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっと結ばれたルーナとノア。不幸な世の中でも二人の愛は固い絆で結ばれている。"
+                                "Finally united, Luuna and Noah's love was bound by a strong tie even\nin an unfortunate world."
                             ]
                         },
                         {
@@ -6658,7 +6616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この夜も、二人はずっと抱きしめ合った。"
+                                "This night, too, they held each other tightly."
                             ]
                         },
                         {
@@ -6676,7 +6634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてルーナ達はレーデの館へ向かった。"
+                                "And then Luuna and the others headed for Lady Rade's mansion."
                             ]
                         },
                         {
@@ -6729,7 +6687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[84] ※「娼館で働く」の条件を達成しました。"
+                                "\\I[84] ※ You have met the conditions to 'Work at the brothel'."
                             ]
                         },
                         {
@@ -6759,14 +6717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[84] ※他のエッチイベントを解放するには、最初に娼館イベントを達成して下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初回に娼館イベントを攻略する事で他のエッチイベントが解放されます。"
+                                "\\I[84] ※ To unlock other erotic events, you must first complete the brothel\nevent. Clearing the brothel event for the first time will unlock other\nerotic events."
                             ]
                         },
                         {
@@ -6796,14 +6747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[84] ※様々なエッチイベントを発生させるには、まず娼館で働いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "条件を満たして下さい。ベルの街の娼館は夜にしないと働けません。"
+                                "\\I[84] ※ To trigger various erotic events, first work at the brothel and\nmeet the conditions. The brothel in Bell's town cannot be worked at\nunless it is night."
                             ]
                         },
                         {

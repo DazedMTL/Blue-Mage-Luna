@@ -4637,7 +4637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宿屋】此処は宿屋です。一泊5ゴールドになります。"
+                                "[Inn] This is an inn. It costs 5 gold per night."
                             ]
                         },
                         {
@@ -4645,9 +4645,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "寝ない。",
-                                    "寝る。",
-                                    "夜まで待つ"
+                                    "Won't sleep.",
+                                    "Sleep.",
+                                    "Wait until nightfall."
                                 ],
                                 1,
                                 0,
@@ -4756,7 +4756,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【宿屋】足りません。"
+                                "[Inn] You don't have enough."
                             ]
                         },
                         {
@@ -4870,7 +4870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宿屋】此処は宿屋です。一泊5ゴールドになります。"
+                                "[Inn] This is an inn. It costs 5 gold per night."
                             ]
                         },
                         {
@@ -4878,9 +4878,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "寝ない。",
-                                    "寝る。",
-                                    "昼まで待つ"
+                                    "Won't sleep.",
+                                    "Sleep.",
+                                    "Wait until noon"
                                 ],
                                 1,
                                 0,
@@ -4989,7 +4989,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【宿屋】足りません。"
+                                "[Inn] You don't have enough."
                             ]
                         },
                         {
@@ -6247,7 +6247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -6325,7 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】へへ･･･真面目そうな魔導士だからナンパが成功するとは思わなかったぜ。"
+                                "Man: Hehe... I didn't expect to successfully hit on such a serious-\nlooking mage."
                             ]
                         },
                         {
@@ -6343,7 +6343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】話を聞く限り、恋人のノア君が寝取らせ趣味があるんだってな？"
+                                "Man: From what I hear, your boyfriend Noah-kun has a cuckolding\nfetish, right?"
                             ]
                         },
                         {
@@ -6361,7 +6361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい。彼の命令なら何でも従う事になって。"
+                                "Luuna: Yes. I've agreed to obey whatever he commands."
                             ]
                         },
                         {
@@ -6386,7 +6386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】そりゃあ楽しみだ。"
+                                "Man: Well, that's exciting."
                             ]
                         },
                         {
@@ -6416,7 +6416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ。"
+                                "Noah: Luuna."
                             ]
                         },
                         {
@@ -6434,25 +6434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノア: ノアの言う通り、街の男達のナンパを受け入れたよ。"
+                                "Luuna: Noah."
                             ]
                         },
                         {
@@ -6470,7 +6452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: そっか。よくやったぞ、ルーナ。今日もしこれる。"
+                                "Noah: Just like I said, I accepted the pickups from the men in town."
                             ]
                         },
                         {
@@ -6488,7 +6470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･････"
+                                "Noah: I see. You did well, Luuna. I can jerk off to this today too."
                             ]
                         },
                         {
@@ -6506,43 +6488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ、ナンパ男に代わってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ: ええ･･･"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【男】よぉ、お前がルーナの恋人か？"
+                                "Noah: ..."
                             ]
                         },
                         {
@@ -6560,7 +6506,43 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ああ。"
+                                "Noah: Luuna, switch with the pickup guy."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Luuna: Yes..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Man: Hey, you're Luuna's boyfriend?"
                             ]
                         },
                         {
@@ -6578,43 +6560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: お前等、ルーナを孕ませてくれ。強制妊娠薬を持ってるんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【男】うほっ･･･まじか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナ: ノア･･･"
+                                "Noah: Yeah."
                             ]
                         },
                         {
@@ -6632,21 +6578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 俺は遠く離れた村に居る。ルーナがいなくて毎日寂しいんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナが男遊びしてたのを知って目覚めたんだ。ルーナが他の男に玩具にされるのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興奮するって。"
+                                "Noah: You guys, impregnate Luuna. You have the forced pregnancy drug,\ndon't you?"
                             ]
                         },
                         {
@@ -6664,14 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】へへっ 好きにしていいって事だな。まぁこんな可愛い女の子は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に恋人がいるからな。彼女を孕ませて欲しいなんてよ～ 恋人がクズで良かったぜ。"
+                                "Man: Uho... seriously?"
                             ]
                         },
                         {
@@ -6689,7 +6614,61 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】じゃあルーナ、孕ませていいな？"
+                                "Luuna: Noah..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Noah: I'm in a village far away. It's lonely without Luuna every day,\nbut I woke up to the fact that she's been playing with men. The\nthought of Luuna being toyed with by other men turns me on."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Man: Heheh, so I can do whatever I want with her, huh? Well, such a\ncute girl definitely has a boyfriend. It's great that her lover is\nsuch a loser who wants her impregnated by someone else."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Man: So, Luuna, it's okay to impregnate you?"
                             ]
                         },
                         {
@@ -6779,7 +6758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私を孕ませて下さい。"
+                                "Luuna: Please impregnate me."
                             ]
                         },
                         {
@@ -6802,7 +6781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ルーナ、夜は長いんだ。まずは目を楽しませてくれや。"
+                                "Man: Luuna, the night is long. First, let me enjoy the sight of you."
                             ]
                         },
                         {
@@ -6934,7 +6913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: オマンコ、よろしくお願いします。"
+                                "Luuna: Please take care of my pussy."
                             ]
                         },
                         {
@@ -6952,7 +6931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】おお･･･エロいマンコだ。"
+                                "Man: Oh... what an erotic pussy."
                             ]
                         },
                         {
@@ -7011,7 +6990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ん･･･"
+                                "Luuna: Mmm..."
                             ]
                         },
                         {
@@ -7029,14 +7008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】冒険中、ずっと濡れてたんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険中はチンポの事、いつも考えてんだろ？"
+                                "Man: You were wet all throughout your adventure, weren't you? Always\nthinking about dick during your journey?"
                             ]
                         },
                         {
@@ -7061,7 +7033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】天才魔導士さんと言っても雌だ。"
+                                "Man: Even if you're a genius mage, you're still a female."
                             ]
                         },
                         {
@@ -7079,7 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】天才魔導士さんよ、ションベンしろ。"
+                                "Man: Genius mage, pee for me."
                             ]
                         },
                         {
@@ -7397,7 +7369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】雌が。"
+                                "Man: Female..."
                             ]
                         },
                         {
@@ -7420,14 +7392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男2人】恋人公認みたいだし、真面目魔導士ちゃんを適当に遊んで孕ませちまおうぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰の種で受精するかな～♪"
+                                "Two Men: Since it's with her lover's approval, let's play around with\nthis serious mage-chan and get her pregnant. Wonder whose seed will\nfertilize her~♪"
                             ]
                         },
                         {
@@ -7557,7 +7522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】んうう･･･"
+                                "Man: Nngh..."
                             ]
                         },
                         {
@@ -8348,7 +8313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして強制妊娠薬ポロンにより、ルーナは男達の誰かを妊娠した。"
+                                "And thus, due to the forced pregnancy drug Poron, Luuna became\npregnant by one of the men."
                             ]
                         },
                         {
@@ -8989,7 +8954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ。"
+                                "Noah: Luuna."
                             ]
                         },
                         {
@@ -9007,7 +8972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア･･･"
+                                "Luuna: Noah..."
                             ]
                         },
                         {
@@ -9025,14 +8990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 凄く辛いけど･･･興奮した･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イってしまった･･･情けなくてごめん。"
+                                "Noah: It's incredibly tough... but I got excited... I came... I'm\nsorry for being so pathetic."
                             ]
                         },
                         {
@@ -9050,7 +9008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: もういいよ･･･ノア･･･"
+                                "Luuna: It's okay now... Noah..."
                             ]
                         },
                         {
@@ -9068,14 +9026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノアは脚が動かなくて･･･ストレスが溜まってるから･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな事が･･･ノアの望む事で･･･興奮するなら･･･ ノアの言いなりになるよ･･"
+                                "Luuna: Noah can't move his legs... He's been stressed... Because of\nthis... If it excites Noah... I'll become obedient to anything he\nwants..."
                             ]
                         },
                         {
@@ -9093,7 +9044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ルーナ･･･愛してるよ･･･"
+                                "Luuna: Luuna... I love you..."
                             ]
                         },
                         {
@@ -9194,7 +9145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナは孕んだまま、二人はシェーナの村へ戻った。"
+                                "While pregnant, the two returned to the village of Sheena."
                             ]
                         },
                         {
@@ -9307,7 +9258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -9325,7 +9276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ･･･"
+                                "Noah: Luuna..."
                             ]
                         },
                         {
@@ -9343,14 +9294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 俺、おかしくなっちゃったな･･･死ぬほど悔しいのに･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナが誰かに弄ばれて孕まされた事実に物凄く興奮するんだ。"
+                                "Noah: I've gone crazy... It's incredibly frustrating... but the fact\nthat Luuna has been played with and impregnated by someone else\nexcites me tremendously."
                             ]
                         },
                         {
@@ -9368,14 +9312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア･･･良いのよ。ノアは脚の怪我のせいで私とエッチな事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "できないから･･･ノアが悦ぶ事なら私、何だってするよ。"
+                                "Luuna: Noah... It's okay. You can't do naughty things with me because\nof your leg injury... If it pleases Noah, I'll do anything."
                             ]
                         },
                         {
@@ -9398,7 +9335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※妊娠している場合は出産して下さい。妊娠状態では行動できません。"
+                                "*If you are pregnant, please give birth. You cannot take action while\npregnant."
                             ]
                         },
                         {

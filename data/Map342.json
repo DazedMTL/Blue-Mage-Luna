@@ -14339,14 +14339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ルーナ、このままでは君は不利さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満身創痍のうえ、多勢に無勢だからね。"
+                                "Zena: Luuna, at this rate, you're at a disadvantage. You're battered\nand outnumbered."
                             ]
                         },
                         {
@@ -14364,14 +14357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: そこでゲームだ。我々三人の中の一人に勝てば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃がしてあげるよ。"
+                                "Zena: So, here's the game. If you can beat one of us three, I'll let\nyou escape."
                             ]
                         },
                         {
@@ -14389,7 +14375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 随分と気前の良いゲームね。"
+                                "Luuna: That's quite a generous game."
                             ]
                         },
                         {
@@ -14407,7 +14393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: 君が勝てれば、だけどねぇ。"
+                                "Zena: If you can win, that is."
                             ]
                         },
                         {
@@ -14425,7 +14411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: で、誰を選ぶ？"
+                                "Zena: So, who will you choose?"
                             ]
                         },
                         {
@@ -14443,7 +14429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -14461,14 +14447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (この中なら当然、一番魔力の低いゼナだけどゼナの情報は何も無い･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも今の私の体力ではルーシアとシルヴィアには絶対に勝てない。)"
+                                "Luuna: (Of course, among them, Zena has the lowest magical power, but\nI have no information on Zena... However, with my current strength, I\nabsolutely can't win against Lucia and Sylvia.)"
                             ]
                         },
                         {
@@ -14486,14 +14465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (レグナス・グラハードがゼナに敗れたのが本当なら、その理由を知りたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝てなくてもいい。ゼナの秘密を掴んだ時に撤退すればいい。)"
+                                "Luuna: (If it's true that Regnus Grahardt was defeated by Zena, I want\nto know why. It's okay if I don't win. I just need to grasp Zena's\nsecret and then retreat.)"
                             ]
                         },
                         {
@@ -14511,7 +14483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -14562,7 +14534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ゼナ、あなたよ。"
+                                "Luuna: Zena, it's you."
                             ]
                         },
                         {
@@ -14580,7 +14552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: 私ですか。"
+                                "Zena: Me?"
                             ]
                         },
                         {
@@ -14855,7 +14827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: では、始めましょうか。"
+                                "Zena: Then, shall we begin?"
                             ]
                         },
                         {
@@ -14873,7 +14845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: 私を殺せたら我々バレンチナは、ジュピターノから手を引きますよ。"
+                                "Zena: If you can kill me, we from Valentia will withdraw from\nJupiterino."
                             ]
                         },
                         {
@@ -14924,7 +14896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: なに･･･"
+                                "Luuna: What..."
                             ]
                         },
                         {
@@ -14942,14 +14914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: 約束は守りますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一応、魔法大国バレンチナの皇子ですからね。但し、殺せたらね。"
+                                "Zena: I promise to honor it. After all, I am the prince of the great\nmagical nation of Valentia. But only if you can kill me."
                             ]
                         },
                         {
@@ -14967,7 +14932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 願っても無いわね。"
+                                "Luuna: That's more than I could wish for."
                             ]
                         },
                         {
@@ -15018,7 +14983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: いくわよ･･･ゼナ！"
+                                "Luuna: Here I come... Zena!"
                             ]
                         },
                         {
@@ -15154,7 +15119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うあああああああーーーーーっ！！！"
+                                "Luuna: Uaaaaaaaah-----!!!"
                             ]
                         },
                         {
@@ -15172,7 +15137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ･････！！！"
+                                "Sylvia: ...!!!"
                             ]
                         },
                         {
@@ -15280,7 +15245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (レグナス・グラハードがゼナに敗北したという噂･･･)"
+                                "Luuna: (The rumor that Regnus Grahardt was defeated by Zena...)"
                             ]
                         },
                         {
@@ -15331,7 +15296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (もし本当なら、私のこの魔法で分かる筈･･･！)"
+                                "Luuna: (If it's true, this magic should reveal it...!)"
                             ]
                         },
                         {
@@ -15349,7 +15314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ･････"
+                                "Zena: ..."
                             ]
                         },
                         {
@@ -15400,7 +15365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: くっ･･･！"
+                                "Luuna: Grr...!"
                             ]
                         },
                         {
@@ -15451,7 +15416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 受けてみるがいい！ゼナ！"
+                                "Luuna: Take this! Zena!"
                             ]
                         },
                         {
@@ -15512,7 +15477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: スーパーフレア・バースト！！"
+                                "Luuna: Super Flare Burst!!"
                             ]
                         },
                         {
@@ -15755,7 +15720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ううっ･･･！うあああああ･･･"
+                                "Zena: Ugh...! Uaaaaa..."
                             ]
                         },
                         {
@@ -15773,7 +15738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 手応えがあった･･･！"
+                                "Luuna: There was a response...!"
                             ]
                         },
                         {
@@ -15834,7 +15799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はぁっ！！"
+                                "Luuna: Hah!!"
                             ]
                         },
                         {
@@ -16012,7 +15977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: うわぁああああ！！うぐぐっ･･･！！"
+                                "Zena: Uwaaaaah!! Ughh...!!"
                             ]
                         },
                         {
@@ -16061,7 +16026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ゼ、ゼナ様･･･！まさか･･･"
+                                "Sylvia: Ze, Zena-sama...! No way..."
                             ]
                         },
                         {
@@ -16079,7 +16044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ･････"
+                                "Zena: ..."
                             ]
                         },
                         {
@@ -16109,7 +16074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ･･････････"
+                                "Zena: ......"
                             ]
                         },
                         {
@@ -16127,7 +16092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: す、凄い攻撃だな･･･。びっくりしたよ。"
+                                "Zena: That was an incredible attack... I'm surprised."
                             ]
                         },
                         {
@@ -16178,7 +16143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あまり･･･効いていない･･･"
+                                "Luuna: It didn't seem to... affect you much..."
                             ]
                         },
                         {
@@ -16196,14 +16161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: 僕はね、生まれつき特異体質で打たれ強いんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄い攻撃だったけど何とか耐えれたよ。"
+                                "Zena: You see, I was born with a unique constitution that makes me\ntough. It was an incredible attack, but I managed to withstand it."
                             ]
                         },
                         {
@@ -16221,7 +16179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 特異体質･･･"
+                                "Luuna: Unique constitution..."
                             ]
                         },
                         {
@@ -16272,14 +16230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そんな筈は･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(打たれ強いとか･･･そういう事じゃない･･･何故･･･)"
+                                "Luuna: That can't be... (It's not about being tough... Why...)"
                             ]
                         },
                         {
@@ -16393,7 +16344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: 次は僕の番だ。"
+                                "Zena: Now it's my turn."
                             ]
                         },
                         {
@@ -16411,7 +16362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ルーナ、君に比べたら地味な技だけどね。"
+                                "Zena: Luuna, my technique may be plain compared to yours."
                             ]
                         },
                         {
@@ -16619,7 +16570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うっ･･･ぐっ！"
+                                "Luuna: Ugh...ugh!"
                             ]
                         },
                         {
@@ -16637,7 +16588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: 『死の糸』。この糸で君を引き裂く。ルーナ、君の負けだ。"
+                                "Zena: \"Threads of Death.\" With these threads, I'll tear you apart.\nLuuna, you've lost."
                             ]
                         },
                         {
@@ -16655,7 +16606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ:･･････！"
+                                "Luuna: ......!"
                             ]
                         },
                         {
@@ -16673,7 +16624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: 動けば、身体は引き裂かれるよ。糸は刀より鋭いからね。"
+                                "Zena: If you move, your body will be torn apart. The threads are\nsharper than any blade."
                             ]
                         },
                         {
@@ -16725,7 +16676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -16776,7 +16727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (これまでのようね･･･)"
+                                "Luuna: (It's just like before...)"
                             ]
                         },
                         {
@@ -16827,7 +16778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (でも･･･)"
+                                "Luuna: (But...)"
                             ]
                         },
                         {
@@ -16879,7 +16830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 『死の糸』をラーニング･･･"
+                                "Luuna: Learning the \"Threads of Death\"..."
                             ]
                         },
                         {
@@ -16897,7 +16848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: え･･･"
+                                "Zena: Eh...?"
                             ]
                         },
                         {
@@ -16915,7 +16866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ゼナ様！！危ない！！"
+                                "Sylvia: Lady Zena!! Look out!!"
                             ]
                         },
                         {
@@ -16940,7 +16891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: な･･･"
+                                "Zena: Wha...?"
                             ]
                         },
                         {
@@ -17001,7 +16952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 死の糸！！"
+                                "Luuna: Threads of Death!!"
                             ]
                         },
                         {
@@ -17108,7 +17059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ･･･！！"
+                                "Zena: ...!!"
                             ]
                         },
                         {
@@ -17154,7 +17105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ああっ･･･！！"
+                                "Zena: Aaah...!!"
                             ]
                         },
                         {
@@ -17205,7 +17156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: どうやら、この勝負、相打ちのようね。"
+                                "Luuna: It seems this match will end in a draw."
                             ]
                         },
                         {
@@ -17256,14 +17207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ゼナ皇子、疫病神のお前が死ねば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジュピターノもバレンチナも昔のように平穏に戻る。"
+                                "Luuna: Prince Zena, if the plague-bringer like you dies, Jupiterino\nand Valentina will return to their peaceful ways as before."
                             ]
                         },
                         {
@@ -17281,7 +17225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ･････！！"
+                                "Zena: ......!!"
                             ]
                         },
                         {
@@ -17299,7 +17243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ああ･･････あああああ･･････"
+                                "Zena: Ah...ahhhhh..."
                             ]
                         },
                         {
@@ -17317,7 +17261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: ま、待て･･････待ってくれ。"
+                                "Zena: Wai...wait a moment."
                             ]
                         },
                         {
@@ -17368,7 +17312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: さようなら。"
+                                "Luuna: Goodbye."
                             ]
                         },
                         {
@@ -17402,7 +17346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: なーんてな。"
+                                "Zena: Just kidding."
                             ]
                         },
                         {
@@ -17453,7 +17397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･････"
+                                "Luuna: Eh...?"
                             ]
                         },
                         {
@@ -17471,7 +17415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゼナ: 相打ちではない。糸を引いてみるがいい。"
+                                "Zena: It's not a draw. Try pulling on the threads."
                             ]
                         },
                         {
@@ -17522,7 +17466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: なに･････"
+                                "Luuna: What...?"
                             ]
                         },
                         {
@@ -17540,7 +17484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -17591,7 +17535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: くっ･････"
+                                "Luuna: Gah...!"
                             ]
                         },
                         {
@@ -17616,7 +17560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -17634,7 +17578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そう･･･ "
+                                "Luuna: So..."
                             ]
                         },
                         {
@@ -17695,7 +17639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ゼナ！自分の技で死ぬがいいわ！"
+                                "Luuna: Zena! Die by your own technique!"
                             ]
                         },
                         {
@@ -17756,7 +17700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 死の糸！！"
+                                "Luuna: Threads of Death!!"
                             ]
                         },
                         {

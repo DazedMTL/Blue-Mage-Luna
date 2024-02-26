@@ -5696,7 +5696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア、ごめんね。グラの薬草が手に入らなくて･･･。"
+                                "Luuna: Noah, I'm sorry. I couldn't get my hands on the Gra herbs..."
                             ]
                         },
                         {
@@ -5714,14 +5714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ベッキーから聞いたよ。他の村のレジスタンスの兵士達に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "譲ったんだってね。"
+                                "Noah: I heard from Becky. You gave them to the resistance soldiers\nfrom another village, right?"
                             ]
                         },
                         {
@@ -5801,14 +5794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナは優しいな。僕は気にしていないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなルーナが好きだからさ。"
+                                "Noah: Luuna, you're so kind. I don't mind at all. That's why I like\nyou so much."
                             ]
                         },
                         {
@@ -5875,7 +5861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア･･･"
+                                "Luuna: Noah..."
                             ]
                         },
                         {
@@ -5893,7 +5879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 今日は本当はルーナに会いたくて呼んだんだ。"
+                                "Noah: Actually, I called you here today because I really wanted to see\nyou."
                             ]
                         },
                         {
@@ -5944,7 +5930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん･･･私も会いたかったから。"
+                                "Luuna: Yeah... I wanted to see you too."
                             ]
                         },
                         {
@@ -5962,7 +5948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ははっ 何か･･･照れるね。恋人になったばかりだからさ。"
+                                "Noah: Haha, it's kind of embarrassing, isn't it? We've just become\nlovers, after all."
                             ]
                         },
                         {
@@ -6013,7 +5999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん･･･ノア･･･好きだよ。"
+                                "Luuna: Yeah... Noah... I love you."
                             ]
                         },
                         {
@@ -6031,7 +6017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 僕もルーナが好きだよ。"
+                                "Noah: I love you too, Luuna."
                             ]
                         },
                         {
@@ -6049,7 +6035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･･･････"
+                                "Noah: ............"
                             ]
                         },
                         {
@@ -6083,7 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: おっと、本題に入ろう。"
+                                "Noah: Oops, let's get to the main topic."
                             ]
                         },
                         {
@@ -6101,7 +6087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: レグナス・グラハードの消息が分かったんだ。"
+                                "Noah: I've found out about Regnus Grahardt's whereabouts."
                             ]
                         },
                         {
@@ -6119,7 +6105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････！"
+                                "Luuna: ............!"
                             ]
                         },
                         {
@@ -6137,7 +6123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: 溶岩の洞窟「サザン」に現れたらしい。"
+                                "Noah: It seems he appeared in the 'Southern' lava cave."
                             ]
                         },
                         {
@@ -6188,7 +6174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ:  溶岩の洞窟「サザン」に？"
+                                "Luuna: The 'Southern' lava cave?"
                             ]
                         },
                         {
@@ -6206,14 +6192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: サザンで遊んでいた近所の少女達が溶岩に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "巻き込まれそうになったのをレグナス・グラハードが助けたらしい。"
+                                "Noah: Apparently, Regnus Grahardt saved some local girls who were\nplaying in Southern and almost got caught in the lava."
                             ]
                         },
                         {
@@ -6264,7 +6243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 助けた人がレグナス・グラハードだと何故わかったの？"
+                                "Luuna: How did they know the person who saved them was Regnus\nGrahardt?"
                             ]
                         },
                         {
@@ -6282,7 +6261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: その場に以前、レグナス・グラハードに助けられた村の人が居たんだよ。"
+                                "Noah: There was someone from the village who had been saved by Regnus\nGrahardt before at the scene."
                             ]
                         },
                         {
@@ -6300,14 +6279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: その人はレグナスに御礼をしたくて声を掛けると足早に去ったらしいが･･･ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれは間違いなくレグナス・グラハード本人だと言っているんだよ。"
+                                "Noah: That person wanted to thank Regnus and tried to talk to him, but\nhe left quickly... They're certain it was Regnus Grahardt himself."
                             ]
                         },
                         {
@@ -6325,7 +6297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6343,7 +6315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ、どうする？"
+                                "Noah: Luuna, what will you do?"
                             ]
                         },
                         {
@@ -6392,7 +6364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -6443,7 +6415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 勿論、炎の洞窟「サザン」に行くわ。"
+                                "Luuna: Of course, I'm going to the 'Southern' flame cave."
                             ]
                         },
                         {
@@ -6494,7 +6466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 今の私にはレグナス・グラハードの影を追う事しかできないから。"
+                                "Luuna: Right now, all I can do is chase after Regnus Grahardt's\nshadow."
                             ]
                         },
                         {
@@ -6512,7 +6484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ･･･"
+                                "Noah: Luuna..."
                             ]
                         },
                         {
@@ -6563,7 +6535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 昨日、ルーシアに会った。"
+                                "Luuna: I met Lucia yesterday."
                             ]
                         },
                         {
@@ -6581,7 +6553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: なんだって！"
+                                "Noah: What!?"
                             ]
                         },
                         {
@@ -6599,7 +6571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: よく無事だったな･･･"
+                                "Noah: You're lucky to be safe..."
                             ]
                         },
                         {
@@ -6617,7 +6589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 私はあいつに言った。"
+                                "Luuna: I told her."
                             ]
                         },
                         {
@@ -6668,14 +6640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: これ以上、無駄な殺戮をするようなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな手を使ってもお前を倒すとね。"
+                                "Luuna: If you continue this senseless slaughter, I'll use whatever\nmeans necessary to defeat you."
                             ]
                         },
                         {
@@ -6693,7 +6658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: あいつは、ニヤリと笑ったわ。"
+                                "Luuna: She just smirked at that."
                             ]
                         },
                         {
@@ -6711,7 +6676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ･････"
+                                "Noah: ............"
                             ]
                         },
                         {
@@ -6762,7 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: でも･･･私が、"
+                                "Luuna: But... when I said,"
                             ]
                         },
                         {
@@ -6813,14 +6778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 「レグナス・グラハードは必ず見つける。」と言うと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつの表情が一瞬、変わった。あんなルーシアの表情は見た事が無い。"
+                                "Luuna: \"I will definitely find Regnus Grahardt,\" her expression\nchanged for a moment. I've never seen Lucia with that look before."
                             ]
                         },
                         {
@@ -6871,14 +6829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レグナス・グラハードが何者かは分からない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも今の私にはそれに賭けるしかない気がするの。"
+                                "Luuna: I don't know who Regnus Grahardt is. But right now, it feels\nlike that's all I have to bet on."
                             ]
                         },
                         {
@@ -6896,7 +6847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: そうか。"
+                                "Noah: I see."
                             ]
                         },
                         {
@@ -6914,7 +6865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ･･･"
+                                "Noah: Luuna..."
                             ]
                         },
                         {
@@ -6963,7 +6914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア･･･"
+                                "Luuna: Noah..."
                             ]
                         },
                         {
@@ -6981,14 +6932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ルーナ、あんまり無理しないでくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレンチナの将軍達とルーシアはお前を狙っている。心配だよ。"
+                                "Noah: Luuna, please don't push yourself too hard. The generals of\nValentina and Lucia are after you. I'm worried about you."
                             ]
                         },
                         {
@@ -7055,14 +6999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 大丈夫･･･大丈夫だよ、ノア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも私がやらないと誰もやらないから。"
+                                "Luuna: It's okay... I'm okay, Noah. But if I don't do it, no one else\nwill."
                             ]
                         },
                         {
@@ -7114,7 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達は『サザンの洞窟』へ向かった。"
+                                "Luuna and the others headed towards the \"Southern Cave.\""
                             ]
                         },
                         {

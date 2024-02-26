@@ -16,7 +16,7 @@
         "volume": 10
     },
     "disableDashing": false,
-    "displayName": "あとがき部屋",
+    "displayName": "Afterword Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9932,28 +9932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アリシア】皆さん、お久しぶりです。次回作の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「浮遊魔法都市のレイ ～直系の魔導士～」もよろしくお願いしますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイは「ツクールACE」制なのですよね。レイはルーナより前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "制作していて制作期間が長かった事情があるそうです。"
+                                "Alicia: Hello everyone, it's been a while. Please look forward to our\nnext game \"Ray of the Floating Magic City - The Direct Descendant\nMagician\". Ray was developed using \"Tsukuru ACE\", wasn't it? I heard\nthat Ray was in production before Luuna and had a longer development\nperiod due to certain circumstances."
                             ]
                         },
                         {
@@ -9971,21 +9950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アリシア】「ツクールACE」制は、スマホゲーム化できないので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「浮遊魔法都市のレイ ～直系の魔導士～」はパソコン版しか販売できません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レイをプレイする際は、パソコンで購入して下さいね。"
+                                "Alicia: Since \"Tsukuru ACE\" cannot be adapted for smartphone games,\n\"Ray of the Floating Magic City - The Direct Descendant Magician\" will\nonly be available for PC. When you want to play Ray, please make sure\nto purchase it for your computer."
                             ]
                         },
                         {
@@ -11623,14 +11588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【セリス】よっ また会ったな。次回作「浮遊魔法都市のレイ ～直系の魔導士～」でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナイツオブメサイアは登場するから宜しくな。"
+                                "Ceres: Yo, we meet again. Look forward to the Knights of Messiah\nmaking an appearance in the next title \"Ray of the Floating Magical\nCity – The Direct Descendant Magician\"."
                             ]
                         },
                         {
@@ -11657,14 +11615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【セリス】それにしても俺はリニの後始末ばかりやってるような･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "始末書もんだよ･･･とほほ。また王様とハーデスに怒られる。"
+                                "Ceres: But man, it feels like I'm always cleaning up after Rinny...\nWriting reports and all... *sigh*. I'm going to get scolded by the\nking and Hades again."
                             ]
                         },
                         {
@@ -11742,7 +11693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ･････"
+                                "Rinny: ..."
                             ]
                         },
                         {
@@ -11793,14 +11744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ふっ･･･ 金メダルと全クリアのプレゼントが、こんな下らん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとがき部屋とはな。まぁ着せ替え衣装が2種類追加されたようだが。実にくだらんな。"
+                                "Rinny: Hmph... To think the reward for a gold medal and a complete\nclear would be such a trivial afterword room. Well, it seems two types\nof costume changes have been added. Utterly trivial indeed."
                             ]
                         },
                         {
@@ -11818,21 +11762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: 前にも言ったが俺は正義の味方ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "醜いものは誰でも切るだけだ。そのせいでセリスが始末書を書く事に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっても知った事か。あいつには始末書がお似合いだぜ。"
+                                "Rinny: Like I've said before, I'm no hero. I'll cut down anything\nugly. If that means Ceres has to write up a report, so be it. That\nsuits her just fine."
                             ]
                         },
                         {
@@ -11850,14 +11780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: そうそう、俺のアイコンドットが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リメイクされた事に気付いたか？次のゲームでもよろしくな。"
+                                "Rinny: Oh yeah, did you notice my icon sprite got a remake? Look\nforward to seeing me in the next game."
                             ]
                         },
                         {
@@ -11935,14 +11858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マヤ】こんにちは、久しぶり！次回作の「浮遊魔法都市のレイ ～直系の魔導士～」でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナイツオブメサイアが活躍するかもしれないよ～。よろしくね。"
+                                "Maya: Hello, long time no see! In our next title \"Ray of the Floating\nMagic City - The Direct Descendant Magician -\", the Knights of Messiah\nmight make an appearance. Looking forward to it!"
                             ]
                         },
                         {
@@ -11960,21 +11876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マヤ】あと、あたしとアリシア様とリニのエッチなゲーム、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メサイアIFもよろしくお願いね！「メサイアIF」は「メサイア～真実の答え～」の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外伝的なゲームだよ。"
+                                "Maya: Also, please look forward to the naughty game featuring me, Lady\nAlicia, and Rinny, Messiah IF! \"Messiah IF\" is a spin-off game of\n\"Messiah - The True Answer -\"."
                             ]
                         },
                         {
@@ -12052,14 +11954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジェダイト】完全クリアおめでとう。ナイツオブメサイアが販売(2019年)されて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "3年程度経つのか。時が流れるのは早いものだ。変わらず応援してくれて有難う。"
+                                "[Jedite] Congratulations on the complete clear. It's been about three\nyears since Knights of Messiah went on sale (2019). Time flies so\nquickly. Thank you for your unwavering support."
                             ]
                         },
                         {
@@ -12137,14 +12032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】完全クリア、おめでとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやぁ、金メダルまで揃えるって凄いや。"
+                                "Luuna: Congratulations on the complete clear. Wow, getting all the\ngold medals is quite impressive."
                             ]
                         },
                         {
@@ -12162,14 +12050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】あとがき部屋限定とはいえ、こうしてまた兄さんやサトリ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セリス様達と出会えるなんて嬉しい限りですね。"
+                                "Luuna: Even if it's just in the epilogue room, I'm so happy to be able\nto meet you, Satori, and Lord Ceres again."
                             ]
                         },
                         {
@@ -12247,14 +12128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【サトリ】完全クリアおめでとう。僕は誰かって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忘れてるならプレイしてみてね～。"
+                                "[Satori] Congratulations on the complete clear. Who am I, you ask? If\nyou've forgotten, why not play again to find out~."
                             ]
                         },
                         {
@@ -12332,14 +12206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リク】何で僕が此処に居るって？メサイアIFの初期メンバーだったからだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またマヤと一緒に入れて嬉しい～。"
+                                "Riku: \"Why am I here? Because I was one of the original members of\nMessiah IF. I'm so happy to be with Maya again~.\""
                             ]
                         },
                         {
@@ -12417,14 +12284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】いつも応援頂き、誠に有難うございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルーナの完全クリア＋金メダル」おめでとうございます！"
+                                "[gyu] Thank you always for your support. Congratulations on achieving\na complete clear plus a gold medal in Luuna!"
                             ]
                         },
                         {
@@ -12442,21 +12302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】ルーナ制作の感想としては･･･「地獄でした」の一言ですね；えらい目にあいました...。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしても、2022年内に出したいという事情と目標がありまして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この文章を書いているのも販売登録当日という･･･。"
+                                "[gyu] As for my thoughts on the production of Luuna... \"It was hell\"\nis the only way to put it; I went through quite an ordeal... There was\na circumstance and a goal to release it within the year 2022, and I'm\nwriting this on the very day of the game's sales registration..."
                             ]
                         },
                         {
@@ -12474,14 +12320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】この短期間で、ここまで作れただけでも奇跡に近いと思っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回ほど様々な方に助けられた作品はないと感じました。"
+                                "[gyu] To have made it this far in such a short period of time feels\nalmost like a miracle. I've never felt so helped by so many people in\nany other project as I did this time."
                             ]
                         },
                         {
@@ -12499,21 +12338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】この規模であれば本来は3年制作コースですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり急スピードで作ったにしては順調にいった方です。RPG制作は本当に難しい･･･と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じた次第で今回も物凄く大変でした。RPG制作に慣れるという事はなさそうです。"
+                                "[gyu] For a project of this scale, it would normally be a three-year\nproduction course, but considering the rushed speed at which we\nworked, it went relatively smoothly. RPG creation is truly\ndifficult... and this time was incredibly challenging. It seems\nunlikely that I'll ever get used to making RPGs."
                             ]
                         },
                         {
@@ -12531,14 +12356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】ルーナの感想としては･･･ルーナは当初、ルーシアに倒される"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャラクター前提として作った主人公だったのです。"
+                                "[gyu] As for my thoughts on Luuna... Initially, Luuna was created as a\nprotagonist with the premise of being defeated by Lucia."
                             ]
                         },
                         {
@@ -12556,14 +12374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】でも途中で気が変わりました。最後は笑顔で居て欲しいなと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナに感情輸入してしまったのかもしれませんね。"
+                                "[gyu] But along the way, I changed my mind. I wanted her to be smiling\nin the end. Perhaps I ended up projecting my emotions onto Luuna."
                             ]
                         },
                         {
@@ -12581,21 +12392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】次回作は「レイ」ですが、レイはルーナと正反対で「落ちこぼれ」です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなレイがルーシアやレグナス・グラハードと、どう関わっていくのか次回作を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しみにして下さいませ。"
+                                "[gyu] The next work will be \"Rade,\" but Rade is the complete opposite\nof Luuna, a \"dropout.\" Please look forward to how such a Rade will\ninteract with Lucia and Regnus Grahardt in the next work."
                             ]
                         },
                         {
@@ -12613,14 +12410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】この作品でルーシアなど舞台設定の詳細を伝える事が出来て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったと思っています。"
+                                "[gyu] I'm glad that this work allowed me to convey the details of the\nsetting, such as Lucia and others."
                             ]
                         },
                         {
@@ -12638,14 +12428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】ルーナをプレイ頂き、心より感謝致します。誠に有難うございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次回作『浮遊魔法都市のレイ ～直系の魔導士～』(ACE)も是非よろしくお願いします。"
+                                "[gyu] Thank you from the bottom of my heart for playing Luuna. I truly\nappreciate it. Please also look forward to the next work, \"The\nFloating Magical City of Rade ~The Direct Descendant Magician~\" (ACE)."
                             ]
                         },
                         {
@@ -12663,14 +12446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【gyu】ここまで楽しんで頂き、本当に、本当に、ありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変お疲れ様でした。では、また次回作でお会いしましょう！"
+                                "[gyu] Thank you so very much for enjoying it to this extent. You've\ndone an amazing job. Let's meet again in the next work!"
                             ]
                         },
                         {
@@ -12760,7 +12536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リンカ】にゃ～ん。"
+                                "Rinka: Meow~"
                             ]
                         },
                         {

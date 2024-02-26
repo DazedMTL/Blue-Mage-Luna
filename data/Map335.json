@@ -14517,7 +14517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ･････････"
+                                "Lucia: \"...\""
                             ]
                         },
                         {
@@ -14568,7 +14568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ルーナ、お前に勝ち目は無いと言った筈。"
+                                "Lucia: \"Luuna, I told you that you have no chance of winning.\""
                             ]
                         },
                         {
@@ -14586,7 +14586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -14669,7 +14669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: とうとう来たわね、ルーナ。"
+                                "Sylvia: \"So you've finally arrived, Luuna.\""
                             ]
                         },
                         {
@@ -14687,7 +14687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: シルヴィア･･･"
+                                "Luuna: \"Sylvia...\""
                             ]
                         },
                         {
@@ -14705,14 +14705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: この私が生徒の中で唯一、一目置いた天才魔導士。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは生徒の中でも別格だったわ。"
+                                "Sylvia: \"You were the only student I ever acknowledged as a genius\nmagician. You were exceptional even among the students.\""
                             ]
                         },
                         {
@@ -14730,7 +14723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: まさかルーシアを裏切り刃向かうとは思わなかったけどね。"
+                                "Sylvia: \"But I never thought you would betray Lucia and turn against\nher.\""
                             ]
                         },
                         {
@@ -14748,7 +14741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うるさい。お前の昔話など興味ない。"
+                                "Luuna: \"Shut up. I'm not interested in your old stories.\""
                             ]
                         },
                         {
@@ -14766,14 +14759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ふふふ･･･あなたを此処におびき出すには生贄が必要だと思ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マオとメイという生贄がね。"
+                                "Sylvia: \"Hehehe... I knew we needed a sacrifice to lure you out here.\nMao and Mei served that purpose.\""
                             ]
                         },
                         {
@@ -14824,7 +14810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: くっ･･･"
+                                "Luuna: \"Grr...\""
                             ]
                         },
                         {
@@ -14842,14 +14828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ナイツオブメサイアは力を貸してくれなかったのでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レグナス・グラハードは何処にいるかさえ分からない。"
+                                "Sylvia: \"The Knights of Messiah didn't lend you their power, did they?\nWe don't even know where Regnus Grahardt is.\""
                             ]
                         },
                         {
@@ -14867,14 +14846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: そんなわけでルーナ、お前を潰すには今が頃合いなのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "厄介な芽は今のうちに潰しておかないとね。"
+                                "Sylvia: \"So, Luuna, now is the perfect time to crush you. It's best to\nnip troublesome buds like you in the bud.\""
                             ]
                         },
                         {
@@ -14892,14 +14864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: これ以上、私達を放置しておけば、お仲間が何処かでまた殺されるかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しれないものねぇ？無謀な戦いをするしかないわよねぇ？"
+                                "Sylvia: \"If we leave you be, your comrades might get killed somewhere\nagain, right? You have no choice but to fight recklessly, do you?\""
                             ]
                         },
                         {
@@ -14917,7 +14882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: その声、二度と聞きたくないと思ってたけど。"
+                                "Luuna: \"I thought I never wanted to hear that voice again.\""
                             ]
                         },
                         {
@@ -14984,14 +14949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: バレンチナ筆頭の魔導士シルヴィア･･･卑怯さは相変わらずね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "卑怯な真似をしないと元生徒の芽も潰せないの？"
+                                "Luuna: \"Sylvia, the leading magician of Valentina... Your cowardice is\nas strong as ever. Can't you crush a former student's spirit without\nresorting to such underhanded tactics?\""
                             ]
                         },
                         {
@@ -15009,7 +14967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 元生徒が随分と生意気になったものね。"
+                                "Sylvia: \"The former student has become quite cheeky, hasn't she?\""
                             ]
                         },
                         {
@@ -15107,7 +15065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ヒルダ！"
+                                "Sylvia: \"Hilda!\""
                             ]
                         },
                         {
@@ -15235,7 +15193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】･････"
+                                "[Hilda] \"...\""
                             ]
                         },
                         {
@@ -15253,7 +15211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ルーナ、ヒルダはお前の後釜なのよ。"
+                                "Sylvia: \"Luuna, Hilda is your replacement.\""
                             ]
                         },
                         {
@@ -15271,7 +15229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 後釜？"
+                                "Luuna: \"Replacement?\""
                             ]
                         },
                         {
@@ -15289,14 +15247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ヒルダはバレンチナ魔法学校の今の生徒では最上位でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がヒルダをバレンチナの将軍に指名した。"
+                                "Sylvia: \"Hilda is currently the top student at Valentina Magic School.\nI've appointed Hilda as the general of Valentina.\""
                             ]
                         },
                         {
@@ -15314,14 +15265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 本来ならルーナ、ルーシアの付き人を辞めた時にお前を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誘いたかったんだけどねぇ。お前がヒルダの仕事をする筈だった。"
+                                "Sylvia: \"Ideally, Luuna, after you quit being Lucia's attendant, I\nwanted to invite you. You were supposed to do Hilda's job.\""
                             ]
                         },
                         {
@@ -15346,7 +15290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････！"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -15364,14 +15308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ふふ･･･ つまり、ヒルダはお前が生み出したのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前がバレンチナの将軍になっていれば、マオとメイはヒルダに食べられなかったのに。"
+                                "Sylvia: \"Hehe... In other words, Hilda is your creation. If you had\nbecome the general of Valentina, Mao and Mei wouldn't have been eaten\nby Hilda.\""
                             ]
                         },
                         {
@@ -15422,7 +15359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うっ･･･"
+                                "Luuna: \"Ugh...\""
                             ]
                         },
                         {
@@ -15440,7 +15377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】ひっひっひっ･･･"
+                                "[Hilda] \"Heeheehee...\""
                             ]
                         },
                         {
@@ -15486,7 +15423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ヒルダ･･･"
+                                "Luuna: \"Hilda...\""
                             ]
                         },
                         {
@@ -15504,7 +15441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】ひっひっひっ･･･"
+                                "[Hilda] \"Heeheehee...\""
                             ]
                         },
                         {
@@ -15557,7 +15494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】ルーナ、マオとメイの人肉は美味だったぞ？"
+                                "[Hilda] \"Luuna, Mao and Mei's flesh was delicious, you know?\""
                             ]
                         },
                         {
@@ -15575,7 +15512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】頭から丸呑みにして、骨までしゃぶりつくして食べたぞ？"
+                                "[Hilda] \"I swallowed them whole from head to toe, sucking on their\nbones and all.\""
                             ]
                         },
                         {
@@ -15593,7 +15530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -15611,7 +15548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】特に二人の目玉はコリコリして実に美味だったわ。御馳走様。"
+                                "[Hilda] \"Especially their eyeballs were crunchy and truly delectable.\nThank you for the meal.\""
                             ]
                         },
                         {
@@ -15629,14 +15566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】あまりに美味しかったのでな、ハンバーグにして保存しているぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マオとメイのハンバーグ、お前も食べるか？"
+                                "[Hilda] \"They were so delicious that I made them into hamburgers and\nsaved them. Want to try Mao and Mei's hamburgers?\""
                             ]
                         },
                         {
@@ -15706,7 +15636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ヒルダ･･･絶対に殺す･･･"
+                                "Luuna: \"Hilda... I will kill you...\""
                             ]
                         },
                         {
@@ -15757,7 +15687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: あの時、忠告した筈よ？これ以上、邪魔すると痛い目に遭うとね。"
+                                "Lucia: \"I warned you before, didn't I? If you interfere any further,\nyou'll suffer.\""
                             ]
                         },
                         {
@@ -15775,7 +15705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -15838,7 +15768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: まずはヒルダとバレンチナの上位魔導士達と戦ってもらう。"
+                                "Sylvia: \"First, you'll fight Hilda and the top magicians of\nValentina.\""
                             ]
                         },
                         {
@@ -15907,7 +15837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】ひっひっひっ･･･"
+                                "[Hilda] \"Heeheehee...\""
                             ]
                         },
                         {
@@ -16094,7 +16024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -16112,14 +16042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ヒルダは言うまでもないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた達が今まで戦ってきた者達とは格が違うわ。"
+                                "Sylvia: \"Needless to say about Hilda, but she is on a different level\nfrom anyone you've fought before.\""
                             ]
                         },
                         {
@@ -16137,14 +16060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】ひっひっひっ･･･ お前の死に際にマオとメイの肉団子を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理矢理食わせてやるよ。あはははははっ"
+                                "Hilda: \"Heeheehee... I'll force you to eat Mao and Mei's meatballs at\nthe moment of your death. Ahahahaha!\""
                             ]
                         },
                         {
@@ -16195,7 +16111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ヒルダ･･･苦しませて殺しやる･･･！"
+                                "Luuna: \"Hilda... I will make you suffer before I kill you...!\""
                             ]
                         },
                         {
@@ -16213,14 +16129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: ヒルダに命じたのは私なんだけどね。ふふふ･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの二人、最期までルーナの名を叫び助けを求めていたのよ？肉塊になりながらねぇ。"
+                                "Sylvia: \"It was I who ordered Hilda, but you know. Fufufu... Those\ntwo, until the very end, they were calling out for Luuna and begging\nfor help, even as they turned into lumps of flesh.\""
                             ]
                         },
                         {
@@ -16238,14 +16147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 先に妹の方が食べられた時の兄の顔ったら無かったわねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶望そのもの。ああ、可哀想･･･くくくっ"
+                                "Sylvia: \"The look on the brother's face when his sister was eaten\nfirst was priceless. The very image of despair. Oh, how pitiful...\nkukuku.\""
                             ]
                         },
                         {
@@ -16296,7 +16198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うっ･･･くっ･･･"
+                                "Luuna: \"Ugh... Grr...\""
                             ]
                         },
                         {
@@ -16314,14 +16216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シルヴィア: 本当にハンバーグ、美味しかったわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナには特別に生で食わせてあげる。"
+                                "Sylvia: \"The hamburgers really were delicious. I'll let Luuna have\nthem raw, especially.\""
                             ]
                         },
                         {
@@ -16339,7 +16234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーシア: ヒルダ、さっさと始末しなさい。"
+                                "Lucia: \"Hilda, finish this quickly.\""
                             ]
                         },
                         {
@@ -16364,7 +16259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】･･･････"
+                                "Hilda: \".........\""
                             ]
                         },
                         {
@@ -16382,7 +16277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヒルダ】ひっひっひっ･･･ いくぞ。"
+                                "Hilda: \"Heeheehee... Let's go.\""
                             ]
                         },
                         {
@@ -16400,7 +16295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 皆、いくわよ･･･！"
+                                "Luuna: \"Everyone, let's go...!\""
                             ]
                         },
                         {
@@ -16430,7 +16325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\I[89]HINT】ヒルダ戦は「ラスト敗北エロ」があります。"
+                                "\\I[89]HINT: \"There is a 'Last Defeat Erotic Scene' in the battle\nagainst Hilda.\""
                             ]
                         },
                         {
@@ -16460,14 +16355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\I[89]HINT】敗北すると「ラスト敗北エロ」となります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦闘前でもラスト敗北エロを選択できます。"
+                                "\\I[89]HINT: \"If you are defeated, it will lead to the 'Last Defeat\nErotic Scene'. You can choose to view the Last Defeat Erotic Scene\nbefore the battle as well.\""
                             ]
                         },
                         {
@@ -16497,7 +16385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\I[89]HINT】「ラスト敗北エロ」を見ますか？"
+                                "\\I[89]HINT: \"Would you like to view the 'Last Defeat Erotic Scene'?\""
                             ]
                         },
                         {
@@ -16505,8 +16393,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見ない(戦う。)",
-                                    "見る(敗北する。\\I[7]ラスト敗北エロを見る。)"
+                                    "Don't watch (Fight.)",
+                                    "Watch (Surrender. \\I[7]View the final defeat erotic scene.)"
                                 ],
                                 -1,
                                 0,
@@ -16886,7 +16774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒルダ】ひいっ･･･ 馬鹿な･･･"
+                                "Hilda: \"Eek... Impossible...\""
                             ]
                         },
                         {
@@ -16937,7 +16825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ヒルダ･･･許さない！"
+                                "Luuna: \"Hilda... I won't forgive you!\""
                             ]
                         },
                         {
@@ -17062,7 +16950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ヒルダ】ひいっ･･･ "
+                                "Hilda: \"Eek...\""
                             ]
                         },
                         {
@@ -17080,7 +16968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シルヴィア: 今のヒルダが負けるとは･･･想定外ね。"
+                                "Sylvia: \"I didn't expect Hilda to lose now. This was unforeseen.\""
                             ]
                         },
                         {
@@ -17160,7 +17048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: \".........\""
                             ]
                         },
                         {
@@ -17211,7 +17099,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: 義姉さん、意外でも何でもなくてよ。"
+                                "Lucia: \"Sister-in-law, it's not surprising at all.\""
                             ]
                         },
                         {
@@ -17262,14 +17150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: ルーナは一応、唯一わたくしが筆頭にした魔導士だから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ヒルダに勝っても不思議ではない。"
+                                "Lucia: \"After all, Luuna is the top magician that I personally\nappointed. It's not strange for her to defeat Hilda.\""
                             ]
                         },
                         {
@@ -17287,7 +17168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シルヴィア: そうね。"
+                                "Sylvia: \"Indeed.\""
                             ]
                         },
                         {
@@ -17417,7 +17298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: ルーナ、最期にもう一度チャンスをあげる。"
+                                "Lucia: \"Luuna, I'll give you one last chance.\""
                             ]
                         },
                         {
@@ -17435,7 +17316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: 今なら逃がしてあげてもよくてよ？"
+                                "Lucia: \"If you want, I can let you escape now?\""
                             ]
                         },
                         {
@@ -17486,7 +17367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: なに･･･"
+                                "Luuna: \"What...?\""
                             ]
                         },
                         {
@@ -17545,7 +17426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シルヴィア: ルーシア！"
+                                "Sylvia: \"Lucia!\""
                             ]
                         },
                         {
@@ -17596,7 +17477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: 勘違いしないでね？"
+                                "Lucia: \"Don't misunderstand me.\""
                             ]
                         },
                         {
@@ -17647,14 +17528,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: お前を泳がせておけば、レグナス・グラハードを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見つける事が出来ると思っただけよ。この戦い、私には何の得も無いから。"
+                                "Lucia: \"I just thought that by letting you go, we could find Regnus\nGrahardt. This battle has no benefit for me.\""
                             ]
                         },
                         {
@@ -17672,7 +17546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: 折角の最期通告だけど、逃げるつもりはないわ。"
+                                "Luuna: \"Despite your final warning, I have no intention of running\naway.\""
                             ]
                         },
                         {
@@ -17724,7 +17598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: ･････････"
+                                "Lucia: \"............\""
                             ]
                         },
                         {
@@ -17742,7 +17616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: 意思は固いようね。"
+                                "Lucia: \"You seem determined.\""
                             ]
                         },
                         {
@@ -17793,7 +17667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ええ。"
+                                "Luuna: \"Yes.\""
                             ]
                         },
                         {
@@ -17844,7 +17718,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: そう･･･残念ね。"
+                                "Lucia: \"That's too bad.\""
                             ]
                         },
                         {
@@ -17862,7 +17736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: ･････････"
+                                "Lucia: \"............\""
                             ]
                         },
                         {
@@ -17913,7 +17787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーシア: わかった。もはや何も言わないわ。"
+                                "Lucia: \"Understood. I won't say anything more.\""
                             ]
                         },
                         {
@@ -17959,9 +17833,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ラスト敗北エロをスルーする。",
-                                    "\\I[7]ラスト敗北エロを見る。",
-                                    "敵に捕まらず運良く逃走(処女プレイ用)"
+                                    "Skip the final defeat H-scene.",
+                                    "\\I[7]View the final defeat H-scene.",
+                                    "Escape by luck without being captured (For virgin playthrough)"
                                 ],
                                 -1,
                                 0,
@@ -18081,7 +17955,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: \".........\""
                             ]
                         },
                         {
@@ -18461,7 +18335,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: \".........\""
                             ]
                         },
                         {

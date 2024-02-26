@@ -4116,14 +4116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【バロ】俺はレアショップのバロだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "珍しい道具を売っている。"
+                                "Baro: I'm Baro from the Rare Shop. I sell unusual tools."
                             ]
                         },
                         {
@@ -4141,7 +4134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【バロ】おっ カインの旦那じゃねぇか。頼まれていたものは出来てるぜ。"
+                                "Baro: Oh, if it isn't Mister Cain. The item you requested is ready."
                             ]
                         },
                         {
@@ -4159,7 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: バロ、ありがと。"
+                                "Cain: Baro, thanks."
                             ]
                         },
                         {
@@ -4210,7 +4203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 頼まれていたもの？"
+                                "Luuna: The item that was requested?"
                             ]
                         },
                         {
@@ -4228,14 +4221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 通信機さ。ルーナとベッキーが冒険中、浮気するかもしれないって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポールに頼まれてな。"
+                                "Cain: It's a communicator. Pole asked me to get it because Luuna and\nBecky might cheat while they're on an adventure."
                             ]
                         },
                         {
@@ -4286,14 +4272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: なるほど、通信機か。ポールらしい注文ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナも恋人のノアが心配してるわよ。"
+                                "Becky: I see, a communicator. That's such a Pole thing to order.\nLuuna, your lover Noah is worried about you too."
                             ]
                         },
                         {
@@ -4344,7 +4323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 恋人ってノアの事？あははっ･･･"
+                                "Luuna: Lover? You mean Noah? Ahaha..."
                             ]
                         },
                         {
@@ -4362,14 +4341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: お前等、忘れるなよ？売春以外の手段で金を稼げないなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売春して村に金を納めてもらうからな。"
+                                "Cain: Don't you forget, okay? If you can't earn money by any means\nother than prostitution, you'll have to prostitute yourselves and pay\nthe village."
                             ]
                         },
                         {
@@ -4387,14 +4359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッキー: わかってるよ。"
+                                "Luuna: Yes... Becky: I understand."
                             ]
                         },
                         {
@@ -4412,14 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【バロ】通信機を渡すぜ。これで遠くに居る彼氏といつでも会話できる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慣れてくると念じれば相手の姿まで見れるんだ。マッチ箱程度の大きさだから無くすなよ。"
+                                "Baro: Here's the communicator. With this, you can talk to your\nboyfriends no matter how far away they are. Once you get used to it,\nyou can even see their faces if you concentrate. It's about the size\nof a matchbox, so don't lose it."
                             ]
                         },
                         {
@@ -4442,14 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ達は街に一旦戻った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてカインは通信機を、ルーナとベッキーとノアとポールに渡した。"
+                                "Luuna and the others returned to town for a while. Then Cain handed\nout the communicators to Luuna, Becky, Noah, and Pole."
                             ]
                         },
                         {
@@ -4467,7 +4418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして再びルーナ達は、マニアショップに戻ってきたのである。"
+                                "And once again, Luuna and her companions returned to the Mania Shop."
                             ]
                         },
                         {
@@ -4499,7 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノア、聞こえる？"
+                                "Luuna: Noah, can you hear me?"
                             ]
                         },
                         {
@@ -4517,14 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノア: ああ、ルーナの声が聞こえるよ。不思議だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでいつでも連絡がとれるね。"
+                                "Noah: Yeah, I can hear Luuna's voice. It's amazing. Now we can stay in\ntouch anytime."
                             ]
                         },
                         {
@@ -4575,7 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: うん。今忙しいから、また連絡するね。じゃあ。"
+                                "Luuna: Yeah. I'm busy right now, so I'll contact you again later. Bye."
                             ]
                         },
                         {
@@ -4626,7 +4570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇ、ポール、聞こえる？"
+                                "Becky: Hey, Pole, can you hear me?"
                             ]
                         },
                         {
@@ -4644,7 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: おう、ベッキー、聞こえるぜ。この通信機は凄いよなぁ。"
+                                "Pole: Yeah, Becky, I can hear you. This communicator is amazing, huh?"
                             ]
                         },
                         {
@@ -4662,7 +4606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポール: ベッキー、おまえ、俺がいない時に浮気するなよ？"
+                                "Pole: Becky, don't cheat on me while I'm not around, okay?"
                             ]
                         },
                         {
@@ -4680,14 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はは･･･ 当たり前じゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(売春する事になるかもしれないなんて、とても言えない･･･)"
+                                "Becky: Haha... Of course not. (I can't possibly tell him that I might\nhave to resort to prostitution...)"
                             ]
                         },
                         {
@@ -4738,7 +4675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: まぁ･･･じゃあね、ポール。また連絡するよ。"
+                                "Becky: Well... see ya, Pole. I'll contact you again."
                             ]
                         },
                         {
@@ -4789,7 +4726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふう･･･"
+                                "Becky: Phew..."
                             ]
                         },
                         {
@@ -4807,7 +4744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【バロ】上手く通信機が動作して良かったよ。"
+                                "Baro: Glad to see the communicator is working well."
                             ]
                         },
                         {
@@ -4825,14 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: バロ、助かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでルーナとベッキーも冒険中、寂しくなくなるな。ははっ"
+                                "Cain: Baro, you've been a big help. Now Luuna and Becky won't feel\nlonely during their adventures. Haha"
                             ]
                         },
                         {
@@ -4883,14 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ええ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ノアの声がいつでも聞けるのは嬉しい。)"
+                                "Luuna: Yes. (Being able to hear Noah's voice anytime is nice.)"
                             ]
                         },
                         {
@@ -4979,7 +4902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: セレンの森に行こう。"
+                                "Luuna: Let's go to Selen Forest."
                             ]
                         },
                         {
@@ -5090,14 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【バロ】通信機は声だけでなく、慣れると念じれば相手の姿まで見れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マッチ箱程度の大きさだから無くすなよ。"
+                                "Baro: \"Not only does the communicator transmit voice, but once you get\nused to it, you can even see the other person's appearance if you\nconcentrate. It's about the size of a matchbox, so don't lose it.\""
                             ]
                         },
                         {
@@ -5286,7 +5202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マイケル】此処はレアショップだ。珍しい物が揃ってるぜ。"
+                                "Michael: \"This is a rare shop. We've got a collection of unusual items\nhere.\""
                             ]
                         },
                         {
@@ -5376,7 +5292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『キュアーの魔法書』を手に入れた。"
+                                "You have obtained the \"Cure Spellbook\"."
                             ]
                         },
                         {

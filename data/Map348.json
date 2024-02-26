@@ -4637,7 +4637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】･･･！？"
+                                "Coris: ...!?"
                             ]
                         },
                         {
@@ -4655,7 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】君はシェーナの村の蒼魔導士ルーナ･･･！"
+                                "Coris: You are Luuna, the azure sorceress from the village of\nSheena...!"
                             ]
                         },
                         {
@@ -4680,7 +4680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】私はこの村のレジスタンスの責任者「コリス」だ。"
+                                "Coris: I am Coris, the leader of the resistance in this village."
                             ]
                         },
                         {
@@ -4698,7 +4698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ:･･･････"
+                                "Luuna: ............"
                             ]
                         },
                         {
@@ -4803,7 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】ルーナ、我々もレグナス・グラハードを探してみるよ。"
+                                "Ceres: Luuna, we should try searching for Regnus Grahardt as well."
                             ]
                         },
                         {
@@ -4872,21 +4872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【コリス】ルーナ･･･メイとマオは、君をとても慕っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分を責める事はない。それはメイとマオの望むところではないから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悔しいよ･･･無力な自分が。"
+                                "Ceres: Luuna... Mei and Mao really adored you. There's no need to\nblame yourself. That's not what Mei and Mao would want. It's so\nfrustrating... feeling so powerless."
                             ]
                         },
                         {
@@ -4964,7 +4950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】ルーナ、ルーシアなんかに負けるなよ。"
+                                "Mao: Luuna, don't lose to someone like Lucia."
                             ]
                         },
                         {
@@ -5033,14 +5019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マオ】ルーナこそノルヴァーナのレジスタンス達に加われば良いと思うんだけどなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あそこは皆、凄過ぎるんだぜ。ルーナかそれ以上の精鋭がいるかもしれないぞ～。"
+                                "Mao: I think Luuna should join the Norvana resistance. Everyone there\nis just too amazing. There might even be elites greater than Luuna~."
                             ]
                         },
                         {
@@ -5169,7 +5148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】ルーナ、ありがとう。グラの薬草で皆、傷が回復に向かっているわ。"
+                                "May: \"Luuna, thank you. Everyone's wounds are healing thanks to the\nherbs from Gra.\""
                             ]
                         },
                         {
@@ -5238,7 +5217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイ】鎖ねぇちゃん、あたしとお兄ちゃんは、いつでも応援してるよ。"
+                                "Mei: Chain-senpai, my brother and I are always cheering for you."
                             ]
                         },
                         {
@@ -5367,7 +5346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミサ兵】･････"
+                                "Militia Soldier: \"...\""
                             ]
                         },
                         {
@@ -5436,7 +5415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミサ兵】だいぶ回復したぜ。"
+                                "Misa Soldier: \"I've recovered quite a bit.\""
                             ]
                         },
                         {
@@ -5515,7 +5494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミサ兵】･････"
+                                "Militia Soldier: \"...\""
                             ]
                         },
                         {
@@ -5584,7 +5563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミサ兵】薬のお陰で怪我が回復したよ。"
+                                "Misa Soldier: \"Thanks to the medicine, my injuries have healed.\""
                             ]
                         },
                         {
@@ -5662,14 +5641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミサ兵】ルーシアとバレンチナの将軍達は絶対に許しません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々は決して諦めません。"
+                                "[Misa Soldier] We will never forgive Generals Lucia and Valentina. We\nwill never give up."
                             ]
                         },
                         {
@@ -5747,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミサ兵】･････"
+                                "Misa Soldier: \"...\""
                             ]
                         },
                         {
@@ -5816,7 +5788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ミサ兵】ルーシアには気をつけろよ。"
+                                "Militia Soldier: Be careful around Lucia."
                             ]
                         },
                         {

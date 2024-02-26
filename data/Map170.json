@@ -4868,7 +4868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ..."
                             ]
                         },
                         {
@@ -4886,7 +4886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 浴場があるなんて良い街ね。"
+                                "Luuna: It's nice that this town has a bathhouse."
                             ]
                         },
                         {
@@ -4904,7 +4904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 此処、温泉らしいわよ。温泉なんて久しぶりだね。"
+                                "Becky: This place seems to be a hot spring. It's been a while since\nwe've been to one, hasn't it?"
                             ]
                         },
                         {
@@ -4975,7 +4975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ん･･･"
+                                "Luuna: Mm..."
                             ]
                         },
                         {
@@ -4993,7 +4993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふぅ･･･"
+                                "Luuna: Phew..."
                             ]
                         },
                         {
@@ -5011,7 +5011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふわ～ 気持ちいい。"
+                                "Becky: Ahh~ This feels so good."
                             ]
                         },
                         {
@@ -5029,7 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 気持ちいい･･･たまには温泉も良いわね。"
+                                "Luuna: It feels good... A hot spring is nice once in a while, isn't\nit?"
                             ]
                         },
                         {
@@ -5077,7 +5077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人はしばらく温泉で時間を過ごした。"
+                                "The two spent some time relaxing in the hot spring."
                             ]
                         },
                         {
@@ -6470,7 +6470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店員】此処は温泉よ。ゆっくりしていってね。"
+                                "Clerk: \"This is a hot spring. Please relax and enjoy your time here.\""
                             ]
                         },
                         {
@@ -6711,7 +6711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『100G』を手に入れた。"
+                                "Gained 100G."
                             ]
                         },
                         {

@@ -10112,7 +10112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『運の豆』を手に入れた。"
+                                "Obtained the \"Bean of Fortune\"."
                             ]
                         },
                         {
@@ -12289,7 +12289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ラッキーリング』を手に入れた。"
+                                "You've obtained the \"Lucky Ring\"."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ノルヴァーナの街",
+    "displayName": "Town of Norvaana",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -13953,7 +13953,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】わっ エッチな格好してるわね。"
+                                "Oh! You're dressed so lewdly."
                             ]
                         },
                         {
@@ -13999,7 +13999,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】きゃ･･･変な格好してるね。"
+                                "Kya... You're wearing such a strange outfit."
                             ]
                         },
                         {
@@ -14061,7 +14061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】英雄の街、ノルヴァーナへようこそ。"
+                                "Welcome to the city of heroes, Norva-Na."
                             ]
                         },
                         {
@@ -14155,21 +14155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ノルヴァーナには、言い伝えがあってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雪の降る時は、楽しい事があった時。何も降らない時は、普通。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雨の降る時は、哀しい事があった時。"
+                                "Man: \"In Norva-Na, there's a legend. When it snows, it means something\njoyful has happened. When nothing falls, it's just an ordinary day.\nAnd when it rains, it signifies that something sad has occurred.\""
                             ]
                         },
                         {
@@ -14187,14 +14173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】大雨の時は、涙が出そうなほど、とても哀しい事があった時。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "･･･だそうだ。"
+                                "Man: \"During a downpour, it's said to be a time when something so\nterribly sad happens that it could bring you to tears...\""
                             ]
                         },
                         {
@@ -14212,14 +14191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】誰が対象かって？この街に居る誰かの強い感情で、天候が決まるって噂さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言い伝えだけどね。"
+                                "Man: \"Who does it pertain to? Rumor has it that the weather is\ndetermined by someone's strong emotions in this town. It's just a\nlegend, though.\""
                             ]
                         },
                         {
@@ -14248,14 +14220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男】ふむ･･･今は何も降って無いな。つまりこの街に居る誰かさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "楽しくも哀しくも無いって日だ。平均的に今は普通の感情の人が多いのだろうね。"
+                                "Man: \"Hmm... Nothing is falling right now. That means someone in this\ntown is neither happy nor sad today. It's probably an average day with\nmost people feeling neutral.\""
                             ]
                         },
                         {
@@ -14314,14 +14279,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男】ふむ･･･今は雪が降っているな。つまりこの街に居る誰かさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "楽しい気分って事だ。吹雪になって欲しいぜ！"
+                                "Man: \"Hmm... It's snowing right now. That means someone in this town\nis in a good mood. I wish it would turn into a blizzard!\""
                             ]
                         },
                         {
@@ -14370,14 +14328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男】ふむ･･･今は雨が降っているな。つまりこの街に居る誰かさんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "哀しい気分って事だ。嵐にならなければ良いが･･･"
+                                "Man: \"Hmm... It's raining at the moment. That means someone in this\ntown is feeling sad. Hopefully, it doesn't turn into a storm...\""
                             ]
                         },
                         {
@@ -14536,7 +14487,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】わっ エッチな格好ね･･･"
+                                "Woman: \"Wow, what a lewd outfit...\""
                             ]
                         },
                         {
@@ -14582,7 +14533,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】きゃ･･･面白い格好してるね。"
+                                "Woman: \"Kyaa... You're wearing quite an interesting outfit.\""
                             ]
                         },
                         {
@@ -14644,14 +14595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】この街の北東(右上)には、ノルヴァーナのレジスタンス達の屋敷がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼等は悪政続けるルーシア達から、この街を護ってくれているのよ。"
+                                "Woman: \"To the northeast (upper right) of this town lies the mansion\nof the Norva-Na resistance. They are protecting this town from the\ntyranny of Lucia and her followers.\""
                             ]
                         },
                         {
@@ -14807,7 +14751,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】へへ･･･ エッチな身体してるな\\I[7]"
+                                "Hehe... You've got a sexy body, huh\\I[7]"
                             ]
                         },
                         {
@@ -14860,7 +14804,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】エロ～\\I[7]"
+                                "Man: \"So lewd~\"\\I[7]"
                             ]
                         },
                         {
@@ -14929,14 +14873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ノルヴァーナのレジスタンス達は世界各国の強者が集結しているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この階段を登った屋敷に居るよ。"
+                                "Man: \"The resistance fighters of Norva-Na are a gathering of strong\nindividuals from all over the world. They're in the mansion up these\nstairs.\""
                             ]
                         },
                         {
@@ -15092,7 +15029,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】うはっ･･！ エロい身体してんじゃん\\I[7]"
+                                "Man: \"Ugh...! What a sexy body you have there\\I[7]\""
                             ]
                         },
                         {
@@ -15145,7 +15082,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男】エロいね～\\I[7]"
+                                "Man: \"So lewd~\\I[7]\""
                             ]
                         },
                         {
@@ -15214,14 +15151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ノルヴァーナのレジスタンス達は生きる英雄さ。この世界には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天上国と地上国が存在するが、ジュピターノ大陸は浮遊国家で天上国と一つだ。"
+                                "Man: \"The resistance fighters of Norva-Na are living heroes. In this\nworld, there exist the heavenly and the earthly nations, but the\ncontinent of Jupiterino is a floating nation, one with the heavens.\""
                             ]
                         },
                         {
@@ -15239,14 +15169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】ノルヴァーナのレジスタンス達は義勇兵の集まりでもある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天上国と地上国、分け隔てなく、この国の悪政を正そうとする集団なんだ。"
+                                "Man: \"The resistance fighters of Norva-Na are also a gathering of\nvolunteers. Without discrimination between the heavenly and the\nearthly nations, they are a group trying to correct the misgovernment\nof this country.\""
                             ]
                         },
                         {
@@ -15264,14 +15187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男】何度か王都軍の鋼鉄兵達や、あのバレンチナの魔導士達が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街に襲撃に来た時も追い返してくれた。本当に凄く強い戦士達だよ。"
+                                "Man: \"They've repelled attacks on this town by the royal army's steel\nsoldiers and those magicians from Valentina several times. They're\ntruly very strong warriors.\""
                             ]
                         },
                         {
@@ -15667,7 +15583,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】わ～っ 凄い格好･･･"
+                                "Wow, what an amazing outfit..."
                             ]
                         },
                         {
@@ -15713,7 +15629,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女】きゃ･･･面白い格好してるね。"
+                                "Kya... You're wearing such an interesting outfit."
                             ]
                         },
                         {
@@ -15775,14 +15691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女】ノルヴァーナは景観が綺麗な街としても知られているのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴミひとつ落ちていないでしょ。色んな村々や国の人達が訪れる街でもあるからね。"
+                                "Norva-Na is also known as a town with beautiful scenery. There's not a\nsingle piece of trash on the ground, right? It's a town visited by\npeople from various villages and countries as well."
                             ]
                         },
                         {
@@ -15938,7 +15847,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女の子】わっ 何て格好してるの･･･"
+                                "Girl: \"Wow, what are you wearing...?\""
                             ]
                         },
                         {
@@ -15984,7 +15893,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女の子】や～んっ･･･ エッチな格好してるわね。"
+                                "Girl: \"Eek... You're dressed so lewdly.\""
                             ]
                         },
                         {
@@ -16046,7 +15955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女の子】うう～･･･ 綺麗な街だけど、この街は寒いんだよ。"
+                                "Girl: \"Brrr... It's a beautiful city, but it's cold here.\""
                             ]
                         },
                         {
@@ -16242,14 +16151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【妖精】この丸い玉に触れると昼が夜になり、夜が昼になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿屋でも出来ます。"
+                                "Fairy: \"When you touch this round orb, day turns to night, and night\nturns to day. You can do the same at an inn.\""
                             ]
                         },
                         {
@@ -16399,14 +16301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\I[89]HINT!：「昼 → 夜」「夜 → 昼」に出来ます。宿屋でもできます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "売春する時や、娼館で働く時は 「夜」にして下さい。"
+                                "\\I[89]HINT!: You can change from \"Day → Night\" and \"Night → Day\". You can\nalso do this at the inn. Please make sure it's \"Night\" when you're\nprostituting or working at the brothel."
                             ]
                         },
                         {
@@ -16433,8 +16328,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "今はいい",
-                                    "夜まで待つ"
+                                    "I'm good for now",
+                                    "I'll wait until night"
                                 ],
                                 0,
                                 0,

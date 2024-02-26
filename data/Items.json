@@ -11,12 +11,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "回復アイテムより上位に表示したいアイテム用の枠です。",
+        "description": "This is a slot for items that you want to display above the recovery\nitems.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----初期アイテム",
+        "name": "-----Initial Items",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -37,12 +37,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法の水晶玉",
+        "description": "Magical Crystal Ball",
         "effects": [],
         "hitType": 0,
         "iconIndex": 165,
         "itypeId": 2,
-        "name": "魔法の水晶玉",
+        "name": "Magic Crystal Ball",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -63,12 +63,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "どんな扉でも開く魔法の鍵。",
+        "description": "A magical key that can open any door.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 1,
-        "name": "魔法の鍵",
+        "name": "Magic Key",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -89,7 +89,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "※現在のノアの淫乱値：\\C[27]\\{ \\V[1] \\}\\C[0] ",
+        "description": "※Current lewdness level of Noah: \\C[27]\\{ \\V[1] \\}\\C[0]",
         "effects": [
             {
                 "code": 44,
@@ -101,7 +101,7 @@
         "hitType": 0,
         "iconIndex": 7,
         "itypeId": 2,
-        "name": "現在のリニの淫乱値",
+        "name": "Current Lewdness Level of Rinny",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -122,7 +122,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "リニの立ち絵を左側に表示/非表示します。※消えない時は何度か押して下さい。\n初期アイテム「現在のリニの淫乱値」で立ち絵のグラフィックを変更できます。",
+        "description": "Toggle Rinny's character portrait on and off on the left side. ※If it\ndoesn't disappear, please press several times. You can change the\ncharacter portrait graphics with the initial item \"Current lewdness\nlevel of Rinny\".",
         "effects": [
             {
                 "code": 44,
@@ -134,7 +134,7 @@
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "リニの立ち絵を表示/非表示",
+        "name": "Show/Hide Rinny's Character Portrait",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -155,7 +155,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "リニが30％づつ自爆します。",
+        "description": "Rinny will self-destruct by 30% each time.",
         "effects": [
             {
                 "code": 44,
@@ -167,7 +167,7 @@
         "hitType": 0,
         "iconIndex": 66,
         "itypeId": 2,
-        "name": "リニの自爆",
+        "name": "Rinny's Self-Destruct",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -297,7 +297,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----回復系",
+        "name": "-----Recovery Items",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -318,7 +318,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを５００ポイント回復する。",
+        "description": "Recovers 500 HP points.",
         "effects": [
             {
                 "code": 11,
@@ -330,7 +330,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "薬草",
+        "name": "Herb",
         "note": "<NameColor:3>\n\n",
         "occasion": 0,
         "price": 100,
@@ -351,7 +351,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを１５００ポイント回復する。",
+        "description": "Recovers 1500 HP points.",
         "effects": [
             {
                 "code": 11,
@@ -363,7 +363,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "薬草(高級)",
+        "name": "High-Quality Herb",
         "note": "<NameColor:3>",
         "occasion": 0,
         "price": 250,
@@ -384,7 +384,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを完全に回復する。",
+        "description": "Completely recovers HP.",
         "effects": [
             {
                 "code": 11,
@@ -396,7 +396,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "薬草(完全回復)",
+        "name": "Full Recovery Herb",
         "note": "<NameColor:3>",
         "occasion": 0,
         "price": 550,
@@ -417,7 +417,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＭＰを300ポイント回復する。",
+        "description": "Recovers 300 MP points.",
         "effects": [
             {
                 "code": 12,
@@ -429,7 +429,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "技薬",
+        "name": "Skill Medicine",
         "note": "<NameColor:2>",
         "occasion": 0,
         "price": 300,
@@ -450,7 +450,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＭＰを2000ポイント回復する。",
+        "description": "Recovers 2000 MP points.",
         "effects": [
             {
                 "code": 12,
@@ -462,7 +462,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "技薬(高級)",
+        "name": "High-Quality Skill Medicine",
         "note": "<NameColor:2>",
         "occasion": 0,
         "price": 1000,
@@ -483,7 +483,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＭＰを完全回復する。",
+        "description": "Completely recovers MP.",
         "effects": [
             {
                 "code": 12,
@@ -495,7 +495,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "技薬(完全回復)",
+        "name": "Full Recovery Skill Medicine",
         "note": "<NameColor:2>",
         "occasion": 0,
         "price": 2000,
@@ -516,7 +516,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰが2000回復する。",
+        "description": "Recovers 2000 points of both HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -534,7 +534,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "元気薬",
+        "name": "Energy Medicine",
         "note": "<NameColor:17>",
         "occasion": 0,
         "price": 1000,
@@ -555,7 +555,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを完全に回復する。",
+        "description": "Completely recovers both HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -573,7 +573,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "元気薬(完全回復)",
+        "name": "Full Recovery Energy Medicine",
         "note": "<NameColor:17>",
         "occasion": 0,
         "price": 3000,
@@ -594,7 +594,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "毒を消す。",
+        "description": "Cures poison.",
         "effects": [
             {
                 "code": 22,
@@ -606,7 +606,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "毒消し薬",
+        "name": "Antidote",
         "note": "",
         "occasion": 0,
         "price": 80,
@@ -627,7 +627,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘不能以外の状態異常を回復する。",
+        "description": "Recovers from all status abnormalities except incapacitation.",
         "effects": [
             {
                 "code": 22,
@@ -687,7 +687,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "万能薬",
+        "name": "Panacea",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -708,7 +708,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "戦闘不能から復活させる。（ＨＰ半分回復）",
+        "description": "Revives from incapacitation. (HP recovered by half)",
         "effects": [
             {
                 "code": 22,
@@ -720,7 +720,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ペガサスの羽",
+        "name": "Pegasus Feather",
         "note": "",
         "occasion": 0,
         "price": 500,
@@ -741,7 +741,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "戦闘不能から全快で復活する。\nあらゆるステータス異常からも回復する。",
+        "description": "Revives from incapacitation with full health. Also recovers from all\nstatus abnormalities.",
         "effects": [
             {
                 "code": 22,
@@ -807,7 +807,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "不死鳥の羽",
+        "name": "Phoenix Feather",
         "note": "",
         "occasion": 0,
         "price": 1500,
@@ -828,7 +828,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "全員を戦闘不能から全快で復活する。",
+        "description": "Revives all party members from incapacitation with full health.",
         "effects": [
             {
                 "code": 22,
@@ -894,7 +894,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "火の鳥",
+        "name": "Firebird",
         "note": "",
         "occasion": 0,
         "price": 30000,
@@ -915,7 +915,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを完全に回復する。毒、暗闇、沈黙を回復。",
+        "description": "Fully recovers HP and MP. Cures poison, darkness, and silence.",
         "effects": [
             {
                 "code": 11,
@@ -951,7 +951,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エリクサー(ミニ)",
+        "name": "Elixir (Mini)",
         "note": "",
         "occasion": 0,
         "price": 5000,
@@ -972,7 +972,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを完全に回復する。\n戦闘不能以外の状態異常を回復する。",
+        "description": "Fully recovers HP and MP. Recovers from all status abnormalities\nexcept incapacitation.",
         "effects": [
             {
                 "code": 11,
@@ -1044,7 +1044,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エリクサー",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 10000,
@@ -1065,7 +1065,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、敵との遭遇率を半減させる。",
+        "description": "Temporarily reduces the encounter rate with enemies by half.",
         "effects": [
             {
                 "code": 21,
@@ -1077,7 +1077,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エンカウントダウン",
+        "name": "Encounter Down",
         "note": "",
         "occasion": 2,
         "price": 100,
@@ -1181,7 +1181,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----能力UP系",
+        "name": "-----Ability Boosters",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1202,7 +1202,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＨＰを５０ポイント上げる。",
+        "description": "Increases maximum HP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -1214,7 +1214,7 @@
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 1,
-        "name": "ＨＰの豆",
+        "name": "HP Bean",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1235,7 +1235,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＭＰを１０ポイント上げる。",
+        "description": "Increases maximum MP by 10 points.",
         "effects": [
             {
                 "code": 42,
@@ -1247,7 +1247,7 @@
         "hitType": 0,
         "iconIndex": 33,
         "itypeId": 1,
-        "name": "ＭＰの豆",
+        "name": "MP Bean",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1268,7 +1268,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "攻撃力を３ポイント上げる。",
+        "description": "Increases Attack by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -1280,7 +1280,7 @@
         "hitType": 0,
         "iconIndex": 34,
         "itypeId": 1,
-        "name": "力の豆",
+        "name": "Strength Bean",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1301,7 +1301,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "防御力を３ポイント上げる。",
+        "description": "Increases Defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -1313,7 +1313,7 @@
         "hitType": 0,
         "iconIndex": 35,
         "itypeId": 1,
-        "name": "防御力の豆",
+        "name": "Defense Bean",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1334,7 +1334,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法力を３ポイント上げる。",
+        "description": "Increases Magic Power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -1346,7 +1346,7 @@
         "hitType": 0,
         "iconIndex": 36,
         "itypeId": 1,
-        "name": "魔力の豆",
+        "name": "Magic Bean",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1367,7 +1367,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法防御力を３ポイント上げる。",
+        "description": "Increases Magic Defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -1379,7 +1379,7 @@
         "hitType": 0,
         "iconIndex": 37,
         "itypeId": 1,
-        "name": "魔法防御の豆",
+        "name": "Magic Defense Bean",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1400,7 +1400,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敏捷性を３ポイント上げる。",
+        "description": "Increases Agility by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -1412,7 +1412,7 @@
         "hitType": 0,
         "iconIndex": 38,
         "itypeId": 1,
-        "name": "素早さの豆",
+        "name": "Agility Bean",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1433,7 +1433,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "運を３ポイント上げる。",
+        "description": "Increases Luck by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -1445,7 +1445,7 @@
         "hitType": 0,
         "iconIndex": 39,
         "itypeId": 1,
-        "name": "運の豆",
+        "name": "Luck Bean",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -1466,7 +1466,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＨＰを300ポイント上げる。",
+        "description": "Increases maximum HP by 300 points.",
         "effects": [
             {
                 "code": 42,
@@ -1478,7 +1478,7 @@
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 1,
-        "name": "聖者の聖水",
+        "name": "Saint's Holy Water",
         "note": "",
         "occasion": 2,
         "price": 10000,
@@ -1499,7 +1499,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "95％以上の蒼魔法を習得した金メダルです。特典として、着せ替え衣装を追加。\n娼館の「コスプレ」や各種メニュー画面から「???」の衣装で選択できます。",
+        "description": "A gold medal for mastering over 95% of blue magic. As a bonus, a new\ncostume is added for dress-up. You can select the \"???\" costume from\nthe brothel's \"Cosplay\" or various menu screens.",
         "effects": [
             {
                 "code": 44,
@@ -1511,7 +1511,7 @@
         "hitType": 0,
         "iconIndex": 249,
         "itypeId": 2,
-        "name": "金メダル",
+        "name": "Gold Medal",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1532,7 +1532,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "80％以上の蒼魔法を習得した銀メダルです。特典として娼館の建物の右側付近に\n「売春婦のポスター」の閲覧が出来るようになりました。",
+        "description": "A silver medal for mastering over 80% of blue magic. As a bonus, you\ncan now view the \"Prostitute Poster\" near the right side of the\nbrothel building.",
         "effects": [
             {
                 "code": 44,
@@ -1544,7 +1544,7 @@
         "hitType": 0,
         "iconIndex": 250,
         "itypeId": 2,
-        "name": "銀メダル",
+        "name": "Silver Medal",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1565,7 +1565,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "60％以上の蒼魔法を習得した銅メダルです。",
+        "description": "A bronze medal for mastering over 60% of blue magic.",
         "effects": [
             {
                 "code": 44,
@@ -1577,7 +1577,7 @@
         "hitType": 0,
         "iconIndex": 251,
         "itypeId": 2,
-        "name": "銅メダル",
+        "name": "Bronze Medal",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1754,12 +1754,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "聖杯の鍵",
+        "description": "Holy Grail Key",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "聖杯の鍵",
+        "name": "Holy Grail Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1780,12 +1780,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\N[32]から貰った魔法の小箱。",
+        "description": "A magical small box given by \\N[32].",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 2,
-        "name": "魔法の小箱",
+        "name": "Magic Small Box",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1806,12 +1806,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "お菓子のレシピ本。お菓子を作ってレーデに持っていけば･･･\n(レーデに話しかけて下さい。)",
+        "description": "A recipe book for sweets. If you make sweets and bring them to Rade...\n(Please talk to Rade.)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 269,
         "itypeId": 2,
-        "name": "お菓子のレシピ本",
+        "name": "Candy Recipe Book",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1884,7 +1884,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "フィールドマップの各エリアの名称が表示されます。",
+        "description": "The names of each area on the field map will be displayed.",
         "effects": [
             {
                 "code": 44,
@@ -1896,7 +1896,7 @@
         "hitType": 0,
         "iconIndex": 248,
         "itypeId": 2,
-        "name": "フィールドマップのガイド",
+        "name": "Field Map Guide",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1943,7 +1943,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "鉱物です。高く売れます。使うとMPが増えます。",
+        "description": "It's a mineral. It sells for a high price. Using it increases MP.",
         "effects": [
             {
                 "code": 42,
@@ -1955,7 +1955,7 @@
         "hitType": 0,
         "iconIndex": 161,
         "itypeId": 1,
-        "name": "鉄鋼石",
+        "name": "Steel Stone",
         "note": "",
         "occasion": 0,
         "price": 5000,
@@ -1976,12 +1976,12 @@
             "type": 4,
             "variance": 20
         },
-        "description": "レーデに持っていくと･･･",
+        "description": "If you take it to Rade...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 161,
         "itypeId": 1,
-        "name": "謎の綺麗な石",
+        "name": "Mysterious Beautiful Stone",
         "note": "",
         "occasion": 3,
         "price": 50000,
@@ -2054,7 +2054,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2066,7 +2066,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "ファイアⅡの魔法書",
+        "name": "Fire II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 800,
@@ -2087,7 +2087,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2099,7 +2099,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "フレイムⅡの魔法書",
+        "name": "Flame II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2120,7 +2120,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2132,7 +2132,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "アイスⅡの魔法書",
+        "name": "Ice II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2153,7 +2153,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2165,7 +2165,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "ブリザードⅠの魔法書",
+        "name": "Blizzard I Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2186,7 +2186,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2198,7 +2198,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "ブリザードⅡの魔法書",
+        "name": "Blizzard II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2219,7 +2219,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2231,7 +2231,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "サンダーⅡの魔法書",
+        "name": "Thunder II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2252,7 +2252,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2264,7 +2264,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "ウインドⅡの魔法書",
+        "name": "Wind II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2285,7 +2285,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2297,7 +2297,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "スパークⅠの魔法書",
+        "name": "Spark I Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2318,7 +2318,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2330,7 +2330,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "スパークⅡの魔法書",
+        "name": "Spark II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2351,7 +2351,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2363,7 +2363,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "メテオの魔法書",
+        "name": "Meteor Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2618,7 +2618,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2630,7 +2630,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "オールヒールⅠの魔法書",
+        "name": "All Heal I Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2651,7 +2651,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2663,7 +2663,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "オールヒールⅡの魔法書",
+        "name": "All Heal II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2684,7 +2684,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2696,7 +2696,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "オールヒールⅢの魔法書",
+        "name": "All Heal III Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2717,7 +2717,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2729,7 +2729,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "キュアーの魔法書",
+        "name": "Cure Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2750,7 +2750,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2762,7 +2762,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "キュアーⅡの魔法書",
+        "name": "Cure II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2783,7 +2783,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2795,7 +2795,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "レイズⅠの魔法書",
+        "name": "Raise I Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2816,7 +2816,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2828,7 +2828,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "レイズⅡの魔法書",
+        "name": "Raise II Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2875,7 +2875,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2887,7 +2887,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "オールヒールⅣの魔法書",
+        "name": "All Heal IV Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2908,7 +2908,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2920,7 +2920,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "オールヒールVの魔法書",
+        "name": "All Heal V Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2941,7 +2941,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2953,7 +2953,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "レイズⅢの魔法書",
+        "name": "Raise III Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -2974,7 +2974,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用すると魔法を覚えます。",
+        "description": "Using it will teach you magic.",
         "effects": [
             {
                 "code": 43,
@@ -2986,7 +2986,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 1,
-        "name": "レイズⅣの魔法書",
+        "name": "Raise IV Spellbook",
         "note": "",
         "occasion": 2,
         "price": 1200,
@@ -3241,7 +3241,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "30％づつか、完全に自爆します。",
+        "description": "Either by 30% increments or completely self-destructs.",
         "effects": [
             {
                 "code": 44,
@@ -3253,7 +3253,7 @@
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 1,
-        "name": "ルーナ自爆",
+        "name": "Luuna's Self-Destruct",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -3274,7 +3274,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "30％づつか、完全に自爆します。",
+        "description": "Either by 30% increments or completely self-destructs.",
         "effects": [
             {
                 "code": 44,
@@ -3286,7 +3286,7 @@
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 1,
-        "name": "ベッキー自爆",
+        "name": "Becky's Self-Destruct",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -3307,7 +3307,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "30％づつか、完全に自爆します。",
+        "description": "Either by 30% increments or completely self-destructs.",
         "effects": [
             {
                 "code": 44,
@@ -3319,7 +3319,7 @@
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 1,
-        "name": "ルーナとベッキー自爆",
+        "name": "Luuna and Becky's Self-Destruct",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -3340,7 +3340,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "パーティー全員自爆します。",
+        "description": "The entire party self-destructs.",
         "effects": [
             {
                 "code": 44,
@@ -3352,7 +3352,7 @@
         "hitType": 0,
         "iconIndex": 1,
         "itypeId": 1,
-        "name": "パーティー全滅",
+        "name": "Party Annihilation",
         "note": "",
         "occasion": 0,
         "price": 0,

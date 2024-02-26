@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ジュピターノの砦",
+    "displayName": "Fort Jupiterino",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6635,7 +6635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『エリクサー』を手に入れた。"
+                                "Gained \"Elixir\"."
                             ]
                         },
                         {

@@ -4598,21 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】魔法を思い出したければレーデ様に話しかけて下さいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レーデ様が喜ぶプレゼントを持ってくれば思い出す事が出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "但し、高位の魔法はルーナさんのレベルが低ければ思い出す事が出来ません。"
+                                "[Servant] If you wish to recall your magic, please speak to Lady Rade.\nIf you bring a gift that pleases Lady Rade, you will be able to\nremember. However, you cannot recall high-level magic if Luuna's level\nis too low."
                             ]
                         },
                         {
@@ -4630,21 +4616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レーデ様へのプレゼントですが、ケーキやお菓子でなくても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レーデ様が喜びそうなプレゼントなら何でも構いません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険中に素敵な品物を見つけて下さいね。"
+                                "[Servant] As for gifts for Lady Rade, it doesn't have to be cake or\nsweets; any present that seems to delight Lady Rade will do. Please\nfind something wonderful during your adventure."
                             ]
                         },
                         {
@@ -4674,14 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※冒険中、宝箱や様々な所に「レーデへのプレゼント」があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プレゼントを取得してレーデに渡して、魔法を思い出しましょう。"
+                                "※During your adventure, you will find \"Gifts for Rade\" in treasure\nchests and various places. Acquire these gifts and give them to Rade\nto help her remember her magic."
                             ]
                         },
                         {
@@ -4920,7 +4885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: だ～めっ！ ダメダメダメダメ～！ めッ！！！"
+                                "Rade: No way! Absolutely not, not, not, not! Nooo!"
                             ]
                         },
                         {
@@ -4971,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ:  めッ！！！ メッ！！！ めッ！！！"
+                                "Rade: No! No! No!"
                             ]
                         },
                         {
@@ -5022,7 +4987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデさん･･･"
+                                "Luuna: Rade-san..."
                             ]
                         },
                         {
@@ -5133,7 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ:  あたしには関係ない～ん。"
+                                "Rade: It's none of my business~."
                             ]
                         },
                         {
@@ -5184,7 +5149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: でも･････"
+                                "Luuna: But..."
                             ]
                         },
                         {
@@ -5235,7 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･ルーナ、レーデに頼んでも無駄だよ。別の方法を考えよう。"
+                                "Becky: Sigh... Luuna, it's useless to ask Rade. Let's think of another\nway."
                             ]
                         },
                         {
@@ -5253,14 +5218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 別の方法と言ったって、レグナス・グラハードでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレンチナの奴等に勝てないし、ルーシアを倒す事は出来ないんだろ？"
+                                "Cain: Another way? Even with Regnus Grahardt, we can't beat the guys\nfrom Valentia, and we can't defeat Lucia, right?"
                             ]
                         },
                         {
@@ -5278,7 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: っ･････"
+                                "Becky: ..."
                             ]
                         },
                         {
@@ -5329,14 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデ様、レグナス・グラハードでもバレンチナの将軍や"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーシアに勝てないというのは本当なのですか？せめてそれだけでも確かめたい。"
+                                "Luuna: Rade-sama, is it true that even with Regnus Grahardt we can't\nbeat the generals of Valentia or Lucia? I at least want to confirm\nthat."
                             ]
                         },
                         {
@@ -5495,7 +5446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: キャハハハハハハ～んッ！"
+                                "Rade: Kyahahahahaha~n!"
                             ]
                         },
                         {
@@ -5513,7 +5464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: レグナスがあなた達を相手にする訳ないでしょ～ん。"
+                                "Rade: There's no way Regnus would bother with you guys~."
                             ]
                         },
                         {
@@ -5564,7 +5515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: でも･･･！魔導将軍リニが、そのように言ってたから。"
+                                "Becky: But...! The Magic General Rinny said so."
                             ]
                         },
                         {
@@ -5675,7 +5626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 魔導将軍リニ～？誰よそれ～ん。"
+                                "Rade: Magic General Rinny~? Who's that~?"
                             ]
                         },
                         {
@@ -5726,7 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: まったく･･･駄目だこりゃ･･･"
+                                "Becky: Seriously... this is hopeless..."
                             ]
                         },
                         {
@@ -5753,14 +5704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】お言葉ですが･･･もし、その方が本当にレグナス・グラハード様であれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法大国バレンチナの将軍達やルーシアという者に負ける事はないと思いますよ。"
+                                "[Servant] If I may speak... if that person is truly Lord Regnus\nGrahardt, I believe he wouldn't lose to the generals of the magic\nkingdom Valentia or someone named Lucia."
                             ]
                         },
                         {
@@ -5811,7 +5755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･･･そうなのですか？"
+                                "Luuna: Eh... Is that so?"
                             ]
                         },
                         {
@@ -5829,7 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】はい。その人が本当にレグナス・グラハード様であれば･･･ですがね。"
+                                "[Servant] Yes, if that person is truly Lord Regnus Grahardt... that\nis."
                             ]
                         },
                         {
@@ -5880,7 +5824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 従者さんまで言い切ってる･･･よほど自信があるのですね。"
+                                "Luuna: Even the servant is certain... You must be very confident."
                             ]
                         },
                         {
@@ -5898,7 +5842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】はい。"
+                                "[Servant] Yes."
                             ]
                         },
                         {
@@ -5949,14 +5893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇ従者、レグナス・グラハードって一体何者なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてあなた達は一体何者なのよ？いい加減、教えてくれてもいいでしょ？"
+                                "Becky: Hey servant, who exactly is Regnus Grahardt? And who are you\nguys? It's about time you told us, don't you think?"
                             ]
                         },
                         {
@@ -5974,7 +5911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】それは言えません。"
+                                "[Servant] I cannot say."
                             ]
                         },
                         {
@@ -6025,7 +5962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 駄目だこりゃ･･･"
+                                "Becky: Hopeless, this is..."
                             ]
                         },
                         {
@@ -6043,14 +5980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レグナス・グラハード様とレーデ様は、安っぽい言い方ですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いわゆるライバル関係にあります。"
+                                "[Servant] Lord Regnus Grahardt and Lady Rade are, to put it cheaply,\nwhat you'd call rivals."
                             ]
                         },
                         {
@@ -6068,14 +5998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レグナス様はレーデ様と同等の力を持つ実力者と言えば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた方にも伝わるでしょう。"
+                                "[Servant] If I say Lord Regnus is an individual with power equal to\nLady Rade, that should convey the idea to you all."
                             ]
                         },
                         {
@@ -6093,7 +6016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････！"
+                                "Luuna: ...!"
                             ]
                         },
                         {
@@ -6111,7 +6034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･･･！！！"
+                                "Becky: ...!!!"
                             ]
                         },
                         {
@@ -6228,7 +6151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あたしの方がレグナスより優秀なの～ん！"
+                                "Rade: I'm more excellent than Regnus~!"
                             ]
                         },
                         {
@@ -6246,7 +6169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】いいえ。それはあり得ませんから。"
+                                "[Servant] No, that's not possible."
                             ]
                         },
                         {
@@ -6297,7 +6220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: あんた、従者なんだから主を持ち上げなさい～ん。"
+                                "Rade: You're a servant, you should be praising your master~."
                             ]
                         },
                         {
@@ -6315,7 +6238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】本当の事を申すのも従者の役割ですので。"
+                                "[Servant] Speaking the truth is also part of a servant's role."
                             ]
                         },
                         {
@@ -6366,7 +6289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 悔しい～ん。腹立つ～ん。"
+                                "Rade: It's frustrating~. It makes me angry~."
                             ]
                         },
                         {
@@ -6417,14 +6340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ちょっと待ちなよ。レーデ、あんたとレグナスが同等の力を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持っているというなら、あんたがレグナス・グラハードの代わりをすれば済む事でしょ？"
+                                "Becky: Wait a minute. Rade, if you and Regnus have equal power, then\nyou could just take Regnus Grahardt's place, right?"
                             ]
                         },
                         {
@@ -6475,7 +6391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 此処にレグナス・グラハードが居るようなものよ。"
+                                "Becky: It would be as if Regnus Grahardt were here."
                             ]
                         },
                         {
@@ -6586,14 +6502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ:  なによ～。な～んで、あたしがレグナスの代わりを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しなきゃならないのよ～ん。"
+                                "Rade: What~? Why do I have to take Regnus's place~?"
                             ]
                         },
                         {
@@ -6675,7 +6584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: や～だ。"
+                                "Rade: I don't wanna."
                             ]
                         },
                         {
@@ -6726,7 +6635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: やれやれ･･･なんて奴なのよ。"
+                                "Becky: Good grief... What a person."
                             ]
                         },
                         {
@@ -6744,14 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 仕方ない。レーデが助けてくれないなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり、レグナス・グラハードを探すしかないぜ。"
+                                "Cain: Can't be helped. If Rade won't help us, then we really have no\nchoice but to look for Regnus Grahardt."
                             ]
                         },
                         {
@@ -6769,14 +6671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 念の為、確認するが本当に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レグナスならバレンチナの将軍達やルーシアに勝てるのだろうな？"
+                                "Cain: Just to confirm, if it's really Regnus, he can beat the generals\nof Valentia and Lucia, right?"
                             ]
                         },
                         {
@@ -6794,7 +6689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】はい。"
+                                "[Servant] Yes."
                             ]
                         },
                         {
@@ -6812,7 +6707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】･････"
+                                "[Servant] ..."
                             ]
                         },
                         {
@@ -6830,14 +6725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レグナス・グラハード様は、レーデ様より多少は話の分かる方です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし見つけられたら、あなた方の力になってくれるかもしれませんね。"
+                                "[Servant]: Lord Regnus Grahardt is somewhat more reasonable than Lady\nRade. If you can find him, he might be willing to lend you his\nstrength."
                             ]
                         },
                         {
@@ -6904,7 +6792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうですか･･･それを聞けただけで随分と救われました。"
+                                "Luuna: Is that so... Just hearing that gives me some relief."
                             ]
                         },
                         {
@@ -7015,7 +6903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: そこの従者～、余計な事言わなくていい～ん。"
+                                "Rade: Hey, servant~ You don't need to say anything unnecessary~."
                             ]
                         },
                         {
@@ -7033,7 +6921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】す、すいません。"
+                                "[Servant]: I-I'm sorry."
                             ]
                         },
                         {
@@ -7051,7 +6939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】･････"
+                                "[Servant]: ......"
                             ]
                         },
                         {
@@ -7085,14 +6973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】それにしても妙ですね。このジュピターノという国で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レグナス様の目撃情報が多いというのは。"
+                                "[Servant]: It's strange, though. There have been many sightings of\nLord Regnus in this country of Jupiterino."
                             ]
                         },
                         {
@@ -7110,14 +6991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】もっとも、その者が我々の探している本物のレグナス様かは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりませんが。"
+                                "[Servant]: However, whether that person is the real Lord Regnus\nGrahardt we are looking for, I cannot say."
                             ]
                         },
                         {
@@ -7135,7 +7009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ･････"
+                                "Becky: ......"
                             ]
                         },
                         {
@@ -7186,21 +7060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ちょっと、レーデ、あんたほどの魔導士が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この広大な世界の中でジュピターノ大陸に居た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それもレグナス・グラハードを探す為だけに。"
+                                "Becky: Wait a minute, Rade. For a sorceress of your caliber to be in\nthe vast world of the Jupiterino continent, and just to search for\nRegnus Grahardt..."
                             ]
                         },
                         {
@@ -7251,14 +7111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 何故、ジュピターノを選んだの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた、レグナス・グラハードの事を詳しく知ってるんでしょ？"
+                                "Becky: Why did you choose Jupiterino? You know a lot about Regnus\nGrahardt, don't you?"
                             ]
                         },
                         {
@@ -7276,7 +7129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ:  ･･･････"
+                                "Rade:  ............"
                             ]
                         },
                         {
@@ -7294,7 +7147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】鋭い･･･確かにジュピターノに来た理由が私も疑問でした。"
+                                "[Servant]: Sharp... Indeed, I too was curious about the reason for\ncoming to Jupiterino."
                             ]
                         },
                         {
@@ -7345,14 +7198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: レーデ、何とか言ったらどうなのよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故、レグナス・グラハードがジュピターノに居ると思ったのよ？"
+                                "Becky: Rade, what do you have to say? Why did you think Regnus\nGrahardt would be in Jupiterino?"
                             ]
                         },
                         {
@@ -7370,7 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ:  ･･･････"
+                                "Rade:  ............"
                             ]
                         },
                         {
@@ -7421,7 +7267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ:  うるさい～ん･･･"
+                                "Rade:  Annoying~..."
                             ]
                         },
                         {
@@ -7472,7 +7318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レーデ様！教えて下さい。"
+                                "Luuna: Lady Rade! Please tell us."
                             ]
                         },
                         {
@@ -7583,7 +7429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ:  答えたくない～ん！"
+                                "Rade:  I don't want to answer~!"
                             ]
                         },
                         {
@@ -7601,7 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: おっ やっぱり何か知ってるぞ。"
+                                "Cain: Oh? She definitely knows something."
                             ]
                         },
                         {
@@ -7752,7 +7598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: もぉ～っ レグナスの過去をあんた達に話す義理はない～ん！"
+                                "Rade: Ugh~ I'm not obligated to tell you guys about Regnus's past~!"
                             ]
                         },
                         {
@@ -7812,7 +7658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: はぁ～っ･･･ん"
+                                "Rade: Haa~...h"
                             ]
                         },
                         {
@@ -7863,7 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: レグナス・グラハードの過去？"
+                                "Luuna: Regnus Grahardt's past?"
                             ]
                         },
                         {
@@ -7881,7 +7727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レグナス様の過去ですと？私も初めて聞きましたね。"
+                                "[Servant]: Lord Regnus's past? This is the first time I've heard of it\nas well."
                             ]
                         },
                         {
@@ -7932,7 +7778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇ、レーデ、レグナスにどんな過去があったのよ？"
+                                "Becky: Hey, Rade, what kind of past does Regnus have?"
                             ]
                         },
                         {
@@ -8043,7 +7889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: もう！これ以上、詮索すると怒る～ん！"
+                                "Rade: Enough! If you pry any further, I'll get angry~!"
                             ]
                         },
                         {
@@ -8094,7 +7940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: やれやれ。でも、あたし達の目的は最初に戻ったようね。"
+                                "Becky: Good grief. But it seems we're back to square one with our\noriginal goal."
                             ]
                         },
                         {
@@ -8145,14 +7991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ええ。やはり、レグナス・グラハードを探すしか無いと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達の力では奴等には勝てないから。従者さん、そうですよね？"
+                                "Luuna: Yes. It seems we have no choice but to search for Regnus\nGrahardt. We can't beat them with our power alone. Right, servant?"
                             ]
                         },
                         {
@@ -8170,7 +8009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】はい。残念ながら。"
+                                "[Servant]: Yes, unfortunately."
                             ]
                         },
                         {
@@ -8221,14 +8060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 従者さん、レグナス・グラハードが立ち寄りそうな場所は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりませんか？この件に関しては他者の情報より、あなた達に聞く方が早いと思うのです。"
+                                "Luuna: Servant, do you know of any places where Regnus Grahardt might\nhave stopped by? I think it's faster to ask you than to rely on\ninformation from others regarding this matter."
                             ]
                         },
                         {
@@ -8246,7 +8078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】それは･･･でも･･･"
+                                "[Servant]: That is... but..."
                             ]
                         },
                         {
@@ -8357,14 +8189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: だ～め。あたし達は関係ありません～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "従者も貸しません～。"
+                                "Rade: No way. We're not involved~. And I won't lend you the servant~."
                             ]
                         },
                         {
@@ -8415,14 +8240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: もう･･･！レーデ、あんただって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レグナス・グラハードを探しにジュピターノへ来たんでしょ？"
+                                "Becky: Ugh...! Rade, you came to Jupiterino to search for Regnus\nGrahardt too, didn't you?"
                             ]
                         },
                         {
@@ -8473,14 +8291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あたし達には協力するのは嫌かもしれないけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代わりに探してやると言ってるのよ？目的は同じでしょう？"
+                                "Becky: You might not like cooperating with us, but we're offering to\nsearch in your stead, right? Our goals are the same, aren't they?"
                             ]
                         },
                         {
@@ -8600,7 +8411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: ん～･･････"
+                                "Rade: Hmm............"
                             ]
                         },
                         {
@@ -8651,14 +8462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 決まりね。従者、レグナス・グラハードが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立ち寄りそうな場所を教えてよ。レーデの許可も取れた事だし。"
+                                "Becky: It's settled then. Servant, tell us the places where Regnus\nGrahardt might have stopped by. We've got Rade's permission now."
                             ]
                         },
                         {
@@ -8736,7 +8540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: 取ってない～ん。"
+                                "Rade: You don't have it~."
                             ]
                         },
                         {
@@ -8754,21 +8558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】わかりました。あなた方とは何か縁があるのかもしれませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心当たりはありませんが、レグナス・グラハード様が歩いた痕跡なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調べる事ができます。"
+                                "[Servant]: Understood. Perhaps there is some fate between us. I don't\nhave any leads, but I can investigate the traces where Lord Regnus\nGrahardt has walked."
                             ]
                         },
                         {
@@ -8819,7 +8609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: さっすが、従者！主君より有能ねー。"
+                                "Becky: As expected of a servant! More capable than the master, huh-."
                             ]
                         },
                         {
@@ -8870,7 +8660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レーデ: こら～ 勝手な事しないで～。"
+                                "Rade: Hey~ Don't do things on your own~."
                             ]
                         },
                         {
@@ -8919,14 +8709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】いいじゃありませんか。我々もレグナス様を探すのは疲れていたのですし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が調べてお教えしましょう。"
+                                "[Servant]: What's the harm? We too are tired of searching for Lord\nRegnus. Let me investigate and inform you."
                             ]
                         },
                         {
@@ -9008,7 +8791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ありがとうございます！"
+                                "Luuna: Thank you so much!"
                             ]
                         },
                         {
@@ -9055,7 +8838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】･････････"
+                                "[Servant]: ............"
                             ]
                         },
                         {
@@ -9073,14 +8856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】ふむ･･･これは驚きましたね。確かに各地でレグナス・グラハード様が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "歩いた形跡があります。一体、何の目的でジュピターノへ来ているのかは不明ですが。"
+                                "[Servant]: Hmm... this is surprising indeed. There are certainly\ntraces of Lord Regnus Grahardt having walked in various places. It's\nunclear what his purpose for coming to Jupiterino is, though."
                             ]
                         },
                         {
@@ -9098,7 +8874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: そんな事が出来るなら最初からそうやって調べろよなー。"
+                                "Cain: If you could do that, you should have started investigating like\nthat from the beginning."
                             ]
                         },
                         {
@@ -9116,14 +8892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】いやぁ･･･こういう魔法を使うのは気分が良くありませんからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探す方も探される方も気味が悪いじゃないですか。"
+                                "[Servant]: Well... using such magic doesn't feel good, you know. It's\ncreepy for both the searcher and the searched."
                             ]
                         },
                         {
@@ -9141,7 +8910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あたしからすれば、あんた達が何者なのか不気味よ。"
+                                "Becky: From my point of view, it's creepy not knowing who you guys\nreally are."
                             ]
                         },
                         {
@@ -9159,7 +8928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】いやぁ…ははは･･･それは秘密です。"
+                                "[Servant]: Ah... haha... that is a secret."
                             ]
                         },
                         {
@@ -9177,21 +8946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レグナス・グラハード様が歩いた箇所は、危険な場所が多いですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた方では荷が重いかもしれませんよ？それでも行くのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レグナス様が味方になってくれるとは限りませんよ？"
+                                "[Servant]: The places where Lord Regnus Grahardt has walked are often\ndangerous. It might be too much for you to handle. Are you still going\nto go? There's no guarantee that Lord Regnus will become your ally,\nyou know?"
                             ]
                         },
                         {
@@ -9242,14 +8997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい、行きます！今の私達はレグナス・グラハードの影を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追う事しか出来ません。見つけたら必ず味方にして帰ってきます。"
+                                "Luuna: Yes, we'll go! Right now, all we can do is follow the shadow of\nRegnus Grahardt. When we find him, we'll definitely make him our ally\nand return."
                             ]
                         },
                         {
@@ -9267,7 +9015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】そうですか。それでは用意が出来ましたら私に話しかけて下さいね。"
+                                "[Servant]: Is that so? Then please speak to me once you are ready."
                             ]
                         },
                         {

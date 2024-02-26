@@ -12206,7 +12206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ゴールドサークレット』を手に入れた。"
+                                "You've obtained the \"Gold Secret\"."
                             ]
                         },
                         {
@@ -12466,7 +12466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ブリザードⅡ』を手に入れた。"
+                                "Obtained \"Blizzard II\"."
                             ]
                         },
                         {

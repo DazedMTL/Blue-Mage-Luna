@@ -1689,7 +1689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※難易度設定をしますか？"
+                                "Would you like to set the difficulty level?"
                             ]
                         },
                         {
@@ -1697,8 +1697,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "いいえ",
-                                    "はい"
+                                    "No",
+                                    "Yes"
                                 ],
                                 0,
                                 0,
@@ -1732,10 +1732,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "難易度(普通)■デフォルト",
-                                    "難易度(難しい)",
-                                    "難易度(優しい)",
-                                    "難易度(とても優しい)"
+                                    "Difficulty (Normal)■Default",
+                                    "Difficulty (Hard)",
+                                    "Difficulty (Easy)",
+                                    "Difficulty (Very Easy)"
                                 ],
                                 -1,
                                 0,
@@ -1808,7 +1808,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "※難易度を「難しい」に設定しました。"
+                                "The difficulty has been set to 'Hard'."
                             ]
                         },
                         {
@@ -1930,7 +1930,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "※難易度を「優しい」に設定しました。"
+                                "The difficulty has been set to 'Easy'."
                             ]
                         },
                         {
@@ -2112,7 +2112,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "※難易度を「とても優しい」に設定しました。"
+                                "The difficulty has been set to 'Very Easy'."
                             ]
                         },
                         {
@@ -2160,7 +2160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※オープングを飛ばしますか？"
+                                "Would you like to skip the opening?"
                             ]
                         },
                         {
@@ -2168,8 +2168,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "飛ばさない(※初回は推奨)",
-                                    "飛ばす"
+                                    "Do not skip (Recommended for first-time players)",
+                                    "Skip"
                                 ],
                                 -1,
                                 0,

@@ -7310,7 +7310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ベッキー～！早く～！"
+                                "Luuna: Becky~! Hurry up~!"
                             ]
                         },
                         {
@@ -7393,7 +7393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 待って～･･･！"
+                                "Becky: Wait~...!"
                             ]
                         },
                         {
@@ -7411,14 +7411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                          \\{\\c[0]ルーナの声優：眠音りま様 \\c[0]"
+                                "\\c[0]Luuna's voice actor: Rima Nemune \\c[0]"
                             ]
                         },
                         {
@@ -7436,14 +7429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                          \\{\\c[0]ルーシアの声優：本多未季様 \\c[0]"
+                                "\\c[0]Lucia's voice actor: Miki Honda \\c[0]"
                             ]
                         },
                         {
@@ -7461,14 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                          \\{\\c[0]ベッキーの声優：藤村莉央様 \\c[0]"
+                                "\\c[0]Becky's voice actor: Rio Fujimura \\c[0]"
                             ]
                         },
                         {
@@ -7519,7 +7498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーナ、元気ね～･･･ ルーシア達との戦いから間もないのに。"
+                                "Becky: Luuna, you're so energetic~... And it hasn't been long since\nthe battle with Lucia and the others."
                             ]
                         },
                         {
@@ -7570,7 +7549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ふふっ そうね。前より元気になったみたい。"
+                                "Luuna: Hehe, that's right. I feel like I've gotten more energetic than\nbefore."
                             ]
                         },
                         {
@@ -7588,14 +7567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                          \\{\\c[0]リニの声優：砂糖しお様 \\c[0]"
+                                "\\c[0]Rinny's voice actor: Shio Satou \\c[0]"
                             ]
                         },
                         {
@@ -7613,14 +7585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                          \\{\\c[0]レーデの声優：西浦のどか様 \\c[0]"
+                                "\\c[0]Rade's voice actor: Nodoka Nishiura \\c[0]"
                             ]
                         },
                         {
@@ -7671,7 +7636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ねぇ、ルーナ、これからどうするの？"
+                                "Becky: Hey, Luuna, what are we going to do now?"
                             ]
                         },
                         {
@@ -7722,7 +7687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: まずは帝都ジュピターノに行く。"
+                                "Luuna: First, we're heading to the imperial capital, Jupiterino."
                             ]
                         },
                         {
@@ -7782,7 +7747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: 帝都まで～！？めちゃくちゃ遠いわよ？"
+                                "Becky: To the imperial capital~!? That's incredibly far, you know?"
                             ]
                         },
                         {
@@ -7833,7 +7798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: なに言ってるの、ベッキーらしくないな～。"
+                                "Luuna: What are you talking about? That's not like you, Becky~."
                             ]
                         },
                         {
@@ -7851,14 +7816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                \\{\\c[0]テストプレイ/デザイン監修など：猫みかん \\c[0]"
+                                "\\c[0]Test play/Design supervision, etc.: Mikkan Neko \\c[0]"
                             ]
                         },
                         {
@@ -7876,14 +7834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                       \\{\\c[0]サポート：支援者様の皆様 \\c[0]"
+                                "\\c[0]Support: All our supporters \\c[0]"
                             ]
                         },
                         {
@@ -8065,7 +8016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: 先に行ってるよ～！"
+                                "Luuna: I'm going on ahead~!"
                             ]
                         },
                         {
@@ -8116,7 +8067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ふふっ 待って～！"
+                                "Becky: Fufu, wait for me~!"
                             ]
                         },
                         {
@@ -8577,14 +8528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                            \\{\\c[0]制作：同人サークルGyu!\\c[0]"
+                                "\\c[0]Production: Doujin Circle Gyu!\\c[0]"
                             ]
                         },
                         {
@@ -8602,14 +8546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "                            \\{\\c[0]サークル代表：gyu\\c[0]"
+                                "\\c[0]Circle Representative: gyu\\c[0]"
                             ]
                         },
                         {
@@ -8711,7 +8648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[89]ここまでプレイ頂き、誠に有難うございました！"
+                                "\\I[89]Thank you very much for playing this far!"
                             ]
                         },
                         {
@@ -8736,7 +8673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[89]ルーナの物語はこれで終わりとなります。"
+                                "\\I[89]This marks the end of Luuna's story."
                             ]
                         },
                         {
@@ -8808,7 +8745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[89]レビュー・感想等、頂けますと参考になります。"
+                                "\\I[89]Your reviews and feedback would be greatly appreciated."
                             ]
                         },
                         {
@@ -8826,7 +8763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[89]今後とも当サークルを何卒よろしくお願い致します！"
+                                "\\I[89]We hope for your continued support of our circle!"
                             ]
                         },
                         {

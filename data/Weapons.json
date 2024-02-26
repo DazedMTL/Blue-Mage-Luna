@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 6,
-        "description": "【剣】軽くて扱いやすい刀身の短い剣。",
+        "description": "[Sword] A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "",
         "params": [
             0,
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 6,
-        "description": "【剣】鋭い切れ味を誇る戦闘用の長剣。",
+        "description": "[Sword] A longsword boasting a sharp cutting edge for combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ロングソード",
+        "name": "Long Sword",
         "note": "",
         "params": [
             0,
@@ -69,7 +69,7 @@
     {
         "id": 3,
         "animationId": 6,
-        "description": "【剣】反りのある刀身をもつ幅広の剣。",
+        "description": "[Sword] A broad sword with a curved blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ファルシオン",
+        "name": "Falchion",
         "note": "",
         "params": [
             0,
@@ -102,7 +102,7 @@
     {
         "id": 4,
         "animationId": 6,
-        "description": "【剣】ミスリルで作られた長剣。",
+        "description": "[Sword] A longsword made of mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "",
         "params": [
             0,
@@ -135,7 +135,7 @@
     {
         "id": 5,
         "animationId": 6,
-        "description": "【剣】ドラゴンのキバで作られた剣。",
+        "description": "[Sword] A sword made from the fang of a dragon.",
         "etypeId": 1,
         "traits": [
             {
@@ -150,7 +150,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ドラゴンブレード",
+        "name": "Dragon Blade",
         "note": "",
         "params": [
             0,
@@ -201,7 +201,7 @@
     {
         "id": 7,
         "animationId": 1,
-        "description": "【杖】安価で一般に普及している杖。",
+        "description": "[Staff] An inexpensive staff that is widely distributed.",
         "etypeId": 1,
         "traits": [
             {
@@ -216,7 +216,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ウッドスタッフ",
+        "name": "Wood Staff",
         "note": "",
         "params": [
             0,
@@ -234,7 +234,7 @@
     {
         "id": 8,
         "animationId": 1,
-        "description": "【杖】術者の魔力をやや増幅させる杖。",
+        "description": "[Staff] A staff that slightly amplifies the wielder's magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -249,7 +249,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "マジックワンド",
+        "name": "Magic Wand",
         "note": "",
         "params": [
             0,
@@ -267,7 +267,7 @@
     {
         "id": 9,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させる銀製の杖。",
+        "description": "[Staff] A silver staff that amplifies the wielder's magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -282,7 +282,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "フォースワンド",
+        "name": "Force Wand",
         "note": "",
         "params": [
             0,
@@ -300,7 +300,7 @@
     {
         "id": 10,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させるミスリルの杖。",
+        "description": "[Staff] A mithril staff that amplifies the wielder's magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -315,7 +315,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ミスリルロッド",
+        "name": "Mithril Rod",
         "note": "",
         "params": [
             0,
@@ -333,7 +333,7 @@
     {
         "id": 11,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させるドラゴンの杖。",
+        "description": "[Staff] A dragon staff that amplifies the wielder's magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -348,7 +348,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ドラゴンスタッフ",
+        "name": "Dragon Staff",
         "note": "",
         "params": [
             0,
@@ -399,7 +399,7 @@
     {
         "id": 13,
         "animationId": 1,
-        "description": "【フレイル】柄の先に鎖で石球をつないだ連接棍棒。",
+        "description": "[Flail] A connected club with a stone ball attached to the handle by a\nchain.",
         "etypeId": 1,
         "traits": [
             {
@@ -414,7 +414,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "ストーンフレイル",
+        "name": "Stone Flail",
         "note": "",
         "params": [
             0,
@@ -432,7 +432,7 @@
     {
         "id": 14,
         "animationId": 1,
-        "description": "【フレイル】柄の先に鎖で銅球をつないだ連接棍棒。",
+        "description": "[Flail] A connected club with a copper ball attached to the handle by\na chain.",
         "etypeId": 1,
         "traits": [
             {
@@ -447,7 +447,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "ブロンズフレイル",
+        "name": "Bronze Flail",
         "note": "",
         "params": [
             0,
@@ -465,7 +465,7 @@
     {
         "id": 15,
         "animationId": 1,
-        "description": "【フレイル】鋼鉄で強化した連接棍棒。",
+        "description": "[Flail] A connected club reinforced with steel.",
         "etypeId": 1,
         "traits": [
             {
@@ -480,7 +480,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "モーニングスター",
+        "name": "Morning Star",
         "note": "",
         "params": [
             0,
@@ -498,7 +498,7 @@
     {
         "id": 16,
         "animationId": 1,
-        "description": "【フレイル】ミスリルで強化した連接棍棒。",
+        "description": "[Flail] A connected club reinforced with mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -513,7 +513,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "ミスリルフレイル",
+        "name": "Mithril Flail",
         "note": "",
         "params": [
             0,
@@ -531,7 +531,7 @@
     {
         "id": 17,
         "animationId": 1,
-        "description": "【フレイル】ドラゴンのキバで強化した連接棍棒。",
+        "description": "[Flail] A connected club reinforced with the fang of a dragon.",
         "etypeId": 1,
         "traits": [
             {
@@ -546,7 +546,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "ドラゴンフレイル",
+        "name": "Dragon Flail",
         "note": "",
         "params": [
             0,
@@ -795,7 +795,7 @@
     {
         "id": 25,
         "animationId": 11,
-        "description": "【槍】突きに特化させた短めの槍。",
+        "description": "[Spear] A short spear specialized for thrusting.",
         "etypeId": 1,
         "traits": [
             {
@@ -810,7 +810,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ショートスピア",
+        "name": "Short Spear",
         "note": "",
         "params": [
             0,
@@ -828,7 +828,7 @@
     {
         "id": 26,
         "animationId": 11,
-        "description": "【槍】柄を可能な限り長くした槍。",
+        "description": "[Spear] A spear with a handle made as long as possible.",
         "etypeId": 1,
         "traits": [
             {
@@ -843,7 +843,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ロングスピア",
+        "name": "Long Spear",
         "note": "",
         "params": [
             0,
@@ -861,7 +861,7 @@
     {
         "id": 27,
         "animationId": 11,
-        "description": "【槍】穂先に斧頭の取りつけられた槍。",
+        "description": "[Spear] A spear with an axe head attached to the tip.",
         "etypeId": 1,
         "traits": [
             {
@@ -876,7 +876,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ハルバード",
+        "name": "Halberd",
         "note": "",
         "params": [
             0,
@@ -894,7 +894,7 @@
     {
         "id": 28,
         "animationId": 11,
-        "description": "【槍】ミスリルで作られた槍。",
+        "description": "[Spear] A spear made of mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -909,7 +909,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ミスリルスピア",
+        "name": "Mithril Spear",
         "note": "",
         "params": [
             0,
@@ -927,7 +927,7 @@
     {
         "id": 29,
         "animationId": 11,
-        "description": "【槍】ドラゴンのキバで作られた槍。",
+        "description": "[Spear] A spear made from the fang of a dragon.",
         "etypeId": 1,
         "traits": [
             {
@@ -942,7 +942,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ドラゴンスピア",
+        "name": "Dragon Spear",
         "note": "",
         "params": [
             0,
@@ -993,7 +993,7 @@
     {
         "id": 31,
         "animationId": 1,
-        "description": "【グローブ】拳頭にトゲがついた格闘用のグローブ。",
+        "description": "[Gloves] Combat gloves with spikes on the knuckles.",
         "etypeId": 1,
         "traits": [
             {
@@ -1018,7 +1018,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "セスタス",
+        "name": "Cestus",
         "note": "",
         "params": [
             0,
@@ -1036,7 +1036,7 @@
     {
         "id": 32,
         "animationId": 16,
-        "description": "【爪】短い４本の爪が取りつけられた格闘武器。",
+        "description": "[Claw] A close-combat weapon with four short claws attached.",
         "etypeId": 1,
         "traits": [
             {
@@ -1061,7 +1061,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "バグナウ",
+        "name": "Bagh Nakh",
         "note": "",
         "params": [
             0,
@@ -1079,7 +1079,7 @@
     {
         "id": 33,
         "animationId": 16,
-        "description": "【爪】鋼鉄のかぎ爪が仕込まれた格闘武器。",
+        "description": "[Claw] A close-combat weapon with steel hooks concealed within.",
         "etypeId": 1,
         "traits": [
             {
@@ -1104,7 +1104,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "アイアンクロウ",
+        "name": "Iron Claw",
         "note": "",
         "params": [
             0,
@@ -1122,7 +1122,7 @@
     {
         "id": 34,
         "animationId": 16,
-        "description": "【爪】ミスリルのかぎ爪が仕込まれた格闘武器。",
+        "description": "[Claw] A close-combat weapon with mithril hooks concealed within.",
         "etypeId": 1,
         "traits": [
             {
@@ -1147,7 +1147,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "ミスリルクロウ",
+        "name": "Mithril Claw",
         "note": "",
         "params": [
             0,
@@ -1165,7 +1165,7 @@
     {
         "id": 35,
         "animationId": 16,
-        "description": "【爪】ドラゴンのかぎ爪が仕込まれた格闘武器。",
+        "description": "[Claw] A close-combat weapon with dragon hooks concealed within.",
         "etypeId": 1,
         "traits": [
             {
@@ -1190,7 +1190,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "ドラゴンクロウ",
+        "name": "Dragon Claw",
         "note": "",
         "params": [
             0,
@@ -1241,7 +1241,7 @@
     {
         "id": 37,
         "animationId": 11,
-        "description": "【弓】狩猟用に作られた短めの弓。",
+        "description": "[Bow] A short bow made for hunting.",
         "etypeId": 1,
         "traits": [
             {
@@ -1256,7 +1256,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ショートボウ",
+        "name": "Short Bow",
         "note": "",
         "params": [
             0,
@@ -1274,7 +1274,7 @@
     {
         "id": 38,
         "animationId": 11,
-        "description": "【弓】威力を高めた戦闘用の長弓。",
+        "description": "[Bow] A longbow enhanced for greater power in combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -1289,7 +1289,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ロングボウ",
+        "name": "Long Bow",
         "note": "",
         "params": [
             0,
@@ -1307,7 +1307,7 @@
     {
         "id": 39,
         "animationId": 11,
-        "description": "【弓】強力なバネで矢を射出する石弓。",
+        "description": "[Bow] A crossbow that shoots arrows with a strong spring mechanism.",
         "etypeId": 1,
         "traits": [
             {
@@ -1322,7 +1322,7 @@
             }
         ],
         "iconIndex": 103,
-        "name": "クロスボウ",
+        "name": "Crossbow",
         "note": "",
         "params": [
             0,
@@ -1340,7 +1340,7 @@
     {
         "id": 40,
         "animationId": 11,
-        "description": "【弓】強力なバネでミスリルの矢を射出する石弓。",
+        "description": "[Bow] A crossbow that shoots mithril arrows with a strong spring\nmechanism.",
         "etypeId": 1,
         "traits": [
             {
@@ -1355,7 +1355,7 @@
             }
         ],
         "iconIndex": 103,
-        "name": "ミスリルボウ",
+        "name": "Mithril Bow",
         "note": "",
         "params": [
             0,
@@ -1373,7 +1373,7 @@
     {
         "id": 41,
         "animationId": 11,
-        "description": "【弓】ドラゴンのヒゲで作られた戦闘用の長弓。",
+        "description": "[Bow] A longbow for combat made from the whiskers of a dragon.",
         "etypeId": 1,
         "traits": [
             {
@@ -1388,7 +1388,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ドラゴンボウ",
+        "name": "Dragon Bow",
         "note": "",
         "params": [
             0,
@@ -1439,7 +1439,7 @@
     {
         "id": 43,
         "animationId": 6,
-        "description": "【刀】日常生活にも使える刀。",
+        "description": "[Katana] A sword that can also be used in everyday life.",
         "etypeId": 1,
         "traits": [
             {
@@ -1454,7 +1454,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "刀",
+        "name": "Katana",
         "note": "",
         "params": [
             0,
@@ -1472,7 +1472,7 @@
     {
         "id": 44,
         "animationId": 6,
-        "description": "【刀】切れ味の良い刀",
+        "description": "[Katana] A sword with good sharpness.",
         "etypeId": 1,
         "traits": [
             {
@@ -1487,7 +1487,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "村雨",
+        "name": "Murasame",
         "note": "",
         "params": [
             0,
@@ -1505,7 +1505,7 @@
     {
         "id": 45,
         "animationId": 6,
-        "description": "【刀】刀身が厚く丈夫な短刀。",
+        "description": "[Katana] A short sword with a thick and sturdy blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1520,7 +1520,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "マインゴーシュ",
+        "name": "Main Gauche",
         "note": "",
         "params": [
             0,
@@ -1538,7 +1538,7 @@
     {
         "id": 46,
         "animationId": 6,
-        "description": "【刀】美しく切れ味の鋭い刀。",
+        "description": "[Katana] A beautiful sword with a sharp cutting edge.",
         "etypeId": 1,
         "traits": [
             {
@@ -1553,7 +1553,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "時雨",
+        "name": "Shigure",
         "note": "",
         "params": [
             0,
@@ -1571,7 +1571,7 @@
     {
         "id": 47,
         "animationId": 6,
-        "description": "【刀】魔法防御が向上する夏色をした刀",
+        "description": "[Katana] A sword with improved magical defense, colored like summer.",
         "etypeId": 1,
         "traits": [
             {
@@ -1586,7 +1586,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "夏空",
+        "name": "Natsuzora",
         "note": "",
         "params": [
             0,
@@ -1637,7 +1637,7 @@
     {
         "id": 49,
         "animationId": 6,
-        "description": "【刀】希少度の高い伝説の名刀。あらゆる能力が向上。",
+        "description": "[Katana] A legendary katana of high rarity. Enhances all abilities.",
         "etypeId": 1,
         "traits": [
             {
@@ -1652,7 +1652,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "不知火",
+        "name": "Shiranui",
         "note": "",
         "params": [
             50,
@@ -1718,7 +1718,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "-----剣2",
+        "name": "----- Sword 2",
         "note": "",
         "params": [
             0,
@@ -1736,7 +1736,7 @@
     {
         "id": 52,
         "animationId": 6,
-        "description": "【剣】戦闘用に改良された剣。",
+        "description": "[Sword] A sword improved for combat use.",
         "etypeId": 1,
         "traits": [
             {
@@ -1751,7 +1751,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "バトルソード",
+        "name": "Battle Sword",
         "note": "",
         "params": [
             0,
@@ -1769,7 +1769,7 @@
     {
         "id": 53,
         "animationId": 6,
-        "description": "【剣】魔法で作られた剣。",
+        "description": "[Sword] A sword created by magic.",
         "etypeId": 1,
         "traits": [
             {
@@ -1784,7 +1784,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ルーンソード",
+        "name": "Rune Sword",
         "note": "",
         "params": [
             0,
@@ -1802,7 +1802,7 @@
     {
         "id": 54,
         "animationId": 6,
-        "description": "【剣】クリスタルで作られた剣。",
+        "description": "[Sword] A sword made of crystal.",
         "etypeId": 1,
         "traits": [
             {
@@ -1817,7 +1817,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "クリスタルソード",
+        "name": "Crystal Sword",
         "note": "",
         "params": [
             0,
@@ -1835,7 +1835,7 @@
     {
         "id": 55,
         "animationId": 6,
-        "description": "【剣】神聖な剣。",
+        "description": "[Sword] A sacred sword.",
         "etypeId": 1,
         "traits": [
             {
@@ -1850,7 +1850,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ホーリーソード",
+        "name": "Holy Sword",
         "note": "",
         "params": [
             0,
@@ -1868,7 +1868,7 @@
     {
         "id": 56,
         "animationId": 6,
-        "description": "【剣】オーガを一太刀で切り裂けるほどの剣。",
+        "description": "[Sword] A sword capable of slicing an ogre in a single stroke.",
         "etypeId": 1,
         "traits": [
             {
@@ -1883,7 +1883,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ギガンテスソード",
+        "name": "Gigantes Sword",
         "note": "",
         "params": [
             0,
@@ -1901,7 +1901,7 @@
     {
         "id": 57,
         "animationId": 6,
-        "description": "【剣】最強と称される剣。",
+        "description": "[Sword] A sword acclaimed as the strongest.",
         "etypeId": 1,
         "traits": [
             {
@@ -1916,7 +1916,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ファイナルソード",
+        "name": "Final Sword",
         "note": "",
         "params": [
             0,
@@ -1934,7 +1934,7 @@
     {
         "id": 58,
         "animationId": 10,
-        "description": "聖者が装備していたとされる伝説の聖剣。",
+        "description": "A legendary holy sword said to have been wielded by a saint.",
         "etypeId": 1,
         "traits": [
             {
@@ -1949,7 +1949,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "聖剣 エスカヴァロン",
+        "name": "Sacred Sword Escavalon",
         "note": "",
         "params": [
             0,
@@ -1967,7 +1967,7 @@
     {
         "id": 59,
         "animationId": 8,
-        "description": "光り輝く魔剣",
+        "description": "A shining, magical sword",
         "etypeId": 1,
         "traits": [
             {
@@ -1982,7 +1982,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ラグナス",
+        "name": "Ragnus",
         "note": "",
         "params": [
             0,
@@ -2081,7 +2081,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "-----刀2",
+        "name": "----- Sword 2",
         "note": "",
         "params": [
             0,
@@ -2099,7 +2099,7 @@
     {
         "id": 63,
         "animationId": 6,
-        "description": "【刀】切れ味と破壊力に優れた太刀。",
+        "description": "[Katana] A broadsword with superior sharpness and destructive power.",
         "etypeId": 1,
         "traits": [
             {
@@ -2114,7 +2114,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "正宗",
+        "name": "Masamune",
         "note": "",
         "params": [
             0,
@@ -2132,7 +2132,7 @@
     {
         "id": 64,
         "animationId": 6,
-        "description": "【刀】素早さが向上する先制攻撃を目的とした刀。",
+        "description": "[Katana] A sword designed for preemptive strikes that enhance agility.",
         "etypeId": 1,
         "traits": [
             {
@@ -2147,7 +2147,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "五月雨",
+        "name": "Samidare",
         "note": "",
         "params": [
             0,
@@ -2165,7 +2165,7 @@
     {
         "id": 65,
         "animationId": 6,
-        "description": "【刀】剣士たちの生き血を吸ってきた魔性の刀。",
+        "description": "[Katana] A demonic blade that has sucked the lifeblood of swordsmen.",
         "etypeId": 1,
         "traits": [
             {
@@ -2180,7 +2180,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "妖刀ムラマサ",
+        "name": "Demon Blade Muramasa",
         "note": "",
         "params": [
             0,
@@ -2198,7 +2198,7 @@
     {
         "id": 66,
         "animationId": 6,
-        "description": "【刀】名のある刀匠に鍛えられた業物の刀。",
+        "description": "[Katana] A masterwork sword forged by a renowned swordsmith.",
         "etypeId": 1,
         "traits": [
             {
@@ -2218,7 +2218,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "影の刀",
+        "name": "Shadow Blade",
         "note": "",
         "params": [
             0,
@@ -2236,7 +2236,7 @@
     {
         "id": 67,
         "animationId": 6,
-        "description": "【刀】名のある刀匠に鍛えられた業物の刀。",
+        "description": "[Katana] A masterwork sword forged by a renowned swordsmith.",
         "etypeId": 1,
         "traits": [
             {
@@ -2251,7 +2251,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "零",
+        "name": "Zero",
         "note": "",
         "params": [
             0,
@@ -2350,7 +2350,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "-----弓矢2",
+        "name": "----- Bow 2",
         "note": "",
         "params": [
             0,
@@ -2368,7 +2368,7 @@
     {
         "id": 71,
         "animationId": 11,
-        "description": "【弓】超強力な戦闘用の長弓。",
+        "description": "[Bow] An ultra-powerful longbow for combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -2383,7 +2383,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ダーインボウ",
+        "name": "Dáinsleif Bow",
         "note": "",
         "params": [
             0,
@@ -2401,7 +2401,7 @@
     {
         "id": 72,
         "animationId": 11,
-        "description": "【弓】魔法で作られた弓。",
+        "description": "[Bow] A bow created by magic.",
         "etypeId": 1,
         "traits": [
             {
@@ -2416,7 +2416,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "マナナーンボウ",
+        "name": "Manannán Bow",
         "note": "",
         "params": [
             0,
@@ -2434,7 +2434,7 @@
     {
         "id": 73,
         "animationId": 11,
-        "description": "【弓】聖なる魔法で作られた弓。",
+        "description": "[Bow] A bow made with holy magic.",
         "etypeId": 1,
         "traits": [
             {
@@ -2449,7 +2449,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ガ・ジャルグボウ",
+        "name": "Gáe Bulg Bow",
         "note": "",
         "params": [
             0,
@@ -2467,7 +2467,7 @@
     {
         "id": 74,
         "animationId": 11,
-        "description": "【弓】名のある職人が作った伝説の弓。",
+        "description": "[Bow] A legendary bow crafted by a famous artisan.",
         "etypeId": 1,
         "traits": [
             {
@@ -2482,7 +2482,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "アルテュールボウ",
+        "name": "Arthurs Bow",
         "note": "",
         "params": [
             0,
@@ -2500,7 +2500,7 @@
     {
         "id": 75,
         "animationId": 11,
-        "description": "【弓】伝説の弓。",
+        "description": "[Bow] A legendary bow.",
         "etypeId": 1,
         "traits": [
             {
@@ -2515,7 +2515,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ロンバルディア・ボウ",
+        "name": "Lombardia Bow",
         "note": "",
         "params": [
             0,
@@ -2614,7 +2614,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "-----槍2",
+        "name": "----- Spear 2",
         "note": "",
         "params": [
             0,
@@ -2632,7 +2632,7 @@
     {
         "id": 79,
         "animationId": 11,
-        "description": "【槍】魔法の金属ルーンで作られた長槍。",
+        "description": "[Spear] A long spear made of magical metal runes.",
         "etypeId": 1,
         "traits": [
             {
@@ -2647,7 +2647,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ルーンスピア",
+        "name": "Rune Spear",
         "note": "",
         "params": [
             0,
@@ -2665,7 +2665,7 @@
     {
         "id": 80,
         "animationId": 11,
-        "description": "【槍】クリスタルで作られた長槍。",
+        "description": "[Spear] A long spear made of crystal.",
         "etypeId": 1,
         "traits": [
             {
@@ -2680,7 +2680,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "クリスタルスピア",
+        "name": "Crystal Spear",
         "note": "",
         "params": [
             0,
@@ -2698,7 +2698,7 @@
     {
         "id": 81,
         "animationId": 11,
-        "description": "【槍】白銀で作られた長槍。",
+        "description": "[Spear] A long spear made of silver.",
         "etypeId": 1,
         "traits": [
             {
@@ -2713,7 +2713,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "白銀のスピア",
+        "name": "Silver Spear",
         "note": "",
         "params": [
             0,
@@ -2731,7 +2731,7 @@
     {
         "id": 82,
         "animationId": 11,
-        "description": "【槍】白き神の祝福を受けた聖なる槍。",
+        "description": "[Spear] A holy spear blessed by the white god.",
         "etypeId": 1,
         "traits": [
             {
@@ -2746,7 +2746,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ホーリーランス",
+        "name": "Holy Lance",
         "note": "",
         "params": [
             0,
@@ -2764,7 +2764,7 @@
     {
         "id": 83,
         "animationId": 11,
-        "description": "【槍】影の国に伝わる魔力を帯びた槍。",
+        "description": "[Spear] A spear imbued with magical power from the land of shadows.",
         "etypeId": 1,
         "traits": [
             {
@@ -2779,7 +2779,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "魔槍ゲイボルグ",
+        "name": "Demon Lance Gáe Bolg",
         "note": "",
         "params": [
             0,
@@ -3010,7 +3010,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "-----ロッド",
+        "name": "----- Rod",
         "note": "",
         "params": [
             0,
@@ -3028,7 +3028,7 @@
     {
         "id": 91,
         "animationId": 11,
-        "description": "魔法のロッド",
+        "description": "Magical rod",
         "etypeId": 1,
         "traits": [
             {
@@ -3043,7 +3043,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "ルーンのロッド",
+        "name": "Rune Rod",
         "note": "",
         "params": [
             0,
@@ -3061,7 +3061,7 @@
     {
         "id": 92,
         "animationId": 11,
-        "description": "魔法のロッド",
+        "description": "Magical rod",
         "etypeId": 1,
         "traits": [
             {
@@ -3076,7 +3076,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "レーヴァテイン",
+        "name": "Lævateinn",
         "note": "",
         "params": [
             0,
@@ -3094,7 +3094,7 @@
     {
         "id": 93,
         "animationId": 11,
-        "description": "打撃に優れたフレイル。",
+        "description": "A flail with superior striking power.",
         "etypeId": 1,
         "traits": [
             {
@@ -3109,7 +3109,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "ドレッドノート",
+        "name": "Dreadnought",
         "note": "",
         "params": [
             0,
@@ -3127,7 +3127,7 @@
     {
         "id": 94,
         "animationId": 11,
-        "description": "打撃に優れたフレイル。",
+        "description": "A flail with superior striking power.",
         "etypeId": 1,
         "traits": [
             {
@@ -3142,7 +3142,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "クラウ・ソラス",
+        "name": "Claiomh Solais",
         "note": "",
         "params": [
             0,
@@ -3160,7 +3160,7 @@
     {
         "id": 95,
         "animationId": 11,
-        "description": "魔法のロッド",
+        "description": "Magical rod",
         "etypeId": 1,
         "traits": [
             {
@@ -3175,7 +3175,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "キャリバーン",
+        "name": "Caliburn",
         "note": "",
         "params": [
             0,
@@ -3193,7 +3193,7 @@
     {
         "id": 96,
         "animationId": 11,
-        "description": "打撃に優れたフレイル。",
+        "description": "A flail with superior striking power.",
         "etypeId": 1,
         "traits": [
             {
@@ -3208,7 +3208,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "コルブランド",
+        "name": "Colbrand",
         "note": "",
         "params": [
             0,
@@ -3226,7 +3226,7 @@
     {
         "id": 97,
         "animationId": 11,
-        "description": "打撃に優れたフレイル。",
+        "description": "A flail with superior striking power.",
         "etypeId": 1,
         "traits": [
             {
@@ -3241,7 +3241,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "ブリューナク",
+        "name": "Brionac",
         "note": "",
         "params": [
             0,
@@ -3259,7 +3259,7 @@
     {
         "id": 98,
         "animationId": 11,
-        "description": "打撃に優れたフレイル。",
+        "description": "A flail with superior striking power.",
         "etypeId": 1,
         "traits": [
             {
@@ -3274,7 +3274,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "オルウェン",
+        "name": "Olwen",
         "note": "",
         "params": [
             0,
@@ -3292,7 +3292,7 @@
     {
         "id": 99,
         "animationId": 11,
-        "description": "魔法のロッド",
+        "description": "Magical rod",
         "etypeId": 1,
         "traits": [
             {
@@ -3307,7 +3307,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "ダーインスレイヴ",
+        "name": "Dáinsleif",
         "note": "",
         "params": [
             0,
@@ -3325,7 +3325,7 @@
     {
         "id": 100,
         "animationId": 11,
-        "description": "魔法のロッド",
+        "description": "Magical rod",
         "etypeId": 1,
         "traits": [
             {
@@ -3340,7 +3340,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "ロンバルディア",
+        "name": "Lombardia",
         "note": "",
         "params": [
             0,
@@ -3358,7 +3358,7 @@
     {
         "id": 101,
         "animationId": 11,
-        "description": "魔法のロッド",
+        "description": "Magical rod",
         "etypeId": 1,
         "traits": [
             {
@@ -3373,7 +3373,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "ディウルナッハ",
+        "name": "Diurnach",
         "note": "",
         "params": [
             0,
@@ -3391,7 +3391,7 @@
     {
         "id": 102,
         "animationId": 11,
-        "description": "打撃に優れたフレイル。",
+        "description": "A flail with superior striking power.",
         "etypeId": 1,
         "traits": [
             {
@@ -3406,7 +3406,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "ガ・ジャルグ",
+        "name": "Gáe Bulg",
         "note": "",
         "params": [
             0,
@@ -3424,7 +3424,7 @@
     {
         "id": 103,
         "animationId": 11,
-        "description": "魔法のロッド",
+        "description": "Magical rod",
         "etypeId": 1,
         "traits": [
             {
@@ -3439,7 +3439,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "マナナーン",
+        "name": "Manannán",
         "note": "",
         "params": [
             0,
@@ -3457,7 +3457,7 @@
     {
         "id": 104,
         "animationId": 11,
-        "description": "打撃に優れたフレイル。",
+        "description": "A flail with superior striking power.",
         "etypeId": 1,
         "traits": [
             {
@@ -3472,7 +3472,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "パルティア",
+        "name": "Parthia",
         "note": "",
         "params": [
             0,
@@ -3490,7 +3490,7 @@
     {
         "id": 105,
         "animationId": 11,
-        "description": "魔法のロッド",
+        "description": "Magical rod",
         "etypeId": 1,
         "traits": [
             {
@@ -3505,7 +3505,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "アルテュール",
+        "name": "Arthurs",
         "note": "",
         "params": [
             10,
@@ -3523,7 +3523,7 @@
     {
         "id": 106,
         "animationId": 11,
-        "description": "魔法のロッド",
+        "description": "Magical rod",
         "etypeId": 1,
         "traits": [
             {
@@ -3538,7 +3538,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "レイド",
+        "name": "Raid",
         "note": "",
         "params": [
             30,
@@ -3670,7 +3670,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "-----斧",
+        "name": "----- Axe",
         "note": "",
         "params": [
             0,
@@ -3688,7 +3688,7 @@
     {
         "id": 111,
         "animationId": 6,
-        "description": "強力な斧。",
+        "description": "Powerful axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -3703,7 +3703,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ハンドアクス",
+        "name": "Hand Axe",
         "note": "",
         "params": [
             0,
@@ -3721,7 +3721,7 @@
     {
         "id": 112,
         "animationId": 6,
-        "description": "強力な斧。",
+        "description": "Powerful axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -3736,7 +3736,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ミスリルアクス",
+        "name": "Mithril Axe",
         "note": "",
         "params": [
             0,
@@ -3754,7 +3754,7 @@
     {
         "id": 113,
         "animationId": 6,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -3769,7 +3769,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バトルアクス",
+        "name": "Battle Axe",
         "note": "",
         "params": [
             0,
@@ -3787,7 +3787,7 @@
     {
         "id": 114,
         "animationId": 6,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -3802,7 +3802,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バルディッシュ",
+        "name": "Bardiche",
         "note": "",
         "params": [
             0,
@@ -3820,7 +3820,7 @@
     {
         "id": 115,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -3835,7 +3835,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ドラゴンアクス",
+        "name": "Dragon Axe",
         "note": "",
         "params": [
             0,
@@ -3853,7 +3853,7 @@
     {
         "id": 116,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -3868,7 +3868,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ハルバードアクス",
+        "name": "Halberd Axe",
         "note": "",
         "params": [
             0,
@@ -3886,7 +3886,7 @@
     {
         "id": 117,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -3901,7 +3901,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "クリムゾンアクス",
+        "name": "Crimson Axe",
         "note": "",
         "params": [
             0,
@@ -3919,7 +3919,7 @@
     {
         "id": 118,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -3934,7 +3934,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "銀の斧",
+        "name": "Silver Axe",
         "note": "",
         "params": [
             0,
@@ -3952,7 +3952,7 @@
     {
         "id": 119,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -3967,7 +3967,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "セスタス",
+        "name": "Cestus",
         "note": "",
         "params": [
             0,
@@ -3985,7 +3985,7 @@
     {
         "id": 120,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -4000,7 +4000,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バグナウアクス",
+        "name": "Bhuj Axe",
         "note": "",
         "params": [
             0,
@@ -4018,7 +4018,7 @@
     {
         "id": 121,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -4033,7 +4033,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ギガンテスアクス",
+        "name": "Gigantes Axe",
         "note": "",
         "params": [
             0,
@@ -4051,7 +4051,7 @@
     {
         "id": 122,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -4066,7 +4066,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ガイガンアクス",
+        "name": "Gaigan Axe",
         "note": "",
         "params": [
             0,
@@ -4084,7 +4084,7 @@
     {
         "id": 123,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -4099,7 +4099,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ファイナルアクス",
+        "name": "Final Axe",
         "note": "",
         "params": [
             10,
@@ -4117,7 +4117,7 @@
     {
         "id": 124,
         "animationId": 1,
-        "description": "強力な戦闘斧。",
+        "description": "Powerful battle axe.",
         "etypeId": 1,
         "traits": [
             {
@@ -4132,7 +4132,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "魔人の斧",
+        "name": "Demon's Axe",
         "note": "",
         "params": [
             30,

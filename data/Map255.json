@@ -8247,7 +8247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『火の鳥』を手に入れた。"
+                                "Obtained the \"Phoenix\"."
                             ]
                         },
                         {
@@ -8477,7 +8477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: これは･･･"
+                                "Luuna: What's this..."
                             ]
                         },
                         {
@@ -8528,7 +8528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: お菓子のレシピ本ね。"
+                                "Becky: It's a cookbook for sweets."
                             ]
                         },
                         {
@@ -8546,14 +8546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 古代のお菓子のレシピ本かね？こんな場所に置いてあるという事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よっぽど美味いお菓子のレシピが載ってるのかねぇ。"
+                                "Cain: A cookbook for ancient sweets, huh? If it's been left in a place\nlike this, maybe it contains recipes for some really delicious treats."
                             ]
                         },
                         {
@@ -8604,7 +8597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: さぁ･･･"
+                                "Becky: Well..."
                             ]
                         },
                         {
@@ -8622,14 +8615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 持って帰ろうぜ。お菓子を作ってレーデに持っていけば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かくれるかもしれないしな。"
+                                "Cain: Let's take it with us. If we make sweets using this and give\nthem to Rade, she might give us something in return."
                             ]
                         },
                         {
@@ -8680,14 +8666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: そうね。この「お菓子のレシピ本」を参考にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お菓子を作ってレーデ様に持っていこう。"
+                                "Luuna: Right. Let's use this \"Cookbook for Sweets\" as a reference to\nmake some sweets and bring them to Lady Rade."
                             ]
                         },
                         {
@@ -8717,7 +8696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『お菓子のレシピ本』を手に入れた。"
+                                "Gained the \"Cookbook for Sweets\"."
                             ]
                         },
                         {

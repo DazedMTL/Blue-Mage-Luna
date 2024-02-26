@@ -6445,7 +6445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】･････"
+                                "Attendant: \"...\""
                             ]
                         },
                         {
@@ -6463,7 +6463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】ルーナさん･･･無事、ノルヴァーナに着いただろうか。"
+                                "Attendant: \"I wonder if Luuna-san has safely arrived in Norvania...\""
                             ]
                         },
                         {
@@ -6490,7 +6490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】ん！？"
+                                "Attendant: \"Hm!?\""
                             ]
                         },
                         {
@@ -6601,7 +6601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】！！？"
+                                "Attendant: \"!!?\""
                             ]
                         },
                         {
@@ -6788,7 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【？？？】ルカ、久しぶり。"
+                                "???: \"Luca, it's been a while.\""
                             ]
                         },
                         {
@@ -6806,7 +6806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】あ･･･"
+                                "Attendant: \"Ah...\""
                             ]
                         },
                         {
@@ -6824,7 +6824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レグナス・グラハード様！？"
+                                "Attendant: \"Lord Regnus Grahardt!?\""
                             ]
                         },
                         {
@@ -6842,7 +6842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: これは思念体。こんな格好でごめん。"
+                                "Regnus Grahardt: \"This is a thought body. Sorry for appearing like\nthis.\""
                             ]
                         },
                         {
@@ -6860,7 +6860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】･････"
+                                "Attendant: \"...\""
                             ]
                         },
                         {
@@ -6878,14 +6878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】ああ！レグナス・グラハード様！なんと変わり果てた姿に！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死んで人魂に成られたのですね！おいたわしや～！"
+                                "Attendant: \"Oh! Lord Regnus Grahardt! What a transformed appearance!\nHave you died and become a spirit? How pitiable!\""
                             ]
                         },
                         {
@@ -6912,7 +6905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: だから意図した思念体なんだよ･･･"
+                                "Regnus Grahardt: \"That's why I said it's an intentional thought\nbody...\""
                             ]
                         },
                         {
@@ -6939,7 +6932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】なーんちゃって。色々とご事情があるのですね。"
+                                "Attendant: \"Just kidding. I understand you have your circumstances.\""
                             ]
                         },
                         {
@@ -6957,7 +6950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レーデ様にご用事ですか？いや･･･あなたを探してる方達がいます。"
+                                "Attendant: \"Do you have business with Lady Rade? No... there are\npeople looking for you.\""
                             ]
                         },
                         {
@@ -6975,14 +6968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: うん。今日はルーナの件で貴方に渡すものがあって来たんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レーデに用事は無い。"
+                                "Regnus Grahardt: \"Yeah. I came here today to give you something\nregarding Luuna. I have no business with Rade.\""
                             ]
                         },
                         {
@@ -7000,7 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】私に渡すもの？"
+                                "Attendant: \"Something for me to pass on?\""
                             ]
                         },
                         {
@@ -7018,7 +7004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: これをルーナに渡して欲しい。"
+                                "Regnus Grahardt: \"I want you to give this to Luuna.\""
                             ]
                         },
                         {
@@ -7036,7 +7022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】･････"
+                                "Attendant: \"...\""
                             ]
                         },
                         {
@@ -7054,7 +7040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】これは･･･"
+                                "Attendant: \"This is...\""
                             ]
                         },
                         {
@@ -7072,7 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ･････"
+                                "Regnus Grahardt: \"...\""
                             ]
                         },
                         {
@@ -7090,7 +7076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ルカ、頼んだよ。"
+                                "Regnus Grahardt: \"Luca, I'm counting on you.\""
                             ]
                         },
                         {
@@ -7108,7 +7094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】はい！"
+                                "Attendant: \"Yes!\""
                             ]
                         },
                         {
@@ -7298,7 +7284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】レグナス・グラハード様！"
+                                "Attendant: \"Lord Regnus Grahardt!\""
                             ]
                         },
                         {
@@ -7316,7 +7302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】ルーナさんは、あなたの力を必要としている。"
+                                "Attendant: \"Luuna-san needs your strength.\""
                             ]
                         },
                         {
@@ -7334,7 +7320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: ･････"
+                                "Regnus Grahardt: \"...\""
                             ]
                         },
                         {
@@ -7352,7 +7338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レグナス・グラハード: 今は事情があって力を貸せない。ごめん。"
+                                "Regnus Grahardt: \"I can't lend my power right now due to certain\ncircumstances. Sorry.\""
                             ]
                         },
                         {
@@ -7471,7 +7457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【従者】･････"
+                                "Attendant: \"...\""
                             ]
                         },
                         {

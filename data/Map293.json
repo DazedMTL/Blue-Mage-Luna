@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ルーナの家",
+    "displayName": "Luuna's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2977,7 +2977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: ルーシアは許せない。今度は絶対に勝つよ。"
+                                "Becky: I can't forgive Lucia. This time, I'll definitely win."
                             ]
                         },
                         {
@@ -3079,14 +3079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: はぁ･･･男ってやつは。まだ新婚だし･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポールには内緒にしないとね。こんな奴に借金した旦那が悪いんだけどね。"
+                                "Becky: Sigh... Men are just... We're still newlyweds... I have to keep\nthis a secret from Pole. But it's my husband's fault for borrowing\nmoney from such a guy."
                             ]
                         },
                         {
@@ -3164,14 +3157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 俺の兄貴のダリエフは旅には参加させるなってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長である親父の言いつけだ。兄貴はヤリチン過ぎて足引っ張りそうだから当然だな。"
+                                "Cain: My brother Dalieh has been told not to join the journey. It's an\norder from our father, the village chief. It's only natural since my\nbrother is such a womanizer, he'd likely be a drag."
                             ]
                         },
                         {
@@ -3240,28 +3226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 今度、ベッキーとオマンコしようと思ってるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだけ旅を一緒したんだからいいだろ。ポールはギャンブル症で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしようもない奴だからな。あいつにこんな妻がいるのは許せねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッキーをポールの寝てる前で、ガンガン突いてやるつもりだ。"
+                                "Cain: I'm thinking of fucking Becky next time. We've traveled together\nfor so long, it should be fine. Pole is a hopeless gambling addict. I\ncan't stand that he has such a wife. I plan to pound her right in\nfront of sleeping Pole."
                             ]
                         },
                         {
@@ -3269,9 +3234,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "今はいい",
-                                    "ベッキーに確認する。",
-                                    "尿道攻めをしてもらう。"
+                                    "Not now.",
+                                    "Check with Becky first.",
+                                    "Have her play with your urethra."
                                 ],
                                 0,
                                 0,
@@ -3377,7 +3342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ベッキー、あなたには夫がいるのに･･･いいの？"
+                                "Luuna: Becky, you have a husband... Is this really okay?"
                             ]
                         },
                         {
@@ -3429,21 +3394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: 仕方ないわよ･･･ポールは博打症候群で、こいつや色んな奴に借金してるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ポールは怪我で働けない。でも借金は返さないといけないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "旦那が怪我で働けなくなったから借金を返せない。"
+                                "Becky: Can't help it... Pole has a gambling syndrome, and he's in debt\nto this guy and many others. Pole can't work because of an injury. But\nthe debts have to be paid, since my husband can't work and pay them\noff."
                             ]
                         },
                         {
@@ -3461,14 +3412,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイン: く～っ･･･旦那の借金の為に売春する妻ってエロいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんなヘタレを旦那にもった事を恨むんだな～。借金は利息も加算されてるぜ。"
+                                "Cain: Heh... A wife prostituting herself to pay off her husband's\ndebts is so erotic. You must resent having such a loser for a husband.\nThe debt's interest is piling up too."
                             ]
                         },
                         {
@@ -3495,14 +3439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: うっさいわね。わかってるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やればいいんでしょ、やれば。"
+                                "Becky: Shut up. I know that. Just do it, if you're going to do it."
                             ]
                         },
                         {
@@ -3520,14 +3457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイン: そう、オマンコやればいいんだよ。やっとベッキーとオマンコできるわ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっとあのヘタレ野郎から妻を寝取れるぜ。"
+                                "Cain: That's right, just gotta fuck. Finally, I can fuck Becky.\nFinally, I can cuck that loser."
                             ]
                         },
                         {
@@ -3545,14 +3475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: あんまりポールの悪口は言わないでよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "借金は旦那の代わりに返すって言ってるんだから。あんたの、いいなりになるから。"
+                                "Becky: Don't talk too badly about Pole, okay? I said I would pay off\nhis debts in his place. I'll do whatever you want."
                             ]
                         },
                         {
@@ -3570,14 +3493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カイン: へへっ 今夜、あいつの寝てる隣でオマンコするからな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その方が興奮するべ。"
+                                "Cain: Heh heh, tonight, I'll fuck you right next to him while he\nsleeps? It'll be more exciting that way."
                             ]
                         },
                         {
@@ -3595,7 +3511,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッキー: はあ～～～？ 男って何考えてんだか･･･"
+                                "Becky: Sigh... What are men even thinking..."
                             ]
                         },
                         {
@@ -3622,7 +3538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: はぁ･･･二人とも･･･こんな事してて良いのかな･･･"
+                                "Luuna: Sigh... Both of you... Is it really okay to do this..."
                             ]
                         },
                         {
@@ -3659,7 +3575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その日の深夜、ポールの寝てるベッドの隣でベッキーとカインは初エッチする事になった。"
+                                "That night, next to the bed where Pole was sleeping, Becky and Cain\nwere about to have their first sexual encounter."
                             ]
                         },
                         {
@@ -3677,7 +3593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポールは睡眠薬で、ぐっすり眠っている。カインはパンパンに肉棒を勃起させていた。"
+                                "Pole was sound asleep from the sleeping pills. Cain had his dick rock\nhard and ready."
                             ]
                         },
                         {
@@ -3695,7 +3611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今夜、ベッキーのオマンコにカインの肉棒が挿入されようとしていた。"
+                                "Tonight, Cain's dick was about to be inserted into Becky's pussy."
                             ]
                         },
                         {
@@ -3846,14 +3762,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ベッキー: ねぇ、カイン、あたしの尿道を攻めて欲しいんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "尿道がムラムラしてきちゃってさ。"
+                                "Becky: Hey, Cain, I want you to play with my urethra. It's starting to\nthrob with desire."
                             ]
                         },
                         {
@@ -3871,14 +3780,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カイン: ベッキーも成長したな。尿道攻めてやるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今夜、友達が家に来るからよ。"
+                                "Cain: Becky's grown up, huh. I'll play with your urethra. Friends are\ncoming over tonight, you know."
                             ]
                         },
                         {
@@ -3929,7 +3831,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ベッキー: 頼んだわよ。あたしの尿道、ズボズボしてよね。"
+                                "Becky: I'm counting on you. Go ahead and probe my urethra deeply."
                             ]
                         },
                         {
@@ -3959,14 +3861,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ベッキーは既に、娼館の客達に「尿道攻め」と「ニブルファック」を仕込まれていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "最近はチンポだけじゃ満足できず、自らカインに懇願した。"
+                                "Becky had already been trained in \"urethral play\" and \"nipple fuck\" by\nthe clients at the brothel. Lately, a dick alone wasn't enough to\nsatisfy her, so she begged Cain herself."
                             ]
                         },
                         {
@@ -4051,14 +3946,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\I[89]HINT】ルーナとベッキーが「不良達に売り飛ばされる」を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "達成すれば選択できます。"
+                                "【\\I[89]HINT】If Luuna and Becky achieve \"Sold off by the delinquents,\"\nit becomes selectable."
                             ]
                         },
                         {
@@ -4156,7 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ルーナ、今度、デートに行かないかい？♪"
+                                "Dalieh: Luuna, would you like to go on a date with me sometime?♪"
                             ]
                         },
                         {
@@ -4207,7 +4095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え･･･"
+                                "Luuna: Eh...?"
                             ]
                         },
                         {
@@ -4225,14 +4113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン:貧乏人のノアにルーナの恋人はふさわしくないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大金持ちでセックス上手の僕こそ、ルーナの恋人にふさわしい。"
+                                "Cain: A poor guy like Noah isn't suitable for you, Luuna. A rich guy\nwho's good in bed like me is the right choice for you."
                             ]
                         },
                         {
@@ -4283,7 +4164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ダリエフ、ごめん。デートは出来ません･･･"
+                                "Luuna: Dalieh, I'm sorry. I can't go on a date..."
                             ]
                         },
                         {
@@ -4301,7 +4182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: やっぱりノアの事か？"
+                                "Cain: Is it because of Noah?"
                             ]
                         },
                         {
@@ -4352,7 +4233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ええ･･･"
+                                "Luuna: Yes..."
                             ]
                         },
                         {
@@ -4370,14 +4251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: 言いにくいが、ノアはまともに歩く事はできないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルーナは自分のこれからを考えた方が良いんじゃないのかい？"
+                                "Cain: It's hard to say, but Noah probably won't be able to walk\nproperly. Shouldn't you think about your future, Luuna?"
                             ]
                         },
                         {
@@ -4428,14 +4302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ノアとは幼馴染で小さい頃からずっと一緒だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノアはきっと私の事を････だから、ごめんなさい。"
+                                "Luuna: Noah and I have been childhood friends, together since we were\nlittle. I'm sure he... That's why, I'm sorry."
                             ]
                         },
                         {
@@ -4462,14 +4329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: (ダリエフは本当に苦手･･･キザったらしいし。スケベだし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても私の趣味じゃないわね･･･。)"
+                                "Luuna: (I really can't stand Dalieh... He's so full of himself and\nlecherous. He's definitely not my type...)"
                             ]
                         },
                         {
@@ -4538,21 +4398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: ルーナ、僕の愛人になる気になったかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『ノア自身が君を僕の愛人にしてくれ』と僕に頼んでるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の前では絶対に言わないけどね。"
+                                "Dalieh: Luuna, have you decided to become my lover? \"Noah himself\nasked me to make you my lover.\" He would never say it in front of you,\nthough."
                             ]
                         },
                         {
@@ -4560,8 +4406,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "絶対に嫌",
-                                    "ダリエフの愛人になる"
+                                    "Absolutely not",
+                                    "Become Dalieh's lover"
                                 ],
                                 0,
                                 0,
@@ -4605,7 +4451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: ･･････"
+                                "Dalieh: ......"
                             ]
                         },
                         {
@@ -4623,7 +4469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: やっとその気になったか。"
+                                "Dalieh: So you've finally come around."
                             ]
                         },
                         {
@@ -4641,7 +4487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -4659,7 +4505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: 私は･･･私は･･･くっ･･･ダリエフの愛人になります。"
+                                "Luuna: I... I... ugh... I'll become Dalieh's lover."
                             ]
                         },
                         {
@@ -4677,7 +4523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: もっと大きな声で言えよ。"
+                                "Dalieh: Say it louder."
                             ]
                         },
                         {
@@ -4695,14 +4541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: 私はダリエフの愛人の一人になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私は、ダリエフのセックスフレンドになります。"
+                                "Luuna: I will become one of Dalieh's lovers. I will become Dalieh's\nsex friend."
                             ]
                         },
                         {
@@ -4720,7 +4559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: うほっ！まじかよ！ルーナ、その言葉を待っていたよ。"
+                                "Dalieh: Whoa! Seriously?! Luuna, I've been waiting to hear those\nwords."
                             ]
                         },
                         {
@@ -4738,14 +4577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: では今夜、ルーナと初マンコだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ノアの泣きっ面が目に浮かぶよ。ふふ･･･"
+                                "Dalieh: So tonight will be the first time with Luuna's pussy. I can\nalready see Noah's crying face. Hehe..."
                             ]
                         },
                         {
@@ -4763,7 +4595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ううっ･･･ 何でこんな事に･･･"
+                                "Luuna: Ugh... Why has it come to this..."
                             ]
                         },
                         {
@@ -4793,7 +4625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノア: ルーナ！"
+                                "Noah: Luuna!"
                             ]
                         },
                         {
@@ -4842,7 +4674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ノア！"
+                                "Luuna: Noah!"
                             ]
                         },
                         {
@@ -4860,7 +4692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: ･････"
+                                "Dalieh: ......"
                             ]
                         },
                         {
@@ -4878,43 +4710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ノア、どうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ノア: 今日は部屋に誰もいないんだ。ルーナ、部屋にこないか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルーナ: そうなんだ。ノア、脚は大丈夫？"
+                                "Luuna: Noah, what's wrong?"
                             ]
                         },
                         {
@@ -4932,7 +4728,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノア: 大丈夫さ。病院の主治医の先生から薬をもらって飲んでるから。"
+                                "Noah: No one's in the room today. Luuna, won't you come to my room?"
                             ]
                         },
                         {
@@ -4950,50 +4746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: 良かった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ノア: でもさぁ、この薬、飲むと凄く眠くなるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一度眠れば、どんな物音がしても全く起きない。薬の副作用だと思うけどね。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルーナ: どんな物音がしても起きないって凄いね。"
+                                "Luuna: Is that so. Noah, is your leg okay?"
                             ]
                         },
                         {
@@ -5011,7 +4764,25 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノア: うん、そうなんだ。ふわぁあああ･･･眠い。"
+                                "Noah: It's fine. I got some medicine from the doctor at the hospital\nand I've been taking it."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Luuna: That's good."
                             ]
                         },
                         {
@@ -5029,7 +4800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノア: 眠い、眠い。ふわぁあああ･･･ やっぱり今日は駄目かも。"
+                                "Noah: But, you know, this medicine makes me really sleepy. Once I fall\nasleep, no matter what noise there is, I won't wake up at all. I think\nit's a side effect of the medicine."
                             ]
                         },
                         {
@@ -5047,14 +4818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: そっか。残念ね。ノア、今日は寝た方がいいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おやすみ。愛してるよ、ノア。"
+                                "Luuna: Not waking up no matter what noise there is sounds intense."
                             ]
                         },
                         {
@@ -5072,7 +4836,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノア: 僕もルーナを愛してるよ。おやすみ。ふわぁあああ･･･"
+                                "Noah: Yeah, that's right. Yawn... I'm sleepy."
                             ]
                         },
                         {
@@ -5090,7 +4854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノア: ･･････"
+                                "Noah: Sleepy, sleepy. Yawn... Maybe today's no good after all."
                             ]
                         },
                         {
@@ -5108,7 +4872,61 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ノア･･･"
+                                "Luuna: I see. That's too bad. Noah, you should sleep today. Good\nnight. I love you, Noah."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Noah: I love you too, Luuna. Good night. Yawn..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Noah: ......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Luuna: Noah..."
                             ]
                         },
                         {
@@ -5157,7 +4975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: ......"
                             ]
                         },
                         {
@@ -5175,7 +4993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: ふふ･･･ノアの主治医は僕の友人でね。睡眠薬をたっぷり入れている。"
+                                "Dalieh: Hehe... Noah's primary doctor is a friend of mine. He's been\nputting plenty of sleeping pills in there."
                             ]
                         },
                         {
@@ -5193,7 +5011,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: ノアに睡眠薬を！？"
+                                "Luuna: Sleeping pills for Noah!?"
                             ]
                         },
                         {
@@ -5211,7 +5029,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: かなり強烈な睡眠薬だ。大地震でも起きないよ。"
+                                "Dalieh: Quite a potent sleeping pill. He won't wake up even if there's\na major earthquake."
                             ]
                         },
                         {
@@ -5229,14 +5047,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: 近いうちにルーナと初マンコできると思ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ノアに強烈な睡眠薬を毎日飲ませてるんだ。"
+                                "Dalieh: I thought I'd be able to have a first time with Luuna soon.\nThat's why I've been having Noah take a strong sleeping pill every\nday."
                             ]
                         },
                         {
@@ -5254,7 +5065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: そんな･･･"
+                                "Luuna: That's terrible..."
                             ]
                         },
                         {
@@ -5272,7 +5083,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダリエフ: さてと。ルーナ、気が変わらないうちに今夜、オマンコするぞ？"
+                                "Dalieh: Well then. Luuna, before you change your mind, shall we have\nsex tonight?"
                             ]
                         },
                         {
@@ -5290,7 +5101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ルーナ: うう･･･"
+                                "Luuna: Ugh..."
                             ]
                         },
                         {
@@ -5320,7 +5131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その日の深夜、ノアの寝てるベッドの隣でルーナとダリエフは初エッチする事になった。"
+                                "Late that night, next to Noah's sleeping bed, Luuna and Dalieh were\nabout to have their first sexual encounter."
                             ]
                         },
                         {
@@ -5338,7 +5149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ノアは睡眠薬で、ぐっすり眠っている。ダリエフはパンパンに肉棒を勃起させていた。"
+                                "Noah was sound asleep from the sleeping pills. Dalieh had his cock\nfully erect."
                             ]
                         },
                         {
@@ -5356,7 +5167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今夜、ルーナのオマンコにダリエフの肉棒が挿入されようとしていた。"
+                                "Tonight, Dalieh's cock was about to be inserted into Luuna's pussy."
                             ]
                         },
                         {
@@ -5473,7 +5284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダリエフ: 今日もノアの隣でオマンコするかい？"
+                                "Dalieh: Shall we do it next to Noah again today?"
                             ]
                         },
                         {
@@ -5481,10 +5292,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "やめておく",
-                                    "ダリエフとエッチする",
-                                    "尿道攻めプレイを懇願する",
-                                    "アナルセックスを懇願する"
+                                    "I'll pass",
+                                    "Have sex with Dalieh",
+                                    "Beg for urethral play",
+                                    "Beg for anal sex"
                                 ],
                                 0,
                                 0,
@@ -5540,7 +5351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その日もまた、ノアの寝てるベッドの隣でルーナとダリエフはエッチする事になった。"
+                                "That day, once more, next to the bed where Noah was sleeping, Luuna\nand Dalieh were about to have sex."
                             ]
                         },
                         {
@@ -5558,7 +5369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今夜もルーナのオマンコにダリエフの肉棒が挿入されようとしていた。"
+                                "Tonight, Dalieh's dick was about to be inserted into Luuna's pussy\nagain."
                             ]
                         },
                         {
@@ -5678,14 +5489,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: あの･･･「尿道攻め」･･･して欲しいの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "尿道がムラムラしてきちゃって。"
+                                "Luuna: Um... I want you to do 'urethra play'... My urethra is getting\nall tingly."
                             ]
                         },
                         {
@@ -5703,14 +5507,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダリエフ: ふふっ 尿道攻めを娼館の客に教えられたとはいえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "自分から懇願するとはエッチになったね。"
+                                "Dalieh: Heh heh, to think you were taught urethra play by the\nbrothel's clients, and now you're begging for it yourself. You've\nbecome quite naughty."
                             ]
                         },
                         {
@@ -5728,14 +5525,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダリエフ: 今夜、僕の友達が来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "尿道攻めとニブルファックをしてやろう。"
+                                "Dalieh: Tonight, my friend is coming over. Let's do urethra play and\nnipple fuck."
                             ]
                         },
                         {
@@ -5786,7 +5576,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: はい･･･"
+                                "Luuna: Yes..."
                             ]
                         },
                         {
@@ -5816,14 +5606,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナは既に、娼館の客達に「尿道攻め」と「ニブルファック」を仕込まれていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "最近はチンポだけじゃ満足できず、自らダリエフに懇願した。"
+                                "Luuna had already been trained in 'urethra play' and 'nipple fuck' by\nthe brothel's clients. Lately, a dick alone wasn't enough to satisfy\nher, so she begged Dalieh for it herself."
                             ]
                         },
                         {
@@ -5913,14 +5696,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\I[89]HINT】ルーナとベッキーが「不良達に売り飛ばされる」を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "達成すれば選択できます。"
+                                "\\I[89]HINT】If Luuna and Becky achieve 'Being sold off to the\ndelinquents,' it will become selectable."
                             ]
                         },
                         {
@@ -6012,7 +5788,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: あの･･･「肛門セックス」･･･して欲しいの。"
+                                "Luuna: Um... I want 'anal sex'..."
                             ]
                         },
                         {
@@ -6030,7 +5806,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダリエフ: ふふっ 肛門も自ら懇願するとは。"
+                                "Dalieh: Heh heh, you're even begging for anal on your own now."
                             ]
                         },
                         {
@@ -6048,14 +5824,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダリエフ: 今夜、僕の友達が来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アナルセックスをしてやろう。"
+                                "Dalieh: Tonight, my friend is coming over. Let's have anal sex."
                             ]
                         },
                         {
@@ -6106,7 +5875,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナ: はい･･･"
+                                "Luuna: Yes..."
                             ]
                         },
                         {
@@ -6136,7 +5905,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ルーナは自らダリエフにアナルセックスを懇願した。"
+                                "Luuna herself begged Dalieh for anal sex."
                             ]
                         },
                         {
@@ -6226,14 +5995,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\I[89]HINT】ルーナが「尿道攻めプレイを懇願する」を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "達成すれば選択できます。"
+                                "\\I[89]HINT】If Luuna achieves 'Begging for urethra play,' it will\nbecome selectable."
                             ]
                         },
                         {
@@ -6441,8 +6203,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "キャンセル。",
-                                    "休む。"
+                                    "Cancel.",
+                                    "Rest."
                                 ],
                                 1,
                                 0,
@@ -6687,7 +6449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『500G』を手に入れた。"
+                                "Gained 500G."
                             ]
                         },
                         {
@@ -6833,7 +6595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【妖精】此処から『CG／鑑賞ルーム』に行けるよ。"
+                                "Fairy: \"You can go to the 'CG/Gallery Room' from here.\""
                             ]
                         },
                         {
@@ -6841,8 +6603,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "今はいい。",
-                                    "『CG／鑑賞ルーム』に行く。"
+                                    "I'm good for now.",
+                                    "Go to the \"CG/Viewing Room.\""
                                 ],
                                 0,
                                 0,

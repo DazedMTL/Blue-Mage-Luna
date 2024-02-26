@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "数年前のリューベル王国",
+    "displayName": "Kingdom of Ryubel several years ago",
     "encounterList": [],
     "encounterStep": 30,
     "height": 32,
@@ -5590,7 +5590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･････"
+                                "Ceres: \"...\""
                             ]
                         },
                         {
@@ -5608,7 +5608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -5626,14 +5626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】セリス様、我々の国「リューベル王国」は、どの国より発展した国家でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからこそ、僕達は戦争を放棄したのです。争いの連鎖を断ち切る為に。"
+                                "Luuna: \"Lady Ceres, our nation, the 'Ryubel Kingdom,' was more\ndeveloped than any other country. That's precisely why we renounced\nwar, to break the cycle of conflict.\""
                             ]
                         },
                         {
@@ -5651,14 +5644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】セリス様、武力と恐怖で人を支配するのは簡単です。ですがそれは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕が望むものではありませんし、セリス様も望んではいませんよね？"
+                                "Luuna: \"Lady Ceres, it's easy to rule people with force and fear. But\nthat's not what I desire, nor is it what you wish for, right?\""
                             ]
                         },
                         {
@@ -5676,7 +5662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: うん･･･"
+                                "Ceres: \"Yes...\""
                             ]
                         },
                         {
@@ -5694,14 +5680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】僕達人間は争うように作られている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は、ある人からそう教えられて争う事の虚しさに気付いたのですよ。"
+                                "Luuna: \"We humans are made to fight. I was taught by someone about the\nfutility of conflict and came to realize it.\""
                             ]
                         },
                         {
@@ -5719,14 +5698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】争いに負けた者は必ず報復をします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世界は何百年も、何千年も報復を繰り返しているのですよ。"
+                                "Luuna: \"Those who lose in conflict will always seek revenge. This\nworld has been repeating the cycle of vengeance for hundreds, even\nthousands of years.\""
                             ]
                         },
                         {
@@ -5744,7 +5716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】だから誰かが先に報復をやめなければ穏やかな平和は永遠に訪れない。"
+                                "Luuna: \"That's why someone has to stop retaliating first, or else a\npeaceful calm will never come.\""
                             ]
                         },
                         {
@@ -5762,7 +5734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･････"
+                                "Ceres: \"...\""
                             ]
                         },
                         {
@@ -5789,7 +5761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】リーヌ王子！こんな所にいたのですか。"
+                                "Soldier 1: \"Prince Luuna! Were you here all this time?\""
                             ]
                         },
                         {
@@ -5869,14 +5841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士2】また正体不明の軍が攻めてきています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "是非、リーヌ王子に加わって頂きたい。"
+                                "Soldier 2: \"An unidentified army is attacking us again. We would like\nPrince Luuna to join us.\""
                             ]
                         },
                         {
@@ -5894,7 +5859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】わかった。後からいくよ。"
+                                "Luuna: \"Understood. I'll follow shortly.\""
                             ]
                         },
                         {
@@ -5912,14 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】分かっているだろうが、敵兵を殺しては駄目だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼等にも家族がいるからね。"
+                                "Luuna: \"You know this, but do not kill the enemy soldiers. They have\nfamilies too.\""
                             ]
                         },
                         {
@@ -5937,7 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】万が一、敵兵を殺してしまったら丁重に埋葬するように。"
+                                "Luuna: \"If by any chance you do kill an enemy soldier, make sure to\nbury them respectfully.\""
                             ]
                         },
                         {
@@ -5996,7 +5954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】またそんな甘い事を！いい加減にして下さい！"
+                                "Soldier 1: \"Not this leniency again! Please be reasonable!\""
                             ]
                         },
                         {
@@ -6014,14 +5972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】以前は、敵の家族を保護しろと命令したり･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたはいつもそれだ。防戦一方で反撃も出来ないなんて。"
+                                "Soldier 1: \"Previously, you ordered us to protect the families of the\nenemy... You're always like this. Always on the defensive, never able\nto counterattack.\""
                             ]
                         },
                         {
@@ -6039,7 +5990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】これは命令だ。従いなさい。"
+                                "Luuna: \"This is an order. Follow it.\""
                             ]
                         },
                         {
@@ -6057,7 +6008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】･･･････"
+                                "Soldier 1: \"...\""
                             ]
                         },
                         {
@@ -6075,7 +6026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】わかりました。"
+                                "Soldier 1: \"Understood.\""
                             ]
                         },
                         {
@@ -6093,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】･･･････"
+                                "Soldier 1: \"...\""
                             ]
                         },
                         {
@@ -6111,7 +6062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】リーヌ様、何故ですか？昔のあなたは殺戮が趣味と言われるほど鬼だった。"
+                                "Soldier 1: \"Lord Luuna, why? In the past, you were known as a demon\nwho took pleasure in slaughter.\""
                             ]
                         },
                         {
@@ -6129,21 +6080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】我々ですら目も当てられない残酷な殺し方を敵兵にしていたのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた自身でしょう？敵兵を人と見なさず、凄惨な拷問をかけ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "惨い人体実験を楽しんでいたのもあなただ。"
+                                "Soldier 1: \"Even we couldn't bear to watch the cruel ways you killed\nenemy soldiers. It was you who didn't see them as people, who enjoyed\ninflicting brutal torture and gruesome human experiments.\""
                             ]
                         },
                         {
@@ -6161,7 +6098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -6179,7 +6116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: リーヌ･･･"
+                                "Ceres: \"Luuna...\""
                             ]
                         },
                         {
@@ -6197,14 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】リーヌ王子、今のあなたは牙を抜かれた虎･･･いや、猫のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりにも極端過ぎるほど変わられた。何故ですか？"
+                                "Soldier 1: \"Prince Luuna, now you are like a tiger without fangs...\nno, more like a cat. You've changed too drastically. Why?\""
                             ]
                         },
                         {
@@ -6222,14 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】いいから戻りなさい。僕が前線に立てば君達に危害が及ぶ事はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後から行きます。"
+                                "Luuna: \"Just go back. If I stand at the front, you won't be harmed.\nI'll follow later.\""
                             ]
                         },
                         {
@@ -6247,7 +6170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【兵士1】っ･････"
+                                "Soldier 1: \"...\""
                             ]
                         },
                         {
@@ -6415,7 +6338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･････"
+                                "Ceres: \"...\""
                             ]
                         },
                         {
@@ -6433,7 +6356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -6451,7 +6374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】鬼のリーヌ･･･セリス様、それが昔の僕のあだ名です。"
+                                "Luuna: \"'Demon Luuna'... Lady Ceres, that was my nickname in the\npast.\""
                             ]
                         },
                         {
@@ -6469,7 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: そういえば、あの魔導将軍リニでさえ昔のお前を恐れていた。"
+                                "Ceres: \"Indeed, even the sorcerer general Rinny used to fear the old\nyou.\""
                             ]
                         },
                         {
@@ -6487,14 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】昔の僕は今とは正反対でした。争いの連鎖を断ち切る為、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報復させない為に、敵兵の家族や子孫を一人残らず皆殺しにしてきました。"
+                                "Luuna: \"The old me was the complete opposite of now. To break the\ncycle of conflict and prevent retaliation, I massacred every family\nand descendant of enemy soldiers without exception.\""
                             ]
                         },
                         {
@@ -6512,14 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】村や街そのものを全滅させ、それでも刃向かう反乱分子は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番苦痛を伴う処刑をしてきました。恐怖を植え付ける為に。"
+                                "Luuna: \"I annihilated entire villages and towns, and any rebels who\nstill opposed me were executed in the most painful ways possible. All\nto instill fear.\""
                             ]
                         },
                         {
@@ -6537,7 +6446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: っ････"
+                                "Ceres: \"...\""
                             ]
                         },
                         {
@@ -6586,7 +6495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】セリス様、僕が怖くなりましたか？"
+                                "Luuna: \"Lady Ceres, have I become frightening to you?\""
                             ]
                         },
                         {
@@ -6604,7 +6513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: いや･････"
+                                "Ceres: \"No...\""
                             ]
                         },
                         {
@@ -6622,7 +6531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】良かった。セリス様に嫌われたら僕は哀しい。"
+                                "Luuna: \"I'm glad. It would sadden me if Lady Ceres despised me.\""
                             ]
                         },
                         {
@@ -6640,7 +6549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: リーヌ、何故そこまで極端に変わったんだ？"
+                                "Ceres: \"Luuna, why did you change so drastically?\""
                             ]
                         },
                         {
@@ -6658,14 +6567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】ある人に、それまでの僕の生き方や考え方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完全に間違いだと教わったのですよ。"
+                                "Luuna: \"Someone taught me that my way of life and thinking up until\nthen was completely wrong.\""
                             ]
                         },
                         {
@@ -6683,14 +6585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】父上から英才教育を受けたきた僕にとって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人との出会いは衝撃的なものでした。"
+                                "Luuna: \"For me, who had received an elite education from my father,\nmeeting that person was a shocking experience.\""
                             ]
                         },
                         {
@@ -6708,7 +6603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: その人って？"
+                                "Ceres: \"Who was that person?\""
                             ]
                         },
                         {
@@ -6726,14 +6621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】ふふ･･･そろそろ時間です。セリス様には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人の事も、いつか話せるような気がしますよ。"
+                                "Luuna: \"Hehe... It's about time. I have a feeling that someday, I'll\nbe able to tell you about that person, Lady Ceres.\""
                             ]
                         },
                         {
@@ -6789,14 +6677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リーヌ】さて、いってきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も血を流さず退いてもらうように、まずは交渉です。"
+                                "Luuna: \"Well, I'm off. First, I'll negotiate to make sure everyone\nwithdraws without shedding any blood.\""
                             ]
                         },
                         {
@@ -6898,7 +6779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･･････"
+                                "Ceres: \"...\""
                             ]
                         },
                         {

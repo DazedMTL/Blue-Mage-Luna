@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ジュピターノの砦-居間室",
+    "displayName": "Jupiterino's Fortress - Living Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 28,
@@ -3642,7 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ･････"
+                                "Ceres: ..."
                             ]
                         },
                         {
@@ -3660,7 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: ふぅ～･･･やっとレオンさんと停戦協議が出来るな。"
+                                "Ceres: Phew... Finally, we can have a ceasefire negotiation with Mr.\nLeon."
                             ]
                         },
                         {
@@ -3786,14 +3786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: それにしても此処、緊張するなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで学校の先生に呼び出された生徒状態だ。漏らしそうだよ。"
+                                "Ceres: But man, this place is tense. It's like being a student called\nto the teacher's office. I feel like I'm about to wet myself."
                             ]
                         },
                         {
@@ -3851,14 +3844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】ちょっとセリス様、敵の陣地なのですから礼儀正しくして下さいよ･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失禁なんて絶対やめて下さいね。ところでレオンって誰です？"
+                                "Vice Captain: Ceres-sama, please behave properly since we're in enemy\nterritory... And absolutely no wetting yourself, please. By the way,\nwho is Leon?"
                             ]
                         },
                         {
@@ -3876,14 +3862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: レオンさんはバレンチナの三将軍の一人で東洋の侍だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺が昔、世話になった人で話の分かる人だよ。"
+                                "Ceres: Mr. Leon is one of the three generals of Valentina and a\nsamurai from the East. He's someone I used to rely on in the past, a\nperson who understands."
                             ]
                         },
                         {
@@ -3908,7 +3887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【副隊長】へぇ～。"
+                                "Vice Captain: Ohh..."
                             ]
                         },
                         {
@@ -4006,7 +3985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリス: き、来た！"
+                                "Ceres: Th-they're here!"
                             ]
                         },
                         {

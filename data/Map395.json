@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "十路地の道",
+    "displayName": "Crossroads Path",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -9011,7 +9011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『祈りの腕輪』を手に入れた。"
+                                "Obtained the \"Bracelet of Prayer.\""
                             ]
                         },
                         {

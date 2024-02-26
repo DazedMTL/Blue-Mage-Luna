@@ -5828,7 +5828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -5846,7 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ･････"
+                                "Kyle: \"...\""
                             ]
                         },
                         {
@@ -5895,7 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: そうか。聖杯は入手できなかったのか。"
+                                "Kyle: \"I see. So we couldn't obtain the Holy Grail.\""
                             ]
                         },
                         {
@@ -5946,7 +5946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: はい･･･"
+                                "Luuna: \"Yes...\""
                             ]
                         },
                         {
@@ -6028,7 +6028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: カイル、これからどうするんだ？"
+                                "Rinny: \"Kyle, what do we do now?\""
                             ]
                         },
                         {
@@ -6046,7 +6046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 聖杯が無いと勝算は無いに等しい。"
+                                "Kyle: \"Without the Holy Grail, our chances of winning are virtually\nnone.\""
                             ]
                         },
                         {
@@ -6064,14 +6064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 今、奴等と戦うのは諦めるしかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か別の手を考えるか･･･レグナス・グラハード本人を探すしか手は残っていないだろう。"
+                                "Kyle: \"For now, we have no choice but to give up fighting them. We\nneed to think of another plan... Our only option might be to find\nRegnus Grahardt himself.\""
                             ]
                         },
                         {
@@ -6122,14 +6115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: でもその間、どれだけのレジスタンス達や民衆が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "殺されるか分からない。もっと私に力があれば･･･"
+                                "Luuna: \"But in the meantime, who knows how many of the resistance and\ncivilians will be killed. If only I had more power...\""
                             ]
                         },
                         {
@@ -6147,7 +6133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 今は耐えるしかない。"
+                                "Kyle: \"All we can do now is endure.\""
                             ]
                         },
                         {
@@ -6165,7 +6151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -6577,7 +6563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】ルーナ！大変だ！"
+                                "Rima: \"Luuna! It's terrible!\""
                             ]
                         },
                         {
@@ -6595,7 +6581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ウェンディ】ルーナ･･･ごめんなさい。"
+                                "Wendy: \"Luuna... I'm sorry.\""
                             ]
                         },
                         {
@@ -6646,7 +6632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: リマ、ウェンディ、どうしたの？"
+                                "Luuna: \"Rima, Wendy, what happened?\""
                             ]
                         },
                         {
@@ -6664,14 +6650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】ルーナ、あなたを慕っていた少年と少女だが･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたを追って森で迷子になっている所を我々が保護しようとしたのだが･･･"
+                                "Rima: \"Luuna, there were a boy and a girl who admired you... They\nfollowed you and got lost in the forest. We tried to rescue them\nbut...\""
                             ]
                         },
                         {
@@ -6689,7 +6668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】･･････"
+                                "Rima: \"...\""
                             ]
                         },
                         {
@@ -6740,7 +6719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: え… リマ、はっきり言って。"
+                                "Luuna: \"Eh... Rima, tell me clearly.\""
                             ]
                         },
                         {
@@ -6758,7 +6737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】･･････"
+                                "Rima: \"...\""
                             ]
                         },
                         {
@@ -6788,7 +6767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リマ】メイとマオが･･･ヒルダに喰われた。"
+                                "Rima: \"Mei and Mao... they were eaten by Hilda.\""
                             ]
                         },
                         {
@@ -6903,7 +6882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ！！！！！"
+                                "Luuna: \"!!!!!!\""
                             ]
                         },
                         {
@@ -6954,7 +6933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: メイとマオが･･･食べられた･･･"
+                                "Luuna: \"Mei and Mao were... eaten...\""
                             ]
                         },
                         {
@@ -7005,7 +6984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: そんな･･･"
+                                "Becky: \"That's terrible...\""
                             ]
                         },
                         {
@@ -7056,7 +7035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: ちっ･･･"
+                                "Rinny: \"Tch...\""
                             ]
                         },
                         {
@@ -7074,7 +7053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: ･･････"
+                                "Kyle: \"...\""
                             ]
                         },
                         {
@@ -7092,21 +7071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ウェンディ】ルーナ、ごめんなさい。二人を守ってやれなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒルダ一人なら逃げ切れたかもしれないけど、筆頭のシルヴィアも居て･･･"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達では到底、シルヴィアには力及ばないから･･･"
+                                "Wendy: \"Luuna, I'm sorry. We couldn't protect them. If it were just\nHilda, we might have been able to escape, but with Sylvia, the leader\nthere too... We simply weren't strong enough to stand against\nSylvia...\""
                             ]
                         },
                         {
@@ -7140,7 +7105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･･･････"
+                                "Luuna: \"......\""
                             ]
                         },
                         {
@@ -7158,7 +7123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: メイ･･･マオ･･････"
+                                "Luuna: \"Mei... Mao......\""
                             ]
                         },
                         {
@@ -7200,7 +7165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -7249,7 +7214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ･････"
+                                "Luuna: \"...\""
                             ]
                         },
                         {
@@ -7312,7 +7277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: カイルさん、私一人でも奴等と戦いに行きます。"
+                                "Luuna: \"Kyle-san, I will go fight them alone if I have to.\""
                             ]
                         },
                         {
@@ -7330,14 +7295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: よせ。もう君は我々にとって大切な仲間であり主要な戦力だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、失う訳にはいかない。"
+                                "Kyle: \"Stop. You are an important comrade and a key part of our\nstrength. We can't afford to lose you now.\""
                             ]
                         },
                         {
@@ -7404,7 +7362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめんなさい。もう決めた事なの。"
+                                "Luuna: \"I'm sorry. I've already made up my mind.\""
                             ]
                         },
                         {
@@ -7455,14 +7413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リニ: カイルの言う通りだ。やめとけ。お前に勝ち目は無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の勝てる相手ではない。"
+                                "Rinny: \"Kyle is right. Stop this. You don't stand a chance. They are\nnot opponents you can defeat.\""
                             ]
                         },
                         {
@@ -7513,14 +7464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: ごめんなさい。もう誰にも止められないから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私一人でも行く。"
+                                "Luuna: \"I'm sorry. No one can stop me now. I will go alone.\""
                             ]
                         },
                         {
@@ -7633,14 +7577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッキー: あたしも行くよ。あの子達は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたし達の為に殺されたのだから。"
+                                "Becky: \"I'm going too. Those kids were killed for our sake.\""
                             ]
                         },
                         {
@@ -7658,7 +7595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイン: おいおい、この空気感は俺もYESと言うしかねぇじゃん..."
+                                "Cain: \"Hey hey, with this mood, I've got no choice but to say YES\ntoo...\""
                             ]
                         },
                         {
@@ -7676,7 +7613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: カイル、リニ、今までありがとう。今から帝都ジュピターノに向かう。"
+                                "Luuna: \"Kyle, Rinny, thank you for everything up until now. I'm\nheading to the imperial capital Jupiterino now.\""
                             ]
                         },
                         {
@@ -7755,7 +7692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイル: 待て！ルーナ！！"
+                                "Kyle: \"Wait! Luuna!!\""
                             ]
                         },
                         {
@@ -7806,7 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルーナ: さようなら。"
+                                "Luuna: \"Goodbye.\""
                             ]
                         },
                         {
