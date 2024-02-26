@@ -6626,7 +6626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Hmm, let's see~n. Even if you ask me to teach you, I'm not sure\nwhat to teach~n. It's a bit late to go over the basics now, isn't\nit~n."
+                                "\\C[27][Rade]\\C[0] Hmm, let's see~n. Even if you ask me to teach you, I'm not sure\nwhat to teach~n. It's a bit late to go over the basics now, isn't\nit~n."
                             ]
                         },
                         {
@@ -6737,7 +6737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: You have some talent, you know~n. You're also good at applied\nmagic~n. But you're still a maggot~n."
+                                "\\C[27][Rade]\\C[0] You have some talent, you know~n. You're also good at applied\nmagic~n. But you're still a maggot~n."
                             ]
                         },
                         {
@@ -6806,7 +6806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: A way for a maggot to stop being a maggot, huh~n."
+                                "\\C[27][Rade]\\C[0] A way for a maggot to stop being a maggot, huh~n."
                             ]
                         },
                         {
@@ -6935,7 +6935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Even if a maggot tries hard, it'll just become a caterpillar in\nthe end~n. Kyahaha~n!"
+                                "\\C[27][Rade]\\C[0] Even if a maggot tries hard, it'll just become a caterpillar in\nthe end~n. Kyahaha~n!"
                             ]
                         },
                         {
@@ -7031,7 +7031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Nn...!?"
+                                "\\C[27][Rade]\\C[0] Nn...!?"
                             ]
                         },
                         {
@@ -7100,7 +7100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ............"
+                                "\\C[27][Rade]\\C[0] ............"
                             ]
                         },
                         {
@@ -7118,7 +7118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ............?"
+                                "\\C[27][Rade]\\C[0] ............?"
                             ]
                         },
                         {
@@ -7136,7 +7136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (What's with this girl...)"
+                                "\\C[27][Rade]\\C[0] (What's with this girl...)"
                             ]
                         },
                         {
@@ -7154,7 +7154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ............"
+                                "\\C[27][Rade]\\C[0] ............"
                             ]
                         },
                         {
@@ -7172,7 +7172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (Chains...?)"
+                                "\\C[27][Rade]\\C[0] (Chains...?)"
                             ]
                         },
                         {
@@ -7190,7 +7190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (Is it something like a magical cast that's forced on her?\nNormally it's invisible...?)"
+                                "\\C[27][Rade]\\C[0] (Is it something like a magical cast that's forced on her?\nNormally it's invisible...?)"
                             ]
                         },
                         {
@@ -7278,7 +7278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (What are these chains...)"
+                                "\\C[27][Rade]\\C[0] (What are these chains...)"
                             ]
                         },
                         {
@@ -7402,7 +7402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (This girl... she has put chains of restraint on herself...?)"
+                                "\\C[27][Rade]\\C[0] (This girl... she has put chains of restraint on herself...?)"
                             ]
                         },
                         {
@@ -7473,7 +7473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (Why does she have these chains of restraint...)"
+                                "\\C[27][Rade]\\C[0] (Why does she have these chains of restraint...)"
                             ]
                         },
                         {
@@ -7491,7 +7491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ..............."
+                                "\\C[27][Rade]\\C[0] ..............."
                             ]
                         },
                         {
@@ -7562,7 +7562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (Is she not just any blue mage's daughter?)"
+                                "\\C[27][Rade]\\C[0] (Is she not just any blue mage's daughter?)"
                             ]
                         },
                         {
@@ -7580,7 +7580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (She seems to be limiting her own magic with these chains so\nothers won't notice. I can barely see the chains binding her... a\ncross of chains on herself...)"
+                                "\\C[27][Rade]\\C[0] (She seems to be limiting her own magic with these chains so\nothers won't notice. I can barely see the chains binding her... a\ncross of chains on herself...)"
                             ]
                         },
                         {
@@ -7598,7 +7598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ..............."
+                                "\\C[27][Rade]\\C[0] ..............."
                             ]
                         },
                         {
@@ -7653,7 +7653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (A melody that could be taken as madness... This tune... Has she\nbeen restraining herself with these chains for a long time without\nothers realizing? For what purpose...)"
+                                "\\C[27][Rade]\\C[0] (A melody that could be taken as madness... This tune... Has she\nbeen restraining herself with these chains for a long time without\nothers realizing? For what purpose...)"
                             ]
                         },
                         {
@@ -7671,7 +7671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (Those chains would require considerable resolve to wear. Even\nhigh-ranking mages would hesitate to use such restraining magic\nchains... What happened to this girl?)"
+                                "\\C[27][Rade]\\C[0] (Those chains would require considerable resolve to wear. Even\nhigh-ranking mages would hesitate to use such restraining magic\nchains... What happened to this girl?)"
                             ]
                         },
                         {
@@ -7689,7 +7689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (It's common for those with some talent to wear magical armor to\nshow off or to increase their defense. I've seen plenty of such people\nrot away, but this girl's chains are different, they're abnormal. The\nchains are more suppressive... rather than blue magic, I'm more\ncurious about this girl's melody of madness.)"
+                                "\\C[27][Rade]\\C[0] (It's common for those with some talent to wear magical armor to\nshow off or to increase their defense. I've seen plenty of such people\nrot away, but this girl's chains are different, they're abnormal. The\nchains are more suppressive... rather than blue magic, I'm more\ncurious about this girl's melody of madness.)"
                             ]
                         },
                         {
@@ -7707,7 +7707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (Originally, those chains might have been intended to enhance\nmagical abilities, but it seems they are now used to suppress\nsomething. Why did it come to this? It's as if the chains themselves\nhave emotions. I can't tell if it's hatred or resentment, but they're\nsuppressing negative emotions...?)"
+                                "\\C[27][Rade]\\C[0] (Originally, those chains might have been intended to enhance\nmagical abilities, but it seems they are now used to suppress\nsomething. Why did it come to this? It's as if the chains themselves\nhave emotions. I can't tell if it's hatred or resentment, but they're\nsuppressing negative emotions...?)"
                             ]
                         },
                         {
@@ -7725,7 +7725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (.................)"
+                                "\\C[27][Rade]\\C[0] (.................)"
                             ]
                         },
                         {
@@ -7743,7 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (Hmm...)"
+                                "\\C[27][Rade]\\C[0] (Hmm...)"
                             ]
                         },
                         {
@@ -7761,7 +7761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (It was troublesome being followed by this girl.)"
+                                "\\C[27][Rade]\\C[0] (It was troublesome being followed by this girl.)"
                             ]
                         },
                         {
@@ -7779,7 +7779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (Interesting. I can somewhat understand why Regnus is interested\nin her.)"
+                                "\\C[27][Rade]\\C[0] (Interesting. I can somewhat understand why Regnus is interested\nin her.)"
                             ]
                         },
                         {
@@ -7797,7 +7797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (She's an interesting girl.)"
+                                "\\C[27][Rade]\\C[0] (She's an interesting girl.)"
                             ]
                         },
                         {
@@ -7815,7 +7815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (Alright then... I've changed my mind.)"
+                                "\\C[27][Rade]\\C[0] (Alright then... I've changed my mind.)"
                             ]
                         },
                         {
@@ -8122,7 +8122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Fufufu..."
+                                "\\C[27][Rade]\\C[0] Fufufu..."
                             ]
                         },
                         {
@@ -8269,7 +8269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Take my hand."
+                                "\\C[27][Rade]\\C[0] Take my hand."
                             ]
                         },
                         {
@@ -8655,7 +8655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: I've temporarily significantly increased your magical defense\npower~n."
+                                "\\C[27][Rade]\\C[0] I've temporarily significantly increased your magical defense\npower~n."
                             ]
                         },
                         {
@@ -8757,7 +8757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: There's nothing I need to teach you~n. Your abilities have\nalready blossomed, after all~n. In your own way~n."
+                                "\\C[27][Rade]\\C[0] There's nothing I need to teach you~n. Your abilities have\nalready blossomed, after all~n. In your own way~n."
                             ]
                         },
                         {
@@ -8808,7 +8808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: If there's anything~n, it's that I'll teach you one of my\nspells~n."
+                                "\\C[27][Rade]\\C[0] If there's anything~n, it's that I'll teach you one of my\nspells~n."
                             ]
                         },
                         {
@@ -8859,7 +8859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: You're a blue mage, right~n? Then steal my magic for yourself~n."
+                                "\\C[27][Rade]\\C[0] You're a blue mage, right~n? Then steal my magic for yourself~n."
                             ]
                         },
                         {
@@ -8961,7 +8961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: That's the quickest way~n. For a maggot to evolve into a\ncaterpillar~n."
+                                "\\C[27][Rade]\\C[0] That's the quickest way~n. For a maggot to evolve into a\ncaterpillar~n."
                             ]
                         },
                         {
@@ -9012,7 +9012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: But~n, you need defensive power to withstand my magic~n. Of\ncourse, I'll hold back a bit~n. That's why I temporarily boosted your\nmagical defense power~n."
+                                "\\C[27][Rade]\\C[0] But~n, you need defensive power to withstand my magic~n. Of\ncourse, I'll hold back a bit~n. That's why I temporarily boosted your\nmagical defense power~n."
                             ]
                         },
                         {
@@ -9114,7 +9114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Then~, here I go~n. I'll play around a bit since it's a special\noccasion~n. Kyahaha-n!"
+                                "\\C[27][Rade]\\C[0] Then~, here I go~n. I'll play around a bit since it's a special\noccasion~n. Kyahaha-n!"
                             ]
                         },
                         {
@@ -9165,7 +9165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Peshi Peshi Peshi Peshi! Now, let's get started~n!"
+                                "\\C[27][Rade]\\C[0] Peshi Peshi Peshi Peshi! Now, let's get started~n!"
                             ]
                         },
                         {
@@ -9283,7 +9283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rade: Hey~! Wait a minute~! This setting~n, isn't one where you can\nbeat me in the game, is it~n? This is a bug~! A malfunction~n!"
+                                "\\C[27][Rade]\\C[0] Hey~! Wait a minute~! This setting~n, isn't one where you can\nbeat me in the game, is it~n? This is a bug~! A malfunction~n!"
                             ]
                         },
                         {

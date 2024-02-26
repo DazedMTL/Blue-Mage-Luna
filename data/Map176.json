@@ -6606,7 +6606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Luca, let's go."
+                                "\\C[27][Rade]\\C[0] Luca, let's go."
                             ]
                         },
                         {
@@ -6660,7 +6660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What's wrong?"
+                                "\\C[27][Rade]\\C[0] What's wrong?"
                             ]
                         },
                         {
@@ -6714,7 +6714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ..."
+                                "\\C[27][Rade]\\C[0] ..."
                             ]
                         },
                         {
@@ -6732,7 +6732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: You've been helping that girl all along, haven't you?"
+                                "\\C[27][Rade]\\C[0] You've been helping that girl all along, haven't you?"
                             ]
                         },
                         {
@@ -6819,7 +6819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Well, it's fine. Don't do anything unnecessary from now on."
+                                "\\C[27][Rade]\\C[0] Well, it's fine. Don't do anything unnecessary from now on."
                             ]
                         },
                         {
@@ -6897,7 +6897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rade: That girl, did she break the chains of restraint? Her expression\nseemed unusually bright. Not that it matters."
+                                "\\C[27][Rade]\\C[0] That girl, did she break the chains of restraint? Her expression\nseemed unusually bright. Not that it matters."
                             ]
                         },
                         {
@@ -6925,7 +6925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rade: Even so, what was that mysterious chain-like thing that\noccasionally appeared on that girl? Not that it matters."
+                                "\\C[27][Rade]\\C[0] Even so, what was that mysterious chain-like thing that\noccasionally appeared on that girl? Not that it matters."
                             ]
                         },
                         {
@@ -7068,7 +7068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Forget about that. We're going to look for Regnus Grahardt."
+                                "\\C[27][Rade]\\C[0] Forget about that. We're going to look for Regnus Grahardt."
                             ]
                         },
                         {
@@ -7183,7 +7183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: It's nothing. Forget about the girl."
+                                "\\C[27][Rade]\\C[0] It's nothing. Forget about the girl."
                             ]
                         },
                         {
@@ -7536,7 +7536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Luca, let's go."
+                                "\\C[27][Rade]\\C[0] Luca, let's go."
                             ]
                         },
                         {
@@ -7590,7 +7590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What's wrong?"
+                                "\\C[27][Rade]\\C[0] What's wrong?"
                             ]
                         },
                         {
@@ -7644,7 +7644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ..."
+                                "\\C[27][Rade]\\C[0] ..."
                             ]
                         },
                         {
@@ -7662,7 +7662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What was that girl's name again? I forgot."
+                                "\\C[27][Rade]\\C[0] What was that girl's name again? I forgot."
                             ]
                         },
                         {
@@ -7749,7 +7749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Luuna isn't dead."
+                                "\\C[27][Rade]\\C[0] Luuna isn't dead."
                             ]
                         },
                         {
@@ -7785,7 +7785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: While you were away, I stopped by a village called Misa. I saw\nthat girl there."
+                                "\\C[27][Rade]\\C[0] While you were away, I stopped by a village called Misa. I saw\nthat girl there."
                             ]
                         },
                         {
@@ -7803,7 +7803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: If it's that girl, she's alive. Not that it matters."
+                                "\\C[27][Rade]\\C[0] If it's that girl, she's alive. Not that it matters."
                             ]
                         },
                         {
@@ -7960,7 +7960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rade: (Hmph... Did that girl break the chains of restraint? Her\nexpression seemed unusually bright. Not that it matters.)"
+                                "\\C[27][Rade]\\C[0] (Hmph... Did that girl break the chains of restraint? Her\nexpression seemed unusually bright. Not that it matters.)"
                             ]
                         },
                         {
@@ -7988,7 +7988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Anyway, we're going to look for Regnus Grahardt."
+                                "\\C[27][Rade]\\C[0] Anyway, we're going to look for Regnus Grahardt."
                             ]
                         },
                         {
@@ -8103,7 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: I saw her. Are you doubting your master?"
+                                "\\C[27][Rade]\\C[0] I saw her. Are you doubting your master?"
                             ]
                         },
                         {
@@ -8226,7 +8226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: I'm telling you I saw her~"
+                                "\\C[27][Rade]\\C[0] I'm telling you I saw her~"
                             ]
                         },
                         {

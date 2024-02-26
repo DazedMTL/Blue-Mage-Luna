@@ -6546,7 +6546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What's the matter? It's so noisy."
+                                "\\C[27][Rade]\\C[0] What's the matter? It's so noisy."
                             ]
                         },
                         {
@@ -6642,7 +6642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......"
+                                "\\C[27][Rade]\\C[0] ......"
                             ]
                         },
                         {
@@ -6720,7 +6720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......!"
+                                "\\C[27][Rade]\\C[0] ......!"
                             ]
                         },
                         {
@@ -6815,7 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: !!!"
+                                "\\C[27][Rade]\\C[0] !!!"
                             ]
                         },
                         {
@@ -6833,7 +6833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......"
+                                "\\C[27][Rade]\\C[0] ......"
                             ]
                         },
                         {
@@ -6974,7 +6974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Regnus Grahardt was here, wasn't he?"
+                                "\\C[27][Rade]\\C[0] Regnus Grahardt was here, wasn't he?"
                             ]
                         },
                         {
@@ -7043,7 +7043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Luca, answer me honestly."
+                                "\\C[27][Rade]\\C[0] Luca, answer me honestly."
                             ]
                         },
                         {
@@ -7177,7 +7177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Regnus Grahardt was here, right?"
+                                "\\C[27][Rade]\\C[0] Regnus Grahardt was here, right?"
                             ]
                         },
                         {
@@ -7375,7 +7375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Why didn't you call for me?"
+                                "\\C[27][Rade]\\C[0] Why didn't you call for me?"
                             ]
                         },
                         {
@@ -7444,7 +7444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Luca, what did he come for?"
+                                "\\C[27][Rade]\\C[0] Luca, what did he come for?"
                             ]
                         },
                         {
@@ -7498,7 +7498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......"
+                                "\\C[27][Rade]\\C[0] ......"
                             ]
                         },
                         {
@@ -7627,7 +7627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Don't do anything unnecessary."
+                                "\\C[27][Rade]\\C[0] Don't do anything unnecessary."
                             ]
                         },
                         {
@@ -7678,7 +7678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Whatever happens to that girl is none of our concern."
+                                "\\C[27][Rade]\\C[0] Whatever happens to that girl is none of our concern."
                             ]
                         },
                         {
@@ -7747,7 +7747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: This country doesn't matter."
+                                "\\C[27][Rade]\\C[0] This country doesn't matter."
                             ]
                         },
                         {
@@ -7798,7 +7798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Luca, hand it over to me."
+                                "\\C[27][Rade]\\C[0] Luca, hand it over to me."
                             ]
                         },
                         {
@@ -7867,7 +7867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: That girl and this country have nothing to do with me."
+                                "\\C[27][Rade]\\C[0] That girl and this country have nothing to do with me."
                             ]
                         },
                         {
@@ -7918,7 +7918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Luca, you've been acting strange ever since you met that girl.\nJust leave it be. The farce is over."
+                                "\\C[27][Rade]\\C[0] Luca, you've been acting strange ever since you met that girl.\nJust leave it be. The farce is over."
                             ]
                         },
                         {
@@ -7969,7 +7969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: More importantly, where did Regnus Grahardt go?"
+                                "\\C[27][Rade]\\C[0] More importantly, where did Regnus Grahardt go?"
                             ]
                         },
                         {
@@ -8121,7 +8121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Don't compare me with that girl. Her wishes are trivial."
+                                "\\C[27][Rade]\\C[0] Don't compare me with that girl. Her wishes are trivial."
                             ]
                         },
                         {
@@ -8226,7 +8226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What......"
+                                "\\C[27][Rade]\\C[0] What......"
                             ]
                         },
                         {
@@ -8378,7 +8378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Is that all you wanted to say?"
+                                "\\C[27][Rade]\\C[0] Is that all you wanted to say?"
                             ]
                         },
                         {
@@ -8498,7 +8498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Don't say that, Luca."
+                                "\\C[27][Rade]\\C[0] Don't say that, Luca."
                             ]
                         },
                         {
@@ -8575,7 +8575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......"
+                                "\\C[27][Rade]\\C[0] ......"
                             ]
                         },
                         {
@@ -8649,7 +8649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What value does that girl have?"
+                                "\\C[27][Rade]\\C[0] What value does that girl have?"
                             ]
                         },
                         {
@@ -8708,7 +8708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......"
+                                "\\C[27][Rade]\\C[0] ......"
                             ]
                         },
                         {
@@ -8838,7 +8838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Do as you like."
+                                "\\C[27][Rade]\\C[0] Do as you like."
                             ]
                         },
                         {
@@ -9035,7 +9035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......"
+                                "\\C[27][Rade]\\C[0] ......"
                             ]
                         },
                         {
@@ -9253,7 +9253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Ughhhnnn! It's so frustrating! He really left! Bitten by my own\ndog!"
+                                "\\C[27][Rade]\\C[0] Ughhhnnn! It's so frustrating! He really left! Bitten by my own\ndog!"
                             ]
                         },
                         {
@@ -9387,7 +9387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: That Luca...! When he comes back... I'm going to smack him so\nmuch!"
+                                "\\C[27][Rade]\\C[0] That Luca...! When he comes back... I'm going to smack him so\nmuch!"
                             ]
                         },
                         {
@@ -9405,7 +9405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......"
+                                "\\C[27][Rade]\\C[0] ......"
                             ]
                         },
                         {
@@ -9525,7 +9525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Haa... mmm..."
+                                "\\C[27][Rade]\\C[0] Haa... mmm..."
                             ]
                         },
                         {

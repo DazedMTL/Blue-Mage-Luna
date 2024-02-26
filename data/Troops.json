@@ -3734,7 +3734,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Rade: If it gets too bothersome, I'll just stop the training, okay?\nYou better learn magic from me before that happens."
+                            "\\C[27][Rade]\\C[0] If it gets too bothersome, I'll just stop the training, okay?\nYou better learn magic from me before that happens."
                         ]
                     },
                     {
@@ -3785,7 +3785,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Rade: Hmm, just one thing to note."
+                            "\\C[27][Rade]\\C[0] Hmm, just one thing to note."
                         ]
                     },
                     {
@@ -3836,7 +3836,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Rade: You see, I'm quite capricious~ If I feel like it, I'll use\nmagic. Whether you can learn my magic or not depends on my mood~\nKyahaha!"
+                            "\\C[27][Rade]\\C[0] You see, I'm quite capricious~ If I feel like it, I'll use\nmagic. Whether you can learn my magic or not depends on my mood~\nKyahaha!"
                         ]
                     },
                     {
@@ -3962,7 +3962,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Rade: *sigh*... I'm tired. That's the end~"
+                            "\\C[27][Rade]\\C[0] *sigh*... I'm tired. That's the end~"
                         ]
                     },
                     {
@@ -4052,7 +4052,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "Rade: It seems you've finally learned my magic. With this, our\ntraining is over."
+                            "\\C[27][Rade]\\C[0] It seems you've finally learned my magic. With this, our\ntraining is over."
                         ]
                     },
                     {
@@ -4172,7 +4172,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "Rade: This magic is a heavy burden for you now, so use it only when\nit's absolutely necessary."
+                            "\\C[27][Rade]\\C[0] This magic is a heavy burden for you now, so use it only when\nit's absolutely necessary."
                         ]
                     },
                     {

@@ -1108,7 +1108,7 @@ Imported.NUUN_SaveScreen = true;
     width,
     data
   ) {
-    const text = data.ParamName || "プレイ時間";
+    const text = data.ParamName || "Playtime";
     const textWidth = this.systemWidth(data.SystemItemWidth, width);
     this.contents.fontSize = ContentsFontSizeMainFontSize;
     this.changeTextColor(getColorCode(data.NameColor));
@@ -1148,7 +1148,7 @@ Imported.NUUN_SaveScreen = true;
     width,
     data
   ) {
-    const text = data.ParamName || "現在地";
+    const text = data.ParamName || "Location";
     const textWidth = this.systemWidth(data.SystemItemWidth, width);
     this.contents.fontSize = ContentsFontSizeMainFontSize;
     this.changeTextColor(getColorCode(data.NameColor));
@@ -1160,7 +1160,7 @@ Imported.NUUN_SaveScreen = true;
   };
 
   Window_SavefileList.prototype.drawGold = function (info, x, y, width, data) {
-    const text = data.ParamName || "所持金";
+    const text = data.ParamName || "Gold";
     const textWidth = this.systemWidth(data.SystemItemWidth, width);
     this.contents.fontSize = ContentsFontSizeMainFontSize;
     this.changeTextColor(getColorCode(data.NameColor));

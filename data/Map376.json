@@ -4885,7 +4885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: No way! Absolutely not, not, not, not! Nooo!"
+                                "\\C[27][Rade]\\C[0] No way! Absolutely not, not, not, not! Nooo!"
                             ]
                         },
                         {
@@ -4936,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: No! No! No!"
+                                "\\C[27][Rade]\\C[0] No! No! No!"
                             ]
                         },
                         {
@@ -5098,7 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: It's none of my business~."
+                                "\\C[27][Rade]\\C[0] It's none of my business~."
                             ]
                         },
                         {
@@ -5446,7 +5446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Kyahahahahaha~n!"
+                                "\\C[27][Rade]\\C[0] Kyahahahahaha~n!"
                             ]
                         },
                         {
@@ -5464,7 +5464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: There's no way Regnus would bother with you guys~."
+                                "\\C[27][Rade]\\C[0] There's no way Regnus would bother with you guys~."
                             ]
                         },
                         {
@@ -5626,7 +5626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Magic General Rinny~? Who's that~?"
+                                "\\C[27][Rade]\\C[0] Magic General Rinny~? Who's that~?"
                             ]
                         },
                         {
@@ -6151,7 +6151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: I'm more excellent than Regnus~!"
+                                "\\C[27][Rade]\\C[0] I'm more excellent than Regnus~!"
                             ]
                         },
                         {
@@ -6220,7 +6220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: You're a servant, you should be praising your master~."
+                                "\\C[27][Rade]\\C[0] You're a servant, you should be praising your master~."
                             ]
                         },
                         {
@@ -6289,7 +6289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: It's frustrating~. It makes me angry~."
+                                "\\C[27][Rade]\\C[0] It's frustrating~. It makes me angry~."
                             ]
                         },
                         {
@@ -6502,7 +6502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What~? Why do I have to take Regnus's place~?"
+                                "\\C[27][Rade]\\C[0] What~? Why do I have to take Regnus's place~?"
                             ]
                         },
                         {
@@ -6584,7 +6584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: I don't wanna."
+                                "\\C[27][Rade]\\C[0] I don't wanna."
                             ]
                         },
                         {
@@ -6903,7 +6903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Hey, servant~ You don't need to say anything unnecessary~."
+                                "\\C[27][Rade]\\C[0] Hey, servant~ You don't need to say anything unnecessary~."
                             ]
                         },
                         {
@@ -7129,7 +7129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade:  ............"
+                                "\\C[27][Rade]\\C[0]  ............"
                             ]
                         },
                         {
@@ -7216,7 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade:  ............"
+                                "\\C[27][Rade]\\C[0]  ............"
                             ]
                         },
                         {
@@ -7267,7 +7267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade:  Annoying~..."
+                                "\\C[27][Rade]\\C[0]  Annoying~..."
                             ]
                         },
                         {
@@ -7429,7 +7429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade:  I don't want to answer~!"
+                                "\\C[27][Rade]\\C[0]  I don't want to answer~!"
                             ]
                         },
                         {
@@ -7598,7 +7598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Ugh~ I'm not obligated to tell you guys about Regnus's past~!"
+                                "\\C[27][Rade]\\C[0] Ugh~ I'm not obligated to tell you guys about Regnus's past~!"
                             ]
                         },
                         {
@@ -7658,7 +7658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Haa~...h"
+                                "\\C[27][Rade]\\C[0] Haa~...h"
                             ]
                         },
                         {
@@ -7889,7 +7889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Enough! If you pry any further, I'll get angry~!"
+                                "\\C[27][Rade]\\C[0] Enough! If you pry any further, I'll get angry~!"
                             ]
                         },
                         {
@@ -8189,7 +8189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: No way. We're not involved~. And I won't lend you the servant~."
+                                "\\C[27][Rade]\\C[0] No way. We're not involved~. And I won't lend you the servant~."
                             ]
                         },
                         {
@@ -8411,7 +8411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Hmm............"
+                                "\\C[27][Rade]\\C[0] Hmm............"
                             ]
                         },
                         {
@@ -8540,7 +8540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: You don't have it~."
+                                "\\C[27][Rade]\\C[0] You don't have it~."
                             ]
                         },
                         {
@@ -8660,7 +8660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Hey~ Don't do things on your own~."
+                                "\\C[27][Rade]\\C[0] Hey~ Don't do things on your own~."
                             ]
                         },
                         {

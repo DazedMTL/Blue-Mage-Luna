@@ -6586,7 +6586,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Rade: ............"
+                                "\\C[27][Rade]\\C[0] ............"
                             ]
                         },
                         {
@@ -6635,7 +6635,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Rade: Hello. I'm Becky from the delivery health service. I've come to\noffer my pussy."
+                                "\\C[27][Rade]\\C[0] Hello. I'm Becky from the delivery health service. I've come to\noffer my pussy."
                             ]
                         },
                         {

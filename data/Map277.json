@@ -4861,7 +4861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Kyaaain! You came for me~!"
+                                "\\C[27][Rade]\\C[0] Kyaaain! You came for me~!"
                             ]
                         },
                         {
@@ -4972,7 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Luuna, bring some sweet treats, will you~?"
+                                "\\C[27][Rade]\\C[0] Luuna, bring some sweet treats, will you~?"
                             ]
                         },
                         {
@@ -5188,7 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Ugh... It's none of our business~."
+                                "\\C[27][Rade]\\C[0] Ugh... It's none of our business~."
                             ]
                         },
                         {
@@ -5404,7 +5404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Good work to you all as well. Let the fools kill each other as\nthey please. Kyahaha~"
+                                "\\C[27][Rade]\\C[0] Good work to you all as well. Let the fools kill each other as\nthey please. Kyahaha~"
                             ]
                         },
                         {
@@ -5625,7 +5625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What's up~? Did you bring me some sweets~?"
+                                "\\C[27][Rade]\\C[0] What's up~? Did you bring me some sweets~?"
                             ]
                         },
                         {
@@ -5763,7 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Hmm~? You want me to look at a pretty stone~?"
+                                "\\C[27][Rade]\\C[0] Hmm~? You want me to look at a pretty stone~?"
                             ]
                         },
                         {
@@ -6028,7 +6028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: I told you~ I wanted sweets, didn't I~? What's with this rock~?"
+                                "\\C[27][Rade]\\C[0] I told you~ I wanted sweets, didn't I~? What's with this rock~?"
                             ]
                         },
                         {
@@ -6124,7 +6124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......!"
+                                "\\C[27][Rade]\\C[0] ......!"
                             ]
                         },
                         {
@@ -6235,7 +6235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Hmm~, it does seem like a special stone~."
+                                "\\C[27][Rade]\\C[0] Hmm~, it does seem like a special stone~."
                             ]
                         },
                         {
@@ -6271,7 +6271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ............"
+                                "\\C[27][Rade]\\C[0] ............"
                             ]
                         },
                         {
@@ -6382,7 +6382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Kyahaha! I see~. If this stone sells for a lot, you're saying we\ncan buy sweets with the money~."
+                                "\\C[27][Rade]\\C[0] Kyahaha! I see~. If this stone sells for a lot, you're saying we\ncan buy sweets with the money~."
                             ]
                         },
                         {
@@ -6544,7 +6544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Well, first we need to check what kind of stone it is~. It\ncertainly doesn't seem like an ordinary stone~."
+                                "\\C[27][Rade]\\C[0] Well, first we need to check what kind of stone it is~. It\ncertainly doesn't seem like an ordinary stone~."
                             ]
                         },
                         {
@@ -6655,7 +6655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Kyahaha! Let's go appraise it~♪"
+                                "\\C[27][Rade]\\C[0] Kyahaha! Let's go appraise it~♪"
                             ]
                         },
                         {
@@ -6775,7 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Mufufu~♪ Let's examine the stone~."
+                                "\\C[27][Rade]\\C[0] Mufufu~♪ Let's examine the stone~."
                             ]
                         },
                         {
@@ -6793,7 +6793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......."
+                                "\\C[27][Rade]\\C[0] ......."
                             ]
                         },
                         {
@@ -6925,7 +6925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Kyahaha!...... Huh?!"
+                                "\\C[27][Rade]\\C[0] Kyahaha!...... Huh?!"
                             ]
                         },
                         {
@@ -7006,7 +7006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Hagya...!?"
+                                "\\C[27][Rade]\\C[0] Hagya...!?"
                             ]
                         },
                         {
@@ -7164,7 +7164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What! What! What's this~! I've been cursed~!"
+                                "\\C[27][Rade]\\C[0] What! What! What's this~! I've been cursed~!"
                             ]
                         },
                         {
@@ -7215,7 +7215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Hmm~! My magic has been sealed~..."
+                                "\\C[27][Rade]\\C[0] Hmm~! My magic has been sealed~..."
                             ]
                         },
                         {
@@ -7359,7 +7359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Sigh... It looks like I won't be able to use magic for a few\nweeks~..."
+                                "\\C[27][Rade]\\C[0] Sigh... It looks like I won't be able to use magic for a few\nweeks~..."
                             ]
                         },
                         {
@@ -7428,7 +7428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: It seems like the curse was supposed to prevent me from using\nmagic for generations, but~... Sigh..."
+                                "\\C[27][Rade]\\C[0] It seems like the curse was supposed to prevent me from using\nmagic for generations, but~... Sigh..."
                             ]
                         },
                         {
@@ -7446,7 +7446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: I think I can manage to break the curse in a few weeks\nthough~..."
+                                "\\C[27][Rade]\\C[0] I think I can manage to break the curse in a few weeks\nthough~..."
                             ]
                         },
                         {
@@ -7516,7 +7516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Ugyu---! What have you guys brought me~!"
+                                "\\C[27][Rade]\\C[0] Ugyu---! What have you guys brought me~!"
                             ]
                         },
                         {
@@ -7909,7 +7909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Haa... This is the worst..."
+                                "\\C[27][Rade]\\C[0] Haa... This is the worst..."
                             ]
                         },
                         {
@@ -8038,7 +8038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Ugh! Haa... Fine then. I'll behave since I think the curse will\nbe lifted if I do..."
+                                "\\C[27][Rade]\\C[0] Ugh! Haa... Fine then. I'll behave since I think the curse will\nbe lifted if I do..."
                             ]
                         },
                         {
@@ -8056,7 +8056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ...?"
+                                "\\C[27][Rade]\\C[0] ...?"
                             ]
                         },
                         {
@@ -8107,7 +8107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What do you want?"
+                                "\\C[27][Rade]\\C[0] What do you want?"
                             ]
                         },
                         {
@@ -8207,7 +8207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rade: Ugh! Mind your own business. Just disappear already."
+                                "\\C[27][Rade]\\C[0] Ugh! Mind your own business. Just disappear already."
                             ]
                         },
                         {
@@ -8551,7 +8551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Haa...~n..."
+                                "\\C[27][Rade]\\C[0] Haa...~n..."
                             ]
                         },
                         {
@@ -8680,7 +8680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: It's nothing...~n... Haa..."
+                                "\\C[27][Rade]\\C[0] It's nothing...~n... Haa..."
                             ]
                         },
                         {
@@ -8698,7 +8698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: (To think I'm being blackmailed with lewd photos by those\nguys...~n... It's too embarrassing to say...~n...)"
+                                "\\C[27][Rade]\\C[0] (To think I'm being blackmailed with lewd photos by those\nguys...~n... It's too embarrassing to say...~n...)"
                             ]
                         },
                         {
@@ -8716,7 +8716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ...?"
+                                "\\C[27][Rade]\\C[0] ...?"
                             ]
                         },
                         {
@@ -8767,7 +8767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Geez! I said it's nothing...~n..."
+                                "\\C[27][Rade]\\C[0] Geez! I said it's nothing...~n..."
                             ]
                         },
                         {
@@ -9006,7 +9006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rade: I'm telling you it's nothing. Now go away...~n... Haa..."
+                                "\\C[27][Rade]\\C[0] I'm telling you it's nothing. Now go away...~n... Haa..."
                             ]
                         },
                         {
@@ -9599,7 +9599,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Rade: Kyahaha~! All that effort for nothing~!"
+                                "\\C[27][Rade]\\C[0] Kyahaha~! All that effort for nothing~!"
                             ]
                         },
                         {
@@ -11202,7 +11202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Kyain~! My sweets~! I've been so looking forward to this~!"
+                                "\\C[27][Rade]\\C[0] Kyain~! My sweets~! I've been so looking forward to this~!"
                             ]
                         },
                         {
@@ -11220,7 +11220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Munch munch munch munch... munch munch munch munch..."
+                                "\\C[27][Rade]\\C[0] Munch munch munch munch... munch munch munch munch..."
                             ]
                         },
                         {
@@ -11271,7 +11271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Kyaaan! Delicious~!"
+                                "\\C[27][Rade]\\C[0] Kyaaan! Delicious~!"
                             ]
                         },
                         {
@@ -11391,7 +11391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: What is it~n? I'm munching right now, you know~n"
+                                "\\C[27][Rade]\\C[0] What is it~n? I'm munching right now, you know~n"
                             ]
                         },
                         {
@@ -11485,7 +11485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......"
+                                "\\C[27][Rade]\\C[0] ......"
                             ]
                         },
                         {
@@ -11536,7 +11536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: No way!"
+                                "\\C[27][Rade]\\C[0] No way!"
                             ]
                         },
                         {
@@ -11716,7 +11716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: No! No! No! No!"
+                                "\\C[27][Rade]\\C[0] No! No! No! No!"
                             ]
                         },
                         {
@@ -11767,7 +11767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: No! No! No!"
+                                "\\C[27][Rade]\\C[0] No! No! No!"
                             ]
                         },
                         {
@@ -11887,7 +11887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: That's a no-go!"
+                                "\\C[27][Rade]\\C[0] That's a no-go!"
                             ]
                         },
                         {
@@ -11989,7 +11989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Not good enough~n. I don't like the motivation~n. Saving the\ncountry or village or whatever is just trivial~n. Not interested~n."
+                                "\\C[27][Rade]\\C[0] Not good enough~n. I don't like the motivation~n. Saving the\ncountry or village or whatever is just trivial~n. Not interested~n."
                             ]
                         },
                         {
@@ -12187,7 +12187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: ......!"
+                                "\\C[27][Rade]\\C[0] ......!"
                             ]
                         },
                         {
@@ -12367,7 +12367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Kyahaha-!n"
+                                "\\C[27][Rade]\\C[0] Kyahaha-!n"
                             ]
                         },
                         {
@@ -12496,7 +12496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: With that~ I understand you now. You don't need to say\neverything~n."
+                                "\\C[27][Rade]\\C[0] With that~ I understand you now. You don't need to say\neverything~n."
                             ]
                         },
                         {
@@ -12727,7 +12727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: If that's the reason, then it's fine~n. You're too much of a\ngoody-two-shoes for a coward, and I didn't like that~n."
+                                "\\C[27][Rade]\\C[0] If that's the reason, then it's fine~n. You're too much of a\ngoody-two-shoes for a coward, and I didn't like that~n."
                             ]
                         },
                         {
@@ -12778,7 +12778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Plus~ according to my judgment~n. It seems like you're hiding\nyour true power~n. That kind of thing gives me thrills~n. Kyaa-n!"
+                                "\\C[27][Rade]\\C[0] Plus~ according to my judgment~n. It seems like you're hiding\nyour true power~n. That kind of thing gives me thrills~n. Kyaa-n!"
                             ]
                         },
                         {
@@ -12880,7 +12880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rade: Ugyu-n! I'm a little interested in you now~n! But~? I'll only be\nyour master for one day, okay~n?"
+                                "\\C[27][Rade]\\C[0] Ugyu-n! I'm a little interested in you now~n! But~? I'll only be\nyour master for one day, okay~n?"
                             ]
                         },
                         {
@@ -13139,7 +13139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rade: It's okay~n. It seems like I can use magic just for today~n. I\nforcefully broke the curse, and since I'm feeling good today, I think\nI can use magic~n."
+                                "\\C[27][Rade]\\C[0] It's okay~n. It seems like I can use magic just for today~n. I\nforcefully broke the curse, and since I'm feeling good today, I think\nI can use magic~n."
                             ]
                         },
                         {
@@ -13190,7 +13190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rade: I think the curse will be lifted in about a week anyway~n.\nKyaa-n!"
+                                "\\C[27][Rade]\\C[0] I think the curse will be lifted in about a week anyway~n.\nKyaa-n!"
                             ]
                         },
                         {
