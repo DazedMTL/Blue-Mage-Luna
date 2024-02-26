@@ -3261,7 +3261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Wait, please! (If I part ways with these people here, I feel\nlike I'll regret it for the rest of my life... I just have that\nfeeling.)"
+                                "\\C[23][Luna]\\C[0] Wait, please! (If I part ways with these people here, I feel\nlike I'll regret it for the rest of my life... I just have that\nfeeling.)"
                             ]
                         },
                         {
@@ -3297,7 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: I apologize for my friend's rudeness."
+                                "\\C[23][Luna]\\C[0] I apologize for my friend's rudeness."
                             ]
                         },
                         {
@@ -3348,7 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Rade-san, we need your help."
+                                "\\C[23][Luna]\\C[0] Rade-san, we need your help."
                             ]
                         },
                         {
@@ -3504,7 +3504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Rade-san, Servant-san, please. I can tell you both are quite\nskilled. I just know it."
+                                "\\C[23][Luna]\\C[0] Rade-san, Servant-san, please. I can tell you both are quite\nskilled. I just know it."
                             ]
                         },
                         {
@@ -3522,7 +3522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: With Rade-san and Servant-san, we can stand up to Lucia and\nSylvia."
+                                "\\C[23][Luna]\\C[0] With Rade-san and Servant-san, we can stand up to Lucia and\nSylvia."
                             ]
                         },
                         {
@@ -4091,7 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Wait! Becky!"
+                                "\\C[23][Luna]\\C[0] Wait! Becky!"
                             ]
                         },
                         {
@@ -4142,7 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Rade-san, what do you need? Money?"
+                                "\\C[23][Luna]\\C[0] Rade-san, what do you need? Money?"
                             ]
                         },
                         {
@@ -4271,7 +4271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Then what else could it be?"
+                                "\\C[23][Luna]\\C[0] Then what else could it be?"
                             ]
                         },
                         {
@@ -4340,7 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Information?"
+                                "\\C[23][Luna]\\C[0] Information?"
                             ]
                         },
                         {
@@ -4409,7 +4409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: !!"
+                                "\\C[23][Luna]\\C[0] !!"
                             ]
                         },
                         {
@@ -4460,7 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Regnus Grahardt..."
+                                "\\C[23][Luna]\\C[0] Regnus Grahardt..."
                             ]
                         },
                         {
@@ -4478,7 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: That's the person Lucia has been continuously searching for..."
+                                "\\C[23][Luna]\\C[0] That's the person Lucia has been continuously searching for..."
                             ]
                         },
                         {
@@ -4697,7 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: No, I've never met him directly."
+                                "\\C[23][Luna]\\C[0] No, I've never met him directly."
                             ]
                         },
                         {
@@ -4715,7 +4715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: It's just something Lucia once mentioned to me a long time ago."
+                                "\\C[23][Luna]\\C[0] It's just something Lucia once mentioned to me a long time ago."
                             ]
                         },
                         {
@@ -4877,7 +4877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Yes... I'm sorry I can't be of help. Lucia probably doesn't\nknow Regnus Grahardt's whereabouts either. She's been waiting for him\nto appear all this time."
+                                "\\C[23][Luna]\\C[0] Yes... I'm sorry I can't be of help. Lucia probably doesn't\nknow Regnus Grahardt's whereabouts either. She's been waiting for him\nto appear all this time."
                             ]
                         },
                         {
@@ -5121,7 +5121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Please wait! Rade-san, lend us your strength!"
+                                "\\C[23][Luna]\\C[0] Please wait! Rade-san, lend us your strength!"
                             ]
                         },
                         {
@@ -5373,7 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Please! We have no one else to turn to. You're the only one,\nRade-san! You're the only one who can save this village!"
+                                "\\C[23][Luna]\\C[0] Please! We have no one else to turn to. You're the only one,\nRade-san! You're the only one who can save this village!"
                             ]
                         },
                         {
@@ -5574,7 +5574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Please! Please!"
+                                "\\C[23][Luna]\\C[0] Please! Please!"
                             ]
                         },
                         {
@@ -5766,7 +5766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Rade-san, please! Please!"
+                                "\\C[23][Luna]\\C[0] Rade-san, please! Please!"
                             ]
                         },
                         {
@@ -5874,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Aren't you truly pained at heart, Rade-san?"
+                                "\\C[23][Luna]\\C[0] Aren't you truly pained at heart, Rade-san?"
                             ]
                         },
                         {
@@ -6699,7 +6699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Becky, be quiet."
+                                "\\C[23][Luna]\\C[0] Becky, be quiet."
                             ]
                         },
                         {
@@ -6750,7 +6750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Rade-san. Then, may we borrow your servant?"
+                                "\\C[23][Luna]\\C[0] Rade-san. Then, may we borrow your servant?"
                             ]
                         },
                         {
@@ -7078,7 +7078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Rade-san..."
+                                "\\C[23][Luna]\\C[0] Rade-san..."
                             ]
                         },
                         {
@@ -7571,7 +7571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ......"
+                                "\\C[23][Luna]\\C[0] ......"
                             ]
                         },
                         {
@@ -7769,7 +7769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ...?"
+                                "\\C[23][Luna]\\C[0] ...?"
                             ]
                         },
                         {
@@ -7838,7 +7838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Yes. How did you know? I haven't said anything about it."
+                                "\\C[23][Luna]\\C[0] Yes. How did you know? I haven't said anything about it."
                             ]
                         },
                         {
@@ -8000,7 +8000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Yes. Amazing... to think you could tell just like that."
+                                "\\C[23][Luna]\\C[0] Yes. Amazing... to think you could tell just like that."
                             ]
                         },
                         {
@@ -8315,7 +8315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lady Rade?"
+                                "\\C[23][Luna]\\C[0] Lady Rade?"
                             ]
                         },
                         {
@@ -8444,7 +8444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: !?"
+                                "\\C[23][Luna]\\C[0] !?"
                             ]
                         },
                         {
@@ -8609,7 +8609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ............"
+                                "\\C[23][Luna]\\C[0] ............"
                             ]
                         },
                         {
@@ -8678,7 +8678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lady Rade... thank you. But I doubt even you can break this\nmagical seal."
+                                "\\C[23][Luna]\\C[0] Lady Rade... thank you. But I doubt even you can break this\nmagical seal."
                             ]
                         },
                         {
@@ -8729,7 +8729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: The one who sealed my magic is a 'direct descendant of the\nblack sorcerers' named Lucia."
+                                "\\C[23][Luna]\\C[0] The one who sealed my magic is a 'direct descendant of the\nblack sorcerers' named Lucia."
                             ]
                         },
                         {
@@ -8816,7 +8816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lucia is a direct descendant of the black sorcerers. She's a\nlegendary sorceress, one in tens of billions. So naturally, I thought\neven Lady Rade couldn't... surely you can't break my magical seal."
+                                "\\C[23][Luna]\\C[0] Lucia is a direct descendant of the black sorcerers. She's a\nlegendary sorceress, one in tens of billions. So naturally, I thought\neven Lady Rade couldn't... surely you can't break my magical seal."
                             ]
                         },
                         {
@@ -8903,7 +8903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Ah, yes."
+                                "\\C[23][Luna]\\C[0] Ah, yes."
                             ]
                         },
                         {
@@ -9041,7 +9041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Ah..."
+                                "\\C[23][Luna]\\C[0] Ah..."
                             ]
                         },
                         {
@@ -9059,7 +9059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: I can use magic again? It's just lower-level magic, but..."
+                                "\\C[23][Luna]\\C[0] I can use magic again? It's just lower-level magic, but..."
                             ]
                         },
                         {
@@ -9110,7 +9110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: That's... It should take a sorcerer of equal or greater power\nthan Lucia to undo my magical seal... Could there really be such a\nperson... Or did you use some special technique?"
+                                "\\C[23][Luna]\\C[0] That's... It should take a sorcerer of equal or greater power\nthan Lucia to undo my magical seal... Could there really be such a\nperson... Or did you use some special technique?"
                             ]
                         },
                         {
@@ -9161,7 +9161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lady Rade! Thank you so much! Who exactly are you?"
+                                "\\C[23][Luna]\\C[0] Lady Rade! Thank you so much! Who exactly are you?"
                             ]
                         },
                         {
@@ -9374,7 +9374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Understood. I will keep the secret. It seems you have some\nspecial circumstances that prevent you from revealing your identity."
+                                "\\C[23][Luna]\\C[0] Understood. I will keep the secret. It seems you have some\nspecial circumstances that prevent you from revealing your identity."
                             ]
                         },
                         {
@@ -9428,7 +9428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Like the wind... I see."
+                                "\\C[23][Luna]\\C[0] Like the wind... I see."
                             ]
                         },
                         {
@@ -9567,7 +9567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lady Rade, I truly thank you."
+                                "\\C[23][Luna]\\C[0] Lady Rade, I truly thank you."
                             ]
                         },
                         {
@@ -9687,7 +9687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: My talent..."
+                                "\\C[23][Luna]\\C[0] My talent..."
                             ]
                         },
                         {
@@ -9756,7 +9756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: !!"
+                                "\\C[23][Luna]\\C[0] !!"
                             ]
                         },
                         {
@@ -9999,7 +9999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ............"
+                                "\\C[23][Luna]\\C[0] ............"
                             ]
                         },
                         {
@@ -10017,7 +10017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lady Rade... I'm sorry to be selfish, but just because I\nremembered some lower-level magic, it doesn't mean I can beat Lucia\nand Sylvia."
+                                "\\C[23][Luna]\\C[0] Lady Rade... I'm sorry to be selfish, but just because I\nremembered some lower-level magic, it doesn't mean I can beat Lucia\nand Sylvia."
                             ]
                         },
                         {
@@ -10035,7 +10035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: I want to remember more magic."
+                                "\\C[23][Luna]\\C[0] I want to remember more magic."
                             ]
                         },
                         {
@@ -10197,7 +10197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Please!"
+                                "\\C[23][Luna]\\C[0] Please!"
                             ]
                         },
                         {
@@ -10506,7 +10506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Is that so......"
+                                "\\C[23][Luna]\\C[0] Is that so......"
                             ]
                         },
                         {
@@ -10524,7 +10524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lady Rade, please!"
+                                "\\C[23][Luna]\\C[0] Lady Rade, please!"
                             ]
                         },
                         {
@@ -10768,7 +10768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Wait, please wait!"
+                                "\\C[23][Luna]\\C[0] Wait, please wait!"
                             ]
                         },
                         {
@@ -10786,7 +10786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: At least tell me where you and your people live."
+                                "\\C[23][Luna]\\C[0] At least tell me where you and your people live."
                             ]
                         },
                         {
@@ -10990,7 +10990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Please!"
+                                "\\C[23][Luna]\\C[0] Please!"
                             ]
                         },
                         {
@@ -11425,7 +11425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Thank you very much! I will definitely visit!"
+                                "\\C[23][Luna]\\C[0] Thank you very much! I will definitely visit!"
                             ]
                         },
                         {
@@ -11563,7 +11563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lady Rade, I will definitely visit. I'll bring some sweet\ntreats with me."
+                                "\\C[23][Luna]\\C[0] Lady Rade, I will definitely visit. I'll bring some sweet\ntreats with me."
                             ]
                         },
                         {
@@ -11732,7 +11732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: And then, I'll also look into Regnus Grahardt."
+                                "\\C[23][Luna]\\C[0] And then, I'll also look into Regnus Grahardt."
                             ]
                         },
                         {
@@ -11996,7 +11996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Hehe, Becky, don't say that."
+                                "\\C[23][Luna]\\C[0] Hehe, Becky, don't say that."
                             ]
                         },
                         {
@@ -12922,7 +12922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Uh, yeah."
+                                "\\C[23][Luna]\\C[0] Uh, yeah."
                             ]
                         },
                         {
@@ -12940,7 +12940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Anyway, she's an amazing person. Who exactly is Rade? I'm glad\nwe met her."
+                                "\\C[23][Luna]\\C[0] Anyway, she's an amazing person. Who exactly is Rade? I'm glad\nwe met her."
                             ]
                         },
                         {
@@ -12991,7 +12991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: I can see a little light now. A light of hope."
+                                "\\C[23][Luna]\\C[0] I can see a little light now. A light of hope."
                             ]
                         },
                         {
@@ -13066,7 +13066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: First, let's go to the city of Bell. There might be a way to\nearn money other than through prostitution."
+                                "\\C[23][Luna]\\C[0] First, let's go to the city of Bell. There might be a way to\nearn money other than through prostitution."
                             ]
                         },
                         {

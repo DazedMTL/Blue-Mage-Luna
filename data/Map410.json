@@ -6160,7 +6160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Huh? Becky, what's wrong?"
+                                "\\C[23][Luna]\\C[0] Huh? Becky, what's wrong?"
                             ]
                         },
                         {
@@ -6280,7 +6280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: How terrible... Rape is..."
+                                "\\C[23][Luna]\\C[0] How terrible... Rape is..."
                             ]
                         },
                         {

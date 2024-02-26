@@ -4672,7 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: You are..."
+                                "\\C[23][Luna]\\C[0] You are..."
                             ]
                         },
                         {
@@ -4792,7 +4792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Hehe... An archaeologist, huh? Is the stall coming?"
+                                "\\C[23][Luna]\\C[0] Hehe... An archaeologist, huh? Is the stall coming?"
                             ]
                         },
                         {
@@ -5102,7 +5102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Why not?"
+                                "\\C[23][Luna]\\C[0] Why not?"
                             ]
                         },
                         {
@@ -5138,7 +5138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ..."
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -5656,7 +5656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: There's no need for us to be here right now."
+                                "\\C[23][Luna]\\C[0] There's no need for us to be here right now."
                             ]
                         },
                         {

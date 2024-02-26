@@ -8477,7 +8477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: What's this..."
+                                "\\C[23][Luna]\\C[0] What's this..."
                             ]
                         },
                         {
@@ -8666,7 +8666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Right. Let's use this \"Cookbook for Sweets\" as a reference to\nmake some sweets and bring them to Lady Rade."
+                                "\\C[23][Luna]\\C[0] Right. Let's use this \"Cookbook for Sweets\" as a reference to\nmake some sweets and bring them to Lady Rade."
                             ]
                         },
                         {

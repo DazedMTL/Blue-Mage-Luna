@@ -15656,7 +15656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: This is..."
+                                "\\C[23][Luna]\\C[0] This is..."
                             ]
                         },
                         {
@@ -15725,7 +15725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: It looks like another one of Hilda's synthetic monsters."
+                                "\\C[23][Luna]\\C[0] It looks like another one of Hilda's synthetic monsters."
                             ]
                         },
                         {
@@ -15776,7 +15776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: (It seems like all our actions are completely transparent to\nthem.)"
+                                "\\C[23][Luna]\\C[0] (It seems like all our actions are completely transparent to\nthem.)"
                             ]
                         },
                         {
@@ -15812,7 +15812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ......"
+                                "\\C[23][Luna]\\C[0] ......"
                             ]
                         },
                         {
@@ -15863,7 +15863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Let's go!"
+                                "\\C[23][Luna]\\C[0] Let's go!"
                             ]
                         },
                         {
@@ -15988,7 +15988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: ............"
+                                "\\C[23][Luna]\\C[0] ............"
                             ]
                         },
                         {
@@ -16091,7 +16091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: ......"
+                                "\\C[23][Luna]\\C[0] ......"
                             ]
                         },
                         {

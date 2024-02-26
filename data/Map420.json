@@ -16113,7 +16113,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Luuna: Eh... me?"
+                                "\\C[23][Luna]\\C[0] Eh... me?"
                             ]
                         },
                         {
@@ -16167,7 +16167,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Luuna: ............"
+                                "\\C[23][Luna]\\C[0] ............"
                             ]
                         },
                         {
@@ -16185,7 +16185,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Luuna: (What should I do... Noah wants me to accept invitations from\nother men...)"
+                                "\\C[23][Luna]\\C[0] (What should I do... Noah wants me to accept invitations from\nother men...)"
                             ]
                         },
                         {
@@ -16754,7 +16754,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Luuna: ............"
+                                "\\C[23][Luna]\\C[0] ............"
                             ]
                         },
                         {

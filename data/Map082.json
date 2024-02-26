@@ -12032,7 +12032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Congratulations on the complete clear. Wow, getting all the\ngold medals is quite impressive."
+                                "\\C[23][Luna]\\C[0] Congratulations on the complete clear. Wow, getting all the\ngold medals is quite impressive."
                             ]
                         },
                         {
@@ -12050,7 +12050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Even if it's just in the epilogue room, I'm so happy to be able\nto meet you, Satori, and Lord Ceres again."
+                                "\\C[23][Luna]\\C[0] Even if it's just in the epilogue room, I'm so happy to be able\nto meet you, Satori, and Lord Ceres again."
                             ]
                         },
                         {

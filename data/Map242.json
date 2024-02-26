@@ -5856,7 +5856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: What is this..."
+                                "\\C[23][Luna]\\C[0] What is this..."
                             ]
                         },
                         {
@@ -5978,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: I can feel a very strong magical power from this stone."
+                                "\\C[23][Luna]\\C[0] I can feel a very strong magical power from this stone."
                             ]
                         },
                         {
@@ -6083,7 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ......"
+                                "\\C[23][Luna]\\C[0] ......"
                             ]
                         },
                         {
@@ -6185,7 +6185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Uh, yes."
+                                "\\C[23][Luna]\\C[0] Uh, yes."
                             ]
                         },
                         {
@@ -6239,7 +6239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: It truly harbors incredible magical power... Indeed, Lady Rade\nmight know something about it..."
+                                "\\C[23][Luna]\\C[0] It truly harbors incredible magical power... Indeed, Lady Rade\nmight know something about it..."
                             ]
                         },
                         {

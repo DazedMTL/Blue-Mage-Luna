@@ -6374,7 +6374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Ah..."
+                                "\\C[23][Luna]\\C[0] Ah..."
                             ]
                         },
                         {
@@ -6392,7 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lord Ceres!"
+                                "\\C[23][Luna]\\C[0] Lord Ceres!"
                             ]
                         },
                         {
@@ -6461,7 +6461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Yes, it's been a while."
+                                "\\C[23][Luna]\\C[0] Yes, it's been a while."
                             ]
                         },
                         {
@@ -6709,7 +6709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lord Ceres! I'm being pursued! This way!"
+                                "\\C[23][Luna]\\C[0] Lord Ceres! I'm being pursued! This way!"
                             ]
                         },
                         {

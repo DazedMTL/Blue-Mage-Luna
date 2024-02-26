@@ -5043,7 +5043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Excuse me... who are you people?"
+                                "\\C[23][Luna]\\C[0] Excuse me... who are you people?"
                             ]
                         },
                         {
@@ -5283,7 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Oh, is that so. My apologies."
+                                "\\C[23][Luna]\\C[0] Oh, is that so. My apologies."
                             ]
                         },
                         {
@@ -6251,7 +6251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Becky! Stop it right now."
+                                "\\C[23][Luna]\\C[0] Becky! Stop it right now."
                             ]
                         },
                         {
@@ -6670,7 +6670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: !?! (Who is this person? Her expression and tone changed\ncompletely in an instant.)"
+                                "\\C[23][Luna]\\C[0] !?! (Who is this person? Her expression and tone changed\ncompletely in an instant.)"
                             ]
                         },
                         {
@@ -6688,7 +6688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: (And this servant seems to be quite skilled too. Just who are\nthese people?)"
+                                "\\C[23][Luna]\\C[0] (And this servant seems to be quite skilled too. Just who are\nthese people?)"
                             ]
                         },
                         {
@@ -6745,7 +6745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ......"
+                                "\\C[23][Luna]\\C[0] ......"
                             ]
                         },
                         {

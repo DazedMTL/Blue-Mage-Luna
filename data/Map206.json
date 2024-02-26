@@ -5788,7 +5788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: It's really dangerous beyond this point. Let's turn back."
+                                "\\C[23][Luna]\\C[0] It's really dangerous beyond this point. Let's turn back."
                             ]
                         },
                         {
@@ -7107,7 +7107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ..."
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -7125,7 +7125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Mei... Mao..."
+                                "\\C[23][Luna]\\C[0] Mei... Mao..."
                             ]
                         },
                         {

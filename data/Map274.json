@@ -6403,7 +6403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ... (It seems to be closed during the day.)"
+                                "\\C[23][Luna]\\C[0] ... (It seems to be closed during the day.)"
                             ]
                         },
                         {

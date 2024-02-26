@@ -9895,7 +9895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: There's no need for us to be here right now."
+                                "\\C[23][Luna]\\C[0] There's no need for us to be here right now."
                             ]
                         },
                         {
@@ -10709,7 +10709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Who are you...?"
+                                "\\C[23][Luna]\\C[0] Who are you...?"
                             ]
                         },
                         {
@@ -10772,7 +10772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ...?"
+                                "\\C[23][Luna]\\C[0] ...?"
                             ]
                         },
                         {
@@ -11126,7 +11126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: ............"
+                                "\\C[23][Luna]\\C[0] ............"
                             ]
                         },
                         {

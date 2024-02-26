@@ -14533,7 +14533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: Ah... Information is being displayed."
+                                "\\C[23][Luna]\\C[0] Ah... Information is being displayed."
                             ]
                         },
                         {
@@ -14593,7 +14593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: ..."
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -14664,7 +14664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: ..."
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -14715,7 +14715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: Is this... a photograph...?"
+                                "\\C[23][Luna]\\C[0] Is this... a photograph...?"
                             ]
                         },
                         {
@@ -14766,7 +14766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: This child is..."
+                                "\\C[23][Luna]\\C[0] This child is..."
                             ]
                         },
                         {
@@ -14784,7 +14784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: It's written here as \"Rei Granford\"..."
+                                "\\C[23][Luna]\\C[0] It's written here as \"Rei Granford\"..."
                             ]
                         },
                         {
@@ -14886,7 +14886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: No, I don't know her."
+                                "\\C[23][Luna]\\C[0] No, I don't know her."
                             ]
                         },
                         {
@@ -14904,7 +14904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: Rei Granford..."
+                                "\\C[23][Luna]\\C[0] Rei Granford..."
                             ]
                         },
                         {
@@ -14922,7 +14922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: ..."
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -15832,7 +15832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: ............"
+                                "\\C[23][Luna]\\C[0] ............"
                             ]
                         },
                         {
@@ -15935,7 +15935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: ......"
+                                "\\C[23][Luna]\\C[0] ......"
                             ]
                         },
                         {
@@ -16143,7 +16143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: !!!"
+                                "\\C[23][Luna]\\C[0] !!!"
                             ]
                         },
                         {
@@ -16179,7 +16179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: It seems like a guardian."
+                                "\\C[23][Luna]\\C[0] It seems like a guardian."
                             ]
                         },
                         {
@@ -16215,7 +16215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: It looks like it's programmed not to let intruders pass."
+                                "\\C[23][Luna]\\C[0] It looks like it's programmed not to let intruders pass."
                             ]
                         },
                         {
@@ -16264,7 +16264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: We'll have to take it down...!"
+                                "\\C[23][Luna]\\C[0] We'll have to take it down...!"
                             ]
                         },
                         {

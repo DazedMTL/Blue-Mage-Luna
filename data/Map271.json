@@ -4203,7 +4203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: The item that was requested?"
+                                "\\C[23][Luna]\\C[0] The item that was requested?"
                             ]
                         },
                         {
@@ -4323,7 +4323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Lover? You mean Noah? Ahaha..."
+                                "\\C[23][Luna]\\C[0] Lover? You mean Noah? Ahaha..."
                             ]
                         },
                         {
@@ -4359,7 +4359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Yes... Becky: I understand."
+                                "\\C[23][Luna]\\C[0] Yes... Becky: I understand."
                             ]
                         },
                         {
@@ -4450,7 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Noah, can you hear me?"
+                                "\\C[23][Luna]\\C[0] Noah, can you hear me?"
                             ]
                         },
                         {
@@ -4519,7 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Yeah. I'm busy right now, so I'll contact you again later. Bye."
+                                "\\C[23][Luna]\\C[0] Yeah. I'm busy right now, so I'll contact you again later. Bye."
                             ]
                         },
                         {
@@ -4813,7 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luuna: Yes. (Being able to hear Noah's voice anytime is nice.)"
+                                "\\C[23][Luna]\\C[0] Yes. (Being able to hear Noah's voice anytime is nice.)"
                             ]
                         },
                         {
@@ -4902,7 +4902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Luuna: Let's go to Selen Forest."
+                                "\\C[23][Luna]\\C[0] Let's go to Selen Forest."
                             ]
                         },
                         {
