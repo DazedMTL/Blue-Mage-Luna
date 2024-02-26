@@ -1,0 +1,26 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ain
+!*.fnl
+!*.ks
+!*.tjs
+!*.yaml
+!Data/*
+!*.rb
+!.gitignore
+!README.md
+!game.ini
+
+# Images
+!maptitle_chapter01.rpgmvp
+!maptitle_chapter02.rpgmvp
+!maptitle_chapter03.rpgmvp
+!maptitle_chapter04.rpgmvp
+!title02.rpgmvp
