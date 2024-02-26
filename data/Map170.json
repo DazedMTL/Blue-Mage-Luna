@@ -4904,7 +4904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] This place seems to be a hot spring. It's been a while since\nwe've been to one, hasn't it?"
+                                "\\C[24][Becky]\\C[0] This place seems to be a hot spring. It's been a while since we've been to one,\nhasn't it?"
                             ]
                         },
                         {
@@ -5029,7 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] It feels good... A hot spring is nice once in a while, isn't\nit?"
+                                "\\C[23][Luna]\\C[0] It feels good... A hot spring is nice once in a while, isn't it?"
                             ]
                         },
                         {

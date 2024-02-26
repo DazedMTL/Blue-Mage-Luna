@@ -10081,7 +10081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ............"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -10184,7 +10184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ......."
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -10427,7 +10427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes. I've heard about it when I was a student at the Valentina\nMagic Academy. It's a monster that mainly rampages around temples and\nruins."
+                                "\\C[23][Luna]\\C[0] Yes. I've heard about it when I was a student at the Valentina Magic Academy.\nIt's a monster that mainly rampages around temples and ruins."
                             ]
                         },
                         {
@@ -10445,7 +10445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] I've heard about it too. Many adventurers have fallen victim to\nit. It's considered the pinnacle of ice-type monsters. It's strong."
+                                "\\C[24][Becky]\\C[0] I've heard about it too. Many adventurers have fallen victim to it. It's\nconsidered the pinnacle of ice-type monsters. It's strong."
                             ]
                         },
                         {
@@ -10463,7 +10463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ......."
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {

@@ -4698,7 +4698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ............"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -5549,7 +5549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Corys: Yes. But we're in a state of ruin. We tried to launch a\nsurprise attack on Lucia and the generals of Valentina, but as you can\nsee, our soldiers have been gravely injured..."
+                                "Corys: Yes. But we're in a state of ruin. We tried to launch a surprise attack\non Lucia and the generals of Valentina, but as you can see, our soldiers have\nbeen gravely injured..."
                             ]
                         },
                         {
@@ -5636,7 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Attacking Lucia and her group with that number of people is\nreckless. We couldn't lay a finger on them either."
+                                "\\C[24][Cain]\\C[0] Attacking Lucia and her group with that number of people is reckless. We\ncouldn't lay a finger on them either."
                             ]
                         },
                         {
@@ -5654,7 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ......"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -5857,7 +5857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Wait a minute, Luna! After all the trouble we went through to\nfind it!"
+                                "\\C[24][Becky]\\C[0] Wait a minute, Luna! After all the trouble we went through to find it!"
                             ]
                         },
                         {
@@ -5906,7 +5906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] We can find more medicine. Besides, the people here are more\nseriously injured. I'm sure Noah would understand too."
+                                "\\C[23][Luna]\\C[0] We can find more medicine. Besides, the people here are more seriously injured.\nI'm sure Noah would understand too."
                             ]
                         },
                         {
@@ -6114,7 +6114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ......"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -6165,7 +6165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] By the way, Corys-san, may I ask if you know someone named\n\"Regnus Grahardt\"?"
+                                "\\C[23][Luna]\\C[0] By the way, Corys-san, may I ask if you know someone named \"Regnus Grahardt\"?"
                             ]
                         },
                         {
@@ -6303,7 +6303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] He's someone we, as the resistance, are looking for. If Regnus\nGrahardt were here, he might be able to stand against Lucia and the\ngenerals of Valentina."
+                                "\\C[23][Luna]\\C[0] He's someone we, as the resistance, are looking for. If Regnus Grahardt were\nhere, he might be able to stand against Lucia and the generals of Valentina."
                             ]
                         },
                         {
@@ -6321,7 +6321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Corys: Such a person couldn't possibly exist. Lucia is a direct\ndescendant of sorcerers. And the generals of Valentina have godlike\nstrength. Even if he did exist, there's no way he could defeat Lucia\nand her group. Are such dream-like stories even possible?"
+                                "Corys: Such a person couldn't possibly exist. Lucia is a direct descendant of\nsorcerers. And the generals of Valentina have godlike strength. Even if he did\nexist, there's no way he could defeat Lucia and her group. Are such dream-like\nstories even possible?"
                             ]
                         },
                         {
@@ -6339,7 +6339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Hey, hey, knowing you couldn't win, you still challenged Lucia\nand her group? That's foolish."
+                                "\\C[24][Cain]\\C[0] Hey, hey, knowing you couldn't win, you still challenged Lucia and her group?\nThat's foolish."
                             ]
                         },
                         {
@@ -6357,7 +6357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Corys: Yes, it's foolish. But we can no longer endure Lucia's tyranny.\nWe are made to work like slaves every day."
+                                "Corys: Yes, it's foolish. But we can no longer endure Lucia's tyranny. We are\nmade to work like slaves every day."
                             ]
                         },
                         {
@@ -6375,7 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Corys: Our hope, the Knights of Messiah, won't move a muscle. It's all\nover."
+                                "Corys: Our hope, the Knights of Messiah, won't move a muscle. It's all over."
                             ]
                         },
                         {
@@ -6393,7 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ......!"
+                                "\\C[23][Luna]\\C[0] ...!"
                             ]
                         },
                         {
@@ -6462,7 +6462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Corys: Yes. I've been to Moorduna several times, but the answer was\nalways no."
+                                "Corys: Yes. I've been to Moorduna several times, but the answer was always no."
                             ]
                         },
                         {
@@ -6480,7 +6480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Corys: Ceres Arianne won't budge. The Knights of Messiah seem intent\non leaving us to die. Moorduna is afraid of Jupiterino and Valentina.\nIt might be inevitable."
+                                "Corys: Ceres Arianne won't budge. The Knights of Messiah seem intent on leaving\nus to die. Moorduna is afraid of Jupiterino and Valentina. It might be\ninevitable."
                             ]
                         },
                         {
@@ -6498,7 +6498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ......"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -6516,7 +6516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I believe Lady Ceres must have some plan in mind. Perhaps she\nintends to negotiate with Valentina."
+                                "\\C[23][Luna]\\C[0] I believe Lady Ceres must have some plan in mind. Perhaps she intends to\nnegotiate with Valentina."
                             ]
                         },
                         {
@@ -6541,7 +6541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Corys: I can't imagine the magical kingdom of Valentina would listen\nto anything Moorduna has to say."
+                                "Corys: I can't imagine the magical kingdom of Valentina would listen to anything\nMoorduna has to say."
                             ]
                         },
                         {
@@ -6874,7 +6874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ......!?"
+                                "\\C[23][Luna]\\C[0] ...!?"
                             ]
                         },
                         {
@@ -6910,7 +6910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] ........"
+                                "\\C[17][Lucia]\\C[0] ..."
                             ]
                         },
                         {

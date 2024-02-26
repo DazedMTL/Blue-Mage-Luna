@@ -4221,7 +4221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] It's a communicator. Pole asked me to get it because Luna and\nBecky might cheat while they're on an adventure."
+                                "\\C[24][Cain]\\C[0] It's a communicator. Pole asked me to get it because Luna and Becky might cheat\nwhile they're on an adventure."
                             ]
                         },
                         {
@@ -4272,7 +4272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] I see, a communicator. That's such a Pole thing to order.\nLuna, your lover Noah is worried about you too."
+                                "\\C[24][Becky]\\C[0] I see, a communicator. That's such a Pole thing to order. Luna, your lover Noah\nis worried about you too."
                             ]
                         },
                         {
@@ -4341,7 +4341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Don't you forget, okay? If you can't earn money by any means\nother than prostitution, you'll have to prostitute yourselves and pay\nthe village."
+                                "\\C[24][Cain]\\C[0] Don't you forget, okay? If you can't earn money by any means other than\nprostitution, you'll have to prostitute yourselves and pay the village."
                             ]
                         },
                         {
@@ -4377,7 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Baro: Here's the communicator. With this, you can talk to your\nboyfriends no matter how far away they are. Once you get used to it,\nyou can even see their faces if you concentrate. It's about the size\nof a matchbox, so don't lose it."
+                                "Baro: Here's the communicator. With this, you can talk to your boyfriends no\nmatter how far away they are. Once you get used to it, you can even see their\nfaces if you concentrate. It's about the size of a matchbox, so don't lose it."
                             ]
                         },
                         {
@@ -4400,7 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luna and the others returned to town for a while. Then Cain handed\nout the communicators to Luna, Becky, Noah, and Pole."
+                                "Luna and the others returned to town for a while. Then Cain handed out the\ncommunicators to Luna, Becky, Noah, and Pole."
                             ]
                         },
                         {
@@ -4468,7 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] Yeah, I can hear Luna's voice. It's amazing. Now we can stay in\ntouch anytime."
+                                "\\C[29][Noah]\\C[0] Yeah, I can hear Luna's voice. It's amazing. Now we can stay in touch anytime."
                             ]
                         },
                         {
@@ -4624,7 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Haha... Of course not. (I can't possibly tell him that I might\nhave to resort to prostitution...)"
+                                "\\C[24][Becky]\\C[0] Haha... Of course not. (I can't possibly tell him that I might have to resort\nto prostitution...)"
                             ]
                         },
                         {
@@ -4762,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Baro, you've been a big help. Now Luna and Becky won't feel\nlonely during their adventures. Haha"
+                                "\\C[24][Cain]\\C[0] Baro, you've been a big help. Now Luna and Becky won't feel lonely during their\nadventures. Haha"
                             ]
                         },
                         {
@@ -5013,7 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Baro: \"Not only does the communicator transmit voice, but once you get\nused to it, you can even see the other person's appearance if you\nconcentrate. It's about the size of a matchbox, so don't lose it.\""
+                                "Baro: \"Not only does the communicator transmit voice, but once you get used to\nit, you can even see the other person's appearance if you concentrate. It's\nabout the size of a matchbox, so don't lose it.\""
                             ]
                         },
                         {
@@ -5202,7 +5202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Michael: \"This is a rare shop. We've got a collection of unusual items\nhere.\""
+                                "Michael: \"This is a rare shop. We've got a collection of unusual items here.\""
                             ]
                         },
                         {

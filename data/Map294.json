@@ -5637,7 +5637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Manual] I will explain the game. The \"Game Manual\" can also be\nselected from the \"Various Settings\" in the \"Menu Screen\"."
+                                "[Manual] I will explain the game. The \"Game Manual\" can also be selected from\nthe \"Various Settings\" in the \"Menu Screen\"."
                             ]
                         },
                         {
@@ -5942,7 +5942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Villager: \"This is the park. I wonder if my boyfriend is still not\nhere yet~♪\""
+                                "Villager: \"This is the park. I wonder if my boyfriend is still not here yet~♪\""
                             ]
                         },
                         {

@@ -4876,7 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] This is the village of Misa. Luna... I'm so glad you've come\nback to life."
+                                "\\C[24][Becky]\\C[0] This is the village of Misa. Luna... I'm so glad you've come back to life."
                             ]
                         },
                         {
@@ -5116,7 +5116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] When we got here, there you were, Luna, lying in this bed.\nEveryone was so surprised."
+                                "\\C[24][Becky]\\C[0] When we got here, there you were, Luna, lying in this bed. Everyone was so\nsurprised."
                             ]
                         },
                         {
@@ -5134,7 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ............"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -5236,7 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Well... I thought about getting a handwriting analysis, but the\nletter burned up."
+                                "\\C[24][Becky]\\C[0] Well... I thought about getting a handwriting analysis, but the letter burned\nup."
                             ]
                         },
                         {
@@ -5287,7 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] The day after the letter's seal was broken, it was magically\nturned to ash."
+                                "\\C[24][Becky]\\C[0] The day after the letter's seal was broken, it was magically turned to ash."
                             ]
                         },
                         {
@@ -5305,7 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ............"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -5323,7 +5323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] By the way, how's your body? Can you still use magic like\nbefore?"
+                                "\\C[24][Cain]\\C[0] By the way, how's your body? Can you still use magic like before?"
                             ]
                         },
                         {
@@ -5341,7 +5341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes, I'm fine. The wounds have healed without a trace, as if\nnothing ever happened. It's unbelievable."
+                                "\\C[23][Luna]\\C[0] Yes, I'm fine. The wounds have healed without a trace, as if nothing ever\nhappened. It's unbelievable."
                             ]
                         },
                         {
@@ -5392,7 +5392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] When I arrived here, there were a lot of fever reducers. It\nseems someone took very good care of you."
+                                "\\C[24][Becky]\\C[0] When I arrived here, there were a lot of fever reducers. It seems someone took\nvery good care of you."
                             ]
                         },
                         {
@@ -5443,7 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Someone who could do such a thing... someone who cares about me\nso much..."
+                                "\\C[23][Luna]\\C[0] Someone who could do such a thing... someone who cares about me so much..."
                             ]
                         },
                         {
@@ -5479,7 +5479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] ............"
+                                "\\C[24][Becky]\\C[0] ..."
                             ]
                         },
                         {
@@ -5548,7 +5548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ............"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -5602,7 +5602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] The Knights of Messiah are going to lend their strength to the\nresistance of Jupiterino."
+                                "\\C[29][Noah]\\C[0] The Knights of Messiah are going to lend their strength to the resistance of\nJupiterino."
                             ]
                         },
                         {
@@ -5671,7 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] Princess Alicia of Moduna officially signed it. The Knights of\nMessiah will be dispatched to help the rebels in this country."
+                                "\\C[29][Noah]\\C[0] Princess Alicia of Moduna officially signed it. The Knights of Messiah will be\ndispatched to help the rebels in this country."
                             ]
                         },
                         {
@@ -5707,7 +5707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] Also... it seems that the resistance of Norvana was massacred by\nsomeone. Kyle-san too..."
+                                "\\C[29][Noah]\\C[0] Also... it seems that the resistance of Norvana was massacred by someone. Kyle-\nsan too..."
                             ]
                         },
                         {
@@ -5776,7 +5776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] But... according to an informant... it was discovered that the\nresistance of Norvana was connected with Lucia and those from\nValentia."
+                                "\\C[29][Noah]\\C[0] But... according to an informant... it was discovered that the resistance of\nNorvana was connected with Lucia and those from Valentia."
                             ]
                         },
                         {
@@ -5812,7 +5812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ............"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -5848,7 +5848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] ............"
+                                "\\C[24][Becky]\\C[0] ..."
                             ]
                         },
                         {
@@ -5950,7 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] The letter also mentioned Mao and Mei. \"I'm sorry I couldn't\nsave them...\" it said."
+                                "\\C[24][Becky]\\C[0] The letter also mentioned Mao and Mei. \"I'm sorry I couldn't save them...\" it\nsaid."
                             ]
                         },
                         {

@@ -4155,7 +4155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] \"......\""
+                                "\\C[24][Becky]\\C[0] \"...\""
                             ]
                         },
                         {
@@ -4380,7 +4380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: \"Alright then, I'm gonna take pictures with the camera today\ntoo.\""
+                                "Man: \"Alright then, I'm gonna take pictures with the camera today too.\""
                             ]
                         },
                         {

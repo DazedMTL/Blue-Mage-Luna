@@ -8546,7 +8546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] A cookbook for ancient sweets, huh? If it's been left in a place\nlike this, maybe it contains recipes for some really delicious treats."
+                                "\\C[24][Cain]\\C[0] A cookbook for ancient sweets, huh? If it's been left in a place like this,\nmaybe it contains recipes for some really delicious treats."
                             ]
                         },
                         {
@@ -8615,7 +8615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Let's take it with us. If we make sweets using this and give\nthem to Rade, she might give us something in return."
+                                "\\C[24][Cain]\\C[0] Let's take it with us. If we make sweets using this and give them to Rade, she\nmight give us something in return."
                             ]
                         },
                         {
@@ -8666,7 +8666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Right. Let's use this \"Cookbook for Sweets\" as a reference to\nmake some sweets and bring them to Lady Rade."
+                                "\\C[23][Luna]\\C[0] Right. Let's use this \"Cookbook for Sweets\" as a reference to make some sweets\nand bring them to Lady Rade."
                             ]
                         },
                         {

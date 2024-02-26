@@ -4903,7 +4903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ............"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -5006,7 +5006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ......"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -5231,7 +5231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Hey, hasn't Regnus Grahardt been here? If he had, this guardian\nshould have been defeated, right?"
+                                "\\C[24][Cain]\\C[0] Hey, hasn't Regnus Grahardt been here? If he had, this guardian should have\nbeen defeated, right?"
                             ]
                         },
                         {
@@ -5249,7 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] No. This monster is created by a special magic. It's probably a\nguardian that can revive itself here any number of times."
+                                "\\C[23][Luna]\\C[0] No. This monster is created by a special magic. It's probably a guardian that\ncan revive itself here any number of times."
                             ]
                         },
                         {

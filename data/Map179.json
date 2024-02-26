@@ -5626,7 +5626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Lady Ceres, our nation, the 'Ryubel Kingdom,' was more\ndeveloped than any other country. That's precisely why we renounced\nwar, to break the cycle of conflict.\""
+                                "\\C[23][Luna]\\C[0] \"Lady Ceres, our nation, the 'Ryubel Kingdom,' was more developed than any\nother country. That's precisely why we renounced war, to break the cycle of\nconflict.\""
                             ]
                         },
                         {
@@ -5644,7 +5644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Lady Ceres, it's easy to rule people with force and fear. But\nthat's not what I desire, nor is it what you wish for, right?\""
+                                "\\C[23][Luna]\\C[0] \"Lady Ceres, it's easy to rule people with force and fear. But that's not what\nI desire, nor is it what you wish for, right?\""
                             ]
                         },
                         {
@@ -5680,7 +5680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"We humans are made to fight. I was taught by someone about the\nfutility of conflict and came to realize it.\""
+                                "\\C[23][Luna]\\C[0] \"We humans are made to fight. I was taught by someone about the futility of\nconflict and came to realize it.\""
                             ]
                         },
                         {
@@ -5698,7 +5698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Those who lose in conflict will always seek revenge. This\nworld has been repeating the cycle of vengeance for hundreds, even\nthousands of years.\""
+                                "\\C[23][Luna]\\C[0] \"Those who lose in conflict will always seek revenge. This world has been\nrepeating the cycle of vengeance for hundreds, even thousands of years.\""
                             ]
                         },
                         {
@@ -5716,7 +5716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"That's why someone has to stop retaliating first, or else a\npeaceful calm will never come.\""
+                                "\\C[23][Luna]\\C[0] \"That's why someone has to stop retaliating first, or else a peaceful calm will\nnever come.\""
                             ]
                         },
                         {
@@ -5841,7 +5841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soldier 2: \"An unidentified army is attacking us again. We would like\nPrince Luna to join us.\""
+                                "Soldier 2: \"An unidentified army is attacking us again. We would like Prince\nLuna to join us.\""
                             ]
                         },
                         {
@@ -5877,7 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"You know this, but do not kill the enemy soldiers. They have\nfamilies too.\""
+                                "\\C[23][Luna]\\C[0] \"You know this, but do not kill the enemy soldiers. They have families too.\""
                             ]
                         },
                         {
@@ -5895,7 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"If by any chance you do kill an enemy soldier, make sure to\nbury them respectfully.\""
+                                "\\C[23][Luna]\\C[0] \"If by any chance you do kill an enemy soldier, make sure to bury them\nrespectfully.\""
                             ]
                         },
                         {
@@ -5972,7 +5972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soldier 1: \"Previously, you ordered us to protect the families of the\nenemy... You're always like this. Always on the defensive, never able\nto counterattack.\""
+                                "Soldier 1: \"Previously, you ordered us to protect the families of the enemy...\nYou're always like this. Always on the defensive, never able to counterattack.\""
                             ]
                         },
                         {
@@ -6062,7 +6062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soldier 1: \"Lord Luna, why? In the past, you were known as a demon\nwho took pleasure in slaughter.\""
+                                "Soldier 1: \"Lord Luna, why? In the past, you were known as a demon who took\npleasure in slaughter.\""
                             ]
                         },
                         {
@@ -6080,7 +6080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soldier 1: \"Even we couldn't bear to watch the cruel ways you killed\nenemy soldiers. It was you who didn't see them as people, who enjoyed\ninflicting brutal torture and gruesome human experiments.\""
+                                "Soldier 1: \"Even we couldn't bear to watch the cruel ways you killed enemy\nsoldiers. It was you who didn't see them as people, who enjoyed inflicting\nbrutal torture and gruesome human experiments.\""
                             ]
                         },
                         {
@@ -6134,7 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soldier 1: \"Prince Luna, now you are like a tiger without fangs...\nno, more like a cat. You've changed too drastically. Why?\""
+                                "Soldier 1: \"Prince Luna, now you are like a tiger without fangs... no, more like\na cat. You've changed too drastically. Why?\""
                             ]
                         },
                         {
@@ -6152,7 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Just go back. If I stand at the front, you won't be harmed.\nI'll follow later.\""
+                                "\\C[23][Luna]\\C[0] \"Just go back. If I stand at the front, you won't be harmed. I'll follow\nlater.\""
                             ]
                         },
                         {
@@ -6374,7 +6374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"'Demon Luna'... Lady Ceres, that was my nickname in the\npast.\""
+                                "\\C[23][Luna]\\C[0] \"'Demon Luna'... Lady Ceres, that was my nickname in the past.\""
                             ]
                         },
                         {
@@ -6392,7 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"Indeed, even the sorcerer general Rinny used to fear the old\nyou.\""
+                                "Ceres: \"Indeed, even the sorcerer general Rinny used to fear the old you.\""
                             ]
                         },
                         {
@@ -6410,7 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"The old me was the complete opposite of now. To break the\ncycle of conflict and prevent retaliation, I massacred every family\nand descendant of enemy soldiers without exception.\""
+                                "\\C[23][Luna]\\C[0] \"The old me was the complete opposite of now. To break the cycle of conflict\nand prevent retaliation, I massacred every family and descendant of enemy\nsoldiers without exception.\""
                             ]
                         },
                         {
@@ -6428,7 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"I annihilated entire villages and towns, and any rebels who\nstill opposed me were executed in the most painful ways possible. All\nto instill fear.\""
+                                "\\C[23][Luna]\\C[0] \"I annihilated entire villages and towns, and any rebels who still opposed me\nwere executed in the most painful ways possible. All to instill fear.\""
                             ]
                         },
                         {
@@ -6567,7 +6567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Someone taught me that my way of life and thinking up until\nthen was completely wrong.\""
+                                "\\C[23][Luna]\\C[0] \"Someone taught me that my way of life and thinking up until then was\ncompletely wrong.\""
                             ]
                         },
                         {
@@ -6585,7 +6585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"For me, who had received an elite education from my father,\nmeeting that person was a shocking experience.\""
+                                "\\C[23][Luna]\\C[0] \"For me, who had received an elite education from my father, meeting that\nperson was a shocking experience.\""
                             ]
                         },
                         {
@@ -6621,7 +6621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Hehe... It's about time. I have a feeling that someday, I'll\nbe able to tell you about that person, Lady Ceres.\""
+                                "\\C[23][Luna]\\C[0] \"Hehe... It's about time. I have a feeling that someday, I'll be able to tell\nyou about that person, Lady Ceres.\""
                             ]
                         },
                         {
@@ -6677,7 +6677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Well, I'm off. First, I'll negotiate to make sure everyone\nwithdraws without shedding any blood.\""
+                                "\\C[23][Luna]\\C[0] \"Well, I'm off. First, I'll negotiate to make sure everyone withdraws without\nshedding any blood.\""
                             ]
                         },
                         {

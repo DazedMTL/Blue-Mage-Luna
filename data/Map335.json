@@ -14705,7 +14705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"You were the only student I ever acknowledged as a genius\nmagician. You were exceptional even among the students.\""
+                                "Sylvia: \"You were the only student I ever acknowledged as a genius magician. You\nwere exceptional even among the students.\""
                             ]
                         },
                         {
@@ -14723,7 +14723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"But I never thought you would betray Lucia and turn against\nher.\""
+                                "Sylvia: \"But I never thought you would betray Lucia and turn against her.\""
                             ]
                         },
                         {
@@ -14759,7 +14759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"Hehehe... I knew we needed a sacrifice to lure you out here.\nMao and Mei served that purpose.\""
+                                "Sylvia: \"Hehehe... I knew we needed a sacrifice to lure you out here. Mao and\nMei served that purpose.\""
                             ]
                         },
                         {
@@ -14828,7 +14828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"The Knights of Messiah didn't lend you their power, did they?\nWe don't even know where Regnus Grahardt is.\""
+                                "Sylvia: \"The Knights of Messiah didn't lend you their power, did they? We don't\neven know where Regnus Grahardt is.\""
                             ]
                         },
                         {
@@ -14846,7 +14846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"So, Luna, now is the perfect time to crush you. It's best to\nnip troublesome buds like you in the bud.\""
+                                "Sylvia: \"So, Luna, now is the perfect time to crush you. It's best to nip\ntroublesome buds like you in the bud.\""
                             ]
                         },
                         {
@@ -14864,7 +14864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"If we leave you be, your comrades might get killed somewhere\nagain, right? You have no choice but to fight recklessly, do you?\""
+                                "Sylvia: \"If we leave you be, your comrades might get killed somewhere again,\nright? You have no choice but to fight recklessly, do you?\""
                             ]
                         },
                         {
@@ -14949,7 +14949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Sylvia, the leading magician of Valentina... Your cowardice is\nas strong as ever. Can't you crush a former student's spirit without\nresorting to such underhanded tactics?\""
+                                "\\C[23][Luna]\\C[0] \"Sylvia, the leading magician of Valentina... Your cowardice is as strong as\never. Can't you crush a former student's spirit without resorting to such\nunderhanded tactics?\""
                             ]
                         },
                         {
@@ -15247,7 +15247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"Hilda is currently the top student at Valentina Magic School.\nI've appointed Hilda as the general of Valentina.\""
+                                "Sylvia: \"Hilda is currently the top student at Valentina Magic School. I've\nappointed Hilda as the general of Valentina.\""
                             ]
                         },
                         {
@@ -15265,7 +15265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"Ideally, Luna, after you quit being Lucia's attendant, I\nwanted to invite you. You were supposed to do Hilda's job.\""
+                                "Sylvia: \"Ideally, Luna, after you quit being Lucia's attendant, I wanted to\ninvite you. You were supposed to do Hilda's job.\""
                             ]
                         },
                         {
@@ -15308,7 +15308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"Hehe... In other words, Hilda is your creation. If you had\nbecome the general of Valentina, Mao and Mei wouldn't have been eaten\nby Hilda.\""
+                                "Sylvia: \"Hehe... In other words, Hilda is your creation. If you had become the\ngeneral of Valentina, Mao and Mei wouldn't have been eaten by Hilda.\""
                             ]
                         },
                         {
@@ -15512,7 +15512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Hilda] \"I swallowed them whole from head to toe, sucking on their\nbones and all.\""
+                                "[Hilda] \"I swallowed them whole from head to toe, sucking on their bones and\nall.\""
                             ]
                         },
                         {
@@ -15548,7 +15548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Hilda] \"Especially their eyeballs were crunchy and truly delectable.\nThank you for the meal.\""
+                                "[Hilda] \"Especially their eyeballs were crunchy and truly delectable. Thank you\nfor the meal.\""
                             ]
                         },
                         {
@@ -15566,7 +15566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Hilda] \"They were so delicious that I made them into hamburgers and\nsaved them. Want to try Mao and Mei's hamburgers?\""
+                                "[Hilda] \"They were so delicious that I made them into hamburgers and saved them.\nWant to try Mao and Mei's hamburgers?\""
                             ]
                         },
                         {
@@ -15687,7 +15687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"I warned you before, didn't I? If you interfere any further,\nyou'll suffer.\""
+                                "\\C[17][Lucia]\\C[0] \"I warned you before, didn't I? If you interfere any further, you'll suffer.\""
                             ]
                         },
                         {
@@ -15768,7 +15768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"First, you'll fight Hilda and the top magicians of\nValentina.\""
+                                "Sylvia: \"First, you'll fight Hilda and the top magicians of Valentina.\""
                             ]
                         },
                         {
@@ -16042,7 +16042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"Needless to say about Hilda, but she is on a different level\nfrom anyone you've fought before.\""
+                                "Sylvia: \"Needless to say about Hilda, but she is on a different level from\nanyone you've fought before.\""
                             ]
                         },
                         {
@@ -16060,7 +16060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: \"Heeheehee... I'll force you to eat Mao and Mei's meatballs at\nthe moment of your death. Ahahahaha!\""
+                                "Hilda: \"Heeheehee... I'll force you to eat Mao and Mei's meatballs at the moment\nof your death. Ahahahaha!\""
                             ]
                         },
                         {
@@ -16129,7 +16129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"It was I who ordered Hilda, but you know. Fufufu... Those\ntwo, until the very end, they were calling out for Luna and begging\nfor help, even as they turned into lumps of flesh.\""
+                                "Sylvia: \"It was I who ordered Hilda, but you know. Fufufu... Those two, until\nthe very end, they were calling out for Luna and begging for help, even as they\nturned into lumps of flesh.\""
                             ]
                         },
                         {
@@ -16147,7 +16147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"The look on the brother's face when his sister was eaten\nfirst was priceless. The very image of despair. Oh, how pitiful...\nkukuku.\""
+                                "Sylvia: \"The look on the brother's face when his sister was eaten first was\npriceless. The very image of despair. Oh, how pitiful... kukuku.\""
                             ]
                         },
                         {
@@ -16216,7 +16216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: \"The hamburgers really were delicious. I'll let Luna have\nthem raw, especially.\""
+                                "Sylvia: \"The hamburgers really were delicious. I'll let Luna have them raw,\nespecially.\""
                             ]
                         },
                         {
@@ -16259,7 +16259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: \".........\""
+                                "Hilda: \"...\""
                             ]
                         },
                         {
@@ -16325,7 +16325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[89]HINT: \"There is a 'Last Defeat Erotic Scene' in the battle\nagainst Hilda.\""
+                                "\\I[89]HINT: \"There is a 'Last Defeat Erotic Scene' in the battle against Hilda.\""
                             ]
                         },
                         {
@@ -16355,7 +16355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[89]HINT: \"If you are defeated, it will lead to the 'Last Defeat\nErotic Scene'. You can choose to view the Last Defeat Erotic Scene\nbefore the battle as well.\""
+                                "\\I[89]HINT: \"If you are defeated, it will lead to the 'Last Defeat Erotic Scene'. You\ncan choose to view the Last Defeat Erotic Scene before the battle as well.\""
                             ]
                         },
                         {
@@ -17048,7 +17048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \".........\""
+                                "\\C[23][Luna]\\C[0] \"...\""
                             ]
                         },
                         {
@@ -17150,7 +17150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"After all, Luna is the top magician that I personally\nappointed. It's not strange for her to defeat Hilda.\""
+                                "\\C[17][Lucia]\\C[0] \"After all, Luna is the top magician that I personally appointed. It's not\nstrange for her to defeat Hilda.\""
                             ]
                         },
                         {
@@ -17528,7 +17528,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"I just thought that by letting you go, we could find Regnus\nGrahardt. This battle has no benefit for me.\""
+                                "\\C[17][Lucia]\\C[0] \"I just thought that by letting you go, we could find Regnus Grahardt. This\nbattle has no benefit for me.\""
                             ]
                         },
                         {
@@ -17546,7 +17546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Despite your final warning, I have no intention of running\naway.\""
+                                "\\C[23][Luna]\\C[0] \"Despite your final warning, I have no intention of running away.\""
                             ]
                         },
                         {
@@ -17598,7 +17598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"............\""
+                                "\\C[17][Lucia]\\C[0] \"...\""
                             ]
                         },
                         {
@@ -17736,7 +17736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"............\""
+                                "\\C[17][Lucia]\\C[0] \"...\""
                             ]
                         },
                         {
@@ -17955,7 +17955,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \".........\""
+                                "\\C[23][Luna]\\C[0] \"...\""
                             ]
                         },
                         {
@@ -18335,7 +18335,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \".........\""
+                                "\\C[23][Luna]\\C[0] \"...\""
                             ]
                         },
                         {

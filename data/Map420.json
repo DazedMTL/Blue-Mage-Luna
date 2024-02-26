@@ -15138,7 +15138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: \"The resistance fighters of Norvanna are a gathering of strong\nindividuals from all around the world. They're in the mansion at the\ntop of these stairs.\""
+                                "Man: \"The resistance fighters of Norvanna are a gathering of strong individuals\nfrom all around the world. They're in the mansion at the top of these stairs.\""
                             ]
                         },
                         {
@@ -16003,7 +16003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Man: Hey there, little sorceress girl, won't you come and play with\nus?"
+                                "Man: Hey there, little sorceress girl, won't you come and play with us?"
                             ]
                         },
                         {
@@ -16131,7 +16131,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Man: You're dressed up pretty fancy. I'd love to take a peek inside\nthose clothes~."
+                                "Man: You're dressed up pretty fancy. I'd love to take a peek inside those\nclothes~."
                             ]
                         },
                         {
@@ -16167,7 +16167,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ............"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -16185,7 +16185,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (What should I do... Noah wants me to accept invitations from\nother men...)"
+                                "\\C[23][Luna]\\C[0] (What should I do... Noah wants me to accept invitations from other men...)"
                             ]
                         },
                         {
@@ -16754,7 +16754,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ............"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -16777,7 +16777,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Luna decided to accept the man's invitation. She parted ways with her\ncompanions to be alone."
+                                "Luna decided to accept the man's invitation. She parted ways with her companions\nto be alone."
                             ]
                         },
                         {
@@ -16875,7 +16875,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\I[89]HINT: If you speak to Noah at the \"Daytime\" soldier's rest area\nin the village of Shena and fulfill the condition \"Sell Luna to the\ndelinquents and impregnate her,\" you will be able to accept these\nmen's invitation."
+                                "\\I[89]HINT: If you speak to Noah at the \"Daytime\" soldier's rest area in the village\nof Shena and fulfill the condition \"Sell Luna to the delinquents and impregnate\nher,\" you will be able to accept these men's invitation."
                             ]
                         },
                         {
@@ -17052,7 +17052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fairy: \"If you touch this round orb, day will turn to night, and night\nwill turn to day. You can also do this at an inn.\""
+                                "Fairy: \"If you touch this round orb, day will turn to night, and night will turn\nto day. You can also do this at an inn.\""
                             ]
                         },
                         {

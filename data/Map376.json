@@ -4598,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant] If you wish to recall your magic, please speak to Lady Rade.\nIf you bring a gift that pleases Lady Rade, you will be able to\nremember. However, you cannot recall high-level magic if Luna's level\nis too low."
+                                "[Servant] If you wish to recall your magic, please speak to Lady Rade. If you\nbring a gift that pleases Lady Rade, you will be able to remember. However, you\ncannot recall high-level magic if Luna's level is too low."
                             ]
                         },
                         {
@@ -4616,7 +4616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant] As for gifts for Lady Rade, it doesn't have to be cake or\nsweets; any present that seems to delight Lady Rade will do. Please\nfind something wonderful during your adventure."
+                                "[Servant] As for gifts for Lady Rade, it doesn't have to be cake or sweets; any\npresent that seems to delight Lady Rade will do. Please find something wonderful\nduring your adventure."
                             ]
                         },
                         {
@@ -4646,7 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※During your adventure, you will find \"Gifts for Rade\" in treasure\nchests and various places. Acquire these gifts and give them to Rade\nto help her remember her magic."
+                                "※During your adventure, you will find \"Gifts for Rade\" in treasure chests and\nvarious places. Acquire these gifts and give them to Rade to help her remember\nher magic."
                             ]
                         },
                         {
@@ -5200,7 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Sigh... Luna, it's useless to ask Rade. Let's think of another\nway."
+                                "\\C[24][Becky]\\C[0] Sigh... Luna, it's useless to ask Rade. Let's think of another way."
                             ]
                         },
                         {
@@ -5218,7 +5218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Another way? Even with Regnus Grahardt, we can't beat the guys\nfrom Valentia, and we can't defeat Lucia, right?"
+                                "\\C[24][Cain]\\C[0] Another way? Even with Regnus Grahardt, we can't beat the guys from Valentia,\nand we can't defeat Lucia, right?"
                             ]
                         },
                         {
@@ -5287,7 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Rade-sama, is it true that even with Regnus Grahardt we can't\nbeat the generals of Valentia or Lucia? I at least want to confirm\nthat."
+                                "\\C[23][Luna]\\C[0] Rade-sama, is it true that even with Regnus Grahardt we can't beat the generals\nof Valentia or Lucia? I at least want to confirm that."
                             ]
                         },
                         {
@@ -5704,7 +5704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant] If I may speak... if that person is truly Lord Regnus\nGrahardt, I believe he wouldn't lose to the generals of the magic\nkingdom Valentia or someone named Lucia."
+                                "[Servant] If I may speak... if that person is truly Lord Regnus Grahardt, I\nbelieve he wouldn't lose to the generals of the magic kingdom Valentia or\nsomeone named Lucia."
                             ]
                         },
                         {
@@ -5773,7 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant] Yes, if that person is truly Lord Regnus Grahardt... that\nis."
+                                "[Servant] Yes, if that person is truly Lord Regnus Grahardt... that is."
                             ]
                         },
                         {
@@ -5893,7 +5893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Hey servant, who exactly is Regnus Grahardt? And who are you\nguys? It's about time you told us, don't you think?"
+                                "\\C[24][Becky]\\C[0] Hey servant, who exactly is Regnus Grahardt? And who are you guys? It's about\ntime you told us, don't you think?"
                             ]
                         },
                         {
@@ -5980,7 +5980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant] Lord Regnus Grahardt and Lady Rade are, to put it cheaply,\nwhat you'd call rivals."
+                                "[Servant] Lord Regnus Grahardt and Lady Rade are, to put it cheaply, what you'd\ncall rivals."
                             ]
                         },
                         {
@@ -5998,7 +5998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant] If I say Lord Regnus is an individual with power equal to\nLady Rade, that should convey the idea to you all."
+                                "[Servant] If I say Lord Regnus is an individual with power equal to Lady Rade,\nthat should convey the idea to you all."
                             ]
                         },
                         {
@@ -6340,7 +6340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Wait a minute. Rade, if you and Regnus have equal power, then\nyou could just take Regnus Grahardt's place, right?"
+                                "\\C[24][Becky]\\C[0] Wait a minute. Rade, if you and Regnus have equal power, then you could just\ntake Regnus Grahardt's place, right?"
                             ]
                         },
                         {
@@ -6653,7 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Can't be helped. If Rade won't help us, then we really have no\nchoice but to look for Regnus Grahardt."
+                                "\\C[24][Cain]\\C[0] Can't be helped. If Rade won't help us, then we really have no choice but to\nlook for Regnus Grahardt."
                             ]
                         },
                         {
@@ -6671,7 +6671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Just to confirm, if it's really Regnus, he can beat the generals\nof Valentia and Lucia, right?"
+                                "\\C[24][Cain]\\C[0] Just to confirm, if it's really Regnus, he can beat the generals of Valentia\nand Lucia, right?"
                             ]
                         },
                         {
@@ -6725,7 +6725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: Lord Regnus Grahardt is somewhat more reasonable than Lady\nRade. If you can find him, he might be willing to lend you his\nstrength."
+                                "[Servant]: Lord Regnus Grahardt is somewhat more reasonable than Lady Rade. If\nyou can find him, he might be willing to lend you his strength."
                             ]
                         },
                         {
@@ -6939,7 +6939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: ......"
+                                "[Servant]: ..."
                             ]
                         },
                         {
@@ -6973,7 +6973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: It's strange, though. There have been many sightings of\nLord Regnus in this country of Jupiterino."
+                                "[Servant]: It's strange, though. There have been many sightings of Lord Regnus\nin this country of Jupiterino."
                             ]
                         },
                         {
@@ -6991,7 +6991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: However, whether that person is the real Lord Regnus\nGrahardt we are looking for, I cannot say."
+                                "[Servant]: However, whether that person is the real Lord Regnus Grahardt we are\nlooking for, I cannot say."
                             ]
                         },
                         {
@@ -7009,7 +7009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] ......"
+                                "\\C[24][Becky]\\C[0] ..."
                             ]
                         },
                         {
@@ -7060,7 +7060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Wait a minute, Rade. For a sorceress of your caliber to be in\nthe vast world of the Jupiterino continent, and just to search for\nRegnus Grahardt..."
+                                "\\C[24][Becky]\\C[0] Wait a minute, Rade. For a sorceress of your caliber to be in the vast world of\nthe Jupiterino continent, and just to search for Regnus Grahardt..."
                             ]
                         },
                         {
@@ -7111,7 +7111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Why did you choose Jupiterino? You know a lot about Regnus\nGrahardt, don't you?"
+                                "\\C[24][Becky]\\C[0] Why did you choose Jupiterino? You know a lot about Regnus Grahardt, don't you?"
                             ]
                         },
                         {
@@ -7129,7 +7129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0]  ............"
+                                "\\C[27][Rade]\\C[0]  ..."
                             ]
                         },
                         {
@@ -7147,7 +7147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: Sharp... Indeed, I too was curious about the reason for\ncoming to Jupiterino."
+                                "[Servant]: Sharp... Indeed, I too was curious about the reason for coming to\nJupiterino."
                             ]
                         },
                         {
@@ -7198,7 +7198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Rade, what do you have to say? Why did you think Regnus\nGrahardt would be in Jupiterino?"
+                                "\\C[24][Becky]\\C[0] Rade, what do you have to say? Why did you think Regnus Grahardt would be in\nJupiterino?"
                             ]
                         },
                         {
@@ -7216,7 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0]  ............"
+                                "\\C[27][Rade]\\C[0]  ..."
                             ]
                         },
                         {
@@ -7727,7 +7727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: Lord Regnus's past? This is the first time I've heard of it\nas well."
+                                "[Servant]: Lord Regnus's past? This is the first time I've heard of it as well."
                             ]
                         },
                         {
@@ -7940,7 +7940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Good grief. But it seems we're back to square one with our\noriginal goal."
+                                "\\C[24][Becky]\\C[0] Good grief. But it seems we're back to square one with our original goal."
                             ]
                         },
                         {
@@ -7991,7 +7991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes. It seems we have no choice but to search for Regnus\nGrahardt. We can't beat them with our power alone. Right, servant?"
+                                "\\C[23][Luna]\\C[0] Yes. It seems we have no choice but to search for Regnus Grahardt. We can't\nbeat them with our power alone. Right, servant?"
                             ]
                         },
                         {
@@ -8060,7 +8060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Servant, do you know of any places where Regnus Grahardt might\nhave stopped by? I think it's faster to ask you than to rely on\ninformation from others regarding this matter."
+                                "\\C[23][Luna]\\C[0] Servant, do you know of any places where Regnus Grahardt might have stopped by?\nI think it's faster to ask you than to rely on information from others regarding\nthis matter."
                             ]
                         },
                         {
@@ -8240,7 +8240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Ugh...! Rade, you came to Jupiterino to search for Regnus\nGrahardt too, didn't you?"
+                                "\\C[24][Becky]\\C[0] Ugh...! Rade, you came to Jupiterino to search for Regnus Grahardt too, didn't\nyou?"
                             ]
                         },
                         {
@@ -8291,7 +8291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] You might not like cooperating with us, but we're offering to\nsearch in your stead, right? Our goals are the same, aren't they?"
+                                "\\C[24][Becky]\\C[0] You might not like cooperating with us, but we're offering to search in your\nstead, right? Our goals are the same, aren't they?"
                             ]
                         },
                         {
@@ -8411,7 +8411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] Hmm............"
+                                "\\C[27][Rade]\\C[0] Hmm..."
                             ]
                         },
                         {
@@ -8462,7 +8462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] It's settled then. Servant, tell us the places where Regnus\nGrahardt might have stopped by. We've got Rade's permission now."
+                                "\\C[24][Becky]\\C[0] It's settled then. Servant, tell us the places where Regnus Grahardt might have\nstopped by. We've got Rade's permission now."
                             ]
                         },
                         {
@@ -8558,7 +8558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: Understood. Perhaps there is some fate between us. I don't\nhave any leads, but I can investigate the traces where Lord Regnus\nGrahardt has walked."
+                                "[Servant]: Understood. Perhaps there is some fate between us. I don't have any\nleads, but I can investigate the traces where Lord Regnus Grahardt has walked."
                             ]
                         },
                         {
@@ -8709,7 +8709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: What's the harm? We too are tired of searching for Lord\nRegnus. Let me investigate and inform you."
+                                "[Servant]: What's the harm? We too are tired of searching for Lord Regnus. Let\nme investigate and inform you."
                             ]
                         },
                         {
@@ -8838,7 +8838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: ............"
+                                "[Servant]: ..."
                             ]
                         },
                         {
@@ -8856,7 +8856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: Hmm... this is surprising indeed. There are certainly\ntraces of Lord Regnus Grahardt having walked in various places. It's\nunclear what his purpose for coming to Jupiterino is, though."
+                                "[Servant]: Hmm... this is surprising indeed. There are certainly traces of Lord\nRegnus Grahardt having walked in various places. It's unclear what his purpose\nfor coming to Jupiterino is, though."
                             ]
                         },
                         {
@@ -8874,7 +8874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] If you could do that, you should have started investigating like\nthat from the beginning."
+                                "\\C[24][Cain]\\C[0] If you could do that, you should have started investigating like that from the\nbeginning."
                             ]
                         },
                         {
@@ -8892,7 +8892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: Well... using such magic doesn't feel good, you know. It's\ncreepy for both the searcher and the searched."
+                                "[Servant]: Well... using such magic doesn't feel good, you know. It's creepy for\nboth the searcher and the searched."
                             ]
                         },
                         {
@@ -8910,7 +8910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] From my point of view, it's creepy not knowing who you guys\nreally are."
+                                "\\C[24][Becky]\\C[0] From my point of view, it's creepy not knowing who you guys really are."
                             ]
                         },
                         {
@@ -8946,7 +8946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant]: The places where Lord Regnus Grahardt has walked are often\ndangerous. It might be too much for you to handle. Are you still going\nto go? There's no guarantee that Lord Regnus will become your ally,\nyou know?"
+                                "[Servant]: The places where Lord Regnus Grahardt has walked are often dangerous.\nIt might be too much for you to handle. Are you still going to go? There's no\nguarantee that Lord Regnus will become your ally, you know?"
                             ]
                         },
                         {
@@ -8997,7 +8997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes, we'll go! Right now, all we can do is follow the shadow of\nRegnus Grahardt. When we find him, we'll definitely make him our ally\nand return."
+                                "\\C[23][Luna]\\C[0] Yes, we'll go! Right now, all we can do is follow the shadow of Regnus\nGrahardt. When we find him, we'll definitely make him our ally and return."
                             ]
                         },
                         {

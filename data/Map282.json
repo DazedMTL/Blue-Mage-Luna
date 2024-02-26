@@ -3170,7 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] Kyaiiin! Kyaiiin! Who would have thought there'd be a famous\ncake shop in such a remote forest~!"
+                                "\\C[27][Rade]\\C[0] Kyaiiin! Kyaiiin! Who would have thought there'd be a famous cake shop in such\na remote forest~!"
                             ]
                         },
                         {
@@ -3287,7 +3287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] Kyaaan! I bought so much~n, but I can't eat all of this~n!\nBecause I'll get fat~n!"
+                                "\\C[27][Rade]\\C[0] Kyaaan! I bought so much~n, but I can't eat all of this~n! Because I'll get\nfat~n!"
                             ]
                         },
                         {
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: Indeed... we did buy too much. But Master, you're going to\neat it all, aren't you? Despite always saying you'll get fat, you end\nup eating it all anyway."
+                                "Servant: Indeed... we did buy too much. But Master, you're going to eat it all,\naren't you? Despite always saying you'll get fat, you end up eating it all\nanyway."
                             ]
                         },
                         {
@@ -5214,7 +5214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: Are you people from this village? I apologize, we will be\nleaving shortly."
+                                "Servant: Are you people from this village? I apologize, we will be leaving\nshortly."
                             ]
                         },
                         {
@@ -5232,7 +5232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: There's a famous cake shop near this forest, and we were just\nenjoying some cake here."
+                                "Servant: There's a famous cake shop near this forest, and we were just enjoying\nsome cake here."
                             ]
                         },
                         {
@@ -5370,7 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: Villagers, we apologize for any inconvenience. We will clean\nup the table before we leave, so please be at ease."
+                                "Servant: Villagers, we apologize for any inconvenience. We will clean up the\ntable before we leave, so please be at ease."
                             ]
                         },
                         {
@@ -5601,7 +5601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] It's like we don't even exist to you. You seem like you don't\nwant to talk at all, huh?"
+                                "\\C[24][Becky]\\C[0] It's like we don't even exist to you. You seem like you don't want to talk at\nall, huh?"
                             ]
                         },
                         {
@@ -5619,7 +5619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] ......"
+                                "\\C[27][Rade]\\C[0] ..."
                             ]
                         },
                         {
@@ -5706,7 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] ......"
+                                "\\C[27][Rade]\\C[0] ..."
                             ]
                         },
                         {
@@ -5928,7 +5928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] What do you mean 'ignore~n'? If you say it yourself, it's not\nignoring!"
+                                "\\C[24][Becky]\\C[0] What do you mean 'ignore~n'? If you say it yourself, it's not ignoring!"
                             ]
                         },
                         {
@@ -5946,7 +5946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] ......"
+                                "\\C[27][Rade]\\C[0] ..."
                             ]
                         },
                         {
@@ -5997,7 +5997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] Haa......"
+                                "\\C[27][Rade]\\C[0] Haa..."
                             ]
                         },
                         {
@@ -6200,7 +6200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] ......"
+                                "\\C[27][Rade]\\C[0] ..."
                             ]
                         },
                         {
@@ -6269,7 +6269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] ......"
+                                "\\C[27][Rade]\\C[0] ..."
                             ]
                         },
                         {
@@ -6476,7 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Ugh......!"
+                                "\\C[24][Becky]\\C[0] Ugh...!"
                             ]
                         },
                         {
@@ -6541,7 +6541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] This girl......! (For a moment, my spine froze. This\nintimidating presence... her expression and tone completely\nchanged...)"
+                                "\\C[24][Becky]\\C[0] This girl...! (For a moment, my spine froze. This intimidating presence... her\nexpression and tone completely changed...)"
                             ]
                         },
                         {
@@ -6619,7 +6619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] ......"
+                                "\\C[27][Rade]\\C[0] ..."
                             ]
                         },
                         {
@@ -6670,7 +6670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] !?! (Who is this person? Her expression and tone changed\ncompletely in an instant.)"
+                                "\\C[23][Luna]\\C[0] !?! (Who is this person? Her expression and tone changed completely in an\ninstant.)"
                             ]
                         },
                         {
@@ -6688,7 +6688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (And this servant seems to be quite skilled too. Just who are\nthese people?)"
+                                "\\C[23][Luna]\\C[0] (And this servant seems to be quite skilled too. Just who are these people?)"
                             ]
                         },
                         {
@@ -6727,7 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: So, then everyone, we will take our leave. We apologize for\nthe disturbance. Please forget about this person."
+                                "Servant: So, then everyone, we will take our leave. We apologize for the\ndisturbance. Please forget about this person."
                             ]
                         },
                         {
@@ -6745,7 +6745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ......"
+                                "\\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
