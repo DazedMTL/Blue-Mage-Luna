@@ -19,8 +19,4 @@
 !game.ini
 
 # Images
-!maptitle_chapter01.rpgmvp
-!maptitle_chapter02.rpgmvp
-!maptitle_chapter03.rpgmvp
-!maptitle_chapter04.rpgmvp
-!title02.rpgmvp
+!map_guide.png_

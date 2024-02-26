@@ -59455,7 +59455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hint Tea Dog: You will receive medals for learning a certain number of\nAzure Magic spells. 1 \"\\I[249]Gold Medal\"… Achieve learning over 90%\nof Azure Magic. (※???) 2 \"\\I[250]Silver Medal\"… Achieve learning over\n75% of Azure Magic. (※H Event presented) 3 \"\\I[251]Bronze Medal\"…\nAchieve learning over 60% of Azure Magic. (※???)"
+                                "Hint Tea Dog: You will receive medals for learning a certain number of\nBlue Magic spells. 1 \"\\I[249]Gold Medal\"… Achieve learning over 90%\nof Blue Magic. (※???) 2 \"\\I[250]Silver Medal\"… Achieve learning over\n75% of Blue Magic. (※H Event presented) 3 \"\\I[251]Bronze Medal\"…\nAchieve learning over 60% of Blue Magic. (※???)"
                             ]
                         },
                         {
@@ -60093,7 +60093,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hint Tea Dog: The current number of spells learned is \"\\V[60]\". The\nnumber of Azure Magic spells you can use is \"\\V[60]\"."
+                                "Hint Tea Dog: The current number of spells learned is \"\\V[60]\". The\nnumber of Blue Magic spells you can use is \"\\V[60]\"."
                             ]
                         },
                         {

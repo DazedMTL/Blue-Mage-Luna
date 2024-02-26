@@ -13143,7 +13143,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\I[89]HINT】You can view it if you have a \"Bronze Medal\". Medals are\nawarded based on the number of times you've used Azure Magic. For more\ninformation about medals, please see the \"Hint Teadog\" explanation in\nthe CG/Recollection Room."
+                                "【\\I[89]HINT】You can view it if you have a \"Bronze Medal\". Medals are\nawarded based on the number of times you've used Blue Magic. For more\ninformation about medals, please see the \"Hint Teadog\" explanation in\nthe CG/Recollection Room."
                             ]
                         },
                         {
@@ -24198,7 +24198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Hint] You can view this when you have a \"Gold Medal\". Medals are\nawarded based on the number of Azure Magic Learnings. For more\ninformation about medals, please see the \"Hint List\" in the\nCG/Recollection Room."
+                                "[Hint] You can view this when you have a \"Gold Medal\". Medals are\nawarded based on the number of Blue Magic Learnings. For more\ninformation about medals, please see the \"Hint List\" in the\nCG/Recollection Room."
                             ]
                         },
                         {

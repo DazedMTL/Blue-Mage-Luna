@@ -140,7 +140,7 @@
         "Body",
         "Accessories"
     ],
-    "gameTitle": "[Azure Sorceress Luna] ~The Genius Sorceress and the Legendary Magician~",
+    "gameTitle": "Blue Sorceress Luna",
     "gameoverMe": {
         "name": "Gameover1",
         "pan": 0,
@@ -198,7 +198,7 @@
         "\\I[79]Magic",
         "\\I[255]Special Move",
         "\\I[82]Steal",
-        "\\I[287]Azure Magic",
+        "\\I[287]Blue Magic",
         ""
     ],
     "sounds": [
