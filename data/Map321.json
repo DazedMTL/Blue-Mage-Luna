@@ -14897,7 +14897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Ugh..."
+                                "\\C[24][Becky]\\C[0] Ugh..."
                             ]
                         },
                         {
@@ -14982,7 +14982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: It seems your soldiers can't get up. Most of them couldn't even\nscratch the steel soldiers and fled, it seems."
+                                "\\C[17][Lucia]\\C[0] It seems your soldiers can't get up. Most of them couldn't even\nscratch the steel soldiers and fled, it seems."
                             ]
                         },
                         {
@@ -15033,7 +15033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Damn..."
+                                "\\C[24][Becky]\\C[0] Damn..."
                             ]
                         },
                         {
@@ -15051,7 +15051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ......."
+                                "\\C[24][Becky]\\C[0] ......."
                             ]
                         },
                         {
@@ -15102,7 +15102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Heh heh..."
+                                "\\C[24][Becky]\\C[0] Heh heh..."
                             ]
                         },
                         {
@@ -15120,7 +15120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hahaha..."
+                                "\\C[24][Becky]\\C[0] Hahaha..."
                             ]
                         },
                         {
@@ -15205,7 +15205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: What's so funny? Insect."
+                                "\\C[17][Lucia]\\C[0] What's so funny? Insect."
                             ]
                         },
                         {
@@ -15223,7 +15223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -15258,7 +15258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -15276,7 +15276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............!"
+                                "\\C[17][Lucia]\\C[0] ............!"
                             ]
                         },
                         {
@@ -15294,7 +15294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Rain..."
+                                "\\C[17][Lucia]\\C[0] Rain..."
                             ]
                         },
                         {
@@ -15312,7 +15312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Yes... rain."
+                                "\\C[24][Becky]\\C[0] Yes... rain."
                             ]
                         },
                         {
@@ -15883,7 +15883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Luuna!"
+                                "\\C[24][Becky]\\C[0] Luuna!"
                             ]
                         },
                         {
@@ -16029,7 +16029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -16080,7 +16080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: It's been a while, Luuna."
+                                "\\C[17][Lucia]\\C[0] It's been a while, Luuna."
                             ]
                         },
                         {
@@ -16154,7 +16154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -16221,7 +16221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Luuna, it seems you've finally mastered azure magic. Wonderful."
+                                "\\C[17][Lucia]\\C[0] Luuna, it seems you've finally mastered azure magic. Wonderful."
                             ]
                         },
                         {
@@ -16272,7 +16272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Born into a family that has passed down azure magic for\ngenerations, you were particularly skilled in azure magic even among\nyour kin."
+                                "\\C[17][Lucia]\\C[0] Born into a family that has passed down azure magic for\ngenerations, you were particularly skilled in azure magic even among\nyour kin."
                             ]
                         },
                         {
@@ -16391,7 +16391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -16414,7 +16414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: The difference between an azure sorcerer and an ordinary\nsorcerer is that they make any magic they see once their own."
+                                "\\C[17][Lucia]\\C[0] The difference between an azure sorcerer and an ordinary\nsorcerer is that they make any magic they see once their own."
                             ]
                         },
                         {
@@ -16465,7 +16465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Moreover, Luuna, you enhance the azure magic you learn once by\nadding your original magic to it."
+                                "\\C[17][Lucia]\\C[0] Moreover, Luuna, you enhance the azure magic you learn once by\nadding your original magic to it."
                             ]
                         },
                         {
@@ -16561,7 +16561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -17395,7 +17395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: This is............"
+                                "\\C[17][Lucia]\\C[0] This is............"
                             ]
                         },
                         {
@@ -17413,7 +17413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Acid Rain...!?"
+                                "\\C[17][Lucia]\\C[0] Acid Rain...!?"
                             ]
                         },
                         {
@@ -18050,7 +18050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -18101,7 +18101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Amazing...! As expected of Luuna. She took down all the steel\nsoldiers in an instant."
+                                "\\C[24][Becky]\\C[0] Amazing...! As expected of Luuna. She took down all the steel\nsoldiers in an instant."
                             ]
                         },
                         {
@@ -18152,7 +18152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: But... Lucia is completely unharmed..."
+                                "\\C[24][Becky]\\C[0] But... Lucia is completely unharmed..."
                             ]
                         },
                         {
@@ -18366,7 +18366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -18417,7 +18417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: It's futile. I instantly covered my body with a magic barrier\nthat neutralizes acid."
+                                "\\C[17][Lucia]\\C[0] It's futile. I instantly covered my body with a magic barrier\nthat neutralizes acid."
                             ]
                         },
                         {
@@ -18484,7 +18484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Luuna, surely you didn't think you could defeat me with just\nthat, did you?"
+                                "\\C[17][Lucia]\\C[0] Luuna, surely you didn't think you could defeat me with just\nthat, did you?"
                             ]
                         },
                         {
@@ -18502,7 +18502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Now, what will you show me next?"
+                                "\\C[17][Lucia]\\C[0] Now, what will you show me next?"
                             ]
                         },
                         {
@@ -18582,7 +18582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ...!"
+                                "\\C[17][Lucia]\\C[0] ...!"
                             ]
                         },
                         {
@@ -18600,7 +18600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Secret magic..."
+                                "\\C[17][Lucia]\\C[0] Secret magic..."
                             ]
                         },
                         {
@@ -18651,7 +18651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Luuna..."
+                                "\\C[24][Becky]\\C[0] Luuna..."
                             ]
                         },
                         {
@@ -18738,7 +18738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ..........."
+                                "\\C[17][Lucia]\\C[0] ..........."
                             ]
                         },
                         {
@@ -18807,7 +18807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ...?"
+                                "\\C[17][Lucia]\\C[0] ...?"
                             ]
                         },
                         {
@@ -18943,7 +18943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: It's true. I killed my own mother. I killed Leysia. What of it?"
+                                "\\C[17][Lucia]\\C[0] It's true. I killed my own mother. I killed Leysia. What of it?"
                             ]
                         },
                         {
@@ -19082,7 +19082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -19524,7 +19524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sylvia? Why is a general from Valentia in the imperial capital\nof Jupiterino...?"
+                                "\\C[24][Becky]\\C[0] Sylvia? Why is a general from Valentia in the imperial capital\nof Jupiterino...?"
                             ]
                         },
                         {
@@ -19604,7 +19604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ............"
+                                "\\C[17][Lucia]\\C[0] ............"
                             ]
                         },
                         {
@@ -19622,7 +19622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: You're meddling unnecessarily."
+                                "\\C[17][Lucia]\\C[0] You're meddling unnecessarily."
                             ]
                         },
                         {
@@ -19755,7 +19755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: However, what Sylvia says makes sense."
+                                "\\C[17][Lucia]\\C[0] However, what Sylvia says makes sense."
                             ]
                         },
                         {
@@ -19806,7 +19806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: If I leave you as you are, you will certainly become a threat\nto me. It's best to nip dangerous buds in the bud."
+                                "\\C[17][Lucia]\\C[0] If I leave you as you are, you will certainly become a threat\nto me. It's best to nip dangerous buds in the bud."
                             ]
                         },
                         {
@@ -19824,7 +19824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: It's a shame to kill such a genius though."
+                                "\\C[17][Lucia]\\C[0] It's a shame to kill such a genius though."
                             ]
                         },
                         {
@@ -20019,7 +20019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: However, I am a fair mage."
+                                "\\C[17][Lucia]\\C[0] However, I am a fair mage."
                             ]
                         },
                         {
@@ -20121,7 +20121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Sorry to Sylvia, but since you interfered in this duel, I won't\ntake your life."
+                                "\\C[17][Lucia]\\C[0] Sorry to Sylvia, but since you interfered in this duel, I won't\ntake your life."
                             ]
                         },
                         {
@@ -20188,7 +20188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: However... indeed, you are too dangerous a being for me.\nThere's no doubt that you are a threat to me."
+                                "\\C[17][Lucia]\\C[0] However... indeed, you are too dangerous a being for me.\nThere's no doubt that you are a threat to me."
                             ]
                         },
                         {
@@ -20239,7 +20239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: I won't take your life. However, I will seal your magic power.\nYour sorcery will be sealed."
+                                "\\C[17][Lucia]\\C[0] I won't take your life. However, I will seal your magic power.\nYour sorcery will be sealed."
                             ]
                         },
                         {
@@ -20375,7 +20375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Luuna, I will make it so you can never use magic again. That\nway, you might as well be dead."
+                                "\\C[17][Lucia]\\C[0] Luuna, I will make it so you can never use magic again. That\nway, you might as well be dead."
                             ]
                         },
                         {
@@ -20444,7 +20444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Yes. That way, you'll be like a waterfowl that's had its wings\nplucked. From now on, you won't be able to oppose me anymore."
+                                "\\C[17][Lucia]\\C[0] Yes. That way, you'll be like a waterfowl that's had its wings\nplucked. From now on, you won't be able to oppose me anymore."
                             ]
                         },
                         {
@@ -20546,7 +20546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Good work... Luuna."
+                                "\\C[17][Lucia]\\C[0] Good work... Luuna."
                             ]
                         },
                         {

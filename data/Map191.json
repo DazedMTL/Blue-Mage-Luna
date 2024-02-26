@@ -3787,7 +3787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Pya~! This beer is awesome! We've got the whole tavern to\nourselves today!"
+                                "\\C[24][Cain]\\C[0] Pya~! This beer is awesome! We've got the whole tavern to\nourselves today!"
                             ]
                         },
                         {
@@ -3888,7 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey Cain, you're drinking too much right from the start~."
+                                "\\C[24][Becky]\\C[0] Hey Cain, you're drinking too much right from the start~."
                             ]
                         },
                         {
@@ -3906,7 +3906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: How can I not drink? In the end, we couldn't find Regnus\nGrahardt, and it's back to square one with the game~."
+                                "\\C[24][Cain]\\C[0] How can I not drink? In the end, we couldn't find Regnus\nGrahardt, and it's back to square one with the game~."
                             ]
                         },
                         {
@@ -3998,7 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: No, it's nothing. I was just wondering how Luuna is doing right\nnow."
+                                "\\C[29][Noah]\\C[0] No, it's nothing. I was just wondering how Luuna is doing right\nnow."
                             ]
                         },
                         {
@@ -4083,7 +4083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: I see. It's a shame we didn't get any results."
+                                "\\C[29][Noah]\\C[0] I see. It's a shame we didn't get any results."
                             ]
                         },
                         {
@@ -4152,7 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: You'll be fine, Luuna. I'm sure something good will happen."
+                                "\\C[29][Noah]\\C[0] You'll be fine, Luuna. I'm sure something good will happen."
                             ]
                         },
                         {
@@ -4221,7 +4221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Yeah. I love you, Luuna."
+                                "\\C[29][Noah]\\C[0] Yeah. I love you, Luuna."
                             ]
                         },
                         {
@@ -4239,7 +4239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Talking to Luuna like this makes me feel like we're together."
+                                "\\C[29][Noah]\\C[0] Talking to Luuna like this makes me feel like we're together."
                             ]
                         },
                         {
@@ -4317,7 +4317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: ............"
+                                "\\C[24][Cain]\\C[0] ............"
                             ]
                         },
                         {
@@ -4344,7 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: ............"
+                                "\\C[24][Cain]\\C[0] ............"
                             ]
                         },
                         {
@@ -4413,7 +4413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: See you, Luuna. I love you."
+                                "\\C[29][Noah]\\C[0] See you, Luuna. I love you."
                             ]
                         },
                         {
@@ -4579,7 +4579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: That guy... hasn't he been a bit annoying lately?"
+                                "\\C[24][Cain]\\C[0] That guy... hasn't he been a bit annoying lately?"
                             ]
                         },
                         {
@@ -4597,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Noah has been making like five love calls a day recently."
+                                "\\C[24][Cain]\\C[0] Noah has been making like five love calls a day recently."
                             ]
                         },
                         {
@@ -4648,7 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hehe... It's just because he loves Luuna so much~. He's\nprobably worried that some weird guy might be hitting on Luuna~."
+                                "\\C[24][Becky]\\C[0] Hehe... It's just because he loves Luuna so much~. He's\nprobably worried that some weird guy might be hitting on Luuna~."
                             ]
                         },
                         {
@@ -4666,7 +4666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Well... Luuna and Noah have been childhood friends since they\nwere little. Noah's the guy who's spent the most time with Luuna, so\nit can't be helped."
+                                "\\C[24][Cain]\\C[0] Well... Luuna and Noah have been childhood friends since they\nwere little. Noah's the guy who's spent the most time with Luuna, so\nit can't be helped."
                             ]
                         },
                         {
@@ -4684,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: But if he keeps making love calls every day, it's irritating for\nthose of us who are with her."
+                                "\\C[24][Cain]\\C[0] But if he keeps making love calls every day, it's irritating for\nthose of us who are with her."
                             ]
                         },
                         {
@@ -4846,7 +4846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Luuna, I've said it before, but Noah's legs are no good.\nWouldn't it be better for you to marry another man?"
+                                "\\C[24][Cain]\\C[0] Luuna, I've said it before, but Noah's legs are no good.\nWouldn't it be better for you to marry another man?"
                             ]
                         },
                         {
@@ -4924,7 +4924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cain: And yet, Luuna's already been with various men at the brothel.\nHeheh"
+                                "\\C[24][Cain]\\C[0] And yet, Luuna's already been with various men at the brothel.\nHeheh"
                             ]
                         },
                         {
@@ -5012,7 +5012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cain: Moreover, Noah knows that Luuna is with other men and he accepts\nit, right? Yet you haven't been with your lover Noah. I don't get it."
+                                "\\C[24][Cain]\\C[0] Moreover, Noah knows that Luuna is with other men and he accepts\nit, right? Yet you haven't been with your lover Noah. I don't get it."
                             ]
                         },
                         {
@@ -5124,7 +5124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sigh... How did things end up like this?"
+                                "\\C[24][Becky]\\C[0] Sigh... How did things end up like this?"
                             ]
                         },
                         {

@@ -3608,7 +3608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: That's why I told you to stop. There's nothing more to say."
+                                "\\C[31][Dalieh]\\C[0] That's why I told you to stop. There's nothing more to say."
                             ]
                         },
                         {
@@ -4949,7 +4949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Old man, calm down. Luuna is a lady who knows nothing but magic."
+                                "\\C[24][Cain]\\C[0] Old man, calm down. Luuna is a lady who knows nothing but magic."
                             ]
                         },
                         {
@@ -4967,7 +4967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Luuna can be sold for a high price. It's a waste to hang her\nnow. I'll make her into a woman, so stop the execution. Otherwise, the\nvillage will lose out on money, right?"
+                                "\\C[24][Cain]\\C[0] Luuna can be sold for a high price. It's a waste to hang her\nnow. I'll make her into a woman, so stop the execution. Otherwise, the\nvillage will lose out on money, right?"
                             ]
                         },
                         {
@@ -5008,7 +5008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Wait a minute!"
+                                "\\C[24][Becky]\\C[0] Wait a minute!"
                             ]
                         },
                         {

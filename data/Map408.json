@@ -11177,7 +11177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey, doesn't that person seem super suspicious?"
+                                "\\C[24][Becky]\\C[0] Hey, doesn't that person seem super suspicious?"
                             ]
                         },
                         {
@@ -11195,7 +11195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Probably after the treasure. This temple looks like it's full of\nit."
+                                "\\C[24][Cain]\\C[0] Probably after the treasure. This temple looks like it's full of\nit."
                             ]
                         },
                         {
@@ -11246,7 +11246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Didn't look like a thief to me though. Oh well."
+                                "\\C[24][Becky]\\C[0] Didn't look like a thief to me though. Oh well."
                             ]
                         },
                         {
@@ -11264,7 +11264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Erna-chan, huh... She was mysterious and cute. Next time I see\nher, I'll ask her out on a date."
+                                "\\C[24][Cain]\\C[0] Erna-chan, huh... She was mysterious and cute. Next time I see\nher, I'll ask her out on a date."
                             ]
                         },
                         {
@@ -11315,7 +11315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sigh... You really only think about lewd things."
+                                "\\C[24][Becky]\\C[0] Sigh... You really only think about lewd things."
                             ]
                         },
                         {

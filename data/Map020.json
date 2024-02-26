@@ -15674,7 +15674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: !?"
+                                "\\C[24][Becky]\\C[0] !?"
                             ]
                         },
                         {
@@ -15794,7 +15794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Sigh... We can't move forward unless we take it down, huh."
+                                "\\C[24][Cain]\\C[0] Sigh... We can't move forward unless we take it down, huh."
                             ]
                         },
                         {

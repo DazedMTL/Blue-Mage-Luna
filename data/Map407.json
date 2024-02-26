@@ -4721,7 +4721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Heh heh, that Hilda guy, I heard he's got a face like a ghost\nfrom the wound Luuna gave him. It's more humiliating than death.\nServes him right."
+                                "\\C[24][Cain]\\C[0] Heh heh, that Hilda guy, I heard he's got a face like a ghost\nfrom the wound Luuna gave him. It's more humiliating than death.\nServes him right."
                             ]
                         },
                         {
@@ -4772,7 +4772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Enough with the unnecessary comments."
+                                "\\C[24][Becky]\\C[0] Enough with the unnecessary comments."
                             ]
                         },
                         {
@@ -4808,7 +4808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: ............"
+                                "\\C[29][Noah]\\C[0] ............"
                             ]
                         },
                         {
@@ -4859,7 +4859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey, Luuna, what are you going to do now?"
+                                "\\C[24][Becky]\\C[0] Hey, Luuna, what are you going to do now?"
                             ]
                         },
                         {
@@ -5015,7 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hmm... I see..."
+                                "\\C[24][Becky]\\C[0] Hmm... I see..."
                             ]
                         },
                         {
@@ -5033,7 +5033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Luuna did well."
+                                "\\C[29][Noah]\\C[0] Luuna did well."
                             ]
                         },
                         {
@@ -5153,7 +5153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: That flower was probably left by the person who sent the\nletter."
+                                "\\C[24][Becky]\\C[0] That flower was probably left by the person who sent the\nletter."
                             ]
                         },
                         {
@@ -5204,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: It's strange. That flower doesn't wilt at all. In fact, it's\nthriving."
+                                "\\C[24][Becky]\\C[0] It's strange. That flower doesn't wilt at all. In fact, it's\nthriving."
                             ]
                         },
                         {
@@ -5273,7 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Eh... The meaning of a flower that doesn't wilt?"
+                                "\\C[24][Becky]\\C[0] Eh... The meaning of a flower that doesn't wilt?"
                             ]
                         },
                         {
@@ -5367,7 +5367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: The language of flowers..."
+                                "\\C[24][Becky]\\C[0] The language of flowers..."
                             ]
                         },
                         {
@@ -5696,7 +5696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Luuna... hehe..."
+                                "\\C[24][Becky]\\C[0] Luuna... hehe..."
                             ]
                         },
                         {
@@ -5798,7 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I know! I'll help too!"
+                                "\\C[24][Becky]\\C[0] I know! I'll help too!"
                             ]
                         },
                         {
@@ -6147,7 +6147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Hey! You guys completely forgot about repaying the debt to the\nvillage!"
+                                "\\C[24][Cain]\\C[0] Hey! You guys completely forgot about repaying the debt to the\nvillage!"
                             ]
                         },
                         {
@@ -6278,7 +6278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Oh my, was there such a debt? Right, Luuna?"
+                                "\\C[24][Becky]\\C[0] Oh my, was there such a debt? Right, Luuna?"
                             ]
                         },
                         {
@@ -6314,7 +6314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Geez...! No way, I don't want to go through scary stuff again."
+                                "\\C[24][Cain]\\C[0] Geez...! No way, I don't want to go through scary stuff again."
                             ]
                         },
                         {
@@ -6383,7 +6383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hahahaha!"
+                                "\\C[24][Becky]\\C[0] Hahahaha!"
                             ]
                         },
                         {
@@ -6432,7 +6432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: So Noah, take care of my lower half~. My legs are still in bad\nshape~."
+                                "\\C[29][Noah]\\C[0] So Noah, take care of my lower half~. My legs are still in bad\nshape~."
                             ]
                         },
                         {
@@ -6481,7 +6481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Idiooot!"
+                                "\\C[24][Cain]\\C[0] Idiooot!"
                             ]
                         },
                         {
@@ -6589,7 +6589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Fufu... Okay!"
+                                "\\C[24][Becky]\\C[0] Fufu... Okay!"
                             ]
                         },
                         {

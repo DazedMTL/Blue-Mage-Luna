@@ -89,7 +89,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "※Current lewdness level of Noah: \\C[27]\\{ \\V[1] \\}\\C[0]",
+        "description": "※Current lewdness level of \\C[29][Noah]\\C[0] \\C[27]\\{ \\V[1] \\}\\C[0]",
         "effects": [
             {
                 "code": 44,

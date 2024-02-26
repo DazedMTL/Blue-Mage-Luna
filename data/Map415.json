@@ -4723,7 +4723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mister, who are you? What are you doing here?"
+                                "\\C[24][Becky]\\C[0] Mister, who are you? What are you doing here?"
                             ]
                         },
                         {
@@ -4861,7 +4861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hah... There's no way a stall would come to a desert like this."
+                                "\\C[24][Becky]\\C[0] Hah... There's no way a stall would come to a desert like this."
                             ]
                         },
                         {
@@ -4948,7 +4948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: We're part of the resistance from the village of Sheena. The\ntyranny of the imperial capital is terrible."
+                                "\\C[24][Becky]\\C[0] We're part of the resistance from the village of Sheena. The\ntyranny of the imperial capital is terrible."
                             ]
                         },
                         {
@@ -5033,7 +5033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: What's that supposed to mean? Is there something wrong with\nthat?"
+                                "\\C[24][Becky]\\C[0] What's that supposed to mean? Is there something wrong with\nthat?"
                             ]
                         },
                         {
@@ -5189,7 +5189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Anyway, the villages of Jupiterino are being oppressed by the\nimperial capital. You probably wouldn't understand, sweet and sour\npork old man. See you."
+                                "\\C[24][Becky]\\C[0] Anyway, the villages of Jupiterino are being oppressed by the\nimperial capital. You probably wouldn't understand, sweet and sour\npork old man. See you."
                             ]
                         },
                         {

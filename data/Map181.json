@@ -14835,7 +14835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: She looks like a mage. Hey, Luuna, do you know her?"
+                                "\\C[24][Becky]\\C[0] She looks like a mage. Hey, Luuna, do you know her?"
                             ]
                         },
                         {
@@ -16125,7 +16125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Whoa!?"
+                                "\\C[24][Cain]\\C[0] Whoa!?"
                             ]
                         },
                         {
@@ -16161,7 +16161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: !?"
+                                "\\C[24][Becky]\\C[0] !?"
                             ]
                         },
                         {
@@ -16197,7 +16197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: A robot!?"
+                                "\\C[24][Cain]\\C[0] A robot!?"
                             ]
                         },
                         {

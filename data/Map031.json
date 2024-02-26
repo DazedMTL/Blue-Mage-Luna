@@ -7393,7 +7393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Wait~...!"
+                                "\\C[24][Becky]\\C[0] Wait~...!"
                             ]
                         },
                         {
@@ -7498,7 +7498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Luuna, you're so energetic~... And it hasn't been long since\nthe battle with Lucia and the others."
+                                "\\C[24][Becky]\\C[0] Luuna, you're so energetic~... And it hasn't been long since\nthe battle with Lucia and the others."
                             ]
                         },
                         {
@@ -7636,7 +7636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey, Luuna, what are we going to do now?"
+                                "\\C[24][Becky]\\C[0] Hey, Luuna, what are we going to do now?"
                             ]
                         },
                         {
@@ -7747,7 +7747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: To the imperial capital~!? That's incredibly far, you know?"
+                                "\\C[24][Becky]\\C[0] To the imperial capital~!? That's incredibly far, you know?"
                             ]
                         },
                         {
@@ -8067,7 +8067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Fufu, wait for me~!"
+                                "\\C[24][Becky]\\C[0] Fufu, wait for me~!"
                             ]
                         },
                         {

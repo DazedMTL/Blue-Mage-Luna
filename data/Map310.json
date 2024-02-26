@@ -11864,7 +11864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Luuna, Becky, are you really going? Even Noah and Pole are\ncoming along."
+                                "\\C[24][Cain]\\C[0] Luuna, Becky, are you really going? Even Noah and Pole are\ncoming along."
                             ]
                         },
                         {
@@ -12052,7 +12052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I'll definitely defeat Lucia. That black witch."
+                                "\\C[24][Becky]\\C[0] I'll definitely defeat Lucia. That black witch."
                             ]
                         },
                         {
@@ -12103,7 +12103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: The \"Knights of Messiah\" from the Kingdom of Moduna didn't come\nto help us though."
+                                "\\C[24][Becky]\\C[0] The \"Knights of Messiah\" from the Kingdom of Moduna didn't come\nto help us though."
                             ]
                         },
                         {
@@ -12130,7 +12130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Moduna? Knights of Messiah?"
+                                "\\C[24][Cain]\\C[0] Moduna? Knights of Messiah?"
                             ]
                         },
                         {
@@ -12199,7 +12199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: What, we were refused?"
+                                "\\C[24][Cain]\\C[0] What, we were refused?"
                             ]
                         },
                         {
@@ -12344,7 +12344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: Geez, if the village chief's father heard about this, he'd be\nfurious. Forming a rebel army on your own and challenging the royal\ncapital Jupiterino. There's no way you can win against Lucia."
+                                "\\C[31][Dalieh]\\C[0] Geez, if the village chief's father heard about this, he'd be\nfurious. Forming a rebel army on your own and challenging the royal\ncapital Jupiterino. There's no way you can win against Lucia."
                             ]
                         },
                         {
@@ -12393,7 +12393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Big brother, keep it a secret from father, okay? We'll be the\nones getting scolded."
+                                "\\C[24][Cain]\\C[0] Big brother, keep it a secret from father, okay? We'll be the\nones getting scolded."
                             ]
                         },
                         {
@@ -12411,7 +12411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: I know, I know."
+                                "\\C[31][Dalieh]\\C[0] I know, I know."
                             ]
                         },
                         {
@@ -12561,7 +12561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: But before you go, Luuna, can I hear 'that answer'?"
+                                "\\C[31][Dalieh]\\C[0] But before you go, Luuna, can I hear 'that answer'?"
                             ]
                         },
                         {
@@ -12606,7 +12606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: You see, I want Luuna to be my girlfriend. I have many\nlovers... no, girlfriends prepared by my father, but I prefer pure\ngirls like Luuna."
+                                "\\C[31][Dalieh]\\C[0] You see, I want Luuna to be my girlfriend. I have many\nlovers... no, girlfriends prepared by my father, but I prefer pure\ngirls like Luuna."
                             ]
                         },
                         {
@@ -12655,7 +12655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Geez... It's funny to hear playboy big brother talk about having\na girlfriend. You just want to make Luuna another one of your sex\nfriends, right?"
+                                "\\C[24][Cain]\\C[0] Geez... It's funny to hear playboy big brother talk about having\na girlfriend. You just want to make Luuna another one of your sex\nfriends, right?"
                             ]
                         },
                         {
@@ -12704,7 +12704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: How rude!"
+                                "\\C[31][Dalieh]\\C[0] How rude!"
                             ]
                         },
                         {
@@ -12722,7 +12722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Because your love arrows don't work on Luuna, you're interested\nin her, right? We brothers are the sons of the village chief, so most\ngirls listen to what we say, but Luuna won't nod along."
+                                "\\C[24][Cain]\\C[0] Because your love arrows don't work on Luuna, you're interested\nin her, right? We brothers are the sons of the village chief, so most\ngirls listen to what we say, but Luuna won't nod along."
                             ]
                         },
                         {
@@ -12802,7 +12802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: That's right. Luuna has her childhood friend Noah after all.\nLuuna, if you break up with that poor Noah and become my girlfriend,\nyou can indulge in as much luxury as you want?"
+                                "\\C[31][Dalieh]\\C[0] That's right. Luuna has her childhood friend Noah after all.\nLuuna, if you break up with that poor Noah and become my girlfriend,\nyou can indulge in as much luxury as you want?"
                             ]
                         },
                         {
@@ -12871,7 +12871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: What..."
+                                "\\C[31][Dalieh]\\C[0] What..."
                             ]
                         },
                         {
@@ -12962,7 +12962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Dalieh, stop it! You're troubling Luuna."
+                                "\\C[29][Noah]\\C[0] Dalieh, stop it! You're troubling Luuna."
                             ]
                         },
                         {
@@ -12980,7 +12980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: Noah, you're just a childhood friend of Luuna's. It's cheeky\nfor you to butt in like this."
+                                "\\C[31][Dalieh]\\C[0] Noah, you're just a childhood friend of Luuna's. It's cheeky\nfor you to butt in like this."
                             ]
                         },
                         {
@@ -13016,7 +13016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: No, I've been meaning to tell Dalieh directly for a while now.\nHe's the son of the village chief and he's been messing around with\nvarious girls, causing them trouble. Now he's targeting Luuna."
+                                "\\C[29][Noah]\\C[0] No, I've been meaning to tell Dalieh directly for a while now.\nHe's the son of the village chief and he's been messing around with\nvarious girls, causing them trouble. Now he's targeting Luuna."
                             ]
                         },
                         {
@@ -13034,7 +13034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Let me make it clear, Dalieh. Both Luuna and I dislike 'flashy\nmen' like you!"
+                                "\\C[29][Noah]\\C[0] Let me make it clear, Dalieh. Both Luuna and I dislike 'flashy\nmen' like you!"
                             ]
                         },
                         {
@@ -13052,7 +13052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: ..."
+                                "\\C[31][Dalieh]\\C[0] ..."
                             ]
                         },
                         {
@@ -13070,7 +13070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: Sigh... It's pitiful for Luuna to be with a poor man with no\nexperience with women like you."
+                                "\\C[31][Dalieh]\\C[0] Sigh... It's pitiful for Luuna to be with a poor man with no\nexperience with women like you."
                             ]
                         },
                         {
@@ -13088,7 +13088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: Noah, just watch? I'll definitely make Luuna my woman? I'll\nmake her squeal with my technique. All females are the same after all."
+                                "\\C[31][Dalieh]\\C[0] Noah, just watch? I'll definitely make Luuna my woman? I'll\nmake her squeal with my technique. All females are the same after all."
                             ]
                         },
                         {
@@ -13106,7 +13106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Too bad for you. Luuna dislikes flashy men who make women cry\nlike you do. Isn't that right, Luuna?"
+                                "\\C[29][Noah]\\C[0] Too bad for you. Luuna dislikes flashy men who make women cry\nlike you do. Isn't that right, Luuna?"
                             ]
                         },
                         {
@@ -13175,7 +13175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dalieh: Hmph... Luuna, you'll understand soon enough. Who between Noah\nand me... is the superior male?"
+                                "\\C[31][Dalieh]\\C[0] Hmph... Luuna, you'll understand soon enough. Who between Noah\nand me... is the superior male?"
                             ]
                         },
                         {
@@ -13253,7 +13253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sigh... Dalieh is the same as ever. He hits on any cute girl he\nsees. I'm glad I got married to Pole early."
+                                "\\C[24][Becky]\\C[0] Sigh... Dalieh is the same as ever. He hits on any cute girl he\nsees. I'm glad I got married to Pole early."
                             ]
                         },
                         {
@@ -13280,7 +13280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Heheh, I'm a lucky guy to have a cute woman like Becky as my\nwife. Right, Becky? You love me, don't you?"
+                                "\\C[20][Noah]\\C[0] Heheh, I'm a lucky guy to have a cute woman like Becky as my\nwife. Right, Becky? You love me, don't you?"
                             ]
                         },
                         {
@@ -13362,7 +13362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Pole, don't say embarrassing things in front of others."
+                                "\\C[24][Becky]\\C[0] Pole, don't say embarrassing things in front of others."
                             ]
                         },
                         {
@@ -13444,7 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Anyway, we're going to launch a surprise attack on the fortress\nin the imperial capital Jupiterino and defeat Lucia. We can't stand\nLucia's tyranny any longer. Keep what happens from now on a secret\nfrom the village chief."
+                                "\\C[24][Becky]\\C[0] Anyway, we're going to launch a surprise attack on the fortress\nin the imperial capital Jupiterino and defeat Lucia. We can't stand\nLucia's tyranny any longer. Keep what happens from now on a secret\nfrom the village chief."
                             ]
                         },
                         {
@@ -13462,7 +13462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Got it. Well, do your best out there."
+                                "\\C[24][Cain]\\C[0] Got it. Well, do your best out there."
                             ]
                         },
                         {

@@ -2916,7 +2916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: Beat, is it you guys again? My husband is seriously injured. If\nyou're here to collect the debt, please wait until he's healed."
+                                "\\C[24][Becky]\\C[0] Beat, is it you guys again? My husband is seriously injured. If\nyou're here to collect the debt, please wait until he's healed."
                             ]
                         },
                         {
@@ -2952,7 +2952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: ......"
+                                "\\C[24][Becky]\\C[0] ......"
                             ]
                         },
                         {
@@ -3481,7 +3481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Noah: \"Luuna, I won't run away. I'm sure my leg will heal, so please\nbelieve in me and wait.\""
+                                "\\C[29][Noah]\\C[0] \"Luuna, I won't run away. I'm sure my leg will heal, so please\nbelieve in me and wait.\""
                             ]
                         },
                         {
@@ -3509,7 +3509,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Noah: \"Ugh...\""
+                                "\\C[29][Noah]\\C[0] \"Ugh...\""
                             ]
                         },
                         {
@@ -3588,7 +3588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: ..."
+                                "\\C[29][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -3687,7 +3687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: ..."
+                                "\\C[29][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -3705,7 +3705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: To get excited seeing Luuna being sold off... Have I gone\nmad...?"
+                                "\\C[29][Noah]\\C[0] To get excited seeing Luuna being sold off... Have I gone\nmad...?"
                             ]
                         },
                         {
@@ -3813,7 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Ugh... I can't believe the village chief's relative, a debt\ncollector, has come all the way here. I can't work anymore, what\nshould I do? I have nothing left to give."
+                                "\\C[20][Noah]\\C[0] Ugh... I can't believe the village chief's relative, a debt\ncollector, has come all the way here. I can't work anymore, what\nshould I do? I have nothing left to give."
                             ]
                         },
                         {
@@ -3882,7 +3882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Ugh... If I don't pay back my debts, they're going to kill me...\nI want to work, but my body just won't move the way I want it to..."
+                                "\\C[20][Noah]\\C[0] Ugh... If I don't pay back my debts, they're going to kill me...\nI want to work, but my body just won't move the way I want it to..."
                             ]
                         },
                         {

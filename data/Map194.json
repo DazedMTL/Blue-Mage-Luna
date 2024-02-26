@@ -10373,7 +10373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: This guy! Could it be!?"
+                                "\\C[24][Becky]\\C[0] This guy! Could it be!?"
                             ]
                         },
                         {
@@ -10409,7 +10409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Ice demon? Is it a famous monster?"
+                                "\\C[24][Cain]\\C[0] Ice demon? Is it a famous monster?"
                             ]
                         },
                         {
@@ -10445,7 +10445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I've heard about it too. Many adventurers have fallen victim to\nit. It's considered the pinnacle of ice-type monsters. It's strong."
+                                "\\C[24][Becky]\\C[0] I've heard about it too. Many adventurers have fallen victim to\nit. It's considered the pinnacle of ice-type monsters. It's strong."
                             ]
                         },
                         {

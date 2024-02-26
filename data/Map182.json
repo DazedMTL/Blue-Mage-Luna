@@ -9417,7 +9417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey, does this girl have anything to do with us?"
+                                "\\C[24][Becky]\\C[0] Hey, does this girl have anything to do with us?"
                             ]
                         },
                         {
@@ -9486,7 +9486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: But man~, she was a cute girl. It wouldn't be strange if she was\nscouted to be an idol."
+                                "\\C[24][Cain]\\C[0] But man~, she was a cute girl. It wouldn't be strange if she was\nscouted to be an idol."
                             ]
                         },
                         {
@@ -9536,7 +9536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Oh brother, this is why men..."
+                                "\\C[24][Becky]\\C[0] Oh brother, this is why men..."
                             ]
                         },
                         {

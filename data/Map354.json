@@ -5618,7 +5618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I see. So we're not the only ones who wanted the Gra Herb."
+                                "\\C[24][Becky]\\C[0] I see. So we're not the only ones who wanted the Gra Herb."
                             ]
                         },
                         {
@@ -5636,7 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Attacking Lucia and her group with that number of people is\nreckless. We couldn't lay a finger on them either."
+                                "\\C[24][Cain]\\C[0] Attacking Lucia and her group with that number of people is\nreckless. We couldn't lay a finger on them either."
                             ]
                         },
                         {
@@ -5857,7 +5857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Wait a minute, Luuna! After all the trouble we went through to\nfind it!"
+                                "\\C[24][Becky]\\C[0] Wait a minute, Luuna! After all the trouble we went through to\nfind it!"
                             ]
                         },
                         {
@@ -5957,7 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: You're just too kind-hearted..."
+                                "\\C[24][Becky]\\C[0] You're just too kind-hearted..."
                             ]
                         },
                         {
@@ -6339,7 +6339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Hey, hey, knowing you couldn't win, you still challenged Lucia\nand her group? That's foolish."
+                                "\\C[24][Cain]\\C[0] Hey, hey, knowing you couldn't win, you still challenged Lucia\nand her group? That's foolish."
                             ]
                         },
                         {
@@ -6910,7 +6910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ........"
+                                "\\C[17][Lucia]\\C[0] ........"
                             ]
                         },
                         {

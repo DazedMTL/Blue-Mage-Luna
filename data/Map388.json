@@ -7927,7 +7927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I'm sorry, Kyle-san. Luuna feels very uncomfortable when people\nbring up her past with Lucia."
+                                "\\C[24][Becky]\\C[0] I'm sorry, Kyle-san. Luuna feels very uncomfortable when people\nbring up her past with Lucia."
                             ]
                         },
                         {
@@ -8617,7 +8617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Ah, the sound of a bell?"
+                                "\\C[24][Becky]\\C[0] Ah, the sound of a bell?"
                             ]
                         },
                         {
@@ -8833,7 +8833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: That's great, Luuna!"
+                                "\\C[24][Becky]\\C[0] That's great, Luuna!"
                             ]
                         },
                         {
@@ -9794,7 +9794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hehe, nice to meet you. Lilim, Polo."
+                                "\\C[24][Becky]\\C[0] Hehe, nice to meet you. Lilim, Polo."
                             ]
                         },
                         {
@@ -9977,7 +9977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Now that you mention it, there were some dirty brats like you\nguys in the village of Misa~."
+                                "\\C[24][Cain]\\C[0] Now that you mention it, there were some dirty brats like you\nguys in the village of Misa~."
                             ]
                         },
                         {
@@ -10028,7 +10028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mei and Mao, right? I wonder how they're doing now."
+                                "\\C[24][Becky]\\C[0] Mei and Mao, right? I wonder how they're doing now."
                             ]
                         },
                         {
@@ -12770,7 +12770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: \"I'm gonna be just like everyone here when I grow up~.\""
+                                "\\C[20][Noah]\\C[0] \"I'm gonna be just like everyone here when I grow up~.\""
                             ]
                         },
                         {
@@ -12839,7 +12839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: \"Damn...! I can't forgive them.\""
+                                "\\C[20][Noah]\\C[0] \"Damn...! I can't forgive them.\""
                             ]
                         },
                         {

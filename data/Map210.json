@@ -2391,7 +2391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Geez, it's just the servant. You had me fooled. I thought you\nwere an enemy."
+                                "\\C[24][Becky]\\C[0] Geez, it's just the servant. You had me fooled. I thought you\nwere an enemy."
                             ]
                         },
                         {
@@ -2409,7 +2409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: The servant, huh? If you were there, you could've taken down\nValentina's sorcerer for us."
+                                "\\C[24][Cain]\\C[0] The servant, huh? If you were there, you could've taken down\nValentina's sorcerer for us."
                             ]
                         },
                         {

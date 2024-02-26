@@ -7469,7 +7469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Luuna, you're too late. The Holy Grail has been moved to\nanother location."
+                                "\\C[17][Lucia]\\C[0] Luuna, you're too late. The Holy Grail has been moved to\nanother location."
                             ]
                         },
                         {
@@ -7571,7 +7571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: There's no chance of victory for you anymore. Give up and\nbehave yourselves."
+                                "\\C[17][Lucia]\\C[0] There's no chance of victory for you anymore. Give up and\nbehave yourselves."
                             ]
                         },
                         {
@@ -7640,7 +7640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: A final piece of advice. The generals of Valentina are not the\nkind you can reason with."
+                                "\\C[17][Lucia]\\C[0] A final piece of advice. The generals of Valentina are not the\nkind you can reason with."
                             ]
                         },
                         {
@@ -7691,7 +7691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: If you continue to interfere with us, there's no telling what\nthey'll do."
+                                "\\C[17][Lucia]\\C[0] If you continue to interfere with us, there's no telling what\nthey'll do."
                             ]
                         },
                         {
@@ -7742,7 +7742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: You have defeated Valentina's sorcerers. Therefore, I cannot\nstop you. If you withdraw now, I will report it to Sylvia."
+                                "\\C[17][Lucia]\\C[0] You have defeated Valentina's sorcerers. Therefore, I cannot\nstop you. If you withdraw now, I will report it to Sylvia."
                             ]
                         },
                         {
@@ -7844,7 +7844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Foolish girl."
+                                "\\C[17][Lucia]\\C[0] Foolish girl."
                             ]
                         },
                         {
@@ -7911,7 +7911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Even if you use the Holy Grail, which is said to contain Regnus\nGrahardt's magical power, you cannot defeat us. Either way."
+                                "\\C[17][Lucia]\\C[0] Even if you use the Holy Grail, which is said to contain Regnus\nGrahardt's magical power, you cannot defeat us. Either way."
                             ]
                         },
                         {
@@ -7996,7 +7996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: ........."
+                                "\\C[17][Lucia]\\C[0] ........."
                             ]
                         },
                         {
@@ -8172,7 +8172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: You have no need to know that."
+                                "\\C[17][Lucia]\\C[0] You have no need to know that."
                             ]
                         },
                         {
@@ -8223,7 +8223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia: Luuna, I've warned you. If you won't give up, whatever happens\nis not my concern."
+                                "\\C[17][Lucia]\\C[0] Luuna, I've warned you. If you won't give up, whatever happens\nis not my concern."
                             ]
                         },
                         {
@@ -8414,7 +8414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sigh... It's a shame. We didn't get the Holy Grail."
+                                "\\C[24][Becky]\\C[0] Sigh... It's a shame. We didn't get the Holy Grail."
                             ]
                         },
                         {

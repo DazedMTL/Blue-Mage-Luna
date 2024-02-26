@@ -3923,7 +3923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Hey, Jeff."
+                                "\\C[24][Cain]\\C[0] Hey, Jeff."
                             ]
                         },
                         {
@@ -3993,7 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Informant Jeff. He's a good friend of mine."
+                                "\\C[24][Cain]\\C[0] Informant Jeff. He's a good friend of mine."
                             ]
                         },
                         {
@@ -4011,7 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Information from an informant is expensive, but since we're\nfriends, he does my requests for free."
+                                "\\C[24][Cain]\\C[0] Information from an informant is expensive, but since we're\nfriends, he does my requests for free."
                             ]
                         },
                         {
@@ -4081,7 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: To think that Informant Jeff is Cain's good friend. Jeff's\ninformation network is amazing, so it'll be a big help."
+                                "\\C[24][Becky]\\C[0] To think that Informant Jeff is Cain's good friend. Jeff's\ninformation network is amazing, so it'll be a big help."
                             ]
                         },
                         {
@@ -4099,7 +4099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: By the way, Jeff, did you look into that matter I asked you\nabout?"
+                                "\\C[24][Cain]\\C[0] By the way, Jeff, did you look into that matter I asked you\nabout?"
                             ]
                         },
                         {
@@ -4189,7 +4189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Come on, you're supposed to be Informant Jeff."
+                                "\\C[24][Cain]\\C[0] Come on, you're supposed to be Informant Jeff."
                             ]
                         },
                         {
@@ -4381,7 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: It's the usual. Many of Valentina's high-ranking magicians are\narrogant."
+                                "\\C[24][Becky]\\C[0] It's the usual. Many of Valentina's high-ranking magicians are\narrogant."
                             ]
                         },
                         {
@@ -4399,7 +4399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Hey, are the high-ranking magicians of Valentina really that\npowerful?"
+                                "\\C[24][Cain]\\C[0] Hey, are the high-ranking magicians of Valentina really that\npowerful?"
                             ]
                         },
                         {
@@ -4450,7 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Well, each one of them is a genius magician comparable to\nLuuna. In other words, they're elite magicians."
+                                "\\C[24][Becky]\\C[0] Well, each one of them is a genius magician comparable to\nLuuna. In other words, they're elite magicians."
                             ]
                         },
                         {
@@ -4537,7 +4537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............!"
+                                "\\C[24][Becky]\\C[0] ............!"
                             ]
                         },
                         {
@@ -4693,7 +4693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Wait a minute. What happened to the village that Regnus Grahardt\nsaved? If we go there, we might find the parting gift, right?"
+                                "\\C[24][Cain]\\C[0] Wait a minute. What happened to the village that Regnus Grahardt\nsaved? If we go there, we might find the parting gift, right?"
                             ]
                         },
                         {
@@ -4813,7 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: That Sylvia..."
+                                "\\C[24][Becky]\\C[0] That Sylvia..."
                             ]
                         },
                         {
@@ -4831,7 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: I see. If there's no parting gift, then we have no choice but to\nlook for Regnus Grahardt. He's not a bad guy, right? He'll become our\nally."
+                                "\\C[24][Cain]\\C[0] I see. If there's no parting gift, then we have no choice but to\nlook for Regnus Grahardt. He's not a bad guy, right? He'll become our\nally."
                             ]
                         },
                         {
@@ -4885,7 +4885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -5059,7 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: But... if we, the resistance, don't put up a fight, innocent\npeople will be slaughtered just like in that village."
+                                "\\C[24][Becky]\\C[0] But... if we, the resistance, don't put up a fight, innocent\npeople will be slaughtered just like in that village."
                             ]
                         },
                         {
@@ -5583,7 +5583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cain: Next, we're heading to the 'Rare Shop'. We're going to get a\n\"Communicator\"."
+                                "\\C[24][Cain]\\C[0] Next, we're heading to the 'Rare Shop'. We're going to get a\n\"Communicator\"."
                             ]
                         },
                         {
@@ -5620,7 +5620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cain: This is the 'Rare Shop'. They have unusual items. It's also\nfamous as a niche store."
+                                "\\C[24][Cain]\\C[0] This is the 'Rare Shop'. They have unusual items. It's also\nfamous as a niche store."
                             ]
                         },
                         {
@@ -5885,7 +5885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Don't worry. I've found the ingredients for the medicine that\nslows down the necrosis of the leg."
+                                "\\C[24][Cain]\\C[0] Don't worry. I've found the ingredients for the medicine that\nslows down the necrosis of the leg."
                             ]
                         },
                         {

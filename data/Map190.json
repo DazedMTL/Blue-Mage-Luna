@@ -9994,7 +9994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: Luuna, who is this child?"
+                                "\\C[24][Becky]\\C[0] Luuna, who is this child?"
                             ]
                         },
                         {
@@ -10487,7 +10487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: What is this child shouting about, I wonder."
+                                "\\C[24][Becky]\\C[0] What is this child shouting about, I wonder."
                             ]
                         },
                         {
@@ -10805,7 +10805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: Hey! Luuna!!! What's wrong?!"
+                                "\\C[24][Becky]\\C[0] Hey! Luuna!!! What's wrong?!"
                             ]
                         },
                         {
@@ -10823,7 +10823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cain: Hey, hey. Let's get out of here for now."
+                                "\\C[24][Cain]\\C[0] Hey, hey. Let's get out of here for now."
                             ]
                         },
                         {
@@ -11104,7 +11104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Luuna, what's wrong?"
+                                "\\C[24][Becky]\\C[0] Luuna, what's wrong?"
                             ]
                         },
                         {
@@ -11171,7 +11171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Damn, are you serious?"
+                                "\\C[24][Cain]\\C[0] Damn, are you serious?"
                             ]
                         },
                         {
@@ -11412,7 +11412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ...If that's the case, it's going to be strong."
+                                "\\C[24][Becky]\\C[0] ...If that's the case, it's going to be strong."
                             ]
                         },
                         {
@@ -12447,7 +12447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: \"Hah... Aren't you that old man from the desert? We've talked\nonce before, remember?\""
+                                "\\C[24][Becky]\\C[0] \"Hah... Aren't you that old man from the desert? We've talked\nonce before, remember?\""
                             ]
                         },
                         {
@@ -12516,7 +12516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: \"Seriously, who would've thought a sweet and sour pork bento\nvendor would come to a place like this. What kind of information\nmagazine is this?\""
+                                "\\C[24][Becky]\\C[0] \"Seriously, who would've thought a sweet and sour pork bento\nvendor would come to a place like this. What kind of information\nmagazine is this?\""
                             ]
                         },
                         {
@@ -12585,7 +12585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: \"Got it, got it. We don't have time to mess around with dirty\nold men. See ya.\""
+                                "\\C[24][Becky]\\C[0] \"Got it, got it. We don't have time to mess around with dirty\nold men. See ya.\""
                             ]
                         },
                         {

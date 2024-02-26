@@ -4722,7 +4722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Luuna, good morning. I was worried about you."
+                                "\\C[29][Noah]\\C[0] Luuna, good morning. I was worried about you."
                             ]
                         },
                         {
@@ -4827,7 +4827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Luuna, are you okay?"
+                                "\\C[24][Becky]\\C[0] Luuna, are you okay?"
                             ]
                         },
                         {

@@ -4747,7 +4747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Luuna, someone you know?"
+                                "\\C[24][Cain]\\C[0] Luuna, someone you know?"
                             ]
                         },
                         {
@@ -5285,7 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Gah! She picked my pocket! What a crone..."
+                                "\\C[24][Cain]\\C[0] Gah! She picked my pocket! What a crone..."
                             ]
                         },
                         {
@@ -5336,7 +5336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hehe, Cain, so much for the thief's honor."
+                                "\\C[24][Becky]\\C[0] Hehe, Cain, so much for the thief's honor."
                             ]
                         },
                         {
@@ -5354,7 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Damn it... My pride hurts more than my wallet..."
+                                "\\C[24][Cain]\\C[0] Damn it... My pride hurts more than my wallet..."
                             ]
                         },
                         {
@@ -5616,7 +5616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: You mean stealing, you damn hag~! To think you'd steal from a\nthief like me, what a quick-handed old woman..."
+                                "\\C[24][Cain]\\C[0] You mean stealing, you damn hag~! To think you'd steal from a\nthief like me, what a quick-handed old woman..."
                             ]
                         },
                         {
@@ -6069,7 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Eh, you know Luuna?"
+                                "\\C[24][Becky]\\C[0] Eh, you know Luuna?"
                             ]
                         },
                         {
@@ -6187,7 +6187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Eh... seriously?"
+                                "\\C[24][Becky]\\C[0] Eh... seriously?"
                             ]
                         },
                         {
@@ -6372,7 +6372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Right. Lucia became known as the princess of slaughter after\nawakening as a direct-line magician."
+                                "\\C[24][Becky]\\C[0] Right. Lucia became known as the princess of slaughter after\nawakening as a direct-line magician."
                             ]
                         },
                         {
@@ -6423,7 +6423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: No one would want to be known as the ex-lover of someone like\nthat. I understand hating her even more than Luuna does."
+                                "\\C[24][Becky]\\C[0] No one would want to be known as the ex-lover of someone like\nthat. I understand hating her even more than Luuna does."
                             ]
                         },
                         {
@@ -6510,7 +6510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: The dark witch, huh... After Lucia awakened as a direct-line\nblack magic magician, everyone started calling her \"The Dark Witch.\""
+                                "\\C[24][Becky]\\C[0] The dark witch, huh... After Lucia awakened as a direct-line\nblack magic magician, everyone started calling her \"The Dark Witch.\""
                             ]
                         },
                         {

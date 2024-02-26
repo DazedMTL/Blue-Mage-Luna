@@ -5354,7 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"Lord Ceres!\""
+                                "\\C[24][Becky]\\C[0] \"Lord Ceres!\""
                             ]
                         },
                         {
@@ -5405,7 +5405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"Indeed, we, the resistance, want to borrow the power of the\nKnights of Messiah.\""
+                                "\\C[24][Becky]\\C[0] \"Indeed, we, the resistance, want to borrow the power of the\nKnights of Messiah.\""
                             ]
                         },
                         {
@@ -5423,7 +5423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"I've heard that the Knights of Messiah go out to countries\nwhere people are in trouble and help them. They're rumored to be the\npolice of the world.\""
+                                "\\C[24][Becky]\\C[0] \"I've heard that the Knights of Messiah go out to countries\nwhere people are in trouble and help them. They're rumored to be the\npolice of the world.\""
                             ]
                         },
                         {
@@ -5474,7 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"I've heard about your conquest of the great nation of Grales\nbelow. Recently, you even defeated the beauty hunting squad of the\nKingdom of Windsor. Please lend us your strength.\""
+                                "\\C[24][Becky]\\C[0] \"I've heard about your conquest of the great nation of Grales\nbelow. Recently, you even defeated the beauty hunting squad of the\nKingdom of Windsor. Please lend us your strength.\""
                             ]
                         },
                         {
@@ -5561,7 +5561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"Why is that?\""
+                                "\\C[24][Becky]\\C[0] \"Why is that?\""
                             ]
                         },
                         {
@@ -5642,7 +5642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: \"What a letdown. And you call yourself the commander of the\nknights? Get it together, Mr. Middle Manager.\""
+                                "\\C[24][Cain]\\C[0] \"What a letdown. And you call yourself the commander of the\nknights? Get it together, Mr. Middle Manager.\""
                             ]
                         },
                         {
@@ -5711,7 +5711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"But Lord Ceres, you are married to Princess Alicia, aren't\nyou? Then you could suggest something to the king, couldn't you?\""
+                                "\\C[24][Becky]\\C[0] \"But Lord Ceres, you are married to Princess Alicia, aren't\nyou? Then you could suggest something to the king, couldn't you?\""
                             ]
                         },
                         {
@@ -5747,7 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: \"This is hopeless. The Knights of Messiah we were relying on\ndon't seem like they'll come to our aid. They don't care about us.\nBecky, let's go into town and grab some food.\""
+                                "\\C[24][Cain]\\C[0] \"This is hopeless. The Knights of Messiah we were relying on\ndon't seem like they'll come to our aid. They don't care about us.\nBecky, let's go into town and grab some food.\""
                             ]
                         },
                         {
@@ -5798,7 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"Yeah... sure...\""
+                                "\\C[24][Becky]\\C[0] \"Yeah... sure...\""
                             ]
                         },
                         {

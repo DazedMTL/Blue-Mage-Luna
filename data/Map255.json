@@ -8528,7 +8528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: It's a cookbook for sweets."
+                                "\\C[24][Becky]\\C[0] It's a cookbook for sweets."
                             ]
                         },
                         {
@@ -8546,7 +8546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: A cookbook for ancient sweets, huh? If it's been left in a place\nlike this, maybe it contains recipes for some really delicious treats."
+                                "\\C[24][Cain]\\C[0] A cookbook for ancient sweets, huh? If it's been left in a place\nlike this, maybe it contains recipes for some really delicious treats."
                             ]
                         },
                         {
@@ -8597,7 +8597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Well..."
+                                "\\C[24][Becky]\\C[0] Well..."
                             ]
                         },
                         {
@@ -8615,7 +8615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Let's take it with us. If we make sweets using this and give\nthem to Rade, she might give us something in return."
+                                "\\C[24][Cain]\\C[0] Let's take it with us. If we make sweets using this and give\nthem to Rade, she might give us something in return."
                             ]
                         },
                         {

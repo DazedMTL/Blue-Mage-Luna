@@ -6325,7 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"Hey, where is this place?\""
+                                "\\C[24][Becky]\\C[0] \"Hey, where is this place?\""
                             ]
                         },
                         {

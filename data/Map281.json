@@ -2768,7 +2768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Luuna, I'm glad you're safe."
+                                "\\C[29][Noah]\\C[0] Luuna, I'm glad you're safe."
                             ]
                         },
                         {
@@ -2855,7 +2855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Yeah..."
+                                "\\C[29][Noah]\\C[0] Yeah..."
                             ]
                         },
                         {
@@ -2924,7 +2924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Pole, are you okay?"
+                                "\\C[24][Becky]\\C[0] Pole, are you okay?"
                             ]
                         },
                         {
@@ -2951,7 +2951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky, you're late. Leaving your newlywed husband all alone like\nthat."
+                                "\\C[20][Noah]\\C[0] Becky, you're late. Leaving your newlywed husband all alone like\nthat."
                             ]
                         },
                         {
@@ -2969,7 +2969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sorry, sorry. I had a little errand to run."
+                                "\\C[24][Becky]\\C[0] Sorry, sorry. I had a little errand to run."
                             ]
                         },
                         {
@@ -2996,7 +2996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Noah, Pole, you guys are weak. That's why you get injured."
+                                "\\C[24][Cain]\\C[0] Noah, Pole, you guys are weak. That's why you get injured."
                             ]
                         },
                         {
@@ -3023,7 +3023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Gah. Cain-san! Why is the village chief's son like you here?"
+                                "\\C[20][Noah]\\C[0] Gah. Cain-san! Why is the village chief's son like you here?"
                             ]
                         },
                         {
@@ -3041,7 +3041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Why is the village chief's son..."
+                                "\\C[29][Noah]\\C[0] Why is the village chief's son..."
                             ]
                         },
                         {
@@ -3059,7 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: There's a reason. For now, I will be joining Luuna and Becky and\nacting together with them."
+                                "\\C[24][Cain]\\C[0] There's a reason. For now, I will be joining Luuna and Becky and\nacting together with them."
                             ]
                         },
                         {
@@ -3077,7 +3077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: What reason?"
+                                "\\C[20][Noah]\\C[0] What reason?"
                             ]
                         },
                         {
@@ -3095,7 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: I can't tell you guys. It's an order from my father. There's a\nlot going on."
+                                "\\C[24][Cain]\\C[0] I can't tell you guys. It's an order from my father. There's a\nlot going on."
                             ]
                         },
                         {
@@ -3113,7 +3113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Is that so. Cain-san, please take care of Luuna."
+                                "\\C[29][Noah]\\C[0] Is that so. Cain-san, please take care of Luuna."
                             ]
                         },
                         {
@@ -3131,7 +3131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: We're setting out on a journey. I'll come back to check on\nthings later. Luuna, Becky, we're heading to the next town, Bell."
+                                "\\C[24][Cain]\\C[0] We're setting out on a journey. I'll come back to check on\nthings later. Luuna, Becky, we're heading to the next town, Bell."
                             ]
                         },
                         {
@@ -3149,7 +3149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes. Becky: Yes."
+                                "\\C[23][Luna]\\C[0] Yes. \\C[24][Becky]\\C[0] Yes."
                             ]
                         },
                         {

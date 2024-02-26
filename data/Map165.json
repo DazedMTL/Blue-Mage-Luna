@@ -17327,7 +17327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey! You're a sorcerous swordsman of the Knights of Messiah\nnow, aren't you? You should also tell Lady Ceres to help the\nResistance."
+                                "\\C[24][Becky]\\C[0] Hey! You're a sorcerous swordsman of the Knights of Messiah\nnow, aren't you? You should also tell Lady Ceres to help the\nResistance."
                             ]
                         },
                         {
@@ -17396,7 +17396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ... \\C[23][Luna]\\C[0] ..."
+                                "\\C[24][Becky]\\C[0] ... \\C[23][Luna]\\C[0] ..."
                             ]
                         },
                         {
@@ -18737,7 +18737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -18788,7 +18788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Phew..."
+                                "\\C[24][Becky]\\C[0] Phew..."
                             ]
                         },
                         {
@@ -18806,7 +18806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: So that's the Sorcery General Rinny. First time I've seen her.\nShe looks like bad news. But even someone like her says we can't beat\nValentina, huh."
+                                "\\C[24][Cain]\\C[0] So that's the Sorcery General Rinny. First time I've seen her.\nShe looks like bad news. But even someone like her says we can't beat\nValentina, huh."
                             ]
                         },
                         {
@@ -18857,7 +18857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sigh... I'm feeling so drained... And to think Regnus Grahardt\nwas our only hope."
+                                "\\C[24][Becky]\\C[0] Sigh... I'm feeling so drained... And to think Regnus Grahardt\nwas our only hope."
                             ]
                         },
                         {
@@ -18875,7 +18875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: For now, let's head back to Shayna Village. I'm starting to feel\nlike having a drink at the tavern."
+                                "\\C[24][Cain]\\C[0] For now, let's head back to Shayna Village. I'm starting to feel\nlike having a drink at the tavern."
                             ]
                         },
                         {

@@ -5899,7 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey, Rade, you must know something, right? About this stone\nwith high magical power."
+                                "\\C[24][Becky]\\C[0] Hey, Rade, you must know something, right? About this stone\nwith high magical power."
                             ]
                         },
                         {
@@ -7299,7 +7299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Oh..."
+                                "\\C[24][Becky]\\C[0] Oh..."
                             ]
                         },
                         {
@@ -7377,7 +7377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: A few weeks?"
+                                "\\C[24][Becky]\\C[0] A few weeks?"
                             ]
                         },
                         {
@@ -7632,7 +7632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Well, it's fine. If she can't use magic, maybe she'll be a bit\nquieter for a change."
+                                "\\C[24][Becky]\\C[0] Well, it's fine. If she can't use magic, maybe she'll be a bit\nquieter for a change."
                             ]
                         },
                         {
@@ -7650,7 +7650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: That Rade, even with her magic sealed, she still talks in that\ncutesy way. She's not really panicking, is she?"
+                                "\\C[24][Cain]\\C[0] That Rade, even with her magic sealed, she still talks in that\ncutesy way. She's not really panicking, is she?"
                             ]
                         },
                         {
@@ -7668,7 +7668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Right~ Let's just leave her be. It's probably some kind of\ndivine punishment."
+                                "\\C[24][Becky]\\C[0] Right~ Let's just leave her be. It's probably some kind of\ndivine punishment."
                             ]
                         },
                         {
@@ -9533,7 +9533,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Becky: Sigh... Back to square one, I guess."
+                                "\\C[24][Becky]\\C[0] Sigh... Back to square one, I guess."
                             ]
                         },
                         {
@@ -9650,7 +9650,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Becky: Ugh... This girl... You're looking for Regnus Grahardt too,\naren't you?"
+                                "\\C[24][Becky]\\C[0] Ugh... This girl... You're looking for Regnus Grahardt too,\naren't you?"
                             ]
                         },
                         {
@@ -9744,7 +9744,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Cain: No point in moping around here. Let's head to the tavern in Bell\nCity and blow off some steam."
+                                "\\C[24][Cain]\\C[0] No point in moping around here. Let's head to the tavern in Bell\nCity and blow off some steam."
                             ]
                         },
                         {
@@ -9811,7 +9811,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Becky: Right. Let's regroup and strategize in Bell City."
+                                "\\C[24][Becky]\\C[0] Right. Let's regroup and strategize in Bell City."
                             ]
                         },
                         {
@@ -11836,7 +11836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey, Rade! She made sweets and brought them over! At least help\nout a little!"
+                                "\\C[24][Becky]\\C[0] Hey, Rade! She made sweets and brought them over! At least help\nout a little!"
                             ]
                         },
                         {
@@ -11938,7 +11938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Seriously... You have servants as disciples. Is Luuna not good\nenough?"
+                                "\\C[24][Becky]\\C[0] Seriously... You have servants as disciples. Is Luuna not good\nenough?"
                             ]
                         },
                         {
@@ -12238,7 +12238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Luuna...?"
+                                "\\C[24][Becky]\\C[0] Luuna...?"
                             ]
                         },
                         {
@@ -12598,7 +12598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Huh... What did you understand from that?"
+                                "\\C[24][Becky]\\C[0] Huh... What did you understand from that?"
                             ]
                         },
                         {
@@ -13042,7 +13042,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: Uh... that's right."
+                                "\\C[24][Becky]\\C[0] Uh... that's right."
                             ]
                         },
                         {

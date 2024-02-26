@@ -5056,7 +5056,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: Let me make one thing clear, I do not approve of a direct\ndescendant mage fighting an ordinary mage with all their might."
+                            "\\C[17][Lucia]\\C[0] Let me make one thing clear, I do not approve of a direct\ndescendant mage fighting an ordinary mage with all their might."
                         ]
                     },
                     {
@@ -5107,7 +5107,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: But..."
+                            "\\C[17][Lucia]\\C[0] But..."
                         ]
                     },
                     {
@@ -5158,7 +5158,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: Out of respect for your recklessness, I too shall give it my\nall. With \"only low-level magic,\" that is. Fufufu..."
+                            "\\C[17][Lucia]\\C[0] Out of respect for your recklessness, I too shall give it my\nall. With \"only low-level magic,\" that is. Fufufu..."
                         ]
                     },
                     {
@@ -5194,7 +5194,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Becky: Full power with just low-level magic!? Is that a handicap?!\nYou're mocking us...! Do you have any idea how many formidable enemies\nwe've defeated to get here?"
+                            "\\C[24][Becky]\\C[0] Full power with just low-level magic!? Is that a handicap?!\nYou're mocking us...! Do you have any idea how many formidable enemies\nwe've defeated to get here?"
                         ]
                     },
                     {
@@ -5263,7 +5263,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: Luuna, there are innate differences in talent that simply\ncannot be helped."
+                            "\\C[17][Lucia]\\C[0] Luuna, there are innate differences in talent that simply\ncannot be helped."
                         ]
                     },
                     {
@@ -5314,7 +5314,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: You are, after all, merely a genius mage by common standards.\nYou're nowhere near the power of a direct descendant. I'll teach you\nthat now. With low-level magic, of course. Fufufu..."
+                            "\\C[17][Lucia]\\C[0] You are, after all, merely a genius mage by common standards.\nYou're nowhere near the power of a direct descendant. I'll teach you\nthat now. With low-level magic, of course. Fufufu..."
                         ]
                     },
                     {
@@ -5432,7 +5432,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: (Compared to before, magical power, M. Defense... all abilities\nhave greatly leaped forward.)"
+                            "\\C[17][Lucia]\\C[0] (Compared to before, magical power, M. Defense... all abilities\nhave greatly leaped forward.)"
                         ]
                     },
                     {
@@ -5450,7 +5450,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: (The power that has been released cannot surpass me.)"
+                            "\\C[17][Lucia]\\C[0] (The power that has been released cannot surpass me.)"
                         ]
                     },
                     {
@@ -5501,7 +5501,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: (However, the moment it's released, there's a significant\nbacklash.)"
+                            "\\C[17][Lucia]\\C[0] (However, the moment it's released, there's a significant\nbacklash.)"
                         ]
                     },
                     {
@@ -5552,7 +5552,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: (Not dispelling the Chain Binds Magic until the very end was to\nutilize the backlash at the moment of release... to exert power at its\npeak, perhaps.)"
+                            "\\C[17][Lucia]\\C[0] (Not dispelling the Chain Binds Magic until the very end was to\nutilize the backlash at the moment of release... to exert power at its\npeak, perhaps.)"
                         ]
                     },
                     {
@@ -5603,7 +5603,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Lucia: (For being only half-baked, it seems you've given it some\nthought. I must not be careless...)"
+                            "\\C[17][Lucia]\\C[0] (For being only half-baked, it seems you've given it some\nthought. I must not be careless...)"
                         ]
                     },
                     {
@@ -5752,7 +5752,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Becky: I see... Luuna, it seems this enemy uses a special powerful\ntechnique. Make sure to learn it and defeat them with Blue Magic! We\ncan't win if we fight them head-on."
+                            "\\C[24][Becky]\\C[0] I see... Luuna, it seems this enemy uses a special powerful\ntechnique. Make sure to learn it and defeat them with Blue Magic! We\ncan't win if we fight them head-on."
                         ]
                     },
                     {
@@ -5788,7 +5788,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Cain: Now that you mention it, they said this guy has a valuable\ntreasure. I'll definitely steal it. Heh heh."
+                            "\\C[24][Cain]\\C[0] Now that you mention it, they said this guy has a valuable\ntreasure. I'll definitely steal it. Heh heh."
                         ]
                     },
                     {

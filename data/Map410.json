@@ -6109,7 +6109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Wait a minute!"
+                                "\\C[24][Becky]\\C[0] Wait a minute!"
                             ]
                         },
                         {
@@ -6211,7 +6211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Well... Kyle-san mentioned... that the Levius ruins are full of\nrogues and bandits, so we should be careful. It seems there are many\nrapists there."
+                                "\\C[24][Becky]\\C[0] Well... Kyle-san mentioned... that the Levius ruins are full of\nrogues and bandits, so we should be careful. It seems there are many\nrapists there."
                             ]
                         },
                         {
@@ -6229,7 +6229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: I've heard about it too. The bandits here rape and impregnate\nthe women they defeat. It's tempting because of all the gold and\ntreasures, though."
+                                "\\C[24][Cain]\\C[0] I've heard about it too. The bandits here rape and impregnate\nthe women they defeat. It's tempting because of all the gold and\ntreasures, though."
                             ]
                         },
                         {

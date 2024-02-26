@@ -3988,7 +3988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey Luuna, were you talking to someone?"
+                                "\\C[24][Becky]\\C[0] Hey Luuna, were you talking to someone?"
                             ]
                         },
                         {

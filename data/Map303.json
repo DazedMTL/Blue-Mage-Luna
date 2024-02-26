@@ -10746,7 +10746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: The monster that attacked those warriors should be around here."
+                                "\\C[24][Becky]\\C[0] The monster that attacked those warriors should be around here."
                             ]
                         },
                         {
@@ -10764,7 +10764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: It seems like an evil monster, but Luuna, can you win?"
+                                "\\C[24][Cain]\\C[0] It seems like an evil monster, but Luuna, can you win?"
                             ]
                         },
                         {
@@ -10969,7 +10969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Eh... Ah...!"
+                                "\\C[24][Becky]\\C[0] Eh... Ah...!"
                             ]
                         },
                         {
@@ -12041,7 +12041,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Cain: Luuna, did you learn the technique?"
+                                "\\C[24][Cain]\\C[0] Luuna, did you learn the technique?"
                             ]
                         },
                         {
@@ -12138,7 +12138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cain: He was an incredibly strong guy."
+                                "\\C[24][Cain]\\C[0] He was an incredibly strong guy."
                             ]
                         },
                         {
@@ -12189,7 +12189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: Phew... He really was a strong enemy."
+                                "\\C[24][Becky]\\C[0] Phew... He really was a strong enemy."
                             ]
                         },
                         {

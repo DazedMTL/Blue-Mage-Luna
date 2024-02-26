@@ -5887,7 +5887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Luuna, what's wrong? Your face is a bit red."
+                                "\\C[29][Noah]\\C[0] Luuna, what's wrong? Your face is a bit red."
                             ]
                         },
                         {
@@ -5985,7 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Did Dalieh say or do something weird to you again?"
+                                "\\C[29][Noah]\\C[0] Did Dalieh say or do something weird to you again?"
                             ]
                         },
                         {
@@ -6021,7 +6021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: If you say so."
+                                "\\C[29][Noah]\\C[0] If you say so."
                             ]
                         },
                         {
@@ -6064,7 +6064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Errands? What kind of errands?"
+                                "\\C[29][Noah]\\C[0] Errands? What kind of errands?"
                             ]
                         },
                         {
@@ -6100,7 +6100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Eh~, I'm curious now."
+                                "\\C[29][Noah]\\C[0] Eh~, I'm curious now."
                             ]
                         },
                         {
@@ -6136,7 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: A girl's secret, huh... Well, Luuna is at that age... and there\nare things even I wouldn't want to say."
+                                "\\C[29][Noah]\\C[0] A girl's secret, huh... Well, Luuna is at that age... and there\nare things even I wouldn't want to say."
                             ]
                         },
                         {
@@ -6172,7 +6172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Oh, okay. Then I'll be off."
+                                "\\C[29][Noah]\\C[0] Oh, okay. Then I'll be off."
                             ]
                         },
                         {

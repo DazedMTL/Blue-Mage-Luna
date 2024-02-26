@@ -6984,7 +6984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"That's terrible...\""
+                                "\\C[24][Becky]\\C[0] \"That's terrible...\""
                             ]
                         },
                         {
@@ -7577,7 +7577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: \"I'm going too. Those kids were killed for our sake.\""
+                                "\\C[24][Becky]\\C[0] \"I'm going too. Those kids were killed for our sake.\""
                             ]
                         },
                         {
@@ -7595,7 +7595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: \"Hey hey, with this mood, I've got no choice but to say YES\ntoo...\""
+                                "\\C[24][Cain]\\C[0] \"Hey hey, with this mood, I've got no choice but to say YES\ntoo...\""
                             ]
                         },
                         {

@@ -5200,7 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sigh... Luuna, it's useless to ask Rade. Let's think of another\nway."
+                                "\\C[24][Becky]\\C[0] Sigh... Luuna, it's useless to ask Rade. Let's think of another\nway."
                             ]
                         },
                         {
@@ -5218,7 +5218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Another way? Even with Regnus Grahardt, we can't beat the guys\nfrom Valentia, and we can't defeat Lucia, right?"
+                                "\\C[24][Cain]\\C[0] Another way? Even with Regnus Grahardt, we can't beat the guys\nfrom Valentia, and we can't defeat Lucia, right?"
                             ]
                         },
                         {
@@ -5236,7 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ..."
+                                "\\C[24][Becky]\\C[0] ..."
                             ]
                         },
                         {
@@ -5515,7 +5515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: But...! The Magic General Rinny said so."
+                                "\\C[24][Becky]\\C[0] But...! The Magic General Rinny said so."
                             ]
                         },
                         {
@@ -5677,7 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Seriously... this is hopeless..."
+                                "\\C[24][Becky]\\C[0] Seriously... this is hopeless..."
                             ]
                         },
                         {
@@ -5893,7 +5893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey servant, who exactly is Regnus Grahardt? And who are you\nguys? It's about time you told us, don't you think?"
+                                "\\C[24][Becky]\\C[0] Hey servant, who exactly is Regnus Grahardt? And who are you\nguys? It's about time you told us, don't you think?"
                             ]
                         },
                         {
@@ -5962,7 +5962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hopeless, this is..."
+                                "\\C[24][Becky]\\C[0] Hopeless, this is..."
                             ]
                         },
                         {
@@ -6034,7 +6034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ...!!!"
+                                "\\C[24][Becky]\\C[0] ...!!!"
                             ]
                         },
                         {
@@ -6340,7 +6340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Wait a minute. Rade, if you and Regnus have equal power, then\nyou could just take Regnus Grahardt's place, right?"
+                                "\\C[24][Becky]\\C[0] Wait a minute. Rade, if you and Regnus have equal power, then\nyou could just take Regnus Grahardt's place, right?"
                             ]
                         },
                         {
@@ -6391,7 +6391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: It would be as if Regnus Grahardt were here."
+                                "\\C[24][Becky]\\C[0] It would be as if Regnus Grahardt were here."
                             ]
                         },
                         {
@@ -6635,7 +6635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Good grief... What a person."
+                                "\\C[24][Becky]\\C[0] Good grief... What a person."
                             ]
                         },
                         {
@@ -6653,7 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Can't be helped. If Rade won't help us, then we really have no\nchoice but to look for Regnus Grahardt."
+                                "\\C[24][Cain]\\C[0] Can't be helped. If Rade won't help us, then we really have no\nchoice but to look for Regnus Grahardt."
                             ]
                         },
                         {
@@ -6671,7 +6671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Just to confirm, if it's really Regnus, he can beat the generals\nof Valentia and Lucia, right?"
+                                "\\C[24][Cain]\\C[0] Just to confirm, if it's really Regnus, he can beat the generals\nof Valentia and Lucia, right?"
                             ]
                         },
                         {
@@ -7009,7 +7009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ......"
+                                "\\C[24][Becky]\\C[0] ......"
                             ]
                         },
                         {
@@ -7060,7 +7060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Wait a minute, Rade. For a sorceress of your caliber to be in\nthe vast world of the Jupiterino continent, and just to search for\nRegnus Grahardt..."
+                                "\\C[24][Becky]\\C[0] Wait a minute, Rade. For a sorceress of your caliber to be in\nthe vast world of the Jupiterino continent, and just to search for\nRegnus Grahardt..."
                             ]
                         },
                         {
@@ -7111,7 +7111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Why did you choose Jupiterino? You know a lot about Regnus\nGrahardt, don't you?"
+                                "\\C[24][Becky]\\C[0] Why did you choose Jupiterino? You know a lot about Regnus\nGrahardt, don't you?"
                             ]
                         },
                         {
@@ -7198,7 +7198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Rade, what do you have to say? Why did you think Regnus\nGrahardt would be in Jupiterino?"
+                                "\\C[24][Becky]\\C[0] Rade, what do you have to say? Why did you think Regnus\nGrahardt would be in Jupiterino?"
                             ]
                         },
                         {
@@ -7447,7 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Oh? She definitely knows something."
+                                "\\C[24][Cain]\\C[0] Oh? She definitely knows something."
                             ]
                         },
                         {
@@ -7778,7 +7778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey, Rade, what kind of past does Regnus have?"
+                                "\\C[24][Becky]\\C[0] Hey, Rade, what kind of past does Regnus have?"
                             ]
                         },
                         {
@@ -7940,7 +7940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Good grief. But it seems we're back to square one with our\noriginal goal."
+                                "\\C[24][Becky]\\C[0] Good grief. But it seems we're back to square one with our\noriginal goal."
                             ]
                         },
                         {
@@ -8240,7 +8240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Ugh...! Rade, you came to Jupiterino to search for Regnus\nGrahardt too, didn't you?"
+                                "\\C[24][Becky]\\C[0] Ugh...! Rade, you came to Jupiterino to search for Regnus\nGrahardt too, didn't you?"
                             ]
                         },
                         {
@@ -8291,7 +8291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: You might not like cooperating with us, but we're offering to\nsearch in your stead, right? Our goals are the same, aren't they?"
+                                "\\C[24][Becky]\\C[0] You might not like cooperating with us, but we're offering to\nsearch in your stead, right? Our goals are the same, aren't they?"
                             ]
                         },
                         {
@@ -8462,7 +8462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: It's settled then. Servant, tell us the places where Regnus\nGrahardt might have stopped by. We've got Rade's permission now."
+                                "\\C[24][Becky]\\C[0] It's settled then. Servant, tell us the places where Regnus\nGrahardt might have stopped by. We've got Rade's permission now."
                             ]
                         },
                         {
@@ -8609,7 +8609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: As expected of a servant! More capable than the master, huh-."
+                                "\\C[24][Becky]\\C[0] As expected of a servant! More capable than the master, huh-."
                             ]
                         },
                         {
@@ -8874,7 +8874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: If you could do that, you should have started investigating like\nthat from the beginning."
+                                "\\C[24][Cain]\\C[0] If you could do that, you should have started investigating like\nthat from the beginning."
                             ]
                         },
                         {
@@ -8910,7 +8910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: From my point of view, it's creepy not knowing who you guys\nreally are."
+                                "\\C[24][Becky]\\C[0] From my point of view, it's creepy not knowing who you guys\nreally are."
                             ]
                         },
                         {

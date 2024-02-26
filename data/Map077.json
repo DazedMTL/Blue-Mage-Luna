@@ -5877,7 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Sigh... The only way out of this situation is to be\nimpregnated... Let's resign ourselves to it. Becky: Well... We have no\nchoice but to become their playthings. We'll be toyed with until\nthey're satisfied. Rade: Why do I have to go through this too... It's\nso cruel..."
+                                "\\C[23][Luna]\\C[0] Sigh... The only way out of this situation is to be\nimpregnated... Let's resign ourselves to it. \\C[24][Becky]\\C[0] Well... We have no\nchoice but to become their playthings. We'll be toyed with until\nthey're satisfied. Rade: Why do I have to go through this too... It's\nso cruel..."
                             ]
                         },
                         {
@@ -5895,7 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Nngh... Becky: Ahhaa... Rade: Ughuuu..."
+                                "\\C[23][Luna]\\C[0] Nngh... \\C[24][Becky]\\C[0] Ahhaa... Rade: Ughuuu..."
                             ]
                         },
                         {

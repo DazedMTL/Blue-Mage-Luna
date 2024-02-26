@@ -2779,7 +2779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sigh... To think we're doing it in the room next to where my\nhusband is sleeping..."
+                                "\\C[24][Becky]\\C[0] Sigh... To think we're doing it in the room next to where my\nhusband is sleeping..."
                             ]
                         },
                         {
@@ -2797,7 +2797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: I always make sure Pole takes a strong sleeping pill. Cain and\nNoah's primary doctor is my brother's bad friend, after all. No matter\nwhat happens, your husband won't wake up."
+                                "\\C[24][Cain]\\C[0] I always make sure Pole takes a strong sleeping pill. Cain and\nNoah's primary doctor is my brother's bad friend, after all. No matter\nwhat happens, your husband won't wake up."
                             ]
                         },
                         {
@@ -2815,7 +2815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ............"
+                                "\\C[20][Noah]\\C[0] ............"
                             ]
                         },
                         {
@@ -2842,7 +2842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: (Damn it... I'm awake...)"
+                                "\\C[20][Noah]\\C[0] (Damn it... I'm awake...)"
                             ]
                         },
                         {
@@ -2891,7 +2891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: (I recently found out that Becky has been forced into\nprostitution because of my injury, gambling, and the war... Ever since\nI've known, I've been suffering from insomnia... Damn it...)"
+                                "\\C[20][Noah]\\C[0] (I recently found out that Becky has been forced into\nprostitution because of my injury, gambling, and the war... Ever since\nI've known, I've been suffering from insomnia... Damn it...)"
                             ]
                         },
                         {
@@ -2909,7 +2909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ........"
+                                "\\C[20][Noah]\\C[0] ........"
                             ]
                         },
                         {
@@ -2927,7 +2927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: That bastard Cain... with my wife... with Becky..."
+                                "\\C[20][Noah]\\C[0] That bastard Cain... with my wife... with Becky..."
                             ]
                         },
                         {
@@ -2945,7 +2945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ........"
+                                "\\C[20][Noah]\\C[0] ........"
                             ]
                         },
                         {
@@ -3060,7 +3060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Don't make that face. It's your husband's fault for losing at\ngambling every time."
+                                "\\C[24][Cain]\\C[0] Don't make that face. It's your husband's fault for losing at\ngambling every time."
                             ]
                         },
                         {
@@ -3078,7 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I know that. The reason I'm having a physical relationship with\nyou is because of Cain's debts. The only one I love is my husband\nCain. I'm not having sex with you because I like you."
+                                "\\C[24][Becky]\\C[0] I know that. The reason I'm having a physical relationship with\nyou is because of Cain's debts. The only one I love is my husband\nCain. I'm not having sex with you because I like you."
                             ]
                         },
                         {
@@ -3096,7 +3096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Make sure you keep it a secret. We're still newlyweds, after\nall."
+                                "\\C[24][Becky]\\C[0] Make sure you keep it a secret. We're still newlyweds, after\nall."
                             ]
                         },
                         {
@@ -3114,7 +3114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: I know, I know♪"
+                                "\\C[24][Cain]\\C[0] I know, I know♪"
                             ]
                         },
                         {
@@ -3132,7 +3132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Heheh, finally I get to do it with Becky~. I've been longing for\nthis. I've had my eye on you for so long."
+                                "\\C[24][Cain]\\C[0] Heheh, finally I get to do it with Becky~. I've been longing for\nthis. I've had my eye on you for so long."
                             ]
                         },
                         {
@@ -3150,7 +3150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: You must have been so jealous of Cain, huh? Never thought you'd\nmarry such a loser. To think you'd become a married woman, huh."
+                                "\\C[24][Cain]\\C[0] You must have been so jealous of Cain, huh? Never thought you'd\nmarry such a loser. To think you'd become a married woman, huh."
                             ]
                         },
                         {
@@ -3168,7 +3168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Stop it, don't talk bad about my husband. What if he wakes up?\nEven if I have a physical relationship with you, I'll never become\nyour woman."
+                                "\\C[24][Becky]\\C[0] Stop it, don't talk bad about my husband. What if he wakes up?\nEven if I have a physical relationship with you, I'll never become\nyour woman."
                             ]
                         },
                         {
@@ -3186,7 +3186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: I know, all I want is to do lewd things with you. In fact, you\nlook even more erotic now that you're a married woman."
+                                "\\C[24][Cain]\\C[0] I know, all I want is to do lewd things with you. In fact, you\nlook even more erotic now that you're a married woman."
                             ]
                         },
                         {
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Seriously... You and your brother Dalieh are really scum."
+                                "\\C[24][Becky]\\C[0] Seriously... You and your brother Dalieh are really scum."
                             ]
                         },
                         {
@@ -3222,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Shut up. It pisses me off that such a debt-ridden guy got a\nbusty wife. You, as his wife, should pay off your husband's gambling\ndebts."
+                                "\\C[24][Cain]\\C[0] Shut up. It pisses me off that such a debt-ridden guy got a\nbusty wife. You, as his wife, should pay off your husband's gambling\ndebts."
                             ]
                         },
                         {
@@ -3247,7 +3247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -3265,7 +3265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Hah hah... amazing..."
+                                "\\C[24][Cain]\\C[0] Hah hah... amazing..."
                             ]
                         },
                         {
@@ -3290,7 +3290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hah... mmm... mmm..."
+                                "\\C[24][Becky]\\C[0] Hah... mmm... mmm..."
                             ]
                         },
                         {
@@ -3332,7 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Finally, I can insert it into Becky's pussy... uoooohhh..."
+                                "\\C[24][Cain]\\C[0] Finally, I can insert it into Becky's pussy... uoooohhh..."
                             ]
                         },
                         {
@@ -3350,7 +3350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Ahh...!"
+                                "\\C[24][Becky]\\C[0] Ahh...!"
                             ]
                         },
                         {
@@ -3368,7 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Foooooh..."
+                                "\\C[24][Cain]\\C[0] Foooooh..."
                             ]
                         },
                         {
@@ -3458,7 +3458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Grr..."
+                                "\\C[20][Noah]\\C[0] Grr..."
                             ]
                         },
                         {
@@ -3476,7 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ............"
+                                "\\C[20][Noah]\\C[0] ............"
                             ]
                         },
                         {
@@ -3494,7 +3494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky... That bastard Cain... he's doing it with my wife..."
+                                "\\C[20][Noah]\\C[0] Becky... That bastard Cain... he's doing it with my wife..."
                             ]
                         },
                         {
@@ -3861,7 +3861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ............"
+                                "\\C[20][Noah]\\C[0] ............"
                             ]
                         },
                         {
@@ -4161,7 +4161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ............"
+                                "\\C[20][Noah]\\C[0] ............"
                             ]
                         },
                         {
@@ -4461,7 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky..."
+                                "\\C[20][Noah]\\C[0] Becky..."
                             ]
                         },
                         {
@@ -4761,7 +4761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ............"
+                                "\\C[20][Noah]\\C[0] ............"
                             ]
                         },
                         {
@@ -5233,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Foooohhh... foooohhh... this is great."
+                                "\\C[24][Cain]\\C[0] Foooohhh... foooohhh... this is great."
                             ]
                         },
                         {
@@ -5265,7 +5265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Ugh... it's too much...! Ahh!"
+                                "\\C[24][Becky]\\C[0] Ugh... it's too much...! Ahh!"
                             ]
                         },
                         {
@@ -5283,7 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: I'm moving now!"
+                                "\\C[24][Cain]\\C[0] I'm moving now!"
                             ]
                         },
                         {
@@ -5301,7 +5301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Ahh...! With someone other than Pole..."
+                                "\\C[24][Becky]\\C[0] Ahh...! With someone other than Pole..."
                             ]
                         },
                         {
@@ -5377,7 +5377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Ohh! Damn! Seriously amazing! A married woman's pussy is\nirresistible!"
+                                "\\C[24][Cain]\\C[0] Ohh! Damn! Seriously amazing! A married woman's pussy is\nirresistible!"
                             ]
                         },
                         {
@@ -5518,7 +5518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Fuoooh! Ah! Ah! Ah! Better than your husband's dick, right?!\nTake this!"
+                                "\\C[24][Cain]\\C[0] Fuoooh! Ah! Ah! Ah! Better than your husband's dick, right?!\nTake this!"
                             ]
                         },
                         {
@@ -8599,7 +8599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: I'm gonna cum inside you next to your husband! Here I go!"
+                                "\\C[24][Cain]\\C[0] I'm gonna cum inside you next to your husband! Here I go!"
                             ]
                         },
                         {
@@ -8624,7 +8624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Here it comes!! Take this!! Becky!"
+                                "\\C[24][Cain]\\C[0] Here it comes!! Take this!! Becky!"
                             ]
                         },
                         {
@@ -8784,7 +8784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Phew... Becky, can you feel me cumming inside you? I've finally\ntaken you from Pole."
+                                "\\C[24][Cain]\\C[0] Phew... Becky, can you feel me cumming inside you? I've finally\ntaken you from Pole."
                             ]
                         },
                         {
@@ -8850,7 +8850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Hey, as a memento of me cuckolding you in front of your husband,\nI want to take a photo. That's cool, right?"
+                                "\\C[24][Cain]\\C[0] Hey, as a memento of me cuckolding you in front of your husband,\nI want to take a photo. That's cool, right?"
                             ]
                         },
                         {
@@ -8868,7 +8868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Huh...?"
+                                "\\C[24][Becky]\\C[0] Huh...?"
                             ]
                         },
                         {
@@ -8886,7 +8886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: You said you'd do anything I asked, right? That you'd be\ncompletely obedient to me, right? Debt-ridden wife Becky."
+                                "\\C[24][Cain]\\C[0] You said you'd do anything I asked, right? That you'd be\ncompletely obedient to me, right? Debt-ridden wife Becky."
                             ]
                         },
                         {
@@ -8904,7 +8904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I get it, okay? Just do it if you're going to."
+                                "\\C[24][Becky]\\C[0] I get it, okay? Just do it if you're going to."
                             ]
                         },
                         {
@@ -9018,7 +9018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Pole..."
+                                "\\C[24][Becky]\\C[0] Pole..."
                             ]
                         },
                         {
@@ -9036,7 +9036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: How about that, Pole? I've taken Becky from you. Your wife's\nbeen cuckolded and yet you sleep so soundly. Hahaha"
+                                "\\C[24][Cain]\\C[0] How about that, Pole? I've taken Becky from you. Your wife's\nbeen cuckolded and yet you sleep so soundly. Hahaha"
                             ]
                         },
                         {
@@ -9054,7 +9054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ............"
+                                "\\C[20][Noah]\\C[0] ............"
                             ]
                         },
                         {
@@ -9123,7 +9123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -9141,7 +9141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Come on, make sure to report to your husband properly."
+                                "\\C[24][Cain]\\C[0] Come on, make sure to report to your husband properly."
                             ]
                         },
                         {
@@ -9159,7 +9159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Pole, I've become Cain's mistress."
+                                "\\C[24][Becky]\\C[0] Pole, I've become Cain's mistress."
                             ]
                         },
                         {
@@ -9193,7 +9193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -9211,7 +9211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Alright, let's take the picture."
+                                "\\C[24][Cain]\\C[0] Alright, let's take the picture."
                             ]
                         },
                         {
@@ -9236,7 +9236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Becky, whose dick did you like better, mine or your husband's?\nHuh? Tell me honestly."
+                                "\\C[24][Cain]\\C[0] Becky, whose dick did you like better, mine or your husband's?\nHuh? Tell me honestly."
                             ]
                         },
                         {
@@ -9254,7 +9254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Well, yours is bigger and..."
+                                "\\C[24][Becky]\\C[0] Well, yours is bigger and..."
                             ]
                         },
                         {
@@ -9272,7 +9272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Say it properly. Give your feedback in front of your husband."
+                                "\\C[24][Cain]\\C[0] Say it properly. Give your feedback in front of your husband."
                             ]
                         },
                         {
@@ -9290,7 +9290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -9324,7 +9324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Cain's dick is bigger and more satisfying than Pole's."
+                                "\\C[24][Becky]\\C[0] Cain's dick is bigger and more satisfying than Pole's."
                             ]
                         },
                         {
@@ -9342,7 +9342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I prefer Cain's dick because it's harder and feels better than\nmy husband's."
+                                "\\C[24][Becky]\\C[0] I prefer Cain's dick because it's harder and feels better than\nmy husband's."
                             ]
                         },
                         {
@@ -9367,7 +9367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Heheh, that's right. You really had that erotic look on your\nface."
+                                "\\C[24][Cain]\\C[0] Heheh, that's right. You really had that erotic look on your\nface."
                             ]
                         },
                         {
@@ -9385,7 +9385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -9419,7 +9419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hah... You're really despicable. Do you enjoy ruining someone\nelse's newlywed life that much?"
+                                "\\C[24][Becky]\\C[0] Hah... You're really despicable. Do you enjoy ruining someone\nelse's newlywed life that much?"
                             ]
                         },
                         {
@@ -9437,7 +9437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Shut up. Tell your husband more about how it felt."
+                                "\\C[24][Cain]\\C[0] Shut up. Tell your husband more about how it felt."
                             ]
                         },
                         {
@@ -9478,7 +9478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Pole, I want Cain's dick inside my pussy again."
+                                "\\C[24][Becky]\\C[0] Pole, I want Cain's dick inside my pussy again."
                             ]
                         },
                         {
@@ -9496,7 +9496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Nice. That's half true, isn't it? You were feeling it so much."
+                                "\\C[24][Cain]\\C[0] Nice. That's half true, isn't it? You were feeling it so much."
                             ]
                         },
                         {
@@ -9514,7 +9514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Shut up. It can't be helped that Pole is small. Seriously...\nYou and Dalieh really know how to please a woman."
+                                "\\C[24][Becky]\\C[0] Shut up. It can't be helped that Pole is small. Seriously...\nYou and Dalieh really know how to please a woman."
                             ]
                         },
                         {
@@ -9539,7 +9539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -9557,7 +9557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Uho... Pole, your wife was the best. Thanks for the meal♪"
+                                "\\C[24][Cain]\\C[0] Uho... Pole, your wife was the best. Thanks for the meal♪"
                             ]
                         },
                         {
@@ -9575,7 +9575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ............"
+                                "\\C[20][Noah]\\C[0] ............"
                             ]
                         },
                         {
@@ -9593,7 +9593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Seriously... The size difference is just too much."
+                                "\\C[24][Becky]\\C[0] Seriously... The size difference is just too much."
                             ]
                         },
                         {
@@ -9889,7 +9889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: (Hah... damn it... I have a husband and yet... it felt so\ngood...)"
+                                "\\C[24][Becky]\\C[0] (Hah... damn it... I have a husband and yet... it felt so\ngood...)"
                             ]
                         },
                         {

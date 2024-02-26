@@ -5094,7 +5094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: You're faces I don't recognize. Travelers?"
+                                "\\C[24][Becky]\\C[0] You're faces I don't recognize. Travelers?"
                             ]
                         },
                         {
@@ -5481,7 +5481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Wait a minute!"
+                                "\\C[24][Becky]\\C[0] Wait a minute!"
                             ]
                         },
                         {
@@ -5550,7 +5550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: You, with the pink hair and the prissy way of talking!"
+                                "\\C[24][Becky]\\C[0] You, with the pink hair and the prissy way of talking!"
                             ]
                         },
                         {
@@ -5601,7 +5601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: It's like we don't even exist to you. You seem like you don't\nwant to talk at all, huh?"
+                                "\\C[24][Becky]\\C[0] It's like we don't even exist to you. You seem like you don't\nwant to talk at all, huh?"
                             ]
                         },
                         {
@@ -5688,7 +5688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: It's bothering me~. Why don't you say something?"
+                                "\\C[24][Becky]\\C[0] It's bothering me~. Why don't you say something?"
                             ]
                         },
                         {
@@ -5826,7 +5826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey, pink hair! What's the idea? Are you planning to ignore us?"
+                                "\\C[24][Becky]\\C[0] Hey, pink hair! What's the idea? Are you planning to ignore us?"
                             ]
                         },
                         {
@@ -5928,7 +5928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: What do you mean 'ignore~n'? If you say it yourself, it's not\nignoring!"
+                                "\\C[24][Becky]\\C[0] What do you mean 'ignore~n'? If you say it yourself, it's not\nignoring!"
                             ]
                         },
                         {
@@ -6182,7 +6182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I'm telling you to wait! Are you making fun of us?!"
+                                "\\C[24][Becky]\\C[0] I'm telling you to wait! Are you making fun of us?!"
                             ]
                         },
                         {
@@ -6476,7 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Ugh......!"
+                                "\\C[24][Becky]\\C[0] Ugh......!"
                             ]
                         },
                         {
@@ -6541,7 +6541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: This girl......! (For a moment, my spine froze. This\nintimidating presence... her expression and tone completely\nchanged...)"
+                                "\\C[24][Becky]\\C[0] This girl......! (For a moment, my spine froze. This\nintimidating presence... her expression and tone completely\nchanged...)"
                             ]
                         },
                         {

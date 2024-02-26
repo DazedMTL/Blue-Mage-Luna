@@ -3940,7 +3940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I want to help, but we don't have the power to do so..."
+                                "\\C[24][Becky]\\C[0] I want to help, but we don't have the power to do so..."
                             ]
                         },
                         {
@@ -3958,7 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Ceres. Are you planning to abandon us? Even the free country of\nModuna has fallen."
+                                "\\C[24][Cain]\\C[0] Ceres. Are you planning to abandon us? Even the free country of\nModuna has fallen."
                             ]
                         },
                         {
@@ -3976,7 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Lady Ceres, we're at our wits' end here. Only you can mobilize\nthe Knights of Messiah. Please get permission from the king?"
+                                "\\C[24][Cain]\\C[0] Lady Ceres, we're at our wits' end here. Only you can mobilize\nthe Knights of Messiah. Please get permission from the king?"
                             ]
                         },
                         {
@@ -4045,7 +4045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Lady Ceres, if I may speak frankly, how many more civilians\nneed to die before the Knights of Messiah will take action?"
+                                "\\C[24][Becky]\\C[0] Lady Ceres, if I may speak frankly, how many more civilians\nneed to die before the Knights of Messiah will take action?"
                             ]
                         },
                         {
@@ -4114,7 +4114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: What do you mean...! Observe? After all that's happened, you\nstill want to 'observe'?"
+                                "\\C[24][Becky]\\C[0] What do you mean...! Observe? After all that's happened, you\nstill want to 'observe'?"
                             ]
                         },
                         {
@@ -5028,7 +5028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Wait a minute. So what are you saying? Should we just surrender\nto them? Even Ceres of the Knights of Messiah has fallen."
+                                "\\C[24][Becky]\\C[0] Wait a minute. So what are you saying? Should we just surrender\nto them? Even Ceres of the Knights of Messiah has fallen."
                             ]
                         },
                         {
@@ -5480,7 +5480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Wait a minute, Luuna!"
+                                "\\C[24][Becky]\\C[0] Wait a minute, Luuna!"
                             ]
                         },
                         {
@@ -5498,7 +5498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: We're going to join forces with Norvana? But they are the elite\nof the elite among the rebels. Will they even accept us as comrades?"
+                                "\\C[24][Cain]\\C[0] We're going to join forces with Norvana? But they are the elite\nof the elite among the rebels. Will they even accept us as comrades?"
                             ]
                         },
                         {
@@ -5766,7 +5766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Norvana, huh... I thought it was our last resort too, but it\nwould be amazing if we could join forces with them."
+                                "\\C[24][Becky]\\C[0] Norvana, huh... I thought it was our last resort too, but it\nwould be amazing if we could join forces with them."
                             ]
                         },
                         {
@@ -6963,7 +6963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: So, our next destination is \"Norvana.\" The informant Bem should\nknow the way there. But actually, my original mission was to keep an\neye on Luuna and Becky... I'm completely caught up in this mess now."
+                                "\\C[24][Cain]\\C[0] So, our next destination is \"Norvana.\" The informant Bem should\nknow the way there. But actually, my original mission was to keep an\neye on Luuna and Becky... I'm completely caught up in this mess now."
                             ]
                         },
                         {

@@ -4936,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -4954,7 +4954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sigh... The day has finally come for me to sleep with a man\nwhose name I don't even know."
+                                "\\C[24][Becky]\\C[0] Sigh... The day has finally come for me to sleep with a man\nwhose name I don't even know."
                             ]
                         },
                         {
@@ -4972,7 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Any moment now, that horny guy will come to embrace me... sigh."
+                                "\\C[24][Becky]\\C[0] Any moment now, that horny guy will come to embrace me... sigh."
                             ]
                         },
                         {
@@ -4990,7 +4990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I have to do as the manager told me."
+                                "\\C[24][Becky]\\C[0] I have to do as the manager told me."
                             ]
                         },
                         {
@@ -5008,7 +5008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -5026,7 +5026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I have to keep this a secret from Pole..."
+                                "\\C[24][Becky]\\C[0] I have to keep this a secret from Pole..."
                             ]
                         },
                         {
@@ -5044,7 +5044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: At least... I've washed down there... and trimmed my pubic\nhair. He can do whatever he wants to me after that. Sigh... seriously."
+                                "\\C[24][Becky]\\C[0] At least... I've washed down there... and trimmed my pubic\nhair. He can do whatever he wants to me after that. Sigh... seriously."
                             ]
                         },
                         {
@@ -5074,7 +5074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky!"
+                                "\\C[20][Noah]\\C[0] Becky!"
                             ]
                         },
                         {
@@ -5092,7 +5092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Ah! Pole..."
+                                "\\C[24][Becky]\\C[0] Ah! Pole..."
                             ]
                         },
                         {
@@ -5110,61 +5110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: What's up? I have something to do soon..."
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Pole: Something to do? You sound strange, what's up?"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Becky: It's nothing, really."
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Becky: Anyway, what's up?"
+                                "\\C[24][Becky]\\C[0] What's up? I have something to do soon..."
                             ]
                         },
                         {
@@ -5182,7 +5128,43 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Just worried about you. It's our first year of marriage, after\nall."
+                                "\\C[20][Noah]\\C[0] Something to do? You sound strange, what's up?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[24][Becky]\\C[0] It's nothing, really."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[24][Becky]\\C[0] Anyway, what's up?"
                             ]
                         },
                         {
@@ -5200,7 +5182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: You're far away and the nights are lonely without you."
+                                "\\C[20][Noah]\\C[0] Just worried about you. It's our first year of marriage, after\nall."
                             ]
                         },
                         {
@@ -5218,43 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky, I love you."
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Becky: Eh..."
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Becky: Hahaha... That's not like you, Pole. What are you talking\nabout?"
+                                "\\C[20][Noah]\\C[0] You're far away and the nights are lonely without you."
                             ]
                         },
                         {
@@ -5272,7 +5218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: It's not weird. You're my wife, after all."
+                                "\\C[20][Noah]\\C[0] Becky, I love you."
                             ]
                         },
                         {
@@ -5290,7 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Haha... Right."
+                                "\\C[24][Becky]\\C[0] Eh..."
                             ]
                         },
                         {
@@ -5308,25 +5254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: (Pole......)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Becky: So, Pole, I'm going to hang up now."
+                                "\\C[24][Becky]\\C[0] Hahaha... That's not like you, Pole. What are you talking\nabout?"
                             ]
                         },
                         {
@@ -5344,7 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Yeah. I love you, Becky."
+                                "\\C[20][Noah]\\C[0] It's not weird. You're my wife, after all."
                             ]
                         },
                         {
@@ -5362,7 +5290,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I love you too, Pole..."
+                                "\\C[24][Becky]\\C[0] Haha... Right."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[24][Becky]\\C[0] (Pole......)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[24][Becky]\\C[0] So, Pole, I'm going to hang up now."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[20][Noah]\\C[0] Yeah. I love you, Becky."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[24][Becky]\\C[0] I love you too, Pole..."
                             ]
                         },
                         {
@@ -5392,7 +5392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -5410,7 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Sigh... Of all times for Pole to call... What am I doing..."
+                                "\\C[24][Becky]\\C[0] Sigh... Of all times for Pole to call... What am I doing..."
                             ]
                         },
                         {
@@ -5512,7 +5512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: He's here..."
+                                "\\C[24][Becky]\\C[0] He's here..."
                             ]
                         },
                         {
@@ -5603,7 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Th-thank you... Nice to meet you."
+                                "\\C[24][Becky]\\C[0] Th-thank you... Nice to meet you."
                             ]
                         },
                         {
@@ -5639,7 +5639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Yes... well..."
+                                "\\C[24][Becky]\\C[0] Yes... well..."
                             ]
                         },
                         {
@@ -5675,7 +5675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: (Sigh... Even if he's a worthless guy, he's still a customer. I\nhave to be nice.)"
+                                "\\C[24][Becky]\\C[0] (Sigh... Even if he's a worthless guy, he's still a customer. I\nhave to be nice.)"
                             ]
                         },
                         {
@@ -5709,7 +5709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Today, I'll be the one you'll be fucking, Becky. Please take\ncare of me."
+                                "\\C[24][Becky]\\C[0] Today, I'll be the one you'll be fucking, Becky. Please take\ncare of me."
                             ]
                         },
                         {
@@ -5752,7 +5752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Then, let's start our pussy time."
+                                "\\C[24][Becky]\\C[0] Then, let's start our pussy time."
                             ]
                         },
                         {
@@ -5788,7 +5788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Gah... Y-yes. Today is a safe day. (The worst!)"
+                                "\\C[24][Becky]\\C[0] Gah... Y-yes. Today is a safe day. (The worst!)"
                             ]
                         },
                         {
@@ -5849,7 +5849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -5892,7 +5892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Haa... mmm... mmm..."
+                                "\\C[24][Becky]\\C[0] Haa... mmm... mmm..."
                             ]
                         },
                         {
@@ -5917,7 +5917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: My three sizes are B:95 W:62 H:88."
+                                "\\C[24][Becky]\\C[0] My three sizes are B:95 W:62 H:88."
                             ]
                         },
                         {
@@ -5953,7 +5953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Thank you..."
+                                "\\C[24][Becky]\\C[0] Thank you..."
                             ]
                         },
                         {
@@ -5978,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -6064,7 +6064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I don't know... Please don't talk about my husband right now..."
+                                "\\C[24][Becky]\\C[0] I don't know... Please don't talk about my husband right now..."
                             ]
                         },
                         {
@@ -6126,7 +6126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky!"
+                                "\\C[20][Noah]\\C[0] Becky!"
                             ]
                         },
                         {
@@ -6144,25 +6144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Pole... I'm busy now, so let's talk later."
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Pole: !? Hey, is there someone with you?"
+                                "\\C[24][Becky]\\C[0] Pole... I'm busy now, so let's talk later."
                             ]
                         },
                         {
@@ -6180,25 +6162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: It's not a man, is it?"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Becky: There's, there's no one here. What's gotten into you all of a\nsudden?"
+                                "\\C[20][Noah]\\C[0] !? Hey, is there someone with you?"
                             ]
                         },
                         {
@@ -6216,7 +6180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: As long as there's no one, that's fine..."
+                                "\\C[20][Noah]\\C[0] It's not a man, is it?"
                             ]
                         },
                         {
@@ -6234,7 +6198,43 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I'm, I'm hanging up. I'm busy right now."
+                                "\\C[24][Becky]\\C[0] There's, there's no one here. What's gotten into you all of a\nsudden?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[20][Noah]\\C[0] As long as there's no one, that's fine..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\C[24][Becky]\\C[0] I'm, I'm hanging up. I'm busy right now."
                             ]
                         },
                         {
@@ -6282,7 +6282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Yes... my husband is the worrying type."
+                                "\\C[24][Becky]\\C[0] Yes... my husband is the worrying type."
                             ]
                         },
                         {
@@ -6318,7 +6318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I've already hung up, so it's fine. Let's continue. Mmm..."
+                                "\\C[24][Becky]\\C[0] I've already hung up, so it's fine. Let's continue. Mmm..."
                             ]
                         },
                         {
@@ -9780,7 +9780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -9798,7 +9798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Haa... I was made to squirt so much... He was such a pervert.\nThat was the first one. I wonder what kind of man the next one will\nbe..."
+                                "\\C[24][Becky]\\C[0] Haa... I was made to squirt so much... He was such a pervert.\nThat was the first one. I wonder what kind of man the next one will\nbe..."
                             ]
                         },
                         {
@@ -9828,7 +9828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky!"
+                                "\\C[20][Noah]\\C[0] Becky!"
                             ]
                         },
                         {
@@ -9846,7 +9846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Pole... I told you not to call me now... Mmm"
+                                "\\C[24][Becky]\\C[0] Pole... I told you not to call me now... Mmm"
                             ]
                         },
                         {
@@ -9864,7 +9864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Hey!"
+                                "\\C[20][Noah]\\C[0] Hey!"
                             ]
                         },
                         {
@@ -9882,7 +9882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I'm hanging up. (The next guy is coming soon...)"
+                                "\\C[24][Becky]\\C[0] I'm hanging up. (The next guy is coming soon...)"
                             ]
                         },
                         {
@@ -9912,7 +9912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -9930,7 +9930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I need to change clothes."
+                                "\\C[24][Becky]\\C[0] I need to change clothes."
                             ]
                         },
                         {
@@ -10013,7 +10013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ............"
+                                "\\C[24][Becky]\\C[0] ............"
                             ]
                         },
                         {
@@ -10144,7 +10144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Here he comes..."
+                                "\\C[24][Becky]\\C[0] Here he comes..."
                             ]
                         },
                         {
@@ -10217,7 +10217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Welcome."
+                                "\\C[24][Becky]\\C[0] Welcome."
                             ]
                         },
                         {
@@ -10271,7 +10271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Yes... Please enjoy my pussy."
+                                "\\C[24][Becky]\\C[0] Yes... Please enjoy my pussy."
                             ]
                         },
                         {
@@ -10303,7 +10303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -10335,7 +10335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Haa... mmm... mmm..."
+                                "\\C[24][Becky]\\C[0] Haa... mmm... mmm..."
                             ]
                         },
                         {
@@ -10360,7 +10360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Thank you..."
+                                "\\C[24][Becky]\\C[0] Thank you..."
                             ]
                         },
                         {
@@ -10385,7 +10385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -11041,7 +11041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Phew... it's finally over."
+                                "\\C[24][Becky]\\C[0] Phew... it's finally over."
                             ]
                         },
                         {
@@ -11077,7 +11077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: During sex, I kept getting messages from Pole. It was the\nworst."
+                                "\\C[24][Becky]\\C[0] During sex, I kept getting messages from Pole. It was the\nworst."
                             ]
                         },
                         {
@@ -11102,7 +11102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Pole would never imagine Becky getting her pussy filled by all\nthese guys. As for me, I'm thinking 'serves him right' though."
+                                "\\C[24][Cain]\\C[0] Pole would never imagine Becky getting her pussy filled by all\nthese guys. As for me, I'm thinking 'serves him right' though."
                             ]
                         },
                         {
@@ -11120,7 +11120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Seriously..."
+                                "\\C[24][Becky]\\C[0] Seriously..."
                             ]
                         },
                         {
@@ -11273,7 +11273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ..."
+                                "\\C[24][Becky]\\C[0] ..."
                             ]
                         },
                         {
@@ -11291,7 +11291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Any minute now, that horny guy who's going to fuck me will be\nhere... *sigh*"
+                                "\\C[24][Becky]\\C[0] Any minute now, that horny guy who's going to fuck me will be\nhere... *sigh*"
                             ]
                         },
                         {
@@ -11309,7 +11309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I have to do as the manager says."
+                                "\\C[24][Becky]\\C[0] I have to do as the manager says."
                             ]
                         },
                         {
@@ -11336,7 +11336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ..."
+                                "\\C[20][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -11354,7 +11354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: That Becky... what the hell is she doing... damn it..."
+                                "\\C[20][Noah]\\C[0] That Becky... what the hell is she doing... damn it..."
                             ]
                         },
                         {
@@ -11372,7 +11372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ..."
+                                "\\C[24][Becky]\\C[0] ..."
                             ]
                         },
                         {
@@ -11390,7 +11390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I have to keep it a secret from Pole..."
+                                "\\C[24][Becky]\\C[0] I have to keep it a secret from Pole..."
                             ]
                         },
                         {
@@ -11408,7 +11408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: For now... I've washed down there... and trimmed my pubic hair.\nThey can do whatever they want with me after that. *sigh* Seriously..."
+                                "\\C[24][Becky]\\C[0] For now... I've washed down there... and trimmed my pubic hair.\nThey can do whatever they want with me after that. *sigh* Seriously..."
                             ]
                         },
                         {
@@ -11426,7 +11426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ..."
+                                "\\C[24][Becky]\\C[0] ..."
                             ]
                         },
                         {
@@ -11444,7 +11444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: *sigh* At a time like this, getting calls from Pole... what am\nI even doing..."
+                                "\\C[24][Becky]\\C[0] *sigh* At a time like this, getting calls from Pole... what am\nI even doing..."
                             ]
                         },
                         {
@@ -11546,7 +11546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: He's here..."
+                                "\\C[24][Becky]\\C[0] He's here..."
                             ]
                         },
                         {
@@ -11637,7 +11637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Th-thank you... nice to meet you."
+                                "\\C[24][Becky]\\C[0] Th-thank you... nice to meet you."
                             ]
                         },
                         {
@@ -11673,7 +11673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Yes... well..."
+                                "\\C[24][Becky]\\C[0] Yes... well..."
                             ]
                         },
                         {
@@ -11709,7 +11709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: (Ugh... Even if he's a pathetic guy, he's still a customer. I\nhave to be nice.)"
+                                "\\C[24][Becky]\\C[0] (Ugh... Even if he's a pathetic guy, he's still a customer. I\nhave to be nice.)"
                             ]
                         },
                         {
@@ -11743,7 +11743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: My name is Becky, and I'll be the one you'll be fucking today.\nPlease take care of me."
+                                "\\C[24][Becky]\\C[0] My name is Becky, and I'll be the one you'll be fucking today.\nPlease take care of me."
                             ]
                         },
                         {
@@ -11786,7 +11786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Then, let's start our pussy time."
+                                "\\C[24][Becky]\\C[0] Then, let's start our pussy time."
                             ]
                         },
                         {
@@ -11822,7 +11822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Ghh... Y-yes. Today is a safe day. (The worst!)"
+                                "\\C[24][Becky]\\C[0] Ghh... Y-yes. Today is a safe day. (The worst!)"
                             ]
                         },
                         {
@@ -11883,7 +11883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -11926,7 +11926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: *panting* Mmm... Mmm..."
+                                "\\C[24][Becky]\\C[0] *panting* Mmm... Mmm..."
                             ]
                         },
                         {
@@ -11951,7 +11951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: My measurements are B:95 W:62 H:88."
+                                "\\C[24][Becky]\\C[0] My measurements are B:95 W:62 H:88."
                             ]
                         },
                         {
@@ -11987,7 +11987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Thank you..."
+                                "\\C[24][Becky]\\C[0] Thank you..."
                             ]
                         },
                         {
@@ -12012,7 +12012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -12098,7 +12098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I don't know... Please don't talk about my husband right now..."
+                                "\\C[24][Becky]\\C[0] I don't know... Please don't talk about my husband right now..."
                             ]
                         },
                         {
@@ -12235,7 +12235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -12336,7 +12336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Damn it..."
+                                "\\C[20][Noah]\\C[0] Damn it..."
                             ]
                         },
                         {
@@ -12354,7 +12354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ..."
+                                "\\C[20][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -12372,7 +12372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky... that bastard... taking my wife's body like that..."
+                                "\\C[20][Noah]\\C[0] Becky... that bastard... taking my wife's body like that..."
                             ]
                         },
                         {
@@ -12735,7 +12735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ..."
+                                "\\C[20][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -13035,7 +13035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ..."
+                                "\\C[20][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -13335,7 +13335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky..."
+                                "\\C[20][Noah]\\C[0] Becky..."
                             ]
                         },
                         {
@@ -13635,7 +13635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ..."
+                                "\\C[20][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -17488,7 +17488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ..."
+                                "\\C[24][Becky]\\C[0] ..."
                             ]
                         },
                         {
@@ -17506,7 +17506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Haah... I was made to squirt so much... He was such a pervert.\nThat was just the first guy. I wonder what kind of man will be next..."
+                                "\\C[24][Becky]\\C[0] Haah... I was made to squirt so much... He was such a pervert.\nThat was just the first guy. I wonder what kind of man will be next..."
                             ]
                         },
                         {
@@ -17524,7 +17524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ..."
+                                "\\C[20][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -17542,7 +17542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I need to change."
+                                "\\C[24][Becky]\\C[0] I need to change."
                             ]
                         },
                         {
@@ -17625,7 +17625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: ..."
+                                "\\C[24][Becky]\\C[0] ..."
                             ]
                         },
                         {
@@ -17756,7 +17756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Here he comes..."
+                                "\\C[24][Becky]\\C[0] Here he comes..."
                             ]
                         },
                         {
@@ -17829,7 +17829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Welcome."
+                                "\\C[24][Becky]\\C[0] Welcome."
                             ]
                         },
                         {
@@ -17883,7 +17883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Yes... Please enjoy my pussy."
+                                "\\C[24][Becky]\\C[0] Yes... Please enjoy my pussy."
                             ]
                         },
                         {
@@ -17908,7 +17908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ..."
+                                "\\C[20][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -17933,7 +17933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -17965,7 +17965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Haah... Mmm... Mmm..."
+                                "\\C[24][Becky]\\C[0] Haah... Mmm... Mmm..."
                             ]
                         },
                         {
@@ -17990,7 +17990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Thank you..."
+                                "\\C[24][Becky]\\C[0] Thank you..."
                             ]
                         },
                         {
@@ -18015,7 +18015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Mmm..."
+                                "\\C[24][Becky]\\C[0] Mmm..."
                             ]
                         },
                         {
@@ -18256,7 +18256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: ..."
+                                "\\C[20][Noah]\\C[0] ..."
                             ]
                         },
                         {
@@ -18678,7 +18678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Phew... It's finally over."
+                                "\\C[24][Becky]\\C[0] Phew... It's finally over."
                             ]
                         },
                         {
@@ -18714,7 +18714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: During sex, I kept getting calls from Pole. It was the worst."
+                                "\\C[24][Becky]\\C[0] During sex, I kept getting calls from Pole. It was the worst."
                             ]
                         },
                         {
@@ -18739,7 +18739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Pole would never imagine Becky getting fucked by all these guys.\nAs for me, I'm thinking 'serves him right' though."
+                                "\\C[24][Cain]\\C[0] Pole would never imagine Becky getting fucked by all these guys.\nAs for me, I'm thinking 'serves him right' though."
                             ]
                         },
                         {
@@ -18757,7 +18757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Seriously..."
+                                "\\C[24][Becky]\\C[0] Seriously..."
                             ]
                         },
                         {
@@ -19657,7 +19657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: (I'm okay for now...)"
+                                "\\C[24][Becky]\\C[0] (I'm okay for now...)"
                             ]
                         },
                         {

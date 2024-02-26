@@ -5195,7 +5195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: What is this guy!?"
+                                "\\C[24][Becky]\\C[0] What is this guy!?"
                             ]
                         },
                         {
@@ -5231,7 +5231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Hey, hasn't Regnus Grahardt been here? If he had, this guardian\nshould have been defeated, right?"
+                                "\\C[24][Cain]\\C[0] Hey, hasn't Regnus Grahardt been here? If he had, this guardian\nshould have been defeated, right?"
                             ]
                         },
                         {

@@ -4152,7 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Baro, thanks."
+                                "\\C[24][Cain]\\C[0] Baro, thanks."
                             ]
                         },
                         {
@@ -4221,7 +4221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: It's a communicator. Pole asked me to get it because Luuna and\nBecky might cheat while they're on an adventure."
+                                "\\C[24][Cain]\\C[0] It's a communicator. Pole asked me to get it because Luuna and\nBecky might cheat while they're on an adventure."
                             ]
                         },
                         {
@@ -4272,7 +4272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: I see, a communicator. That's such a Pole thing to order.\nLuuna, your lover Noah is worried about you too."
+                                "\\C[24][Becky]\\C[0] I see, a communicator. That's such a Pole thing to order.\nLuuna, your lover Noah is worried about you too."
                             ]
                         },
                         {
@@ -4341,7 +4341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Don't you forget, okay? If you can't earn money by any means\nother than prostitution, you'll have to prostitute yourselves and pay\nthe village."
+                                "\\C[24][Cain]\\C[0] Don't you forget, okay? If you can't earn money by any means\nother than prostitution, you'll have to prostitute yourselves and pay\nthe village."
                             ]
                         },
                         {
@@ -4359,7 +4359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes... Becky: I understand."
+                                "\\C[23][Luna]\\C[0] Yes... \\C[24][Becky]\\C[0] I understand."
                             ]
                         },
                         {
@@ -4468,7 +4468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Yeah, I can hear Luuna's voice. It's amazing. Now we can stay in\ntouch anytime."
+                                "\\C[29][Noah]\\C[0] Yeah, I can hear Luuna's voice. It's amazing. Now we can stay in\ntouch anytime."
                             ]
                         },
                         {
@@ -4570,7 +4570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hey, Pole, can you hear me?"
+                                "\\C[24][Becky]\\C[0] Hey, Pole, can you hear me?"
                             ]
                         },
                         {
@@ -4588,7 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Yeah, Becky, I can hear you. This communicator is amazing, huh?"
+                                "\\C[20][Noah]\\C[0] Yeah, Becky, I can hear you. This communicator is amazing, huh?"
                             ]
                         },
                         {
@@ -4606,7 +4606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pole: Becky, don't cheat on me while I'm not around, okay?"
+                                "\\C[20][Noah]\\C[0] Becky, don't cheat on me while I'm not around, okay?"
                             ]
                         },
                         {
@@ -4624,7 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Haha... Of course not. (I can't possibly tell him that I might\nhave to resort to prostitution...)"
+                                "\\C[24][Becky]\\C[0] Haha... Of course not. (I can't possibly tell him that I might\nhave to resort to prostitution...)"
                             ]
                         },
                         {
@@ -4675,7 +4675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Well... see ya, Pole. I'll contact you again."
+                                "\\C[24][Becky]\\C[0] Well... see ya, Pole. I'll contact you again."
                             ]
                         },
                         {
@@ -4726,7 +4726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Phew..."
+                                "\\C[24][Becky]\\C[0] Phew..."
                             ]
                         },
                         {
@@ -4762,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Baro, you've been a big help. Now Luuna and Becky won't feel\nlonely during their adventures. Haha"
+                                "\\C[24][Cain]\\C[0] Baro, you've been a big help. Now Luuna and Becky won't feel\nlonely during their adventures. Haha"
                             ]
                         },
                         {

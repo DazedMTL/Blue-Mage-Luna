@@ -8794,7 +8794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hmm... I couldn't hear the crucial part. It got inaudible\naround the time Rinny came out."
+                                "\\C[24][Becky]\\C[0] Hmm... I couldn't hear the crucial part. It got inaudible\naround the time Rinny came out."
                             ]
                         },
                         {
@@ -8863,7 +8863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Anyway, let's get out of here quickly. It's cold."
+                                "\\C[24][Cain]\\C[0] Anyway, let's get out of here quickly. It's cold."
                             ]
                         },
                         {
@@ -8893,7 +8893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Luuna!"
+                                "\\C[29][Noah]\\C[0] Luuna!"
                             ]
                         },
                         {
@@ -9013,7 +9013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: No... I just got worried about you, Luuna. And I was wondering\nwhat you're up to now."
+                                "\\C[29][Noah]\\C[0] No... I just got worried about you, Luuna. And I was wondering\nwhat you're up to now."
                             ]
                         },
                         {
@@ -9149,7 +9149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Noah: Yeah. Luuna, I love you too."
+                                "\\C[29][Noah]\\C[0] Yeah. Luuna, I love you too."
                             ]
                         },
                         {
@@ -9216,7 +9216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Hehe... Luuna~, is that a love call? You seem so happy~? You\nlittle~"
+                                "\\C[24][Becky]\\C[0] Hehe... Luuna~, is that a love call? You seem so happy~? You\nlittle~"
                             ]
                         },
                         {
@@ -9234,7 +9234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: Oh! Luuna, did you finally let Noah hold you?"
+                                "\\C[24][Cain]\\C[0] Oh! Luuna, did you finally let Noah hold you?"
                             ]
                         },
                         {

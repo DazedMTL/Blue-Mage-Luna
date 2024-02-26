@@ -3249,7 +3249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Becky: Luuna, before we enter here, I want to go to \"Fortress\nJupiterino.\" It's been on my mind."
+                                "\\C[24][Becky]\\C[0] Luuna, before we enter here, I want to go to \"Fortress\nJupiterino.\" It's been on my mind."
                             ]
                         },
                         {

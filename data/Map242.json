@@ -5907,7 +5907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: It's a very beautiful mineral."
+                                "\\C[24][Becky]\\C[0] It's a very beautiful mineral."
                             ]
                         },
                         {
@@ -6029,7 +6029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Eh, it contains magical power?"
+                                "\\C[24][Becky]\\C[0] Eh, it contains magical power?"
                             ]
                         },
                         {
@@ -6047,7 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: It looks like a suspicious stone. Maybe we shouldn't take it\nhome, huh?"
+                                "\\C[24][Cain]\\C[0] It looks like a suspicious stone. Maybe we shouldn't take it\nhome, huh?"
                             ]
                         },
                         {
@@ -6065,7 +6065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: But I'm curious..."
+                                "\\C[24][Becky]\\C[0] But I'm curious..."
                             ]
                         },
                         {
@@ -6134,7 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: Right. Let's show it to Rade. She might know something about\nit. Since we've found it, let's take it home. Luuna, that's okay,\nright?"
+                                "\\C[24][Becky]\\C[0] Right. Let's show it to Rade. She might know something about\nit. Since we've found it, let's take it home. Luuna, that's okay,\nright?"
                             ]
                         },
                         {
@@ -6203,7 +6203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cain: We're taking it home? Rade probably won't be pleased unless it's\nsweets."
+                                "\\C[24][Cain]\\C[0] We're taking it home? Rade probably won't be pleased unless it's\nsweets."
                             ]
                         },
                         {
@@ -6221,7 +6221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Becky: It's fine!"
+                                "\\C[24][Becky]\\C[0] It's fine!"
                             ]
                         },
                         {
