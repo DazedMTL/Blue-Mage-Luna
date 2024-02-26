@@ -3629,7 +3629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: So you're the Knight of Messiah, Ceres Aria-Ann, huh?"
+                                "\\C[2]Sylvia\\C[0] So you're the Knight of Messiah, Ceres Aria-Ann, huh?"
                             ]
                         },
                         {
@@ -3692,7 +3692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: Spare me the flattery."
+                                "\\C[2]Sylvia\\C[0] Spare me the flattery."
                             ]
                         },
                         {
@@ -3710,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: If you've come to mediate a ceasefire, Ceres-dono, the answer is no.\nPlease leave."
+                                "\\C[2]Sylvia\\C[0] If you've come to mediate a ceasefire, Ceres-dono, the answer is no.\nPlease leave."
                             ]
                         },
                         {
@@ -3870,7 +3870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: ..."
+                                "\\C[2]Sylvia\\C[0] ..."
                             ]
                         },
                         {
@@ -3888,7 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: Ceres Aria-Ann, what are you plotting?"
+                                "\\C[2]Sylvia\\C[0] Ceres Aria-Ann, what are you plotting?"
                             ]
                         },
                         {
@@ -3924,7 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: ..."
+                                "\\C[2]Sylvia\\C[0] ..."
                             ]
                         },
                         {
@@ -3942,7 +3942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: Well, fine. I'll call for Leon."
+                                "\\C[2]Sylvia\\C[0] Well, fine. I'll call for Leon."
                             ]
                         },
                         {

@@ -14499,7 +14499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: No way... Lord Zena... Impossible..."
+                                "\\C[2]Sylvia\\C[0] No way... Lord Zena... Impossible..."
                             ]
                         },
                         {
@@ -14535,7 +14535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: Grr..."
+                                "\\C[2]Sylvia\\C[0] Grr..."
                             ]
                         },
                         {
@@ -14739,7 +14739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: Kyaa..."
+                                "\\C[2]Sylvia\\C[0] Kyaa..."
                             ]
                         },
                         {
@@ -15170,7 +15170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: The forbidden book of immortality..."
+                                "\\C[2]Sylvia\\C[0] The forbidden book of immortality..."
                             ]
                         },
                         {
@@ -15326,7 +15326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: Lord Zena, Luna's existence is too dangerous. Quickly, use the Threads\nof Death."
+                                "\\C[2]Sylvia\\C[0] Lord Zena, Luna's existence is too dangerous. Quickly, use the Threads\nof Death."
                             ]
                         },
                         {

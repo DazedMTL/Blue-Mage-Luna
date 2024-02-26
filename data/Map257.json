@@ -6030,7 +6030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: Hehe... I'll be taking those children."
+                                "\\C[2]Sylvia\\C[0] Hehe... I'll be taking those children."
                             ]
                         },
                         {
@@ -6066,7 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: Hilda gets cranky if she doesn't regularly eat little ones."
+                                "\\C[2]Sylvia\\C[0] Hilda gets cranky if she doesn't regularly eat little ones."
                             ]
                         },
                         {
@@ -6342,7 +6342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sylvia: Resistance is futile. Hehehe..."
+                                "\\C[2]Sylvia\\C[0] Resistance is futile. Hehehe..."
                             ]
                         },
                         {
