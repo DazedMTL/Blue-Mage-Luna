@@ -4598,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Servant] If you wish to recall your magic, please speak to Lady Rade.\nIf you bring a gift that pleases Lady Rade, you will be able to\nremember. However, you cannot recall high-level magic if Luuna's level\nis too low."
+                                "[Servant] If you wish to recall your magic, please speak to Lady Rade.\nIf you bring a gift that pleases Lady Rade, you will be able to\nremember. However, you cannot recall high-level magic if Luna's level\nis too low."
                             ]
                         },
                         {
@@ -5200,7 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Sigh... Luuna, it's useless to ask Rade. Let's think of another\nway."
+                                "\\C[24][Becky]\\C[0] Sigh... Luna, it's useless to ask Rade. Let's think of another\nway."
                             ]
                         },
                         {

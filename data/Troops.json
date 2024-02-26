@@ -5263,7 +5263,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\C[17][Lucia]\\C[0] Luuna, there are innate differences in talent that simply\ncannot be helped."
+                            "\\C[17][Lucia]\\C[0] Luna, there are innate differences in talent that simply\ncannot be helped."
                         ]
                     },
                     {
@@ -5752,7 +5752,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\C[24][Becky]\\C[0] I see... Luuna, it seems this enemy uses a special powerful\ntechnique. Make sure to learn it and defeat them with Blue Magic! We\ncan't win if we fight them head-on."
+                            "\\C[24][Becky]\\C[0] I see... Luna, it seems this enemy uses a special powerful\ntechnique. Make sure to learn it and defeat them with Blue Magic! We\ncan't win if we fight them head-on."
                         ]
                     },
                     {
@@ -5818,7 +5818,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\I[89]HINT!: Learn the enemy's technique and attack with Blue Magic. Luuna\ncan learn the enemy's technique just by seeing it."
+                            "\\I[89]HINT!: Learn the enemy's technique and attack with Blue Magic. Luna\ncan learn the enemy's technique just by seeing it."
                         ]
                     },
                     {
@@ -5836,7 +5836,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\I[89]HINT!: The enemy's technique that you've learned will be registered in\nLuuna's skill 'Blue Magic'. Select the learned technique from the Blue\nMagic list to defeat the enemy."
+                            "\\I[89]HINT!: The enemy's technique that you've learned will be registered in\nLuna's skill 'Blue Magic'. Select the learned technique from the Blue\nMagic list to defeat the enemy."
                         ]
                     },
                     {
@@ -6411,7 +6411,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "Hilda: Luuna, are you feeling guilty? Then feel even more responsible."
+                            "Hilda: Luna, are you feeling guilty? Then feel even more responsible."
                         ]
                     },
                     {

@@ -1546,7 +1546,7 @@
         "message1": "%1 rammed into them!",
         "message2": "",
         "mpCost": 0,
-        "name": "Ero Attack (Luuna Penetration)",
+        "name": "Ero Attack (Luna Penetration)",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -9812,7 +9812,7 @@
             "type": 1,
             "variance": 21
         },
-        "description": "Luuna's special move. Attack the enemy 8 times at random with acid\nrain, high chance of instant death. 80% chance to poison.",
+        "description": "Luna's special move. Attack the enemy 8 times at random with acid\nrain, high chance of instant death. 80% chance to poison.",
         "effects": [
             {
                 "code": 21,

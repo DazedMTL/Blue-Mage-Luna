@@ -4655,7 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Coris: You're Luuna, the Azure Sorceress from Sheena Village...!"
+                                "Coris: You're Luna, the Azure Sorceress from Sheena Village...!"
                             ]
                         },
                         {
@@ -4803,7 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: Luuna, we'll also try to search for Regnus Grahardt."
+                                "Ceres: Luna, we'll also try to search for Regnus Grahardt."
                             ]
                         },
                         {
@@ -5480,7 +5480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Corys: Thank you, Sorceress Luuna, for helping Mao and Mei."
+                                "Corys: Thank you, Sorceress Luna, for helping Mao and Mei."
                             ]
                         },
                         {
@@ -5857,7 +5857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Wait a minute, Luuna! After all the trouble we went through to\nfind it!"
+                                "\\C[24][Becky]\\C[0] Wait a minute, Luna! After all the trouble we went through to\nfind it!"
                             ]
                         },
                         {

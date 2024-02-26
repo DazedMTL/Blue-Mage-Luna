@@ -4655,7 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Coris] You are Luuna, the blue mage from Sheena Village...!"
+                                "[Coris] You are Luna, the blue mage from Sheena Village...!"
                             ]
                         },
                         {
@@ -4803,7 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"Luuna, we'll also try searching for Regnus Grahardt.\""
+                                "Ceres: \"Luna, we'll also try searching for Regnus Grahardt.\""
                             ]
                         },
                         {
@@ -5010,7 +5010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Luuna, it's been a while."
+                                "\\C[17][Lucia]\\C[0] Luna, it's been a while."
                             ]
                         },
                         {
@@ -5224,7 +5224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Luuna, it seems you've somehow become able to use magic. I'm\nsurprised."
+                                "\\C[17][Lucia]\\C[0] Luna, it seems you've somehow become able to use magic. I'm\nsurprised."
                             ]
                         },
                         {
@@ -5877,7 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] I'm talking about you, Luuna. At the prestigious Valentina\nMagic School, you were a student who caught Sylvia's eye. But your\nmagical talent is nothing compared to mine."
+                                "\\C[17][Lucia]\\C[0] I'm talking about you, Luna. At the prestigious Valentina\nMagic School, you were a student who caught Sylvia's eye. But your\nmagical talent is nothing compared to mine."
                             ]
                         },
                         {
@@ -6626,7 +6626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Luuna, what are we going to do now?"
+                                "\\C[24][Becky]\\C[0] Luna, what are we going to do now?"
                             ]
                         },
                         {
