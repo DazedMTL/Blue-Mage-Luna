@@ -16335,7 +16335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: ...!!! \\C[23][Luna]\\C[0] ...!!!"
+                                "\\C[5]Rinny\\C[0] ...!!! \\C[23][Luna]\\C[0] ...!!!"
                             ]
                         },
                         {
@@ -16455,7 +16455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: You are... the Blue Sorceress, Luna."
+                                "\\C[5]Rinny\\C[0] You are... the Blue Sorceress, Luna."
                             ]
                         },
                         {
@@ -16506,7 +16506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: I've heard rumors that you're now with the Jupiterino Resistance. You\nwere once a court sorceress boasting the pride of the imperial capital,\nJupiterino. I don't know what brought you to this."
+                                "\\C[5]Rinny\\C[0] I've heard rumors that you're now with the Jupiterino Resistance. You\nwere once a court sorceress boasting the pride of the imperial capital,\nJupiterino. I don't know what brought you to this."
                             ]
                         },
                         {
@@ -16608,7 +16608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: I'm not usually a member of the Knights of Messiah. I'm only lending a\nhand to the Moduna army because Ceres begged me to, crying."
+                                "\\C[5]Rinny\\C[0] I'm not usually a member of the Knights of Messiah. I'm only lending a\nhand to the Moduna army because Ceres begged me to, crying."
                             ]
                         },
                         {
@@ -16762,7 +16762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Huh? What are you talking about?"
+                                "\\C[5]Rinny\\C[0] Huh? What are you talking about?"
                             ]
                         },
                         {
@@ -16813,7 +16813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: More importantly, what are you doing here?"
+                                "\\C[5]Rinny\\C[0] More importantly, what are you doing here?"
                             ]
                         },
                         {
@@ -16864,7 +16864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Are you also looking for 'Regnus Grahardt'?"
+                                "\\C[5]Rinny\\C[0] Are you also looking for 'Regnus Grahardt'?"
                             ]
                         },
                         {
@@ -17000,7 +17000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Well, yeah. But I've never seen him."
+                                "\\C[5]Rinny\\C[0] Well, yeah. But I've never seen him."
                             ]
                         },
                         {
@@ -17069,7 +17069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: It seems Regnus Grahardt helped those who were lost here. According to\nthe stories, he even stopped the attacking lava."
+                                "\\C[5]Rinny\\C[0] It seems Regnus Grahardt helped those who were lost here. According to\nthe stories, he even stopped the attacking lava."
                             ]
                         },
                         {
@@ -17171,7 +17171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Yeah. His whereabouts after that are unknown. I'm searching out of\ncuriosity myself."
+                                "\\C[5]Rinny\\C[0] Yeah. His whereabouts after that are unknown. I'm searching out of\ncuriosity myself."
                             ]
                         },
                         {
@@ -17225,7 +17225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: ..."
+                                "\\C[5]Rinny\\C[0] ..."
                             ]
                         },
                         {
@@ -17276,7 +17276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: I refuse. Why should I care what happens to people from an unknown\ncountry? They should take care of their own country themselves."
+                                "\\C[5]Rinny\\C[0] I refuse. Why should I care what happens to people from an unknown\ncountry? They should take care of their own country themselves."
                             ]
                         },
                         {
@@ -17378,7 +17378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Enough already. Where are there soldiers willing to die for another\ncountry?"
+                                "\\C[5]Rinny\\C[0] Enough already. Where are there soldiers willing to die for another\ncountry?"
                             ]
                         },
                         {
@@ -17498,7 +17498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Well, if you insist, earn some money. If you bring a decent amount of war\nfunds, maybe the king will change his mind."
+                                "\\C[5]Rinny\\C[0] Well, if you insist, earn some money. If you bring a decent amount of war\nfunds, maybe the king will change his mind."
                             ]
                         },
                         {
@@ -17600,7 +17600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Moduna has no obligation to help Jupiterino."
+                                "\\C[5]Rinny\\C[0] Moduna has no obligation to help Jupiterino."
                             ]
                         },
                         {
@@ -17669,7 +17669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: ..."
+                                "\\C[5]Rinny\\C[0] ..."
                             ]
                         },
                         {
@@ -17720,7 +17720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Luna, I don't care who Lucia is, but let me tell you one thing."
+                                "\\C[5]Rinny\\C[0] Luna, I don't care who Lucia is, but let me tell you one thing."
                             ]
                         },
                         {
@@ -17771,7 +17771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: If you plan to make an enemy of Valentina, you have no chance of winning."
+                                "\\C[5]Rinny\\C[0] If you plan to make an enemy of Valentina, you have no chance of winning."
                             ]
                         },
                         {
@@ -17840,7 +17840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Especially Sylvia, she's the top sorceress of the magical kingdom of\nValentina. You definitely can't win against her."
+                                "\\C[5]Rinny\\C[0] Especially Sylvia, she's the top sorceress of the magical kingdom of\nValentina. You definitely can't win against her."
                             ]
                         },
                         {
@@ -17909,7 +17909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Even with me or the Knights of Messiah on your side, you probably have no\nchance of winning."
+                                "\\C[5]Rinny\\C[0] Even with me or the Knights of Messiah on your side, you probably have no\nchance of winning."
                             ]
                         },
                         {
@@ -17960,7 +17960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: What you're trying to do is suicidal."
+                                "\\C[5]Rinny\\C[0] What you're trying to do is suicidal."
                             ]
                         },
                         {
@@ -18062,7 +18062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Cool your head a bit more. Farewell."
+                                "\\C[5]Rinny\\C[0] Cool your head a bit more. Farewell."
                             ]
                         },
                         {
@@ -18215,7 +18215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: ..."
+                                "\\C[5]Rinny\\C[0] ..."
                             ]
                         },
                         {
@@ -18362,7 +18362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: It might sound like I'm kicking you while you're down, but even if you\nfind Regnus Grahardt, it's futile."
+                                "\\C[5]Rinny\\C[0] It might sound like I'm kicking you while you're down, but even if you\nfind Regnus Grahardt, it's futile."
                             ]
                         },
                         {
@@ -18474,7 +18474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Even Regnus Grahardt can't win against Valentina. There's no proof, but\nthat's how it is."
+                                "\\C[5]Rinny\\C[0] Even Regnus Grahardt can't win against Valentina. There's no proof, but\nthat's how it is."
                             ]
                         },
                         {
@@ -18576,7 +18576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: Then do as you please. See ya."
+                                "\\C[5]Rinny\\C[0] Then do as you please. See ya."
                             ]
                         },
                         {

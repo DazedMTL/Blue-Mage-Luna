@@ -6028,7 +6028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: \"Kyle, what do we do now?\""
+                                "\\C[5]Rinny\\C[0] \"Kyle, what do we do now?\""
                             ]
                         },
                         {
@@ -7035,7 +7035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: \"Tch...\""
+                                "\\C[5]Rinny\\C[0] \"Tch...\""
                             ]
                         },
                         {
@@ -7413,7 +7413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rinny: \"Kyle is right. Stop this. You don't stand a chance. They are not\nopponents you can defeat.\""
+                                "\\C[5]Rinny\\C[0] \"Kyle is right. Stop this. You don't stand a chance. They are not\nopponents you can defeat.\""
                             ]
                         },
                         {
