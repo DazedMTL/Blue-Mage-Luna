@@ -4117,7 +4117,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_aan",
+                                    "name": "voice/runa/aegi/aegi_luna_aan",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -5884,7 +5884,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_motto2",
+                                    "name": "voice/runa/aegi/aegi_luna_motto2",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -5942,7 +5942,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_nakanidasite",
+                                    "name": "voice/runa/aegi/aegi_luna_nakanidasite",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6064,7 +6064,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_zubozubo",
+                                    "name": "voice/runa/aegi/aegi_luna_zubozubo",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6158,7 +6158,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_oma-koiku",
+                                    "name": "voice/runa/aegi/aegi_luna_oma-koiku",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6357,7 +6357,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_oma-koiku2",
+                                    "name": "voice/runa/aegi/aegi_luna_oma-koiku2",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6438,7 +6438,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_dekatinpo",
+                                    "name": "voice/runa/aegi/aegi_luna_dekatinpo",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6489,7 +6489,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_oma-ko_sugoku",
+                                    "name": "voice/runa/aegi/aegi_luna_oma-ko_sugoku",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6547,7 +6547,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_hayakunakani",
+                                    "name": "voice/runa/aegi/aegi_luna_hayakunakani",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6598,7 +6598,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_runa-no",
+                                    "name": "voice/runa/aegi/aegi_luna_runa-no",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6679,7 +6679,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_omakokimoti",
+                                    "name": "voice/runa/aegi/aegi_luna_omakokimoti",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6767,7 +6767,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_pyupyu",
+                                    "name": "voice/runa/aegi/aegi_luna_pyupyu",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6818,7 +6818,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_tinposuki",
+                                    "name": "voice/runa/aegi/aegi_luna_tinposuki",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6876,7 +6876,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_zubozubo",
+                                    "name": "voice/runa/aegi/aegi_luna_zubozubo",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -6927,7 +6927,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_dekatinpo",
+                                    "name": "voice/runa/aegi/aegi_luna_dekatinpo",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
@@ -7074,7 +7074,7 @@
                             "indent": 1,
                             "parameters": [
                                 {
-                                    "name": "voice/runa/aegi/aegi_luuna_nakaniseiekiga",
+                                    "name": "voice/runa/aegi/aegi_luna_nakaniseiekiga",
                                     "volume": 90,
                                     "pitch": 110,
                                     "pan": 0
