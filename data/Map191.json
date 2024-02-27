@@ -3787,7 +3787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Pya~! This beer is awesome! We've got the whole tavern to ourselves today!"
+                                "\\C[24][Cain]\\C[0] Pya~! This beer is awesome! We've got the whole tavern to ourselves\ntoday!"
                             ]
                         },
                         {
@@ -3906,7 +3906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] How can I not drink? In the end, we couldn't find Regnus Grahardt, and it's\nback to square one with the game~."
+                                "\\C[24][Cain]\\C[0] How can I not drink? In the end, we couldn't find Regnus Grahardt,\nand it's back to square one with the game~."
                             ]
                         },
                         {
@@ -3973,7 +3973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] That's true... What should we do now? Our hope seems to have been sealed off\nagain."
+                                "\\C[23][Luna]\\C[0] That's true... What should we do now? Our hope seems to have been\nsealed off again."
                             ]
                         },
                         {
@@ -4648,7 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Hehe... It's just because he loves Luna so much~. He's probably worried that\nsome weird guy might be hitting on Luna~."
+                                "\\C[24][Becky]\\C[0] Hehe... It's just because he loves Luna so much~. He's probably\nworried that some weird guy might be hitting on Luna~."
                             ]
                         },
                         {
@@ -4666,7 +4666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Well... Luna and Noah have been childhood friends since they were little.\nNoah's the guy who's spent the most time with Luna, so it can't be helped."
+                                "\\C[24][Cain]\\C[0] Well... Luna and Noah have been childhood friends since they were\nlittle. Noah's the guy who's spent the most time with Luna, so it\ncan't be helped."
                             ]
                         },
                         {
@@ -4684,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] But if he keeps making love calls every day, it's irritating for those of us\nwho are with her."
+                                "\\C[24][Cain]\\C[0] But if he keeps making love calls every day, it's irritating for\nthose of us who are with her."
                             ]
                         },
                         {
@@ -4846,7 +4846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Luna, I've said it before, but Noah's legs are no good. Wouldn't it be better\nfor you to marry another man?"
+                                "\\C[24][Cain]\\C[0] Luna, I've said it before, but Noah's legs are no good. Wouldn't it\nbe better for you to marry another man?"
                             ]
                         },
                         {
@@ -5012,7 +5012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Moreover, Noah knows that Luna is with other men and he accepts it, right? Yet\nyou haven't been with your lover Noah. I don't get it."
+                                "\\C[24][Cain]\\C[0] Moreover, Noah knows that Luna is with other men and he accepts it,\nright? Yet you haven't been with your lover Noah. I don't get it."
                             ]
                         },
                         {
@@ -5582,7 +5582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Master: \"Those resistance fools are stupid to defy Lucia. There's no way they\ncan win. They seem to be looking for someone named... what was it?\""
+                                "Master: \"Those resistance fools are stupid to defy Lucia. There's no\nway they can win. They seem to be looking for someone named... what\nwas it?\""
                             ]
                         },
                         {
@@ -5660,7 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Woman: \"Due to the continued misrule of the capital, small villages are being\ndevastated.\""
+                                "Woman: \"Due to the continued misrule of the capital, small villages\nare being devastated.\""
                             ]
                         },
                         {

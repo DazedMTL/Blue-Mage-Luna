@@ -2391,7 +2391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Geez, it's just the servant. You had me fooled. I thought you were an enemy."
+                                "\\C[24][Becky]\\C[0] Geez, it's just the servant. You had me fooled. I thought you were an\nenemy."
                             ]
                         },
                         {
@@ -2409,7 +2409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] The servant, huh? If you were there, you could've taken down Valentina's\nsorcerer for us."
+                                "\\C[24][Cain]\\C[0] The servant, huh? If you were there, you could've taken down\nValentina's sorcerer for us."
                             ]
                         },
                         {
@@ -2454,7 +2454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: I've been building a boat for you all. If you go down the river from\nhere, you can reach Norvanna."
+                                "Servant: I've been building a boat for you all. If you go down the\nriver from here, you can reach Norvanna."
                             ]
                         },
                         {
@@ -2523,7 +2523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: No, well... Seeing you all like this, I couldn't just leave you be.\nThis is a secret from Lady Rade, okay?"
+                                "Servant: No, well... Seeing you all like this, I couldn't just leave\nyou be. This is a secret from Lady Rade, okay?"
                             ]
                         },
                         {

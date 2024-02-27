@@ -5066,7 +5066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"Luna, I read your letter. I couldn't give a good response, though.\""
+                                "Ceres: \"Luna, I read your letter. I couldn't give a good response,\nthough.\""
                             ]
                         },
                         {
@@ -5135,7 +5135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"But I was concerned, so I came to Jupiterino with a few soldiers.\nRecently, we've been receiving a lot of letters from the resistance in\nJupiterino to the Knights of Messiah.\""
+                                "Ceres: \"But I was concerned, so I came to Jupiterino with a few\nsoldiers. Recently, we've been receiving a lot of letters from the\nresistance in Jupiterino to the Knights of Messiah.\""
                             ]
                         },
                         {
@@ -5186,7 +5186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Is that so? The country is becoming strange now. Other members of the\nresistance are also active.\""
+                                "\\C[23][Luna]\\C[0] \"Is that so? The country is becoming strange now. Other members of\nthe resistance are also active.\""
                             ]
                         },
                         {
@@ -5204,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"Lucia always adored you like a real sister, Luna. You were supposed to\nlive together with Lucia as a court magician of Jupiterino. It's regrettable.\""
+                                "Ceres: \"Lucia always adored you like a real sister, Luna. You were\nsupposed to live together with Lucia as a court magician of\nJupiterino. It's regrettable.\""
                             ]
                         },
                         {
@@ -5240,7 +5240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Lucia has changed. It happened when she awakened as a direct- line magician.\""
+                                "\\C[23][Luna]\\C[0] \"Lucia has changed. It happened when she awakened as a direct- line\nmagician.\""
                             ]
                         },
                         {
@@ -5258,7 +5258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"I also felt that Lucia has changed from before. She had a gloomy\nexpression when I met her at the oasis in the desert.\""
+                                "Ceres: \"I also felt that Lucia has changed from before. She had a\ngloomy expression when I met her at the oasis in the desert.\""
                             ]
                         },
                         {
@@ -5309,7 +5309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Lucia, who awakened as a direct-line magician, has joined hands with the\nmagical kingdom of Valentina and is causing suffering to the people of\nJupiterino. I will never forgive Lucia.\""
+                                "\\C[23][Luna]\\C[0] \"Lucia, who awakened as a direct-line magician, has joined hands with\nthe magical kingdom of Valentina and is causing suffering to the\npeople of Jupiterino. I will never forgive Lucia.\""
                             ]
                         },
                         {
@@ -5405,7 +5405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] \"Indeed, we, the resistance, want to borrow the power of the Knights of\nMessiah.\""
+                                "\\C[24][Becky]\\C[0] \"Indeed, we, the resistance, want to borrow the power of the Knights\nof Messiah.\""
                             ]
                         },
                         {
@@ -5423,7 +5423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] \"I've heard that the Knights of Messiah go out to countries where people are in\ntrouble and help them. They're rumored to be the police of the world.\""
+                                "\\C[24][Becky]\\C[0] \"I've heard that the Knights of Messiah go out to countries where\npeople are in trouble and help them. They're rumored to be the police\nof the world.\""
                             ]
                         },
                         {
@@ -5474,7 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] \"I've heard about your conquest of the great nation of Grales below. Recently,\nyou even defeated the beauty hunting squad of the Kingdom of Windsor. Please\nlend us your strength.\""
+                                "\\C[24][Becky]\\C[0] \"I've heard about your conquest of the great nation of Grales below.\nRecently, you even defeated the beauty hunting squad of the Kingdom of\nWindsor. Please lend us your strength.\""
                             ]
                         },
                         {
@@ -5579,7 +5579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"Even though I'm called the commander of the knights, I'm just a middle\nmanager, you know?\""
+                                "Ceres: \"Even though I'm called the commander of the knights, I'm just\na middle manager, you know?\""
                             ]
                         },
                         {
@@ -5597,7 +5597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"The decision-making power to move the Moduna army, also known as the\nKnights of Messiah, lies with the king, Princess Alicia, his daughter, and\nHades, the military strategist.\""
+                                "Ceres: \"The decision-making power to move the Moduna army, also known\nas the Knights of Messiah, lies with the king, Princess Alicia, his\ndaughter, and Hades, the military strategist.\""
                             ]
                         },
                         {
@@ -5642,7 +5642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] \"What a letdown. And you call yourself the commander of the knights? Get it\ntogether, Mr. Middle Manager.\""
+                                "\\C[24][Cain]\\C[0] \"What a letdown. And you call yourself the commander of the knights?\nGet it together, Mr. Middle Manager.\""
                             ]
                         },
                         {
@@ -5711,7 +5711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] \"But Lord Ceres, you are married to Princess Alicia, aren't you? Then you could\nsuggest something to the king, couldn't you?\""
+                                "\\C[24][Becky]\\C[0] \"But Lord Ceres, you are married to Princess Alicia, aren't you? Then\nyou could suggest something to the king, couldn't you?\""
                             ]
                         },
                         {
@@ -5747,7 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] \"This is hopeless. The Knights of Messiah we were relying on don't seem like\nthey'll come to our aid. They don't care about us. Becky, let's go into town and\ngrab some food.\""
+                                "\\C[24][Cain]\\C[0] \"This is hopeless. The Knights of Messiah we were relying on don't\nseem like they'll come to our aid. They don't care about us. Becky,\nlet's go into town and grab some food.\""
                             ]
                         },
                         {
@@ -5929,7 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"It's fine. It's true that I'm just a middle manager caught between the\nking and the soldiers. I'm always getting scolded by Hades like a nagging\nsister-in-law.\""
+                                "Ceres: \"It's fine. It's true that I'm just a middle manager caught\nbetween the king and the soldiers. I'm always getting scolded by Hades\nlike a nagging sister-in-law.\""
                             ]
                         },
                         {
@@ -5983,7 +5983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: \"Luna, you haven't changed at all since then. Straightforward, serious,\nhonest, kind... But can you really not forgive Lucia? You two were so close.\""
+                                "Ceres: \"Luna, you haven't changed at all since then. Straightforward,\nserious, honest, kind... But can you really not forgive Lucia? You two\nwere so close.\""
                             ]
                         },
                         {
@@ -6157,7 +6157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"I think you have changed a little, Lord Ceres. You're different from the Ceres\nI knew before the battle with the great nation of Grales.\""
+                                "\\C[23][Luna]\\C[0] \"I think you have changed a little, Lord Ceres. You're different from\nthe Ceres I knew before the battle with the great nation of Grales.\""
                             ]
                         },
                         {
@@ -6244,7 +6244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I think the Lord Ceres of the past was more of a slacker. Compared to before,\nyou seem to be working much harder now."
+                                "\\C[23][Luna]\\C[0] I think the Lord Ceres of the past was more of a slacker. Compared to\nbefore, you seem to be working much harder now."
                             ]
                         },
                         {
@@ -6340,7 +6340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Lord Ceres, why does the Knights of Messiah interfere with other countries? Why\ndo you try to help other nations that have nothing to do with you? The Lord\nCeres of the past wouldn't have bothered with such troublesome matters."
+                                "\\C[23][Luna]\\C[0] Lord Ceres, why does the Knights of Messiah interfere with other\ncountries? Why do you try to help other nations that have nothing to\ndo with you? The Lord Ceres of the past wouldn't have bothered with\nsuch troublesome matters."
                             ]
                         },
                         {
@@ -6488,7 +6488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: It's for the sake of a man who wished for true peace without resistance."
+                                "Ceres: It's for the sake of a man who wished for true peace without\nresistance."
                             ]
                         },
                         {
@@ -6524,7 +6524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: The battle with Grales... During that war, various countries were\nfighting over territories. It was an endless war where blood washed blood."
+                                "Ceres: The battle with Grales... During that war, various countries\nwere fighting over territories. It was an endless war where blood\nwashed blood."
                             ]
                         },
                         {
@@ -6542,7 +6542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: But a certain person from a certain country tried to break the chain of\nwars. They said, \"Let's all stop this endless war.\" And so, that country ceased\nto fight."
+                                "Ceres: But a certain person from a certain country tried to break the\nchain of wars. They said, \"Let's all stop this endless war.\" And so,\nthat country ceased to fight."
                             ]
                         },
                         {
@@ -6578,7 +6578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: Naturally, the country that gave up fighting unilaterally suffered\ndamage. Even so, a certain man from that country persisted in non-resistance and\ndid not fight back. Because of that, many of his countrymen died."
+                                "Ceres: Naturally, the country that gave up fighting unilaterally\nsuffered damage. Even so, a certain man from that country persisted in\nnon-resistance and did not fight back. Because of that, many of his\ncountrymen died."
                             ]
                         },
                         {
@@ -6596,7 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: In the end, that man even made graves for the enemy soldiers and\nprotected the citizens of the enemy nation while only defending against their\nattacks."
+                                "Ceres: In the end, that man even made graves for the enemy soldiers\nand protected the citizens of the enemy nation while only defending\nagainst their attacks."
                             ]
                         },
                         {
@@ -6632,7 +6632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Is this man without resistance Prince Reanu of the Kingdom of Ryubel...?"
+                                "\\C[23][Luna]\\C[0] Is this man without resistance Prince Reanu of the Kingdom of\nRyubel...?"
                             ]
                         },
                         {
@@ -6691,7 +6691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: Prince Reanu of Ryubel was once known as a skilled warrior who enjoyed\nslaughter so much that even the great generals of Grales trembled at the mention\nof his name."
+                                "Ceres: Prince Reanu of Ryubel was once known as a skilled warrior who\nenjoyed slaughter so much that even the great generals of Grales\ntrembled at the mention of his name."
                             ]
                         },
                         {
@@ -6709,7 +6709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: I asked Reanu many times. Why are you, of all people, just taking it? Why\ndo you, known for your demonic strength, persist in non-resistance? Even going\nso far as to make graves for enemy soldiers killed by mistake by Ryubel's troops\nand protecting their families."
+                                "Ceres: I asked Reanu many times. Why are you, of all people, just\ntaking it? Why do you, known for your demonic strength, persist in\nnon-resistance? Even going so far as to make graves for enemy soldiers\nkilled by mistake by Ryubel's troops and protecting their families."
                             ]
                         },
                         {
@@ -6727,7 +6727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: When I heard the answer from Reanu... when I heard 'the true answer' from\nhis mouth, I decided to inherit his will and do what he couldn't. That's when I\nthought of creating the Knights of Messiah."
+                                "Ceres: When I heard the answer from Reanu... when I heard 'the true\nanswer' from his mouth, I decided to inherit his will and do what he\ncouldn't. That's when I thought of creating the Knights of Messiah."
                             ]
                         },
                         {
@@ -6881,7 +6881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: Haha... Sorry, for such a boring and long-winded story. I just end up\ntalking when it's with you, Luna."
+                                "Ceres: Haha... Sorry, for such a boring and long-winded story. I just\nend up talking when it's with you, Luna."
                             ]
                         },
                         {
@@ -7084,7 +7084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: Non-resistance doesn't work against opponents who won't listen to reason."
+                                "Ceres: Non-resistance doesn't work against opponents who won't listen\nto reason."
                             ]
                         },
                         {
@@ -7156,7 +7156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: It's sad, but perhaps Lucia has become one of those 'opponents who won't\nlisten to reason.' Even if you persist in non-resistance, Luna, it won't shake\nLucia's heart in the slightest."
+                                "Ceres: It's sad, but perhaps Lucia has become one of those 'opponents\nwho won't listen to reason.' Even if you persist in non-resistance,\nLuna, it won't shake Lucia's heart in the slightest."
                             ]
                         },
                         {
@@ -7243,7 +7243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: But I'm holding onto a sliver of hope and thought about talking with\nLucia. I went to the gates of Jupiterino but was turned away spectacularly.\nHaha..."
+                                "Ceres: But I'm holding onto a sliver of hope and thought about talking\nwith Lucia. I went to the gates of Jupiterino but was turned away\nspectacularly. Haha..."
                             ]
                         },
                         {
@@ -7261,7 +7261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: I don't have the power to move armies; I'm just a middle manager who\ncan't do anything. However, I thought at least they would listen to me, but it\nseems they won't even lend an ear."
+                                "Ceres: I don't have the power to move armies; I'm just a middle\nmanager who can't do anything. However, I thought at least they would\nlisten to me, but it seems they won't even lend an ear."
                             ]
                         },
                         {
@@ -7330,7 +7330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: Moduna is a small country. It's not a nation that can voice its opinions\nagainst the imperial capital Jupiterino or, let alone, the magical superpower\nValentina. Our king is also a coward."
+                                "Ceres: Moduna is a small country. It's not a nation that can voice its\nopinions against the imperial capital Jupiterino or, let alone, the\nmagical superpower Valentina. Our king is also a coward."
                             ]
                         },
                         {
@@ -7348,7 +7348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: The little that I can do is to first head to Jupiterino and investigate.\nIt seems my comrades are also here."
+                                "Ceres: The little that I can do is to first head to Jupiterino and\ninvestigate. It seems my comrades are also here."
                             ]
                         },
                         {
@@ -7366,7 +7366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Your comrade is the Magic General Rinny, right? Will Rinny be able to help us?"
+                                "\\C[23][Luna]\\C[0] Your comrade is the Magic General Rinny, right? Will Rinny be able to\nhelp us?"
                             ]
                         },
                         {
@@ -7429,7 +7429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: If I stay here alone with you, Luna, any longer, I might turn into a big\nbad wolf~"
+                                "Ceres: If I stay here alone with you, Luna, any longer, I might turn\ninto a big bad wolf~"
                             ]
                         },
                         {
@@ -7489,7 +7489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] What are you thinking? We were having a serious conversation... I'm appalled."
+                                "\\C[23][Luna]\\C[0] What are you thinking? We were having a serious conversation... I'm\nappalled."
                             ]
                         },
                         {

@@ -2285,7 +2285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes, you are Regnus Grahardt. The servant, no... Luca said, \"I met Regnus\nGrahardt.\""
+                                "\\C[23][Luna]\\C[0] Yes, you are Regnus Grahardt. The servant, no... Luca said, \"I met\nRegnus Grahardt.\""
                             ]
                         },
                         {
@@ -2354,7 +2354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Regnus Grahardt, there must be a reason you can't reveal your identity. A\nreason why you want to help us but can't."
+                                "\\C[23][Luna]\\C[0] Regnus Grahardt, there must be a reason you can't reveal your\nidentity. A reason why you want to help us but can't."
                             ]
                         },
                         {
@@ -2426,7 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Regnus Grahardt: If you insist on fighting Lucia and the others, then I ask you\nto wait a little longer."
+                                "Regnus Grahardt: If you insist on fighting Lucia and the others, then\nI ask you to wait a little longer."
                             ]
                         },
                         {
@@ -2726,7 +2726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] The third is the apprentice sorcerer who passed the baptism of Valentina."
+                                "\\C[23][Luna]\\C[0] The third is the apprentice sorcerer who passed the baptism of\nValentina."
                             ]
                         },
                         {
@@ -2977,7 +2977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Regnus Grahardt: Yes, I want you to wait until these people make their move. If\n\"The Mirror of Truth\" has prophesied it, then..."
+                                "Regnus Grahardt: Yes, I want you to wait until these people make their\nmove. If \"The Mirror of Truth\" has prophesied it, then..."
                             ]
                         },
                         {
@@ -3064,7 +3064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Sorry, but I can't wait. I absolutely hate the idea of that happening again...\nSomething irreversible could happen while we're waiting. I can't afford to wait\ncalmly anymore."
+                                "\\C[23][Luna]\\C[0] Sorry, but I can't wait. I absolutely hate the idea of that happening\nagain... Something irreversible could happen while we're waiting. I\ncan't afford to wait calmly anymore."
                             ]
                         },
                         {
@@ -3151,7 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Regnus Grahardt: Rade will not interfere with you. She is not an ally to either\nside."
+                                "Regnus Grahardt: Rade will not interfere with you. She is not an ally\nto either side."
                             ]
                         },
                         {

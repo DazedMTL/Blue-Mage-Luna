@@ -14982,7 +14982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] It seems your soldiers can't get up. Most of them couldn't even scratch the\nsteel soldiers and fled, it seems."
+                                "\\C[17][Lucia]\\C[0] It seems your soldiers can't get up. Most of them couldn't even\nscratch the steel soldiers and fled, it seems."
                             ]
                         },
                         {
@@ -15827,7 +15827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] The essence of Blue sorcery is learning magic and acquiring techniques.\nTherefore, no matter how high-ranking a sorcerer is, they cannot fully\ncomprehend a magic they see for the first time."
+                                "\\C[23][Luna]\\C[0] The essence of Blue sorcery is learning magic and acquiring\ntechniques. Therefore, no matter how high-ranking a sorcerer is, they\ncannot fully comprehend a magic they see for the first time."
                             ]
                         },
                         {
@@ -16131,7 +16131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Don't call me by my name so casually, mad princess Lucia. You should be\nashamed."
+                                "\\C[23][Luna]\\C[0] Don't call me by my name so casually, mad princess Lucia. You should\nbe ashamed."
                             ]
                         },
                         {
@@ -16272,7 +16272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Born into a family that has passed down Blue magic for generations, you were\nparticularly skilled in Blue magic even among your kin."
+                                "\\C[17][Lucia]\\C[0] Born into a family that has passed down Blue magic for generations,\nyou were particularly skilled in Blue magic even among your kin."
                             ]
                         },
                         {
@@ -16357,7 +16357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] The essence of my Blue sorcery is learning magic. No matter how excellent a\nsorcerer is, they cannot defend against the rare magics obtained from all over\nthe world."
+                                "\\C[23][Luna]\\C[0] The essence of my Blue sorcery is learning magic. No matter how\nexcellent a sorcerer is, they cannot defend against the rare magics\nobtained from all over the world."
                             ]
                         },
                         {
@@ -16414,7 +16414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] The difference between an Blue sorcerer and an ordinary sorcerer is that they\nmake any magic they see once their own."
+                                "\\C[17][Lucia]\\C[0] The difference between an Blue sorcerer and an ordinary sorcerer is\nthat they make any magic they see once their own."
                             ]
                         },
                         {
@@ -16465,7 +16465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Moreover, Luna, you enhance the Blue magic you learn once by adding your\noriginal magic to it."
+                                "\\C[17][Lucia]\\C[0] Moreover, Luna, you enhance the Blue magic you learn once by adding\nyour original magic to it."
                             ]
                         },
                         {
@@ -16613,7 +16613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] There is no technique I cannot learn. Lucia, I will learn all of your attack\nmagic."
+                                "\\C[23][Luna]\\C[0] There is no technique I cannot learn. Lucia, I will learn all of your\nattack magic."
                             ]
                         },
                         {
@@ -16662,7 +16662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Steel Soldier] Hey you, what are you blabbering about? I'll make you suffer the\nsame fate as your comrades."
+                                "[Steel Soldier] Hey you, what are you blabbering about? I'll make you\nsuffer the same fate as your comrades."
                             ]
                         },
                         {
@@ -16680,7 +16680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Steel Soldier] Like you could ever match Lady Lucia. I'll twist and kill you."
+                                "[Steel Soldier] Like you could ever match Lady Lucia. I'll twist and\nkill you."
                             ]
                         },
                         {
@@ -16930,7 +16930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Steel Soldier] Gah... You learned and copied my headbutt... And it's even more\npowerful than mine..."
+                                "[Steel Soldier] Gah... You learned and copied my headbutt... And it's\neven more powerful than mine..."
                             ]
                         },
                         {
@@ -16981,7 +16981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Now do you understand? The techniques I can learn are not limited to magic."
+                                "\\C[23][Luna]\\C[0] Now do you understand? The techniques I can learn are not limited to\nmagic."
                             ]
                         },
                         {
@@ -16999,7 +16999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Steel Soldier] Damn... A sorcerer who learns the opponent's techniques? You've\ngot to be kidding..."
+                                "[Steel Soldier] Damn... A sorcerer who learns the opponent's\ntechniques? You've got to be kidding..."
                             ]
                         },
                         {
@@ -17498,7 +17498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes, this is one of the secret techniques of my blue magic, \"Acid Rain.\" It's\nan original spell of mine that only rains acid on the enemy."
+                                "\\C[23][Luna]\\C[0] Yes, this is one of the secret techniques of my blue magic, \"Acid\nRain.\" It's an original spell of mine that only rains acid on the\nenemy."
                             ]
                         },
                         {
@@ -18101,7 +18101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Amazing...! As expected of Luna. She took down all the steel soldiers in an\ninstant."
+                                "\\C[24][Becky]\\C[0] Amazing...! As expected of Luna. She took down all the steel soldiers\nin an instant."
                             ]
                         },
                         {
@@ -18188,7 +18188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]Sylvia\\C[0] As I thought, she's not to be underestimated. The blue sorceress Luna...\nshe's beyond imagination."
+                                "\\C[2]Sylvia\\C[0] As I thought, she's not to be underestimated. The blue sorceress\nLuna... she's beyond imagination."
                             ]
                         },
                         {
@@ -18417,7 +18417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] It's futile. I instantly covered my body with a magic barrier that neutralizes\nacid."
+                                "\\C[17][Lucia]\\C[0] It's futile. I instantly covered my body with a magic barrier that\nneutralizes acid."
                             ]
                         },
                         {
@@ -18484,7 +18484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Luna, surely you didn't think you could defeat me with just that, did you?"
+                                "\\C[17][Lucia]\\C[0] Luna, surely you didn't think you could defeat me with just that, did\nyou?"
                             ]
                         },
                         {
@@ -18858,7 +18858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] It's rumored that you killed your own mother to inherit the direct line of\nsorcery. Is that true? Lady Leysia, your mother, was kind to me."
+                                "\\C[23][Luna]\\C[0] It's rumored that you killed your own mother to inherit the direct\nline of sorcery. Is that true? Lady Leysia, your mother, was kind to\nme."
                             ]
                         },
                         {
@@ -19552,7 +19552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]Sylvia\\C[0] Lucia! Kill Luna! If you leave her be, she will surely become a threat!"
+                                "\\C[2]Sylvia\\C[0] Lucia! Kill Luna! If you leave her be, she will surely become a\nthreat!"
                             ]
                         },
                         {
@@ -19806,7 +19806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] If I leave you as you are, you will certainly become a threat to me. It's best\nto nip dangerous buds in the bud."
+                                "\\C[17][Lucia]\\C[0] If I leave you as you are, you will certainly become a threat to me.\nIt's best to nip dangerous buds in the bud."
                             ]
                         },
                         {
@@ -20121,7 +20121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Sorry to Sylvia, but since you interfered in this duel, I won't take your life."
+                                "\\C[17][Lucia]\\C[0] Sorry to Sylvia, but since you interfered in this duel, I won't take\nyour life."
                             ]
                         },
                         {
@@ -20188,7 +20188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] However... indeed, you are too dangerous a being for me. There's no doubt that\nyou are a threat to me."
+                                "\\C[17][Lucia]\\C[0] However... indeed, you are too dangerous a being for me. There's no\ndoubt that you are a threat to me."
                             ]
                         },
                         {
@@ -20239,7 +20239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] I won't take your life. However, I will seal your magic power. Your sorcery\nwill be sealed."
+                                "\\C[17][Lucia]\\C[0] I won't take your life. However, I will seal your magic power. Your\nsorcery will be sealed."
                             ]
                         },
                         {
@@ -20375,7 +20375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Luna, I will make it so you can never use magic again. That way, you might as\nwell be dead."
+                                "\\C[17][Lucia]\\C[0] Luna, I will make it so you can never use magic again. That way, you\nmight as well be dead."
                             ]
                         },
                         {
@@ -20444,7 +20444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Yes. That way, you'll be like a waterfowl that's had its wings plucked. From\nnow on, you won't be able to oppose me anymore."
+                                "\\C[17][Lucia]\\C[0] Yes. That way, you'll be like a waterfowl that's had its wings\nplucked. From now on, you won't be able to oppose me anymore."
                             ]
                         },
                         {
@@ -20581,7 +20581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And so, Luna had her magic power taken away by Lucia and became unable to use\nany magic at all."
+                                "And so, Luna had her magic power taken away by Lucia and became unable\nto use any magic at all."
                             ]
                         },
                         {
@@ -20617,7 +20617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As a show of force, Lucia decided to impose triple the taxes on the village of\nSheena where Luna and the others lived."
+                                "As a show of force, Lucia decided to impose triple the taxes on the\nvillage of Sheena where Luna and the others lived."
                             ]
                         },
                         {
@@ -20653,7 +20653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Luna and her childhood friend Noah, as well as Becky's husband Pole, became\nparalyzed from the waist down after the battle with the steel soldiers,\nconscious but unable to move."
+                                "Luna and her childhood friend Noah, as well as Becky's husband Pole,\nbecame paralyzed from the waist down after the battle with the steel\nsoldiers, conscious but unable to move."
                             ]
                         },
                         {
@@ -20671,7 +20671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The village of Sheena where Luna and the others lived turned into a village of\ndeath for opposing Lucia."
+                                "The village of Sheena where Luna and the others lived turned into a\nvillage of death for opposing Lucia."
                             ]
                         },
                         {
@@ -20689,7 +20689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lacking money and even food for tomorrow, all responsibility for turning into a\nvillage of death was directed at Luna and Becky and the others."
+                                "Lacking money and even food for tomorrow, all responsibility for\nturning into a village of death was directed at Luna and Becky and the\nothers."
                             ]
                         },
                         {
@@ -20707,7 +20707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The villagers' anger was fierce, and they were trying to make Luna and the\nothers take full responsibility."
+                                "The villagers' anger was fierce, and they were trying to make Luna and\nthe others take full responsibility."
                             ]
                         },
                         {

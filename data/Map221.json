@@ -6626,7 +6626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] Hmm, let's see~n. Even if you ask me to teach you, I'm not sure what to\nteach~n. It's a bit late to go over the basics now, isn't it~n."
+                                "\\C[27][Rade]\\C[0] Hmm, let's see~n. Even if you ask me to teach you, I'm not sure what\nto teach~n. It's a bit late to go over the basics now, isn't it~n."
                             ]
                         },
                         {
@@ -6737,7 +6737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] You have some talent, you know~n. You're also good at applied magic~n. But\nyou're still a maggot~n."
+                                "\\C[27][Rade]\\C[0] You have some talent, you know~n. You're also good at applied\nmagic~n. But you're still a maggot~n."
                             ]
                         },
                         {
@@ -6935,7 +6935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] Even if a maggot tries hard, it'll just become a caterpillar in the end~n.\nKyahaha~n!"
+                                "\\C[27][Rade]\\C[0] Even if a maggot tries hard, it'll just become a caterpillar in the\nend~n. Kyahaha~n!"
                             ]
                         },
                         {
@@ -7190,7 +7190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] (Is it something like a magical cast that's forced on her? Normally it's\ninvisible...?)"
+                                "\\C[27][Rade]\\C[0] (Is it something like a magical cast that's forced on her? Normally\nit's invisible...?)"
                             ]
                         },
                         {
@@ -7580,7 +7580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] (She seems to be limiting her own magic with these chains so others won't\nnotice. I can barely see the chains binding her... a cross of chains on\nherself...)"
+                                "\\C[27][Rade]\\C[0] (She seems to be limiting her own magic with these chains so others\nwon't notice. I can barely see the chains binding her... a cross of\nchains on herself...)"
                             ]
                         },
                         {
@@ -7653,7 +7653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] (A melody that could be taken as madness... This tune... Has she been\nrestraining herself with these chains for a long time without others realizing?\nFor what purpose...)"
+                                "\\C[27][Rade]\\C[0] (A melody that could be taken as madness... This tune... Has she been\nrestraining herself with these chains for a long time without others\nrealizing? For what purpose...)"
                             ]
                         },
                         {
@@ -7671,7 +7671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] (Those chains would require considerable resolve to wear. Even high-ranking\nmages would hesitate to use such restraining magic chains... What happened to\nthis girl?)"
+                                "\\C[27][Rade]\\C[0] (Those chains would require considerable resolve to wear. Even high-\nranking mages would hesitate to use such restraining magic chains...\nWhat happened to this girl?)"
                             ]
                         },
                         {
@@ -7689,7 +7689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] (It's common for those with some talent to wear magical armor to show off or to\nincrease their defense. I've seen plenty of such people rot away, but this\ngirl's chains are different, they're abnormal. The chains are more\nsuppressive... rather than blue magic, I'm more curious about this girl's melody\nof madness.)"
+                                "\\C[27][Rade]\\C[0] (It's common for those with some talent to wear magical armor to show\noff or to increase their defense. I've seen plenty of such people rot\naway, but this girl's chains are different, they're abnormal. The\nchains are more suppressive... rather than blue magic, I'm more\ncurious about this girl's melody of madness.)"
                             ]
                         },
                         {
@@ -7707,7 +7707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] (Originally, those chains might have been intended to enhance magical\nabilities, but it seems they are now used to suppress something. Why did it come\nto this? It's as if the chains themselves have emotions. I can't tell if it's\nhatred or resentment, but they're suppressing negative emotions...?)"
+                                "\\C[27][Rade]\\C[0] (Originally, those chains might have been intended to enhance magical\nabilities, but it seems they are now used to suppress something. Why\ndid it come to this? It's as if the chains themselves have emotions. I\ncan't tell if it's hatred or resentment, but they're suppressing\nnegative emotions...?)"
                             ]
                         },
                         {
@@ -7779,7 +7779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] (Interesting. I can somewhat understand why Regnus is interested in her.)"
+                                "\\C[27][Rade]\\C[0] (Interesting. I can somewhat understand why Regnus is interested in\nher.)"
                             ]
                         },
                         {
@@ -8655,7 +8655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] I've temporarily significantly increased your magical defense power~n."
+                                "\\C[27][Rade]\\C[0] I've temporarily significantly increased your magical defense\npower~n."
                             ]
                         },
                         {
@@ -8757,7 +8757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] There's nothing I need to teach you~n. Your abilities have already blossomed,\nafter all~n. In your own way~n."
+                                "\\C[27][Rade]\\C[0] There's nothing I need to teach you~n. Your abilities have already\nblossomed, after all~n. In your own way~n."
                             ]
                         },
                         {
@@ -8961,7 +8961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] That's the quickest way~n. For a maggot to evolve into a caterpillar~n."
+                                "\\C[27][Rade]\\C[0] That's the quickest way~n. For a maggot to evolve into a\ncaterpillar~n."
                             ]
                         },
                         {
@@ -9012,7 +9012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] But~n, you need defensive power to withstand my magic~n. Of course, I'll hold\nback a bit~n. That's why I temporarily boosted your magical defense power~n."
+                                "\\C[27][Rade]\\C[0] But~n, you need defensive power to withstand my magic~n. Of course,\nI'll hold back a bit~n. That's why I temporarily boosted your magical\ndefense power~n."
                             ]
                         },
                         {
@@ -9114,7 +9114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] Then~, here I go~n. I'll play around a bit since it's a special occasion~n.\nKyahaha-n!"
+                                "\\C[27][Rade]\\C[0] Then~, here I go~n. I'll play around a bit since it's a special\noccasion~n. Kyahaha-n!"
                             ]
                         },
                         {
@@ -9283,7 +9283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] Hey~! Wait a minute~! This setting~n, isn't one where you can beat me in the\ngame, is it~n? This is a bug~! A malfunction~n!"
+                                "\\C[27][Rade]\\C[0] Hey~! Wait a minute~! This setting~n, isn't one where you can beat me\nin the game, is it~n? This is a bug~! A malfunction~n!"
                             ]
                         },
                         {

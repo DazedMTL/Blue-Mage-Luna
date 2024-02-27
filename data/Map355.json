@@ -5224,7 +5224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Luna, it seems you've somehow become able to use magic. I'm surprised."
+                                "\\C[17][Lucia]\\C[0] Luna, it seems you've somehow become able to use magic. I'm\nsurprised."
                             ]
                         },
                         {
@@ -5464,7 +5464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Lucia, you've ordered the generals of Valentina to deliberately attack\ncivilians, haven't you?"
+                                "\\C[23][Luna]\\C[0] Lucia, you've ordered the generals of Valentina to deliberately\nattack civilians, haven't you?"
                             ]
                         },
                         {
@@ -5500,7 +5500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] If you continue this senseless slaughter, I will use whatever means necessary\nto kill you."
+                                "\\C[23][Luna]\\C[0] If you continue this senseless slaughter, I will use whatever means\nnecessary to kill you."
                             ]
                         },
                         {
@@ -5551,7 +5551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Have you forgotten that you couldn't do it before? It's impossible for you."
+                                "\\C[17][Lucia]\\C[0] Have you forgotten that you couldn't do it before? It's impossible\nfor you."
                             ]
                         },
                         {
@@ -5620,7 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Black Witch, Lucia. Even if we are direct descendants of sorcerers, we will not\ngive up. We will not allow any more slaughter and tyranny."
+                                "\\C[23][Luna]\\C[0] Black Witch, Lucia. Even if we are direct descendants of sorcerers,\nwe will not give up. We will not allow any more slaughter and tyranny."
                             ]
                         },
                         {
@@ -5775,7 +5775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] I am the \"Core\" of black magic and the progenitor. And I am the princess of\nthis country."
+                                "\\C[17][Lucia]\\C[0] I am the \"Core\" of black magic and the progenitor. And I am the\nprincess of this country."
                             ]
                         },
                         {
@@ -5826,7 +5826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] To a direct descendant sorcerer like me, even a sorcerer with innate talent\npales in comparison."
+                                "\\C[17][Lucia]\\C[0] To a direct descendant sorcerer like me, even a sorcerer with innate\ntalent pales in comparison."
                             ]
                         },
                         {
@@ -5877,7 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] I'm talking about you, Luna. At the prestigious Valentina Magic School, you\nwere a student who caught Sylvia's eye. But your magical talent is nothing\ncompared to mine."
+                                "\\C[17][Lucia]\\C[0] I'm talking about you, Luna. At the prestigious Valentina Magic\nSchool, you were a student who caught Sylvia's eye. But your magical\ntalent is nothing compared to mine."
                             ]
                         },
                         {
@@ -6677,7 +6677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Let's head back to Sheena Village for now. I'm worried about Noah's leg\nnecrosis."
+                                "\\C[23][Luna]\\C[0] Let's head back to Sheena Village for now. I'm worried about Noah's\nleg necrosis."
                             ]
                         },
                         {

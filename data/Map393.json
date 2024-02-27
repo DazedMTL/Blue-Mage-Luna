@@ -4783,7 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Gil was Lucia's foster parent and my second magic mentor. Lucia's mother, Lady\nReicia, was killed by Lucia herself to inherit the direct line of power."
+                                "\\C[23][Luna]\\C[0] Gil was Lucia's foster parent and my second magic mentor. Lucia's\nmother, Lady Reicia, was killed by Lucia herself to inherit the direct\nline of power."
                             ]
                         },
                         {
@@ -4837,7 +4837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Hmm... Now, Lucia has become an existence beyond my reach. And so have you,\nLuna."
+                                "Gil: Hmm... Now, Lucia has become an existence beyond my reach. And so\nhave you, Luna."
                             ]
                         },
                         {
@@ -4855,7 +4855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: But it's not just Lucia, even the head magician Sylvia from Valentina is\nhere. It might be too much for you to handle right now."
+                                "Gil: But it's not just Lucia, even the head magician Sylvia from\nValentina is here. It might be too much for you to handle right now."
                             ]
                         },
                         {
@@ -4927,7 +4927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: The Rain of Sulfuric Acid... that terrifying Blue magic spell you used to\nwield. I'd like to see that again. Hyohyohyo!"
+                                "Gil: The Rain of Sulfuric Acid... that terrifying Blue magic spell you\nused to wield. I'd like to see that again. Hyohyohyo!"
                             ]
                         },
                         {
@@ -4978,7 +4978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] That... The Rain of Sulfuric Acid is a blue magic spell I'm proficient in, but\nLucia has sealed my magic, making it unusable. I can use it when I'm in good\ncondition or when my magical power is high. Monsters that use that spell are\nextremely rare, and they might have gone extinct and may not appear anymore."
+                                "\\C[23][Luna]\\C[0] That... The Rain of Sulfuric Acid is a blue magic spell I'm\nproficient in, but Lucia has sealed my magic, making it unusable. I\ncan use it when I'm in good condition or when my magical power is\nhigh. Monsters that use that spell are extremely rare, and they might\nhave gone extinct and may not appear anymore."
                             ]
                         },
                         {
@@ -5014,7 +5014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Oh yes, from what I know, monsters that use rare techniques have been\nspotted near 'Villack's Iceberg Snowfields', 'Bolo's Coal Mine Desert', and\n'Juurochi Path'."
+                                "Gil: Oh yes, from what I know, monsters that use rare techniques have\nbeen spotted near 'Villack's Iceberg Snowfields', 'Bolo's Coal Mine\nDesert', and 'Juurochi Path'."
                             ]
                         },
                         {
@@ -5065,7 +5065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Eh! Really? 'Villack's Iceberg Snowfields', 'Bolo's Coal Mine Desert', and\n'Juurochi Path'..."
+                                "\\C[23][Luna]\\C[0] Eh! Really? 'Villack's Iceberg Snowfields', 'Bolo's Coal Mine\nDesert', and 'Juurochi Path'..."
                             ]
                         },
                         {
@@ -5083,7 +5083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Ah, but I can't promise they'll appear. Such rare monsters don't show up\noften. Even if they do, they might not have impressive techniques. Just search\naround casually."
+                                "Gil: Ah, but I can't promise they'll appear. Such rare monsters don't\nshow up often. Even if they do, they might not have impressive\ntechniques. Just search around casually."
                             ]
                         },
                         {
@@ -5101,7 +5101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Even if you know the place, they hardly appear, so you probably won't find\nthem. You'd have to search the same place over and over until your legs turn to\nsticks."
+                                "Gil: Even if you know the place, they hardly appear, so you probably\nwon't find them. You'd have to search the same place over and over\nuntil your legs turn to sticks."
                             ]
                         },
                         {
@@ -5119,7 +5119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Well, learn as many Blue magic spells as you can. Well... It would be\nimpossible to tell you not to fight Lucia now. She's using steel soldiers to\nattack villages..."
+                                "Gil: Well, learn as many Blue magic spells as you can. Well... It\nwould be impossible to tell you not to fight Lucia now. She's using\nsteel soldiers to attack villages..."
                             ]
                         },
                         {
@@ -5222,7 +5222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Hey there, lad, since I've given you such valuable information, how about\ngiving me some pocket money!"
+                                "Gil: Hey there, lad, since I've given you such valuable information,\nhow about giving me some pocket money!"
                             ]
                         },
                         {
@@ -5457,7 +5457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Acid Rain~! I'd like to see that terrifying blue magic again. Hyohyohyo!"
+                                "Gil: Acid Rain~! I'd like to see that terrifying blue magic again.\nHyohyohyo!"
                             ]
                         },
                         {
@@ -5508,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] That... Acid Rain is one of my specialties in blue magic, but it's been sealed\nby Lucia and I can't use it anymore. It seems I can use it when I'm in good\ncondition or when my magical power is high. The monster that uses it is\nextremely rare, and it might have gone extinct and may not appear anymore."
+                                "\\C[23][Luna]\\C[0] That... Acid Rain is one of my specialties in blue magic, but it's\nbeen sealed by Lucia and I can't use it anymore. It seems I can use it\nwhen I'm in good condition or when my magical power is high. The\nmonster that uses it is extremely rare, and it might have gone extinct\nand may not appear anymore."
                             ]
                         },
                         {
@@ -5526,7 +5526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: From what I know, monsters that use rare techniques have been spotted near\n\"Vilack's Ice Mountain Snowy Area,\" \"Bolo's Coal Mine Desert Area,\" and\n\"Juurochi Path.\""
+                                "Gil: From what I know, monsters that use rare techniques have been\nspotted near \"Vilack's Ice Mountain Snowy Area,\" \"Bolo's Coal Mine\nDesert Area,\" and \"Juurochi Path.\""
                             ]
                         },
                         {
@@ -5544,7 +5544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Vilack's Ice Mountain Snowy Area,\" \"Bolo's Coal Mine Desert,\" and \"Juurochi\nPath\"..."
+                                "\\C[23][Luna]\\C[0] \"Vilack's Ice Mountain Snowy Area,\" \"Bolo's Coal Mine Desert,\" and\n\"Juurochi Path\"..."
                             ]
                         },
                         {
@@ -5562,7 +5562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Even if you know the places, they appear so rarely that you'll hardly find\nthem. You'd have to search the same place over and over until your legs turn to\nsticks."
+                                "Gil: Even if you know the places, they appear so rarely that you'll\nhardly find them. You'd have to search the same place over and over\nuntil your legs turn to sticks."
                             ]
                         },
                         {
@@ -5580,7 +5580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Well, you should learn as many blue magics as you can. Well... It's\nimpossible to tell you not to fight Lucia now. Lucia is currently attacking\nvillages with her steel soldiers..."
+                                "Gil: Well, you should learn as many blue magics as you can. Well...\nIt's impossible to tell you not to fight Lucia now. Lucia is currently\nattacking villages with her steel soldiers..."
                             ]
                         },
                         {
@@ -5598,7 +5598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gil: Heheh heheh heheh, don't worry, I won't take any more money from you~"
+                                "Gil: Heheh heheh heheh, don't worry, I won't take any more money from\nyou~"
                             ]
                         },
                         {
@@ -5616,7 +5616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] You mean stealing, you damn hag~! To think you'd steal from a thief like me,\nwhat a quick-handed old woman..."
+                                "\\C[24][Cain]\\C[0] You mean stealing, you damn hag~! To think you'd steal from a thief\nlike me, what a quick-handed old woman..."
                             ]
                         },
                         {
@@ -5687,7 +5687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gil: Having lived for so long, the rare monsters I've seen are near \"Vilack's\nIce Mountain Snowy Area,\" \"Bolo's Coal Mine Desert,\" and \"Juurochi Path\"... The\nproblem is where they will appear..."
+                                "Gil: Having lived for so long, the rare monsters I've seen are near\n\"Vilack's Ice Mountain Snowy Area,\" \"Bolo's Coal Mine Desert,\" and\n\"Juurochi Path\"... The problem is where they will appear..."
                             ]
                         },
                         {
@@ -5705,7 +5705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gil: \"Near Vilack's Ice Mountain Snowy Area,\" I remember encountering it as soon\nas I entered the snowy mountain area."
+                                "Gil: \"Near Vilack's Ice Mountain Snowy Area,\" I remember encountering\nit as soon as I entered the snowy mountain area."
                             ]
                         },
                         {
@@ -5723,7 +5723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gil: It was near a tree stump... I saw it right in front of me... The super rare\nmonster has 'lime green eyes,' so be sure to look carefully. (※Enter the area\nright after Vilack's Ice Mountain from the field screen. It appears at a very\nlow rate. Please enter and exit the field repeatedly.)"
+                                "Gil: It was near a tree stump... I saw it right in front of me... The\nsuper rare monster has 'lime green eyes,' so be sure to look\ncarefully. (※Enter the area right after Vilack's Ice Mountain from the\nfield screen. It appears at a very low rate. Please enter and exit the\nfield repeatedly.)"
                             ]
                         },
                         {
@@ -5741,7 +5741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gil: \"Near Bolo's Coal Mine Desert,\" I remember it being on the eastern side of\nthe desert. (※Enter the area right after Bolo's Coal Mine from the field screen.\nIt is located in the center of the screen on the east side (right). It appears\nat a very low rate. Please enter and exit the field repeatedly.)"
+                                "Gil: \"Near Bolo's Coal Mine Desert,\" I remember it being on the\neastern side of the desert. (※Enter the area right after Bolo's Coal\nMine from the field screen. It is located in the center of the screen\non the east side (right). It appears at a very low rate. Please enter\nand exit the field repeatedly.)"
                             ]
                         },
                         {
@@ -5759,7 +5759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gil: \"Near Juurochi Path,\" I remember it appearing on the west side of Juurochi\nPath. It was right under a streetlight."
+                                "Gil: \"Near Juurochi Path,\" I remember it appearing on the west side of\nJuurochi Path. It was right under a streetlight."
                             ]
                         },
                         {
@@ -5777,7 +5777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gil: It was a very inconspicuous monster, but that one is super rare. (※Enter\nthe area right after 'Juurochi Path' from the field screen. It is located in the\ncenter of the screen on the west side (left). 'Juurochi Path' will appear on the\nfield screen in the latter half of the story. It appears at a very low rate.\nPlease enter and exit the field repeatedly.)"
+                                "Gil: It was a very inconspicuous monster, but that one is super rare.\n(※Enter the area right after 'Juurochi Path' from the field screen. It\nis located in the center of the screen on the west side (left).\n'Juurochi Path' will appear on the field screen in the latter half of\nthe story. It appears at a very low rate. Please enter and exit the\nfield repeatedly.)"
                             ]
                         },
                         {
@@ -5865,7 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mido: I'm a carpenter. I usually live in the forest near the imperial capital,\nbut today I'm repairing Granny Zil's villa."
+                                "Mido: I'm a carpenter. I usually live in the forest near the imperial\ncapital, but today I'm repairing Granny Zil's villa."
                             ]
                         },
                         {
@@ -6000,7 +6000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mido: Luna...? The court magician from the imperial capital, Luna, right?"
+                                "Mido: Luna...? The court magician from the imperial capital, Luna,\nright?"
                             ]
                         },
                         {
@@ -6018,7 +6018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mido: It's been a while. I didn't recognize you at all since you wore different\nclothes when you were a court magician at the imperial capital."
+                                "Mido: It's been a while. I didn't recognize you at all since you wore\ndifferent clothes when you were a court magician at the imperial\ncapital."
                             ]
                         },
                         {
@@ -6372,7 +6372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Right. Lucia became known as the princess of slaughter after awakening as a\ndirect-line magician."
+                                "\\C[24][Becky]\\C[0] Right. Lucia became known as the princess of slaughter after\nawakening as a direct-line magician."
                             ]
                         },
                         {
@@ -6459,7 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mido: That dark witch should be burned at the stake or torn to pieces and killed\nquickly."
+                                "Mido: That dark witch should be burned at the stake or torn to pieces\nand killed quickly."
                             ]
                         },
                         {
@@ -6510,7 +6510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] The dark witch, huh... After Lucia awakened as a direct-line black magic\nmagician, everyone started calling her \"The Dark Witch.\""
+                                "\\C[24][Becky]\\C[0] The dark witch, huh... After Lucia awakened as a direct-line black\nmagic magician, everyone started calling her \"The Dark Witch.\""
                             ]
                         },
                         {
@@ -6564,7 +6564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (Mido, who was Lucia's lover, must be carrying deeper wounds than I am.)"
+                                "\\C[23][Luna]\\C[0] (Mido, who was Lucia's lover, must be carrying deeper wounds than I\nam.)"
                             ]
                         },
                         {
@@ -6582,7 +6582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mido: I'm sorry, but if you've come to talk about the dark witch, please leave.\nIt makes me feel sick."
+                                "Mido: I'm sorry, but if you've come to talk about the dark witch,\nplease leave. It makes me feel sick."
                             ]
                         },
                         {
@@ -6667,7 +6667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mido: \"I'm sorry, but if you've come to talk about the Black Witch, please\nleave. It makes me feel sick.\""
+                                "Mido: \"I'm sorry, but if you've come to talk about the Black Witch,\nplease leave. It makes me feel sick.\""
                             ]
                         },
                         {

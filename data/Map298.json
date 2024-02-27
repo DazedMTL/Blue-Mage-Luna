@@ -4011,7 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Information from an informant is expensive, but since we're friends, he does my\nrequests for free."
+                                "\\C[24][Cain]\\C[0] Information from an informant is expensive, but since we're friends,\nhe does my requests for free."
                             ]
                         },
                         {
@@ -4081,7 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] To think that Informant Jeff is Cain's good friend. Jeff's information network\nis amazing, so it'll be a big help."
+                                "\\C[24][Becky]\\C[0] To think that Informant Jeff is Cain's good friend. Jeff's\ninformation network is amazing, so it'll be a big help."
                             ]
                         },
                         {
@@ -4207,7 +4207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: I gathered information from my contacts, but their backgrounds\nare a mystery."
+                                "Informant Jeff: I gathered information from my contacts, but their\nbackgrounds are a mystery."
                             ]
                         },
                         {
@@ -4225,7 +4225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: However, there's a strange rumor about Regnus Grahardt."
+                                "Informant Jeff: However, there's a strange rumor about Regnus\nGrahardt."
                             ]
                         },
                         {
@@ -4243,7 +4243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: It seems Regnus Grahardt has made a name for himself in the\nJupiterino kingdom several times before."
+                                "Informant Jeff: It seems Regnus Grahardt has made a name for himself\nin the Jupiterino kingdom several times before."
                             ]
                         },
                         {
@@ -4312,7 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: There was an incident where high-ranking magicians from\nValentina were massacring low-ranking magicians in a village in Jupiterino for\nfun. Basically, it was bullying."
+                                "Informant Jeff: There was an incident where high-ranking magicians\nfrom Valentina were massacring low-ranking magicians in a village in\nJupiterino for fun. Basically, it was bullying."
                             ]
                         },
                         {
@@ -4381,7 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] It's the usual. Many of Valentina's high-ranking magicians are arrogant."
+                                "\\C[24][Becky]\\C[0] It's the usual. Many of Valentina's high-ranking magicians are\narrogant."
                             ]
                         },
                         {
@@ -4399,7 +4399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Hey, are the high-ranking magicians of Valentina really that powerful?"
+                                "\\C[24][Cain]\\C[0] Hey, are the high-ranking magicians of Valentina really that\npowerful?"
                             ]
                         },
                         {
@@ -4450,7 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Well, each one of them is a genius magician comparable to Luna. In other words,\nthey're elite magicians."
+                                "\\C[24][Becky]\\C[0] Well, each one of them is a genius magician comparable to Luna. In\nother words, they're elite magicians."
                             ]
                         },
                         {
@@ -4519,7 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: Who knows. But the high-ranking magicians from Valentina\ndisappeared from the village. They must have fled after seeing Regnus's power."
+                                "Informant Jeff: Who knows. But the high-ranking magicians from\nValentina disappeared from the village. They must have fled after\nseeing Regnus's power."
                             ]
                         },
                         {
@@ -4555,7 +4555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: And then Regnus Grahardt left a parting gift in that village. A\ngift to share his power with others."
+                                "Informant Jeff: And then Regnus Grahardt left a parting gift in that\nvillage. A gift to share his power with others."
                             ]
                         },
                         {
@@ -4624,7 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: I don't know the details. But if you can get your hands on the\nparting gift that Regnus Grahardt left behind, there might be a chance for Luna\nto beat Lucia."
+                                "Informant Jeff: I don't know the details. But if you can get your\nhands on the parting gift that Regnus Grahardt left behind, there\nmight be a chance for Luna to beat Lucia."
                             ]
                         },
                         {
@@ -4693,7 +4693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Wait a minute. What happened to the village that Regnus Grahardt saved? If we\ngo there, we might find the parting gift, right?"
+                                "\\C[24][Cain]\\C[0] Wait a minute. What happened to the village that Regnus Grahardt\nsaved? If we go there, we might find the parting gift, right?"
                             ]
                         },
                         {
@@ -4711,7 +4711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: Unfortunately, Sylvia from Valentina ended up slaughtering all\nthe villagers. Women, children, the elderly—she killed them all as a show of\nforce. So now we don't know where the parting gift is."
+                                "Informant Jeff: Unfortunately, Sylvia from Valentina ended up\nslaughtering all the villagers. Women, children, the elderly—she\nkilled them all as a show of force. So now we don't know where the\nparting gift is."
                             ]
                         },
                         {
@@ -4831,7 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] I see. If there's no parting gift, then we have no choice but to look for\nRegnus Grahardt. He's not a bad guy, right? He'll become our ally."
+                                "\\C[24][Cain]\\C[0] I see. If there's no parting gift, then we have no choice but to look\nfor Regnus Grahardt. He's not a bad guy, right? He'll become our ally."
                             ]
                         },
                         {
@@ -4849,7 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: Not a bad guy? Become an ally? That's hard to say. He's an\nenigma. His age and gender are unknown. Rather than helping, there's also a\npossibility that he used the villagers as test subjects."
+                                "Informant Jeff: Not a bad guy? Become an ally? That's hard to say.\nHe's an enigma. His age and gender are unknown. Rather than helping,\nthere's also a possibility that he used the villagers as test\nsubjects."
                             ]
                         },
                         {
@@ -4867,7 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: And as for the parting gift, who knows what's really inside it."
+                                "Informant Jeff: And as for the parting gift, who knows what's really\ninside it."
                             ]
                         },
                         {
@@ -4903,7 +4903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: That's all I have on Regnus Grahardt. There are rumors he's\nappeared elsewhere, but there's no confirmation."
+                                "Informant Jeff: That's all I have on Regnus Grahardt. There are rumors\nhe's appeared elsewhere, but there's no confirmation."
                             ]
                         },
                         {
@@ -5008,7 +5008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: Hey, hey, Luna, are you planning to make enemies with not just\nLucia but Valentina as well? Stop it, you guys can't handle this on your own."
+                                "Informant Jeff: Hey, hey, Luna, are you planning to make enemies with\nnot just Lucia but Valentina as well? Stop it, you guys can't handle\nthis on your own."
                             ]
                         },
                         {
@@ -5059,7 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] But... if we, the resistance, don't put up a fight, innocent people will be\nslaughtered just like in that village."
+                                "\\C[24][Becky]\\C[0] But... if we, the resistance, don't put up a fight, innocent people\nwill be slaughtered just like in that village."
                             ]
                         },
                         {
@@ -5095,7 +5095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Jeff-san. I can't just sit still. My magic was sealed by Lucia, but the seal\nwas broken by Rade-san."
+                                "\\C[23][Luna]\\C[0] Jeff-san. I can't just sit still. My magic was sealed by Lucia, but\nthe seal was broken by Rade-san."
                             ]
                         },
                         {
@@ -5146,7 +5146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] My blue magic has also been revived. I can learn techniques from exceptionally\nstrong enemies again."
+                                "\\C[23][Luna]\\C[0] My blue magic has also been revived. I can learn techniques from\nexceptionally strong enemies again."
                             ]
                         },
                         {
@@ -5164,7 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Jeff-san, could you tell me where to find monsters that use rare techniques? I\nwant to learn as many powerful skills as possible."
+                                "\\C[23][Luna]\\C[0] Jeff-san, could you tell me where to find monsters that use rare\ntechniques? I want to learn as many powerful skills as possible."
                             ]
                         },
                         {
@@ -5200,7 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: There's information that monsters using special techniques\noccasionally appear in 'Seren Forest'. Whether you encounter that monster or not\nis up to you, Luna. Want me to tell you where it is?"
+                                "Informant Jeff: There's information that monsters using special\ntechniques occasionally appear in 'Seren Forest'. Whether you\nencounter that monster or not is up to you, Luna. Want me to tell you\nwhere it is?"
                             ]
                         },
                         {
@@ -5251,7 +5251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Monsters in 'Seren Forest' that use special techniques, got it. Please tell me\nthe location of Seren Hill."
+                                "\\C[23][Luna]\\C[0] Monsters in 'Seren Forest' that use special techniques, got it.\nPlease tell me the location of Seren Hill."
                             ]
                         },
                         {
@@ -5269,7 +5269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: Alright. Luna, I've taken a liking to you. The information is\nfree of charge."
+                                "Informant Jeff: Alright. Luna, I've taken a liking to you. The\ninformation is free of charge."
                             ]
                         },
                         {
@@ -5486,7 +5486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: Seren Forest is at this location. Be careful out there."
+                                "Informant Jeff: Seren Forest is at this location. Be careful out\nthere."
                             ]
                         },
                         {
@@ -5583,7 +5583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Next, we're heading to the 'Rare Shop'. We're going to get a \"Communicator\"."
+                                "\\C[24][Cain]\\C[0] Next, we're heading to the 'Rare Shop'. We're going to get a\n\"Communicator\"."
                             ]
                         },
                         {
@@ -5620,7 +5620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] This is the 'Rare Shop'. They have unusual items. It's also famous as a niche\nstore."
+                                "\\C[24][Cain]\\C[0] This is the 'Rare Shop'. They have unusual items. It's also famous as\na niche store."
                             ]
                         },
                         {
@@ -5773,7 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jeff the Informant: \"I'll dig up some more useful information for you. Keep up\nthe good work.\""
+                                "Jeff the Informant: \"I'll dig up some more useful information for you.\nKeep up the good work.\""
                             ]
                         },
                         {
@@ -5867,7 +5867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: You were asking where the ingredients for Noah's leg medicine\nare located, right?"
+                                "Informant Jeff: You were asking where the ingredients for Noah's leg\nmedicine are located, right?"
                             ]
                         },
                         {
@@ -5885,7 +5885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Don't worry. I've found the ingredients for the medicine that slows down the\nnecrosis of the leg."
+                                "\\C[24][Cain]\\C[0] Don't worry. I've found the ingredients for the medicine that slows\ndown the necrosis of the leg."
                             ]
                         },
                         {
@@ -6403,7 +6403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Information Dealer Jeff: You gave away the Gra herbs to people in need? Well...\nthat's so like you, Luna. Hmm, I can't think of any herb that could replace it.\nFor now, I'll gather various pieces of information for you."
+                                "Information Dealer Jeff: You gave away the Gra herbs to people in\nneed? Well... that's so like you, Luna. Hmm, I can't think of any herb\nthat could replace it. For now, I'll gather various pieces of\ninformation for you."
                             ]
                         },
                         {
@@ -6479,7 +6479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Information Broker Jeff: Luna, I've heard the news. You're heading to Norvana,\nhuh? I had a feeling you might someday."
+                                "Information Broker Jeff: Luna, I've heard the news. You're heading to\nNorvana, huh? I had a feeling you might someday."
                             ]
                         },
                         {
@@ -6497,7 +6497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Information Broker Jeff: Norvana is a resistance fighting on the front lines\nagainst the imperial capital, but they're struggling against the direct\ndescendant and sorceress Lucia. If you go there, Luna, you'll surely be\nwelcomed."
+                                "Information Broker Jeff: Norvana is a resistance fighting on the front\nlines against the imperial capital, but they're struggling against the\ndirect descendant and sorceress Lucia. If you go there, Luna, you'll\nsurely be welcomed."
                             ]
                         },
                         {
@@ -6515,7 +6515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Information Broker Jeff: To get to Norvana, you must go through \"Sefi Forest.\"\nIt's going to be a long journey. The closer you get to the front lines, the\ntougher the enemies will become. There are sorcerers from Valentina there. Be\ncareful."
+                                "Information Broker Jeff: To get to Norvana, you must go through \"Sefi\nForest.\" It's going to be a long journey. The closer you get to the\nfront lines, the tougher the enemies will become. There are sorcerers\nfrom Valentina there. Be careful."
                             ]
                         },
                         {
@@ -6872,7 +6872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informant Jeff: \"Luna, don't forget about prostituting yourself. Shena Village\nis in poverty due to the kingdom's punishment. If Luna and Becky turn to\nprostitution, you could make a fortune in no time. Hehehe.\""
+                                "Informant Jeff: \"Luna, don't forget about prostituting yourself. Shena\nVillage is in poverty due to the kingdom's punishment. If Luna and\nBecky turn to prostitution, you could make a fortune in no time.\nHehehe.\""
                             ]
                         },
                         {

@@ -6047,7 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] It looks like a suspicious stone. Maybe we shouldn't take it home, huh?"
+                                "\\C[24][Cain]\\C[0] It looks like a suspicious stone. Maybe we shouldn't take it home,\nhuh?"
                             ]
                         },
                         {
@@ -6134,7 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Right. Let's show it to Rade. She might know something about it. Since we've\nfound it, let's take it home. Luna, that's okay, right?"
+                                "\\C[24][Becky]\\C[0] Right. Let's show it to Rade. She might know something about it.\nSince we've found it, let's take it home. Luna, that's okay, right?"
                             ]
                         },
                         {
@@ -6203,7 +6203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] We're taking it home? Rade probably won't be pleased unless it's sweets."
+                                "\\C[24][Cain]\\C[0] We're taking it home? Rade probably won't be pleased unless it's\nsweets."
                             ]
                         },
                         {
@@ -6239,7 +6239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] It truly harbors incredible magical power... Indeed, Lady Rade might know\nsomething about it..."
+                                "\\C[23][Luna]\\C[0] It truly harbors incredible magical power... Indeed, Lady Rade might\nknow something about it..."
                             ]
                         },
                         {

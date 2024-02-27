@@ -16506,7 +16506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]Rinny\\C[0] I've heard rumors that you're now with the Jupiterino Resistance. You\nwere once a court sorceress boasting the pride of the imperial capital,\nJupiterino. I don't know what brought you to this."
+                                "\\C[5]Rinny\\C[0] I've heard rumors that you're now with the Jupiterino Resistance. You\nwere once a court sorceress boasting the pride of the imperial\ncapital, Jupiterino. I don't know what brought you to this."
                             ]
                         },
                         {
@@ -16557,7 +16557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] It's been a while. I heard you became a member of the Knights of Messiah. The\nlast time we met was years ago when you were the defense general of the Balfala\nEmpire."
+                                "\\C[23][Luna]\\C[0] It's been a while. I heard you became a member of the Knights of\nMessiah. The last time we met was years ago when you were the defense\ngeneral of the Balfala Empire."
                             ]
                         },
                         {
@@ -16608,7 +16608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]Rinny\\C[0] I'm not usually a member of the Knights of Messiah. I'm only lending a\nhand to the Moduna army because Ceres begged me to, crying."
+                                "\\C[5]Rinny\\C[0] I'm not usually a member of the Knights of Messiah. I'm only lending\na hand to the Moduna army because Ceres begged me to, crying."
                             ]
                         },
                         {
@@ -17069,7 +17069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]Rinny\\C[0] It seems Regnus Grahardt helped those who were lost here. According to\nthe stories, he even stopped the attacking lava."
+                                "\\C[5]Rinny\\C[0] It seems Regnus Grahardt helped those who were lost here. According\nto the stories, he even stopped the attacking lava."
                             ]
                         },
                         {
@@ -17327,7 +17327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Hey! You're a sorcerous swordsman of the Knights of Messiah now, aren't you?\nYou should also tell Lord Ceres to help the Resistance."
+                                "\\C[24][Becky]\\C[0] Hey! You're a sorcerous swordsman of the Knights of Messiah now,\naren't you? You should also tell Lord Ceres to help the Resistance."
                             ]
                         },
                         {
@@ -17498,7 +17498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]Rinny\\C[0] Well, if you insist, earn some money. If you bring a decent amount of war\nfunds, maybe the king will change his mind."
+                                "\\C[5]Rinny\\C[0] Well, if you insist, earn some money. If you bring a decent amount of\nwar funds, maybe the king will change his mind."
                             ]
                         },
                         {
@@ -17771,7 +17771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]Rinny\\C[0] If you plan to make an enemy of Valentina, you have no chance of winning."
+                                "\\C[5]Rinny\\C[0] If you plan to make an enemy of Valentina, you have no chance of\nwinning."
                             ]
                         },
                         {
@@ -17909,7 +17909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]Rinny\\C[0] Even with me or the Knights of Messiah on your side, you probably have no\nchance of winning."
+                                "\\C[5]Rinny\\C[0] Even with me or the Knights of Messiah on your side, you probably\nhave no chance of winning."
                             ]
                         },
                         {
@@ -18362,7 +18362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]Rinny\\C[0] It might sound like I'm kicking you while you're down, but even if you\nfind Regnus Grahardt, it's futile."
+                                "\\C[5]Rinny\\C[0] It might sound like I'm kicking you while you're down, but even if\nyou find Regnus Grahardt, it's futile."
                             ]
                         },
                         {
@@ -18474,7 +18474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]Rinny\\C[0] Even Regnus Grahardt can't win against Valentina. There's no proof, but\nthat's how it is."
+                                "\\C[5]Rinny\\C[0] Even Regnus Grahardt can't win against Valentina. There's no proof,\nbut that's how it is."
                             ]
                         },
                         {
@@ -18806,7 +18806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] So that's the Sorcery General Rinny. First time I've seen her. She looks like\nbad news. But even someone like her says we can't beat Valentina, huh."
+                                "\\C[24][Cain]\\C[0] So that's the Sorcery General Rinny. First time I've seen her. She\nlooks like bad news. But even someone like her says we can't beat\nValentina, huh."
                             ]
                         },
                         {
@@ -18857,7 +18857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Sigh... I'm feeling so drained... And to think Regnus Grahardt was our only\nhope."
+                                "\\C[24][Becky]\\C[0] Sigh... I'm feeling so drained... And to think Regnus Grahardt was\nour only hope."
                             ]
                         },
                         {
@@ -18875,7 +18875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] For now, let's head back to Shayna Village. I'm starting to feel like having a\ndrink at the tavern."
+                                "\\C[24][Cain]\\C[0] For now, let's head back to Shayna Village. I'm starting to feel like\nhaving a drink at the tavern."
                             ]
                         },
                         {

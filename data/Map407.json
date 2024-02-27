@@ -4685,7 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I was the one who taught you \"not to hold grudges against people,\" yet..."
+                                "\\C[23][Luna]\\C[0] I was the one who taught you \"not to hold grudges against people,\"\nyet..."
                             ]
                         },
                         {
@@ -4703,7 +4703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Back then, I was blinded by hatred for Hilda, and as a result, I fell into\ntheir trap."
+                                "\\C[23][Luna]\\C[0] Back then, I was blinded by hatred for Hilda, and as a result, I fell\ninto their trap."
                             ]
                         },
                         {
@@ -4721,7 +4721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Heh heh, that Hilda guy, I heard he's got a face like a ghost from the wound\nLuna gave him. It's more humiliating than death. Serves him right."
+                                "\\C[24][Cain]\\C[0] Heh heh, that Hilda guy, I heard he's got a face like a ghost from\nthe wound Luna gave him. It's more humiliating than death. Serves him\nright."
                             ]
                         },
                         {
@@ -4964,7 +4964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] This battle made it clear. I simply can't win against Lucia, Sylvia, or Zena.\nFor a while..."
+                                "\\C[23][Luna]\\C[0] This battle made it clear. I simply can't win against Lucia, Sylvia,\nor Zena. For a while..."
                             ]
                         },
                         {
@@ -5204,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] It's strange. That flower doesn't wilt at all. In fact, it's thriving."
+                                "\\C[24][Becky]\\C[0] It's strange. That flower doesn't wilt at all. In fact, it's\nthriving."
                             ]
                         },
                         {
@@ -5222,7 +5222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] A flower that doesn't wilt... There must be a meaning behind this flower being\nplaced here."
+                                "\\C[23][Luna]\\C[0] A flower that doesn't wilt... There must be a meaning behind this\nflower being placed here."
                             ]
                         },
                         {
@@ -5316,7 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I see... The path I should take from now on... is what this flower's language\nsignifies."
+                                "\\C[23][Luna]\\C[0] I see... The path I should take from now on... is what this flower's\nlanguage signifies."
                             ]
                         },
                         {
@@ -5438,7 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] This flower is 'Rose Not Wither.' Its language means an unwilting flower... a\nflower that doesn't give up..."
+                                "\\C[23][Luna]\\C[0] This flower is 'Rose Not Wither.' Its language means an unwilting\nflower... a flower that doesn't give up..."
                             ]
                         },
                         {
@@ -5508,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Do not wither! Do not falter! Do not give up!\"... that's what they're saying."
+                                "\\C[23][Luna]\\C[0] \"Do not wither! Do not falter! Do not give up!\"... that's what\nthey're saying."
                             ]
                         },
                         {
@@ -5747,7 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I... will set out on a journey to find Regnus Grahardt once more. Becky..."
+                                "\\C[23][Luna]\\C[0] I... will set out on a journey to find Regnus Grahardt once more.\nBecky..."
                             ]
                         },
                         {
@@ -6147,7 +6147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Hey! You guys completely forgot about repaying the debt to the village!"
+                                "\\C[24][Cain]\\C[0] Hey! You guys completely forgot about repaying the debt to the\nvillage!"
                             ]
                         },
                         {
@@ -6432,7 +6432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] So Noah, take care of my lower half~. My legs are still in bad shape~."
+                                "\\C[29][Noah]\\C[0] So Noah, take care of my lower half~. My legs are still in bad\nshape~."
                             ]
                         },
                         {

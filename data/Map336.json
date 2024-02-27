@@ -14665,7 +14665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"I'm not here to defeat who you were then. I'm here to defeat who you are now.\""
+                                "\\C[23][Luna]\\C[0] \"I'm not here to defeat who you were then. I'm here to defeat who you\nare now.\""
                             ]
                         },
                         {
@@ -15203,7 +15203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".The party's level has increased by '3'..All health has been fully restored"
+                                ".The party's level has increased by '3'..All health has been fully\nrestored"
                             ]
                         },
                         {
@@ -15393,7 +15393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"(This is quite advanced magic. Even I am seeing it for the first time...)\""
+                                "\\C[17][Lucia]\\C[0] \"(This is quite advanced magic. Even I am seeing it for the first\ntime...)\""
                             ]
                         },
                         {
@@ -15920,7 +15920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"I know you're not at full strength yet... Show me the power of your lineage.\""
+                                "\\C[23][Luna]\\C[0] \"I know you're not at full strength yet... Show me the power of your\nlineage.\""
                             ]
                         },
                         {
@@ -16021,7 +16021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"I'll put you to sleep with the power of my lineage for the last time.\""
+                                "\\C[17][Lucia]\\C[0] \"I'll put you to sleep with the power of my lineage for the last\ntime.\""
                             ]
                         },
                         {
@@ -16100,7 +16100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"I know you're not at full strength yet... Show me the power of your lineage.\""
+                                "\\C[23][Luna]\\C[0] \"I know you're not at full strength yet... Show me the power of your\nlineage.\""
                             ]
                         },
                         {
@@ -16252,7 +16252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"Well, fine. I'll put you to sleep with the power of my direct lineage for the\nlast time.\""
+                                "\\C[17][Lucia]\\C[0] \"Well, fine. I'll put you to sleep with the power of my direct\nlineage for the last time.\""
                             ]
                         },
                         {
@@ -16707,7 +16707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"While I was on an expedition to another country, Lady Reysia was killed. You\nkilled your own mother, Lady Reysia, to obtain that direct-line power.\""
+                                "\\C[23][Luna]\\C[0] \"While I was on an expedition to another country, Lady Reysia was\nkilled. You killed your own mother, Lady Reysia, to obtain that\ndirect-line power.\""
                             ]
                         },
                         {
@@ -16758,7 +16758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"That's right. She seemed like she would live a long time, so I killed her\nwhile she was sleeping. Hehe.\""
+                                "\\C[17][Lucia]\\C[0] \"That's right. She seemed like she would live a long time, so I\nkilled her while she was sleeping. Hehe.\""
                             ]
                         },
                         {
@@ -16860,7 +16860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"Who cares about such a person, as long as I could inherit the power.\""
+                                "\\C[17][Lucia]\\C[0] \"Who cares about such a person, as long as I could inherit the\npower.\""
                             ]
                         },
                         {
@@ -16952,7 +16952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"I probably won't win. That's why I want you to escape from this castle.\""
+                                "\\C[23][Luna]\\C[0] \"I probably won't win. That's why I want you to escape from this\ncastle.\""
                             ]
                         },
                         {
@@ -17106,7 +17106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"I intended to do this from the start. I thought it would come to this.\""
+                                "\\C[23][Luna]\\C[0] \"I intended to do this from the start. I thought it would come to\nthis.\""
                             ]
                         },
                         {
@@ -17193,7 +17193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] \"When it's time to die, we said we'd always be together, didn't we...? Luna...\""
+                                "\\C[24][Becky]\\C[0] \"When it's time to die, we said we'd always be together, didn't\nwe...? Luna...\""
                             ]
                         },
                         {
@@ -17658,7 +17658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"Only one needs to die? Well, of course. It seems you've run out of options?\""
+                                "\\C[17][Lucia]\\C[0] \"Only one needs to die? Well, of course. It seems you've run out of\noptions?\""
                             ]
                         },
                         {
@@ -17709,7 +17709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] \"It's fine by me, I have no intention of chasing after them. Once you're dead,\neverything else will fall into place.\""
+                                "\\C[17][Lucia]\\C[0] \"It's fine by me, I have no intention of chasing after them. Once\nyou're dead, everything else will fall into place.\""
                             ]
                         },
                         {
@@ -17979,7 +17979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] \"Do you really think I came here without any chance of winning, driven only by\nemotion?\""
+                                "\\C[23][Luna]\\C[0] \"Do you really think I came here without any chance of winning,\ndriven only by emotion?\""
                             ]
                         },
                         {
@@ -18030,7 +18030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Direct descendants of sorcerers are neither invincible nor immortal. You, who\nkilled my mother, should know that best, shouldn't you?"
+                                "\\C[23][Luna]\\C[0] Direct descendants of sorcerers are neither invincible nor immortal.\nYou, who killed my mother, should know that best, shouldn't you?"
                             ]
                         },
                         {
@@ -18150,7 +18150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Indeed, you are a sorcerer of the direct lineage, extraordinary beyond measure."
+                                "\\C[23][Luna]\\C[0] Indeed, you are a sorcerer of the direct lineage, extraordinary\nbeyond measure."
                             ]
                         },
                         {
@@ -18201,7 +18201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] But do you think I, who have been watching from afar, haven't done anything?"
+                                "\\C[23][Luna]\\C[0] But do you think I, who have been watching from afar, haven't done\nanything?"
                             ]
                         },
                         {
@@ -18270,7 +18270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] It's true that direct descendants of sorcerers possess unimaginable magical\npower."
+                                "\\C[23][Luna]\\C[0] It's true that direct descendants of sorcerers possess unimaginable\nmagical power."
                             ]
                         },
                         {
@@ -18321,7 +18321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] However, due to your overconfidence and arrogance, you will lose to me."
+                                "\\C[23][Luna]\\C[0] However, due to your overconfidence and arrogance, you will lose to\nme."
                             ]
                         },
                         {
@@ -18567,7 +18567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] The Blue magic that places limits on one's own sorcery... \"Chain Binds Magic\""
+                                "\\C[23][Luna]\\C[0] The Blue magic that places limits on one's own sorcery... \"Chain\nBinds Magic\""
                             ]
                         },
                         {
@@ -18639,7 +18639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] The first reason is that you allied with the magical superpower of Valentina\nand betrayed the people of this country..."
+                                "\\C[23][Luna]\\C[0] The first reason is that you allied with the magical superpower of\nValentina and betrayed the people of this country..."
                             ]
                         },
                         {
@@ -18866,7 +18866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] It was Luna who let our comrades return, was it because you didn't want your\ntrue feelings to be heard?"
+                                "\\C[17][Lucia]\\C[0] It was Luna who let our comrades return, was it because you didn't\nwant your true feelings to be heard?"
                             ]
                         },
                         {
@@ -18884,7 +18884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Those people are a nuisance. With a false self, I lack concentration and can't\nunleash my true power."
+                                "\\C[23][Luna]\\C[0] Those people are a nuisance. With a false self, I lack concentration\nand can't unleash my true power."
                             ]
                         },
                         {
@@ -19038,7 +19038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Hehe... That's so like you. You've been training with self- imposed handicaps."
+                                "\\C[17][Lucia]\\C[0] Hehe... That's so like you. You've been training with self- imposed\nhandicaps."
                             ]
                         },
                         {
@@ -19176,7 +19176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] She may not have the innate talents that I or my sister-in-law possess, but she\nis a hard worker enough to make up for it. A futile effort though. Hehe..."
+                                "\\C[17][Lucia]\\C[0] She may not have the innate talents that I or my sister-in-law\npossess, but she is a hard worker enough to make up for it. A futile\neffort though. Hehe..."
                             ]
                         },
                         {
@@ -19244,7 +19244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] At first, I joined the resistance to enhance my own abilities. But now it's\ndifferent. It's not just for myself anymore."
+                                "\\C[23][Luna]\\C[0] At first, I joined the resistance to enhance my own abilities. But\nnow it's different. It's not just for myself anymore."
                             ]
                         },
                         {
@@ -20796,7 +20796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Uaaaaaaaah---!! (Mao, Mei, Becky, everyone, Lord Ceres, Rinny, Luca, Regnus\nGrahardt... This is the final battle! Lend me your strength...!)"
+                                "\\C[23][Luna]\\C[0] Uaaaaaaaah---!! (Mao, Mei, Becky, everyone, Lord Ceres, Rinny, Luca,\nRegnus Grahardt... This is the final battle! Lend me your\nstrength...!)"
                             ]
                         },
                         {

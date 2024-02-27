@@ -11581,7 +11581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyle: As you wished, we lured Luna here. And then you... you gave her death.\nImpressive indeed."
+                                "Kyle: As you wished, we lured Luna here. And then you... you gave her\ndeath. Impressive indeed."
                             ]
                         },
                         {
@@ -11599,7 +11599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]Sylvia\\C[0] Hehe... Luna's power was unexpected, but she couldn't beat Lord Zena's\nimmortal body."
+                                "\\C[2]Sylvia\\C[0] Hehe... Luna's power was unexpected, but she couldn't beat Lord\nZena's immortal body."
                             ]
                         },
                         {
@@ -12033,7 +12033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyle: Lady Lucia, Lady Sylvia... We, the resistance of Norvanna, will only\npretend to oppose you."
+                                "Kyle: Lady Lucia, Lady Sylvia... We, the resistance of Norvanna, will\nonly pretend to oppose you."
                             ]
                         },
                         {

@@ -6808,7 +6808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Mother, I will definitely become a direct-line mage... just like you..."
+                                "\\C[17][Lucia]\\C[0] Mother, I will definitely become a direct-line mage... just like\nyou..."
                             ]
                         },
                         {
@@ -7115,7 +7115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Hehe... It's the same as always. Mother won't pass on the direct-line power to\nme."
+                                "\\C[17][Lucia]\\C[0] Hehe... It's the same as always. Mother won't pass on the direct-line\npower to me."
                             ]
                         },
                         {
@@ -7303,7 +7303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] The lower world wasn't peaceful, but there were countries like the Kingdom of\nLyubel and the Free Country of Moduna that shared our values."
+                                "\\C[17][Lucia]\\C[0] The lower world wasn't peaceful, but there were countries like the\nKingdom of Lyubel and the Free Country of Moduna that shared our\nvalues."
                             ]
                         },
                         {
@@ -7321,7 +7321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I don't know about the eternally neutral Moduna, but Lyubel was a country that\nhad renounced war. Prince Reenu and Lady Lucia would make a perfect couple~."
+                                "\\C[23][Luna]\\C[0] I don't know about the eternally neutral Moduna, but Lyubel was a\ncountry that had renounced war. Prince Reenu and Lady Lucia would make\na perfect couple~."
                             ]
                         },
                         {
@@ -8004,7 +8004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I've been so happy since Lady Lucia picked me up. You've treated me just like a\nreal sister, so I just... I'm sorry for saying something weird."
+                                "\\C[23][Luna]\\C[0] I've been so happy since Lady Lucia picked me up. You've treated me\njust like a real sister, so I just... I'm sorry for saying something\nweird."
                             ]
                         },
                         {
@@ -8089,7 +8089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Luna, call me 'big sister'. I wasn't wrong in choosing you as a court magician."
+                                "\\C[17][Lucia]\\C[0] Luna, call me 'big sister'. I wasn't wrong in choosing you as a court\nmagician."
                             ]
                         },
                         {

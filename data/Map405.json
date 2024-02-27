@@ -12857,7 +12857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lilim: No way... The resistance fighters of Norvanna are heroes. They're all\nincredibly strong. They can't possibly be dead."
+                                "Lilim: No way... The resistance fighters of Norvanna are heroes.\nThey're all incredibly strong. They can't possibly be dead."
                             ]
                         },
                         {
@@ -12875,7 +12875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20][Pole]\\C[0] That's right...! The resistance of Norvanna are heroes. It's a lie that they're\ndead!"
+                                "\\C[20][Pole]\\C[0] That's right...! The resistance of Norvanna are heroes. It's a lie\nthat they're dead!"
                             ]
                         },
                         {
@@ -14132,7 +14132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[5]Rinny\\C[0] Don't worry. This town and Jupiterino will be protected by the Knights of\nMessiah, as the commander of Moduna has said."
+                                "\\C[5]Rinny\\C[0] Don't worry. This town and Jupiterino will be protected by the\nKnights of Messiah, as the commander of Moduna has said."
                             ]
                         },
                         {
@@ -14574,7 +14574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The contents of the letter left Becky and the others unable to hide their\nsurprise."
+                                "The contents of the letter left Becky and the others unable to hide\ntheir surprise."
                             ]
                         },
                         {

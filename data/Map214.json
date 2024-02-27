@@ -3674,7 +3674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: The leading sorceress of Valentina, aren't you? You're so beautiful.\n(fawning...) By the way, umm... well..."
+                                "Ceres: The leading sorceress of Valentina, aren't you? You're so\nbeautiful. (fawning...) By the way, umm... well..."
                             ]
                         },
                         {
@@ -3764,7 +3764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Hilda] To think a small country like Moorduna would take pleasure in meddling\nwith internal affairs. Hehehe."
+                                "[Hilda] To think a small country like Moorduna would take pleasure in\nmeddling with internal affairs. Hehehe."
                             ]
                         },
                         {
@@ -3845,7 +3845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: By the way, where is Leon-san? And could you possibly let me meet with\nPrincess Lucia?"
+                                "Ceres: By the way, where is Leon-san? And could you possibly let me\nmeet with Princess Lucia?"
                             ]
                         },
                         {
@@ -3906,7 +3906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ceres: No, no~... Plotting? Nothing like that. I just thought we could have a\ncasual chat first."
+                                "Ceres: No, no~... Plotting? Nothing like that. I just thought we could\nhave a casual chat first."
                             ]
                         },
                         {

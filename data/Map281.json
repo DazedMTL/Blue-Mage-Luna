@@ -2837,7 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Noah, I heard that you can't move your legs anymore. Is it true that if it\nstays like this, your legs will necrotize and you'll die?"
+                                "\\C[23][Luna]\\C[0] Noah, I heard that you can't move your legs anymore. Is it true that\nif it stays like this, your legs will necrotize and you'll die?"
                             ]
                         },
                         {
@@ -2951,7 +2951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20][Pole]\\C[0] Becky, you're late. Leaving your newlywed husband all alone like that."
+                                "\\C[20][Pole]\\C[0] Becky, you're late. Leaving your newlywed husband all alone like\nthat."
                             ]
                         },
                         {
@@ -3059,7 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] There's a reason. For now, I will be joining Luna and Becky and acting together\nwith them."
+                                "\\C[24][Cain]\\C[0] There's a reason. For now, I will be joining Luna and Becky and\nacting together with them."
                             ]
                         },
                         {
@@ -3095,7 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] I can't tell you guys. It's an order from my father. There's a lot going on."
+                                "\\C[24][Cain]\\C[0] I can't tell you guys. It's an order from my father. There's a lot\ngoing on."
                             ]
                         },
                         {
@@ -3131,7 +3131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] We're setting out on a journey. I'll come back to check on things later. Luna,\nBecky, we're heading to the next town, Bell."
+                                "\\C[24][Cain]\\C[0] We're setting out on a journey. I'll come back to check on things\nlater. Luna, Becky, we're heading to the next town, Bell."
                             ]
                         },
                         {

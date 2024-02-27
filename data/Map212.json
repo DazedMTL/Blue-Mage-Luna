@@ -12591,7 +12591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Villager: This is the village chief's village. The village chief has two sons,\nthe eldest Dalieh and the younger Cain."
+                                "Villager: This is the village chief's village. The village chief has\ntwo sons, the eldest Dalieh and the younger Cain."
                             ]
                         },
                         {
@@ -12609,7 +12609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Villager: The eldest son, Dalieh, is a womanizing playboy with numerous lovers.\nThe younger son, Cain, has sticky fingers and has even been a bandit in the\nforest before."
+                                "Villager: The eldest son, Dalieh, is a womanizing playboy with\nnumerous lovers. The younger son, Cain, has sticky fingers and has\neven been a bandit in the forest before."
                             ]
                         },
                         {
@@ -12627,7 +12627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Villager: Both of them strut around acting all high and mighty because they're\nthe village chief's sons."
+                                "Villager: Both of them strut around acting all high and mighty because\nthey're the village chief's sons."
                             ]
                         },
                         {
@@ -12834,7 +12834,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Man: \"Oh...\\I[7] It seems Luna and the others have become females too.\""
+                                "Man: \"Oh...\\I[7] It seems Luna and the others have become females\ntoo.\""
                             ]
                         },
                         {
@@ -13220,7 +13220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Woman: \"The resistance forces from various places challenged the royal army but\nwere all defeated. The resistance of Norvanna is our only hope now.\""
+                                "Woman: \"The resistance forces from various places challenged the royal\narmy but were all defeated. The resistance of Norvanna is our only\nhope now.\""
                             ]
                         },
                         {
@@ -13498,7 +13498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lucia is a direct descendant of a line of black mages. She's a legendary mage.\nEven a genius mage couldn't beat her."
+                                "Lucia is a direct descendant of a line of black mages. She's a\nlegendary mage. Even a genius mage couldn't beat her."
                             ]
                         },
                         {
@@ -13882,7 +13882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This village is under the jurisdiction of the imperial capital Jupiterino. The\nvillage chief is in charge. Defying Princess Lucia is like poking a hornet's\nnest; who knows what will happen now..."
+                                "This village is under the jurisdiction of the imperial capital\nJupiterino. The village chief is in charge. Defying Princess Lucia is\nlike poking a hornet's nest; who knows what will happen now..."
                             ]
                         },
                         {
@@ -14197,7 +14197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fairy: \"When you touch this round orb, day turns to night, and night turns to\nday. You can also do this at an inn.\""
+                                "Fairy: \"When you touch this round orb, day turns to night, and night\nturns to day. You can also do this at an inn.\""
                             ]
                         },
                         {
@@ -14347,7 +14347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\I[89]HINT!: You can change from \"Day → Night\" and \"Night → Day\". You can also do this\nat the inn. Please make sure it's \"Night\" when you're prostituting or working at\nthe brothel."
+                                "\\I[89]HINT!: You can change from \"Day → Night\" and \"Night → Day\". You can\nalso do this at the inn. Please make sure it's \"Night\" when you're\nprostituting or working at the brothel."
                             ]
                         },
                         {

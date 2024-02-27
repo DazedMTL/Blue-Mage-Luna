@@ -10385,7 +10385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Kyle-san... despite your strong opposition to fighting Lucia... if you're with\nus, maybe a miracle will happen."
+                                "\\C[24][Becky]\\C[0] Kyle-san... despite your strong opposition to fighting Lucia... if\nyou're with us, maybe a miracle will happen."
                             ]
                         },
                         {
@@ -10403,7 +10403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyle: Luna, the matter with Mao and Mei... we also bear responsibility."
+                                "Kyle: Luna, the matter with Mao and Mei... we also bear\nresponsibility."
                             ]
                         },
                         {
@@ -10453,7 +10453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyle: It's my fault that you're heading into a fight without any chance of\nwinning, with no strategy left."
+                                "Kyle: It's my fault that you're heading into a fight without any\nchance of winning, with no strategy left."
                             ]
                         },
                         {
@@ -10471,7 +10471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyle: My subordinates couldn't save Mao and Mei from the generals of Valentina."
+                                "Kyle: My subordinates couldn't save Mao and Mei from the generals of\nValentina."
                             ]
                         },
                         {

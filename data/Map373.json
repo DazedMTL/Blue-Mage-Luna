@@ -13373,7 +13373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: Your companions don't seem to know much about you, do they? Luna?"
+                                "Hilda: Your companions don't seem to know much about you, do they?\nLuna?"
                             ]
                         },
                         {
@@ -13409,7 +13409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: This girl is \"Luna Loran,\" a former noble lady. A former noble of\nJupiterino. Now just a filthy member of the resistance. Hehe..."
+                                "Hilda: This girl is \"Luna Loran,\" a former noble lady. A former noble\nof Jupiterino. Now just a filthy member of the resistance. Hehe..."
                             ]
                         },
                         {
@@ -13478,7 +13478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Luna is a sorceress from the prestigious Valentina Magic Academy. Though she\ndropped out partway through."
+                                "\\C[24][Becky]\\C[0] Luna is a sorceress from the prestigious Valentina Magic Academy.\nThough she dropped out partway through."
                             ]
                         },
                         {
@@ -13529,7 +13529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] But I did think it was strange for a sorceress from Valentina to be staying in\nthe village of Sheena all this time..."
+                                "\\C[24][Becky]\\C[0] But I did think it was strange for a sorceress from Valentina to be\nstaying in the village of Sheena all this time..."
                             ]
                         },
                         {
@@ -13547,7 +13547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] What the hell, you've been with Luna all this time and you don't know anything\nabout her past?"
+                                "\\C[24][Cain]\\C[0] What the hell, you've been with Luna all this time and you don't know\nanything about her past?"
                             ]
                         },
                         {
@@ -13634,7 +13634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: Luna's parents defied the king of Jupiterino and were assassinated."
+                                "Hilda: Luna's parents defied the king of Jupiterino and were\nassassinated."
                             ]
                         },
                         {
@@ -13652,7 +13652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: Incurring the king's wrath, Luna was expelled from the Valentina Magic\nSchool."
+                                "Hilda: Incurring the king's wrath, Luna was expelled from the\nValentina Magic School."
                             ]
                         },
                         {
@@ -13793,7 +13793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: You weren't expelled from Valentina Magic Academy because of your\nparents."
+                                "Hilda: You weren't expelled from Valentina Magic Academy because of\nyour parents."
                             ]
                         },
                         {
@@ -13847,7 +13847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: Indeed, back then you were above me in status. And you were more\nbeautiful and splendid than I was. Enviously so. I was quite jealous at the\ntime. Hehe..."
+                                "Hilda: Indeed, back then you were above me in status. And you were\nmore beautiful and splendid than I was. Enviously so. I was quite\njealous at the time. Hehe..."
                             ]
                         },
                         {
@@ -13883,7 +13883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: Now, I have become a sorceress far superior to someone like you. Always\nby Sylvia-sama's side. I even became a general of Valentina."
+                                "Hilda: Now, I have become a sorceress far superior to someone like\nyou. Always by Sylvia-sama's side. I even became a general of\nValentina."
                             ]
                         },
                         {
@@ -13901,7 +13901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: And now, I am more beautiful than you, a filthy member of the resistance.\nIsn't that right, Luna?"
+                                "Hilda: And now, I am more beautiful than you, a filthy member of the\nresistance. Isn't that right, Luna?"
                             ]
                         },
                         {
@@ -14196,7 +14196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: That's right, ahead of here, there's a brat being attacked by a plant\nmonster I created."
+                                "Hilda: That's right, ahead of here, there's a brat being attacked by a\nplant monster I created."
                             ]
                         },
                         {
@@ -14214,7 +14214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: I'm thinking of tearing those brats to pieces and eating them later, but\nwe need to hurry or we won't make it in time, you know?"
+                                "Hilda: I'm thinking of tearing those brats to pieces and eating them\nlater, but we need to hurry or we won't make it in time, you know?"
                             ]
                         },
                         {
@@ -14353,7 +14353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hilda: The gap between us has widened considerably, hasn't it, Luna? Hehe..."
+                                "Hilda: The gap between us has widened considerably, hasn't it, Luna?\nHehe..."
                             ]
                         },
                         {
@@ -14684,7 +14684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] As I am now, I can't beat Hilda, let alone Sylvia. I need to regain more power."
+                                "\\C[23][Luna]\\C[0] As I am now, I can't beat Hilda, let alone Sylvia. I need to regain\nmore power."
                             ]
                         },
                         {
@@ -14702,7 +14702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (Indeed, Hilda has become a sorceress of a much higher rank than during our\nacademy days. The gap has widened too much. Can I really beat Hilda...)"
+                                "\\C[23][Luna]\\C[0] (Indeed, Hilda has become a sorceress of a much higher rank than\nduring our academy days. The gap has widened too much. Can I really\nbeat Hilda...)"
                             ]
                         },
                         {

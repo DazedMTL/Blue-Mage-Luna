@@ -7393,7 +7393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: Lord Regnus Grahardt said he had no business with Lady Rade..."
+                                "Servant: Lord Regnus Grahardt said he had no business with Lady\nRade..."
                             ]
                         },
                         {
@@ -7918,7 +7918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27][Rade]\\C[0] Luca, you've been acting strange ever since you met that girl. Just leave it\nbe. The farce is over."
+                                "\\C[27][Rade]\\C[0] Luca, you've been acting strange ever since you met that girl. Just\nleave it be. The farce is over."
                             ]
                         },
                         {
@@ -8070,7 +8070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: Lady Rade, just as you pursue Regnus Grahardt, Luna pursues a bright\nfuture for Jupiterino."
+                                "Servant: Lady Rade, just as you pursue Regnus Grahardt, Luna pursues a\nbright future for Jupiterino."
                             ]
                         },
                         {
@@ -8139,7 +8139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: No... Lady Rade, if it has come to this, I must speak my mind. Your\ndesires are the trivial ones."
+                                "Servant: No... Lady Rade, if it has come to this, I must speak my\nmind. Your desires are the trivial ones."
                             ]
                         },
                         {
@@ -8157,7 +8157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: The only reason you chase after Regnus Grahardt is to overcome your\nfear."
+                                "Servant: The only reason you chase after Regnus Grahardt is to\novercome your fear."
                             ]
                         },
                         {
@@ -8309,7 +8309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: Years ago, you fought Regnus Grahardt and it ended in a draw, but it\ngreatly wounded your pride and instilled fear in you. You are chasing him to\novercome that fear."
+                                "Servant: Years ago, you fought Regnus Grahardt and it ended in a draw,\nbut it greatly wounded your pride and instilled fear in you. You are\nchasing him to overcome that fear."
                             ]
                         },
                         {
@@ -8327,7 +8327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: I understand everything. You are not fixated on fighting Regnus\nGrahardt. You just want to meet him to conquer your fear."
+                                "Servant: I understand everything. You are not fixated on fighting\nRegnus Grahardt. You just want to meet him to conquer your fear."
                             ]
                         },
                         {
@@ -8396,7 +8396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: Luna is trying to save the suffering people of Jupiterino. That's\ndifferent from your selfish desires."
+                                "Servant: Luna is trying to save the suffering people of Jupiterino.\nThat's different from your selfish desires."
                             ]
                         },
                         {
@@ -8539,7 +8539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: I will deliver this to Luna-san, even if it means quitting as your\nservant."
+                                "Servant: I will deliver this to Luna-san, even if it means quitting as\nyour servant."
                             ]
                         },
                         {
@@ -8557,7 +8557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: Or will you kill me? That would be fine too. With your power, it would\nbe over in an instant."
+                                "Servant: Or will you kill me? That would be fine too. With your power,\nit would be over in an instant."
                             ]
                         },
                         {
@@ -8874,7 +8874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Servant: I will return after I have delivered this to Luna-san. Farewell..."
+                                "Servant: I will return after I have delivered this to Luna-san.\nFarewell..."
                             ]
                         },
                         {

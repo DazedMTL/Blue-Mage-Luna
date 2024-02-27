@@ -4845,7 +4845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mao: Is this the place? It's the graveyard for the resistance fighters from Misa\nVillage. They were all killed resisting the capital. Our fathers and mothers are\nalso sleeping in these graves."
+                                "Mao: Is this the place? It's the graveyard for the resistance fighters\nfrom Misa Village. They were all killed resisting the capital. Our\nfathers and mothers are also sleeping in these graves."
                             ]
                         },
                         {
@@ -4881,7 +4881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mao: My dream is to kill those bastards from the capital. They took everything\nfrom me and Mei."
+                                "Mao: My dream is to kill those bastards from the capital. They took\neverything from me and Mei."
                             ]
                         },
                         {
@@ -5030,7 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (Unable to tolerate the ways of King Jupiterino, my parents spoke out and were\nassassinated. And so, I fled and left the Valentia Magic School...)"
+                                "\\C[23][Luna]\\C[0] (Unable to tolerate the ways of King Jupiterino, my parents spoke out\nand were assassinated. And so, I fled and left the Valentia Magic\nSchool...)"
                             ]
                         },
                         {
@@ -5101,7 +5101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (As a court magician with parents who opposed the king, I was met with cold\nstares from the kingdom... Since then, I've come to hate Jupiterino.)"
+                                "\\C[23][Luna]\\C[0] (As a court magician with parents who opposed the king, I was met\nwith cold stares from the kingdom... Since then, I've come to hate\nJupiterino.)"
                             ]
                         },
                         {
@@ -5119,7 +5119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (After becoming alone, only Lucia's mother, Lady Leicia, understood me. I will\nnever forgive Lucia for killing her. She was my only ally.)"
+                                "\\C[23][Luna]\\C[0] (After becoming alone, only Lucia's mother, Lady Leicia, understood\nme. I will never forgive Lucia for killing her. She was my only ally.)"
                             ]
                         },
                         {
@@ -5137,7 +5137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (Thanks to Lady Leicia's arrangements... I ended up moving to the village of\nShena with Noah.)"
+                                "\\C[23][Luna]\\C[0] (Thanks to Lady Leicia's arrangements... I ended up moving to the\nvillage of Shena with Noah.)"
                             ]
                         },
                         {
@@ -5155,7 +5155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (Lady Leicia supported me financially after my parents were assassinated and I\nwas left penniless... And that person... killed her just to obtain direct\nlineage power...)"
+                                "\\C[23][Luna]\\C[0] (Lady Leicia supported me financially after my parents were\nassassinated and I was left penniless... And that person... killed her\njust to obtain direct lineage power...)"
                             ]
                         },
                         {
@@ -5173,7 +5173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (It's also thanks to Lady Leicia that I met Becky and the others... I owe my\ncurrent life to her... That's why I can't forgive Lucia. Even if she is Lady\nLeicia's daughter.)"
+                                "\\C[23][Luna]\\C[0] (It's also thanks to Lady Leicia that I met Becky and the others... I\nowe my current life to her... That's why I can't forgive Lucia. Even\nif she is Lady Leicia's daughter.)"
                             ]
                         },
                         {
@@ -5244,7 +5244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (To prevent myself from showing my anger and hatred, I put chains of restraint\non myself... Without these chains, I wouldn't have been able to smile in front\nof my friends.)"
+                                "\\C[23][Luna]\\C[0] (To prevent myself from showing my anger and hatred, I put chains of\nrestraint on myself... Without these chains, I wouldn't have been able\nto smile in front of my friends.)"
                             ]
                         },
                         {
@@ -5315,7 +5315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (These chains are meant to suppress my surging emotions and act as a\nprescription... Initially, they served as a sort of forced cast to improve my\nmagical power... but eventually, I couldn't maintain my composure without them.)"
+                                "\\C[23][Luna]\\C[0] (These chains are meant to suppress my surging emotions and act as a\nprescription... Initially, they served as a sort of forced cast to\nimprove my magical power... but eventually, I couldn't maintain my\ncomposure without them.)"
                             ]
                         },
                         {
@@ -5386,7 +5386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (I will never forgive the Jupiterino Kingdom... To hate something... to harbor\nhatred... to be obsessed with something... it's all so exhausting... That's why\nI need these chains now, they've become my prescription.)"
+                                "\\C[23][Luna]\\C[0] (I will never forgive the Jupiterino Kingdom... To hate something...\nto harbor hatred... to be obsessed with something... it's all so\nexhausting... That's why I need these chains now, they've become my\nprescription.)"
                             ]
                         },
                         {
@@ -5404,7 +5404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (However, these chains of restraint are a heavy burden on my body... When these\nchains are released, will I still be able to be myself?)"
+                                "\\C[23][Luna]\\C[0] (However, these chains of restraint are a heavy burden on my body...\nWhen these chains are released, will I still be able to be myself?)"
                             ]
                         },
                         {
@@ -5422,7 +5422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (Mao... I sense the same aura in this child as I had in the past. This child\nhas also learned to deeply hate others, just like me.)"
+                                "\\C[23][Luna]\\C[0] (Mao... I sense the same aura in this child as I had in the past.\nThis child has also learned to deeply hate others, just like me.)"
                             ]
                         },
                         {
@@ -5440,7 +5440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] (But I don't want this child to wear 'chains of restraint' like me. If I could\nwish for anything, it would be that he never learns to hate others.)"
+                                "\\C[23][Luna]\\C[0] (But I don't want this child to wear 'chains of restraint' like me.\nIf I could wish for anything, it would be that he never learns to hate\nothers.)"
                             ]
                         },
                         {
@@ -5622,7 +5622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mao: The future? I'm going to Norvana and joining the resistance there. It's\nfull of elites."
+                                "Mao: The future? I'm going to Norvana and joining the resistance\nthere. It's full of elites."
                             ]
                         },
                         {
@@ -5640,7 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mao: And then, I'll make those bastards from the imperial city suffer the same\nfate as my parents and the villagers."
+                                "Mao: And then, I'll make those bastards from the imperial city suffer\nthe same fate as my parents and the villagers."
                             ]
                         },
                         {
@@ -5730,7 +5730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Because holding onto feelings of resentment and hatred is very sad and tiring.\nEven if you achieve your revenge, you'll surely be unhappy."
+                                "\\C[23][Luna]\\C[0] Because holding onto feelings of resentment and hatred is very sad\nand tiring. Even if you achieve your revenge, you'll surely be\nunhappy."
                             ]
                         },
                         {
@@ -5802,7 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mao: By the way, I did some digging on you, Luna. Weren't you the top student at\nthat world-famous magic school, Valentia Magic School?"
+                                "Mao: By the way, I did some digging on you, Luna. Weren't you the top\nstudent at that world-famous magic school, Valentia Magic School?"
                             ]
                         },
                         {
@@ -5820,7 +5820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mao: All the professors respected you, right? So why did you quit? You were the\ntop student. And why would someone as important as you be in such a remote\nvillage? I can't understand it."
+                                "Mao: All the professors respected you, right? So why did you quit? You\nwere the top student. And why would someone as important as you be in\nsuch a remote village? I can't understand it."
                             ]
                         },
                         {
@@ -5838,7 +5838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mao: I heard that being able to learn blue magic already makes you a genius\nmagician. Being able to use blue magic is proof of being a genius magician. My\nbig bro Coris said so."
+                                "Mao: I heard that being able to learn blue magic already makes you a\ngenius magician. Being able to use blue magic is proof of being a\ngenius magician. My big bro Coris said so."
                             ]
                         },
                         {
@@ -5901,7 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mao: Yeah, yeah, I get it. I can't forgive those from the imperial city, but I\nwon't become a demon of revenge."
+                                "Mao: Yeah, yeah, I get it. I can't forgive those from the imperial\ncity, but I won't become a demon of revenge."
                             ]
                         },
                         {
@@ -6039,7 +6039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Well... I guess it would be to become the world's greatest magician. That's\nbeen my dream since I was little. My father and mother always warmly watched\nover me as I talked about my dreams."
+                                "\\C[23][Luna]\\C[0] Well... I guess it would be to become the world's greatest magician.\nThat's been my dream since I was little. My father and mother always\nwarmly watched over me as I talked about my dreams."
                             ]
                         },
                         {
@@ -6209,7 +6209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] ...!!! (May can see the chains of my restraint. It's because my heart is a\nlittle relieved...)"
+                                "\\C[23][Luna]\\C[0] ...!!! (May can see the chains of my restraint. It's because my heart\nis a little relieved...)"
                             ]
                         },
                         {
@@ -6245,7 +6245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "May: Huh, they're gone now. I saw chains around Luna just a moment ago."
+                                "May: Huh, they're gone now. I saw chains around Luna just a moment\nago."
                             ]
                         },
                         {
@@ -6369,7 +6369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "May: Hey, Luna... I mean, Chain-nee-chan. My dream is to become a craftsman who\nmakes accessories."
+                                "May: Hey, Luna... I mean, Chain-nee-chan. My dream is to become a\ncraftsman who makes accessories."
                             ]
                         },
                         {
@@ -6387,7 +6387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "May: I made earrings for you, Luna. Here, take them. I never give away things I\nmake, but you're special, Chain-nee-chan~."
+                                "May: I made earrings for you, Luna. Here, take them. I never give away\nthings I make, but you're special, Chain-nee-chan~."
                             ]
                         },
                         {
@@ -6617,7 +6617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mao: Luna, I'll keep my promise. I won't become a vengeful spirit. I can't\nforgive them, but still... I mean, aren't you being a bit too self-righteous?"
+                                "Mao: Luna, I'll keep my promise. I won't become a vengeful spirit. I\ncan't forgive them, but still... I mean, aren't you being a bit too\nself-righteous?"
                             ]
                         },
                         {
@@ -6764,7 +6764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "May: Luna, thank you. Everyone's wounds are healing thanks to the Gra herbs."
+                                "May: Luna, thank you. Everyone's wounds are healing thanks to the Gra\nherbs."
                             ]
                         },
                         {

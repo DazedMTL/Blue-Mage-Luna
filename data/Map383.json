@@ -4380,7 +4380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: \"Alright then, I'm gonna take pictures with the camera today too.\""
+                                "Man: \"Alright then, I'm gonna take pictures with the camera today\ntoo.\""
                             ]
                         },
                         {

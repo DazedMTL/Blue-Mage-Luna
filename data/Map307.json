@@ -6735,7 +6735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Mother, I will definitely become a direct-line mage... just like you..."
+                                "\\C[17][Lucia]\\C[0] Mother, I will definitely become a direct-line mage... just like\nyou..."
                             ]
                         },
                         {
@@ -7042,7 +7042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Hehe... It's the same as always. Mother won't pass on the direct-line power to\nme."
+                                "\\C[17][Lucia]\\C[0] Hehe... It's the same as always. Mother won't pass on the direct-line\npower to me."
                             ]
                         },
                         {
@@ -7230,7 +7230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] The lower world wasn't peaceful, but there were countries like the Kingdom of\nLyubel and the Free Country of Moduna that shared our values."
+                                "\\C[17][Lucia]\\C[0] The lower world wasn't peaceful, but there were countries like the\nKingdom of Lyubel and the Free Country of Moduna that shared our\nvalues."
                             ]
                         },
                         {
@@ -7248,7 +7248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I don't know about the perpetually neutral Moduna, but Lyubel was a country\nthat had renounced war. Prince Reenu and Lady Lucia would make a lovely couple~."
+                                "\\C[23][Luna]\\C[0] I don't know about the perpetually neutral Moduna, but Lyubel was a\ncountry that had renounced war. Prince Reenu and Lady Lucia would make\na lovely couple~."
                             ]
                         },
                         {
@@ -7931,7 +7931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I've been so happy since Lady Lucia picked me up. You've treated me just like a\nreal sister, and I just... I'm sorry for saying something weird."
+                                "\\C[23][Luna]\\C[0] I've been so happy since Lady Lucia picked me up. You've treated me\njust like a real sister, and I just... I'm sorry for saying something\nweird."
                             ]
                         },
                         {
@@ -8016,7 +8016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Luna, call me \"big sister.\" I wasn't wrong in choosing you as a court magician."
+                                "\\C[17][Lucia]\\C[0] Luna, call me \"big sister.\" I wasn't wrong in choosing you as a court\nmagician."
                             ]
                         },
                         {
@@ -8629,7 +8629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] It's strange to think that there are billions... no, more magicians in this\nworld. Those with the qualities of a blue magician are even fewer."
+                                "\\C[29][Noah]\\C[0] It's strange to think that there are billions... no, more magicians\nin this world. Those with the qualities of a blue magician are even\nfewer."
                             ]
                         },
                         {
@@ -8709,7 +8709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] When I was little, I decided when I met Luna that it was my role to extend\nLuna's exceptional magical talents."
+                                "\\C[29][Noah]\\C[0] When I was little, I decided when I met Luna that it was my role to\nextend Luna's exceptional magical talents."
                             ]
                         },
                         {
@@ -9557,7 +9557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] You know how the elite magicians from Valentina have come to Jupiterino and are\nrampaging as they please, right?"
+                                "\\C[17][Lucia]\\C[0] You know how the elite magicians from Valentina have come to\nJupiterino and are rampaging as they please, right?"
                             ]
                         },
                         {
@@ -9629,7 +9629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] Mother, who is a direct-line magician, also values the relationship with\nValentina."
+                                "\\C[17][Lucia]\\C[0] Mother, who is a direct-line magician, also values the relationship\nwith Valentina."
                             ]
                         },
                         {
@@ -9784,7 +9784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] If only I could become a direct-line magician... I could protect this country."
+                                "\\C[17][Lucia]\\C[0] If only I could become a direct-line magician... I could protect this\ncountry."
                             ]
                         },
                         {
@@ -9874,7 +9874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] No... It's just that I've never seen you cry before, Lady Lucia. I am proud of\nyou for shedding tears for the people."
+                                "\\C[23][Luna]\\C[0] No... It's just that I've never seen you cry before, Lady Lucia. I am\nproud of you for shedding tears for the people."
                             ]
                         },
                         {
@@ -9941,7 +9941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Lady Luna, Her Majesty the Empress... I believe Lady Reicia must have some plan\nin mind."
+                                "\\C[23][Luna]\\C[0] Lady Luna, Her Majesty the Empress... I believe Lady Reicia must have\nsome plan in mind."
                             ]
                         },
                         {
@@ -9977,7 +9977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17][Lucia]\\C[0] I want to inherit the direct-line power from Mother as soon as possible... and\nthen those guys..."
+                                "\\C[17][Lucia]\\C[0] I want to inherit the direct-line power from Mother as soon as\npossible... and then those guys..."
                             ]
                         },
                         {
@@ -9995,7 +9995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes. Lady Lucia, I'm sure that one day you will become a direct-line magician."
+                                "\\C[23][Luna]\\C[0] Yes. Lady Lucia, I'm sure that one day you will become a direct-line\nmagician."
                             ]
                         },
                         {
@@ -10064,7 +10064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] Lady Lucia, when that time comes, Luna and I will lend you our strength."
+                                "\\C[29][Noah]\\C[0] Lady Lucia, when that time comes, Luna and I will lend you our\nstrength."
                             ]
                         },
                         {
@@ -10382,7 +10382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Well, now Lucia is a legendary magician. People change when they hold immense\npower."
+                                "\\C[24][Cain]\\C[0] Well, now Lucia is a legendary magician. People change when they hold\nimmense power."
                             ]
                         },
                         {
@@ -10425,7 +10425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] Suddenly, I was overcome with sleep and saw Luna and Lucia in a dream. I\nthought maybe Luna was having the same dream."
+                                "\\C[29][Noah]\\C[0] Suddenly, I was overcome with sleep and saw Luna and Lucia in a\ndream. I thought maybe Luna was having the same dream."
                             ]
                         },
                         {
@@ -10545,7 +10545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] The Mirror of Truth is amazing. It's incredible that its magic reached Noah\neven from afar."
+                                "\\C[24][Becky]\\C[0] The Mirror of Truth is amazing. It's incredible that its magic\nreached Noah even from afar."
                             ]
                         },
                         {
@@ -10563,7 +10563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Noah, that's not really what you came here for, is it? You just wanted an\nexcuse to talk to Luna, didn't you?"
+                                "\\C[24][Cain]\\C[0] Noah, that's not really what you came here for, is it? You just\nwanted an excuse to talk to Luna, didn't you?"
                             ]
                         },
                         {

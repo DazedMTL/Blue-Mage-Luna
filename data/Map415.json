@@ -4571,7 +4571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My, my, I heard there was a sweet and sour pork bento stall around here, but\nit's so hot, it's exhausting."
+                                "My, my, I heard there was a sweet and sour pork bento stall around\nhere, but it's so hot, it's exhausting."
                             ]
                         },
                         {
@@ -4741,7 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm an archaeologist who loves sweet and sour pork bento. I've been waiting for\nthe stall to come."
+                                "I'm an archaeologist who loves sweet and sour pork bento. I've been\nwaiting for the stall to come."
                             ]
                         },
                         {
@@ -4810,7 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's the thing...! It has never come. The gourmet guidebook says that the\nstall comes here, though."
+                                "That's the thing...! It has never come. The gourmet guidebook says\nthat the stall comes here, though."
                             ]
                         },
                         {
@@ -4948,7 +4948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] We're part of the resistance from the village of Sheena. The tyranny of the\nimperial capital is terrible."
+                                "\\C[24][Becky]\\C[0] We're part of the resistance from the village of Sheena. The tyranny\nof the imperial capital is terrible."
                             ]
                         },
                         {
@@ -5189,7 +5189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Anyway, the villages of Jupiterino are being oppressed by the imperial capital.\nYou probably wouldn't understand, sweet and sour pork old man. See you."
+                                "\\C[24][Becky]\\C[0] Anyway, the villages of Jupiterino are being oppressed by the\nimperial capital. You probably wouldn't understand, sweet and sour\npork old man. See you."
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Old Man: I'll wait until the food stall arrives. It's my dream to eat a sweet\nand sour pork bento in the desert, after all."
+                                "Old Man: I'll wait until the food stall arrives. It's my dream to eat\na sweet and sour pork bento in the desert, after all."
                             ]
                         },
                         {

@@ -7653,7 +7653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\I[89]HINT!: You can change from \"Day → Night\" and \"Night → Day\". You can also do this\nat the inn. Please make sure it's \"Night\" when you're prostituting or working at\nthe brothel."
+                                "\\I[89]HINT!: You can change from \"Day → Night\" and \"Night → Day\". You can\nalso do this at the inn. Please make sure it's \"Night\" when you're\nprostituting or working at the brothel."
                             ]
                         },
                         {
@@ -8425,7 +8425,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The \"Remote Communicator\" sold at the Rare Shop allows you to talk to people far\naway through the power of magic. If you concentrate, you can even see the other\nperson's appearance."
+                                "The \"Remote Communicator\" sold at the Rare Shop allows you to talk to\npeople far away through the power of magic. If you concentrate, you\ncan even see the other person's appearance."
                             ]
                         },
                         {
@@ -8533,7 +8533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The \"Remote Communicator\" sold at the Rare Shop allows you to talk to people far\naway through the power of magic. If you concentrate, you can even see the other\nperson's appearance."
+                                "The \"Remote Communicator\" sold at the Rare Shop allows you to talk to\npeople far away through the power of magic. If you concentrate, you\ncan even see the other person's appearance."
                             ]
                         },
                         {
@@ -8862,7 +8862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: More terrifying than Lucia might be the generals of the magical kingdom of\nValentina. Valentina's chief sorceress Sylvia and the man- eating Hilda are\ncruel. Lucia enacts terrible policies, but she's harmless if you don't oppose\nher."
+                                "Man: More terrifying than Lucia might be the generals of the magical\nkingdom of Valentina. Valentina's chief sorceress Sylvia and the man-\neating Hilda are cruel. Lucia enacts terrible policies, but she's\nharmless if you don't oppose her."
                             ]
                         },
                         {
@@ -9177,7 +9177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Information brokers can usually get their hands on any kind of information."
+                                "Information brokers can usually get their hands on any kind of\ninformation."
                             ]
                         },
                         {
@@ -9492,7 +9492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Woman: \"This is the town of Bell. The royal capital, in other words, a city\ngoverned by the imperial capital Jupiterino.\""
+                                "Woman: \"This is the town of Bell. The royal capital, in other words, a\ncity governed by the imperial capital Jupiterino.\""
                             ]
                         },
                         {
@@ -9821,7 +9821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: \"Recently, it seems that Princess Lucia has formed a military alliance with\nthe magical kingdom of Valentia. Valentia is famous as a magical kingdom, and\nmany magicians come for baptism. It's a country with many suspicious rumors,\nthough.\""
+                                "Man: \"Recently, it seems that Princess Lucia has formed a military\nalliance with the magical kingdom of Valentia. Valentia is famous as a\nmagical kingdom, and many magicians come for baptism. It's a country\nwith many suspicious rumors, though.\""
                             ]
                         },
                         {
@@ -10235,7 +10235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fairy: \"When you touch this round orb, day turns to night, and night turns to\nday. You can also do this at an inn.\""
+                                "Fairy: \"When you touch this round orb, day turns to night, and night\nturns to day. You can also do this at an inn.\""
                             ]
                         },
                         {
@@ -10544,7 +10544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Woman: \"This city is floating in the sky. Well, the entire continent is,\nactually.\""
+                                "Woman: \"This city is floating in the sky. Well, the entire continent\nis, actually.\""
                             ]
                         },
                         {
@@ -10873,7 +10873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: \"The atmosphere of the town changes at night. You'll surely change too.\nHeheh\""
+                                "Man: \"The atmosphere of the town changes at night. You'll surely\nchange too. Heheh\""
                             ]
                         },
                         {
@@ -11202,7 +11202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: \"I'd prefer if you didn't do something as foolish as opposing the royal\ncapital. It's the citizens who end up suffering the consequences.\""
+                                "Man: \"I'd prefer if you didn't do something as foolish as opposing the\nroyal capital. It's the citizens who end up suffering the\nconsequences.\""
                             ]
                         },
                         {

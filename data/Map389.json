@@ -4637,7 +4637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tavern Master: \"This town doesn't pay exorbitant taxes to the royal capital.\nEven the officials can't stand up to the resistance in this town.\""
+                                "Tavern Master: \"This town doesn't pay exorbitant taxes to the royal\ncapital. Even the officials can't stand up to the resistance in this\ntown.\""
                             ]
                         },
                         {
@@ -5375,7 +5375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]Sylvia\\C[0] Hilda is saying she's getting hungry for human flesh. We're looking for\na tasty-looking child."
+                                "\\C[2]Sylvia\\C[0] Hilda is saying she's getting hungry for human flesh. We're looking\nfor a tasty-looking child."
                             ]
                         },
                         {
@@ -5695,7 +5695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]Sylvia\\C[0] As you are now, you can't reach the level of me, Lucia, or even Hilda.\nThat's what you think, isn't it, Luna?"
+                                "\\C[2]Sylvia\\C[0] As you are now, you can't reach the level of me, Lucia, or even\nHilda. That's what you think, isn't it, Luna?"
                             ]
                         },
                         {
@@ -5803,7 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Sylvia, the resistance fighters of Norvanna are all elites. It's not just me\nalone."
+                                "\\C[23][Luna]\\C[0] Sylvia, the resistance fighters of Norvanna are all elites. It's not\njust me alone."
                             ]
                         },
                         {
@@ -6056,7 +6056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] Are those girls really that dangerous? To me, they just look like a couple of\nsisters."
+                                "\\C[24][Cain]\\C[0] Are those girls really that dangerous? To me, they just look like a\ncouple of sisters."
                             ]
                         },
                         {
@@ -6301,7 +6301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: \"Valentina is a prestigious magic school, the best in the world. It's also\na place where magicians below average receive their baptism.\""
+                                "Man: \"Valentina is a prestigious magic school, the best in the world.\nIt's also a place where magicians below average receive their\nbaptism.\""
                             ]
                         },
                         {
@@ -6319,7 +6319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: \"Receiving the queen's baptism is said to increase one's magical power, but\nI've heard that Sylvia is the one who decides whether or not you'll be accepted\nfor the baptism.\""
+                                "Man: \"Receiving the queen's baptism is said to increase one's magical\npower, but I've heard that Sylvia is the one who decides whether or\nnot you'll be accepted for the baptism.\""
                             ]
                         },
                         {

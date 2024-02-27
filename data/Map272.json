@@ -3825,7 +3825,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hehe... You're dressed so flashy, are you not from an escort service\\I[7]?"
+                                "Hehe... You're dressed so flashy, are you not from an escort\nservice\\I[7]?"
                             ]
                         },
                         {
@@ -3947,7 +3947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's so annoying that all the call girls are such sluts. If only a pure-looking\ngirl like you would come along."
+                                "It's so annoying that all the call girls are such sluts. If only a\npure-looking girl like you would come along."
                             ]
                         },
                         {
@@ -4032,7 +4032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Maid: \"Master brings various girls to this mansion and engages in maniacal play\nwith them. Fufufu.\""
+                                "Maid: \"Master brings various girls to this mansion and engages in\nmaniacal play with them. Fufufu.\""
                             ]
                         },
                         {

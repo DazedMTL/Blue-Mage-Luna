@@ -2871,7 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: I've lent Pole about 10 million G. It's all debt he racked up from\ngambling."
+                                "Man: I've lent Pole about 10 million G. It's all debt he racked up\nfrom gambling."
                             ]
                         },
                         {
@@ -2889,7 +2889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man: Well, if he can't pay it back, maybe I'll take something he cherishes most.\nHehe..."
+                                "Man: Well, if he can't pay it back, maybe I'll take something he\ncherishes most. Hehe..."
                             ]
                         },
                         {
@@ -2916,7 +2916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Beat, is it you guys again? My husband is seriously injured. If you're here to\ncollect the debt, please wait until he's healed."
+                                "\\C[24][Becky]\\C[0] Beat, is it you guys again? My husband is seriously injured. If\nyou're here to collect the debt, please wait until he's healed."
                             ]
                         },
                         {
@@ -2934,7 +2934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Man: Shut up. Your husband is an irresponsible man even when he's not injured.\nYou know what happens if he can't pay the debt, right? Hehe..."
+                                "Man: Shut up. Your husband is an irresponsible man even when he's not\ninjured. You know what happens if he can't pay the debt, right?\nHehe..."
                             ]
                         },
                         {
@@ -2970,7 +2970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Man: If you understand, then that's good. You don't want to be driven out of the\nvillage, do you? Heheheh"
+                                "Man: If you understand, then that's good. You don't want to be driven\nout of the village, do you? Heheheh"
                             ]
                         },
                         {
@@ -3232,7 +3232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We're the guys who lent a large sum of money to Pole. We're keeping watch to\nmake sure he doesn't run away. Seems like he's injured, but we still need to get\nback what he owes us."
+                                "We're the guys who lent a large sum of money to Pole. We're keeping\nwatch to make sure he doesn't run away. Seems like he's injured, but\nwe still need to get back what he owes us."
                             ]
                         },
                         {
@@ -3481,7 +3481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] \"Luna, I won't run away. I'm sure my leg will heal, so please believe in me and\nwait.\""
+                                "\\C[29][Noah]\\C[0] \"Luna, I won't run away. I'm sure my leg will heal, so please believe\nin me and wait.\""
                             ]
                         },
                         {
@@ -3813,7 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20][Pole]\\C[0] Ugh... I can't believe the village chief's relative, a debt collector, has come\nall the way here. I can't work anymore, what should I do? I have nothing left to\ngive."
+                                "\\C[20][Pole]\\C[0] Ugh... I can't believe the village chief's relative, a debt\ncollector, has come all the way here. I can't work anymore, what\nshould I do? I have nothing left to give."
                             ]
                         },
                         {
@@ -3882,7 +3882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[20][Pole]\\C[0] Ugh... If I don't pay back my debts, they're going to kill me... I want to\nwork, but my body just won't move the way I want it to..."
+                                "\\C[20][Pole]\\C[0] Ugh... If I don't pay back my debts, they're going to kill me... I\nwant to work, but my body just won't move the way I want it to..."
                             ]
                         },
                         {

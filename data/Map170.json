@@ -4904,7 +4904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] This place seems to be a hot spring. It's been a while since we've been to one,\nhasn't it?"
+                                "\\C[24][Becky]\\C[0] This place seems to be a hot spring. It's been a while since we've\nbeen to one, hasn't it?"
                             ]
                         },
                         {

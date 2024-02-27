@@ -4936,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] My leg is necrotizing. I don't know how much longer I can live... you know."
+                                "\\C[29][Noah]\\C[0] My leg is necrotizing. I don't know how much longer I can live... you\nknow."
                             ]
                         },
                         {
@@ -5331,7 +5331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] You honed your Blue magic to help Lady Lucia, and now you're trying to use that\nsame Blue magic to defeat her."
+                                "\\C[29][Noah]\\C[0] You honed your Blue magic to help Lady Lucia, and now you're trying\nto use that same Blue magic to defeat her."
                             ]
                         },
                         {
@@ -5465,7 +5465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] I've been thinking about why you went through all the trouble since you were\nlittle to become an Blue mage. You dedicated everything to make Lady Lucia\nhappy..."
+                                "\\C[29][Noah]\\C[0] I've been thinking about why you went through all the trouble since\nyou were little to become an Blue mage. You dedicated everything to\nmake Lady Lucia happy..."
                             ]
                         },
                         {
@@ -5483,7 +5483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] There was no princess more kind-hearted and caring for her people than Lady\nLucia. It wasn't just you; Becky and I also took pride in guarding her."
+                                "\\C[29][Noah]\\C[0] There was no princess more kind-hearted and caring for her people\nthan Lady Lucia. It wasn't just you; Becky and I also took pride in\nguarding her."
                             ]
                         },
                         {
@@ -5603,7 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Lucia killed her own mother and has been tormenting Noah and everyone else\nusing steel soldiers."
+                                "\\C[23][Luna]\\C[0] Lucia killed her own mother and has been tormenting Noah and everyone\nelse using steel soldiers."
                             ]
                         },
                         {
@@ -5654,7 +5654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] She's formed an alliance with the magical kingdom of Valentia and is always\nseen with those cruel Valentian generals."
+                                "\\C[23][Luna]\\C[0] She's formed an alliance with the magical kingdom of Valentia and is\nalways seen with those cruel Valentian generals."
                             ]
                         },
                         {
@@ -5739,7 +5739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] They're searching for villages of rebels. Recently, a village was completely\npoisoned to death, apparently by Sylvia."
+                                "\\C[29][Noah]\\C[0] They're searching for villages of rebels. Recently, a village was\ncompletely poisoned to death, apparently by Sylvia."
                             ]
                         },
                         {
@@ -5862,7 +5862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] If Lady Lucia hadn't awakened as a direct-line mage, none of this would have\nhappened."
+                                "\\C[29][Noah]\\C[0] If Lady Lucia hadn't awakened as a direct-line mage, none of this\nwould have happened."
                             ]
                         },
                         {
@@ -5931,7 +5931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] A direct-line mage is one in billions. They are called the core or mother and\nare worshipped. They are the aspiration and legend of every mage."
+                                "\\C[23][Luna]\\C[0] A direct-line mage is one in billions. They are called the core or\nmother and are worshipped. They are the aspiration and legend of every\nmage."
                             ]
                         },
                         {
@@ -6113,7 +6113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] More importantly, Noah, I'm thinking of looking for a medicine to cure your\nleg. I'll ask the informant Jeff where it might be."
+                                "\\C[23][Luna]\\C[0] More importantly, Noah, I'm thinking of looking for a medicine to\ncure your leg. I'll ask the informant Jeff where it might be."
                             ]
                         },
                         {
@@ -6182,7 +6182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes, a medicine to stop the necrosis. I think there might be a new drug if we\ngo to the imperial capital Jupiterino, but we're part of the resistance so we\ncan't go there. That's why I'm thinking of looking for the ingredients for the\nmedicine."
+                                "\\C[23][Luna]\\C[0] Yes, a medicine to stop the necrosis. I think there might be a new\ndrug if we go to the imperial capital Jupiterino, but we're part of\nthe resistance so we can't go there. That's why I'm thinking of\nlooking for the ingredients for the medicine."
                             ]
                         },
                         {
@@ -6796,7 +6796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] What do you want? Are you still trying to make Luna your mistress? She hates\nsleazy men like you."
+                                "\\C[29][Noah]\\C[0] What do you want? Are you still trying to make Luna your mistress?\nShe hates sleazy men like you."
                             ]
                         },
                         {
@@ -6865,7 +6865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] No. Dalieh, just like Noah said. I don't like people who treat women as toys. I\nwill never become one of your playthings."
+                                "\\C[23][Luna]\\C[0] No. Dalieh, just like Noah said. I don't like people who treat women\nas toys. I will never become one of your playthings."
                             ]
                         },
                         {
@@ -6901,7 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[31][Dalieh]\\C[0] More importantly, Noah, if you stay here with that bad leg, the village chief\nwill scold you, right? You're using the village's money for treatment. Why don't\nyou head back soon?"
+                                "\\C[31][Dalieh]\\C[0] More importantly, Noah, if you stay here with that bad leg, the\nvillage chief will scold you, right? You're using the village's money\nfor treatment. Why don't you head back soon?"
                             ]
                         },
                         {
@@ -7037,7 +7037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[31][Dalieh]\\C[0] Luna, I've come to like you. I have many mistresses, but none as innocent as\nyou. And surprisingly, your breasts and butt look big."
+                                "\\C[31][Dalieh]\\C[0] Luna, I've come to like you. I have many mistresses, but none as\ninnocent as you. And surprisingly, your breasts and butt look big."
                             ]
                         },
                         {
@@ -7055,7 +7055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[31][Dalieh]\\C[0] Luna, I want to make you mine before Noah does. I want to see the frustrated\nlook on Noah's face when I take you from him."
+                                "\\C[31][Dalieh]\\C[0] Luna, I want to make you mine before Noah does. I want to see the\nfrustrated look on Noah's face when I take you from him."
                             ]
                         },
                         {
@@ -7073,7 +7073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[31][Dalieh]\\C[0] Luna, a boring man like Noah doesn't suit you. If you were with me, I'd make\nyou feel good, and you'd melt just like my other mistresses."
+                                "\\C[31][Dalieh]\\C[0] Luna, a boring man like Noah doesn't suit you. If you were with me,\nI'd make you feel good, and you'd melt just like my other mistresses."
                             ]
                         },
                         {
@@ -7253,7 +7253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Although Luna rejected Dalieh's advances, she was strongly ordered by the\nvillage chief to work at the brothel. It was Dalieh who had reported today's\nevents to his father, the village chief."
+                                "Although Luna rejected Dalieh's advances, she was strongly ordered by\nthe village chief to work at the brothel. It was Dalieh who had\nreported today's events to his father, the village chief."
                             ]
                         },
                         {
@@ -7319,7 +7319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[84] ※To work at the brothel, you need to progress the game further. Once the\nconditions are met, you can work there. Let's move the game forward."
+                                "\\I[84] ※To work at the brothel, you need to progress the game further. Once\nthe conditions are met, you can work there. Let's move the game\nforward."
                             ]
                         },
                         {
@@ -7337,7 +7337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[84] ※By working at the brothel, other erotic events will be unlocked. To trigger\nother erotic events, ※you must work at the brothel first."
+                                "\\I[84] ※By working at the brothel, other erotic events will be unlocked. To\ntrigger other erotic events, ※you must work at the brothel first."
                             ]
                         },
                         {

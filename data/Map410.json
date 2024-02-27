@@ -6211,7 +6211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Well... Kyle-san mentioned... that the Levius ruins are full of rogues and\nbandits, so we should be careful. It seems there are many rapists there."
+                                "\\C[24][Becky]\\C[0] Well... Kyle-san mentioned... that the Levius ruins are full of\nrogues and bandits, so we should be careful. It seems there are many\nrapists there."
                             ]
                         },
                         {
@@ -6229,7 +6229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Cain]\\C[0] I've heard about it too. The bandits here rape and impregnate the women they\ndefeat. It's tempting because of all the gold and treasures, though."
+                                "\\C[24][Cain]\\C[0] I've heard about it too. The bandits here rape and impregnate the\nwomen they defeat. It's tempting because of all the gold and\ntreasures, though."
                             ]
                         },
                         {
@@ -6310,7 +6310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[7]HINT: From this point on, there will be battle H-scenes. I will explain about\nthe battle H-scenes now."
+                                "\\I[7]HINT: From this point on, there will be battle H-scenes. I will\nexplain about the battle H-scenes now."
                             ]
                         },
                         {

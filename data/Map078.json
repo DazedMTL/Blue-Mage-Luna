@@ -1569,7 +1569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Noah, I... was ordered by the village chief to be sold off, but I never did\nanything strange with any other man."
+                                "\\C[23][Luna]\\C[0] Noah, I... was ordered by the village chief to be sold off, but I\nnever did anything strange with any other man."
                             ]
                         },
                         {
@@ -1605,7 +1605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] Because of my leg, I caused trouble for the village, so I was prepared for Luna\nto be taken by another man."
+                                "\\C[29][Noah]\\C[0] Because of my leg, I caused trouble for the village, so I was\nprepared for Luna to be taken by another man."
                             ]
                         },
                         {
@@ -1676,7 +1676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] What are you talking about? Noah fought for the village, for everyone."
+                                "\\C[23][Luna]\\C[0] What are you talking about? Noah fought for the village, for\neveryone."
                             ]
                         },
                         {
@@ -1694,7 +1694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] That's why, even though the village chief told me to prostitute myself, I\ndidn't do it once because I love Noah so much."
+                                "\\C[23][Luna]\\C[0] That's why, even though the village chief told me to prostitute\nmyself, I didn't do it once because I love Noah so much."
                             ]
                         },
                         {
@@ -1712,7 +1712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] On the journey, Cain threatened me a lot. But I managed to deceive him and\nthrow him off the scent. Hehe, it seemed like Cain had almost forgotten about\nthe prostitution after a while."
+                                "\\C[23][Luna]\\C[0] On the journey, Cain threatened me a lot. But I managed to deceive\nhim and throw him off the scent. Hehe, it seemed like Cain had almost\nforgotten about the prostitution after a while."
                             ]
                         },
                         {
@@ -1982,7 +1982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] Ah... but my leg is no good, right? Luna, are you sure you're okay with someone\nlike me?"
+                                "\\C[29][Noah]\\C[0] Ah... but my leg is no good, right? Luna, are you sure you're okay\nwith someone like me?"
                             ]
                         },
                         {
@@ -2182,7 +2182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Actually, there's a medicine that the servant, no... that Luca- san is making\nfor me. It's a medicine that works on the necrosis in Noah's leg."
+                                "\\C[23][Luna]\\C[0] Actually, there's a medicine that the servant, no... that Luca- san\nis making for me. It's a medicine that works on the necrosis in Noah's\nleg."
                             ]
                         },
                         {
@@ -2218,7 +2218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] He said it would be ready by the time I returned from the final battle."
+                                "\\C[23][Luna]\\C[0] He said it would be ready by the time I returned from the final\nbattle."
                             ]
                         },
                         {
@@ -2254,7 +2254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Yes. Because I've been so devoted to thinking about you... If I returned alive\nfrom the final battle, he wanted to give me the medicine for necrosis."
+                                "\\C[23][Luna]\\C[0] Yes. Because I've been so devoted to thinking about you... If I\nreturned alive from the final battle, he wanted to give me the\nmedicine for necrosis."
                             ]
                         },
                         {
@@ -2272,7 +2272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I think Noah's leg will definitely heal. I should have asked Luca-san from the\nbeginning. But he told me to keep it a secret from Rade-san at all costs."
+                                "\\C[23][Luna]\\C[0] I think Noah's leg will definitely heal. I should have asked Luca-san\nfrom the beginning. But he told me to keep it a secret from Rade-san\nat all costs."
                             ]
                         },
                         {
@@ -2290,7 +2290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[29][Noah]\\C[0] I see. Luca-san must have taken a liking to you, Luna. To the pure-hearted\nLuna..."
+                                "\\C[29][Noah]\\C[0] I see. Luca-san must have taken a liking to you, Luna. To the pure-\nhearted Luna..."
                             ]
                         },
                         {
@@ -2326,7 +2326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] I haven't decided yet. There are things I want to investigate in the imperial\ncapital. But... I'm tired now, so I might not fight anymore."
+                                "\\C[23][Luna]\\C[0] I haven't decided yet. There are things I want to investigate in the\nimperial capital. But... I'm tired now, so I might not fight anymore."
                             ]
                         },
                         {
@@ -2637,7 +2637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A few days later, Luna received a \"medicine effective against necrosis\" from a\nservant."
+                                "A few days later, Luna received a \"medicine effective against\nnecrosis\" from a servant."
                             ]
                         },
                         {
@@ -2901,7 +2901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Afterward, Luna and the others headed to the cemetery where Mao and Mei lay\nresting."
+                                "Afterward, Luna and the others headed to the cemetery where Mao and\nMei lay resting."
                             ]
                         },
                         {

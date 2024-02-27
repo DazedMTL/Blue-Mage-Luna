@@ -7498,7 +7498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[24][Becky]\\C[0] Luna, you're so energetic~... And it hasn't been long since the battle with\nLucia and the others."
+                                "\\C[24][Becky]\\C[0] Luna, you're so energetic~... And it hasn't been long since the\nbattle with Lucia and the others."
                             ]
                         },
                         {
@@ -7549,7 +7549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[23][Luna]\\C[0] Hehe, that's right. I feel like I've gotten more energetic than before."
+                                "\\C[23][Luna]\\C[0] Hehe, that's right. I feel like I've gotten more energetic than\nbefore."
                             ]
                         },
                         {
